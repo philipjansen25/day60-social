@@ -10,7 +10,11 @@ Last updated: Sun, Nov 1, 2026 (first version, before any results).
 Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the four people closest to the hire (hiring manager, their boss, an internal champion, the recruiter), their verified work emails, and drafts a short note to each in your voice. Tick checks every draft. You send every message. Day60 never logs in to LinkedIn and never sends anything.
 
 - **Goal of every post:** free sprint signups, via **getday60.com/try** (one job free, no account).
-- **Offer:** free sprint, no card. The first 100 free sprints are capped. Never "free forever", "always free" or "lifetime". No prices.
+- **Offer:** free sprint, no card. The first 100 free sprints are capped (confirmed by Philip). Never "free forever", "always free" or "lifetime". No prices.
+- **Spots left:** no spots-left posts until HQ sends a verified count. The live count is hidden right now.
+- **Stat wording:** "About 3 in 100 LinkedIn applications lead to an interview (Huntr, 2025)." Don't use "3.1%" or "598,627": Huntr's own page shows 3.3%, and the 598,627 total can't be verified.
+- **Verified work emails** are live (since Oct 29) and approved for copy.
+- **On hold until Philip says yes:** his 2023 hiring story (722 applicants in 24 hours).
 - **Audience:** anyone looking for work, from a first job to a senior role, in any field. They read on phones and arrive mostly from Instagram, Facebook and LinkedIn.
 
 ## 2. Audience insights (start here, update with data)
@@ -35,7 +39,7 @@ Every post belongs to one pillar. Aim for a mix each week; no pillar more than 4
 1. **The Pile** (awareness). Why the apply button fails, in plain numbers and relatable moments. The 3.1% stat lives here. Goal: reach and shares.
 2. **The Four People** (teach). One person at a time: who they are, what they care about, one line that gets them to read. Goal: saves.
 3. **Tick's Red Pen** (teach + product). Real-sounding messages (labeled illustrative) cut down live: before/after, banned phrases, the "could you paste this into another company's inbox?" test. Goal: saves and comments. This is our signature pillar.
-4. **Receipts** (proof). Philip's own search (IG, FB, TikTok only, never LinkedIn), spots-left counts, user wins shared with written permission. Goal: signups.
+4. **Receipts** (proof). Philip's own search (IG, FB, TikTok only, never LinkedIn), spots-left counts (once HQ verifies them), user wins shared with written permission. Goal: signups.
 5. **Inside the Sprint** (product + personality). Screen recordings of /try, Tick being Tick, Philip building in public. Goal: signups and follows.
 
 ## 4. Signature formats per platform
@@ -45,7 +49,7 @@ Every idea gets reshaped per platform. Never paste one post across channels.
 ### LinkedIn (Philip's personal profile)
 - **Field note:** text-first post, 120–220 words, one idea, short lines. Hook line under 60 characters, so it shows before "...more". Opinion from nine years of building SDR teams, applied to job seekers. One stat card image or none.
 - **PDF carousel (document post):** 5–7 slides, 1080×1350, same brand system as Instagram. Use for The Four People and Tick's Red Pen.
-- Rules: credible and professional, peer to peer. **Never Philip's 39/27 result while he is interviewing.** End on a question that invites a real answer. `getday60.com/try` named in the post; the UTM link goes in the first comment.
+- Rules: credible and professional, peer to peer. **Never Philip's 39/27 result while he is interviewing.** End on a question that invites a real answer. Put the UTM link in the post body until Buffer supports first comments (after the Essentials upgrade), then move it to the first comment.
 
 ### Instagram (@getday60)
 - **Save-this carousel:** 6–8 slides. Slide 1 is a lime or cream cover with a bold hook and a "SAVE THIS" pill. Last slide is the CTA: "Paste a job link. Get your 4 people. Link in bio."
@@ -77,7 +81,7 @@ Second 0–1: hook spoken and on screen. 1–22: one point, one example. 22–30
 | Founder video | 1 | Script delivered with the week | Philip films |
 
 - Week runs Sunday through Saturday. Skip national news days (e.g., Election Day, Nov 3) and be careful on holidays (Veterans Day Nov 11, Thanksgiving Nov 26).
-- **Buffer limit:** the current plan allows **10 scheduled posts at a time** and **3 channels**. A full week (3 LI + 4 IG + 3 FB) is exactly 10, so next week can't be fully queued until this week's posts have gone out. TikTok needs a 4th channel slot (upgrade pending).
+- **Buffer limit:** the current plan allows **10 scheduled posts at a time** and **3 channels**. Philip is upgrading to Essentials and adding TikTok. Until he confirms, posts.md splits each week into two scheduling batches (Sun–Wed, Thu–Sat).
 
 ## 6. Hashtag sets
 
@@ -102,8 +106,8 @@ Hashtags go on every post on every platform. Rotate within a set; put them at th
   - `utm_campaign`: the ISO week of the Monday inside our Sunday–Saturday week. Nov 8–14, 2026 = `2026-w46`; Nov 15–21 = `2026-w47`.
   - `utm_content`: short post slug, e.g. `boss-carousel`, so we can trace single posts.
 - Pre-filled job: `https://getday60.com/try?jobUrl=<URL-encoded job link>&utm_source=...` for posts that demo a specific public job.
-- LinkedIn: say `getday60.com/try` in the post; the full UTM link goes in the first comment.
-- Instagram and TikTok: "link in bio". The bio link carries `utm_source=instagram` / `tiktok`, `utm_medium=social` and the current week's `utm_campaign` (to be confirmed by Philip, who updates the bio each Sunday).
+- LinkedIn: the full UTM link goes in the post body for now; it moves to the first comment once Buffer supports it.
+- Instagram and TikTok: "link in bio". The bio link stays fixed at `utm_campaign=bio` (`https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio`, same for `tiktok`). No weekly bio edits.
 - Facebook: full UTM link in the post body.
 - Week 1 (Nov 2–6) used an older pattern (`utm_campaign=wk1_<slug>`, LinkedIn with no UTM). From week 46 on, everything follows the rule above.
 
@@ -112,7 +116,8 @@ Hashtags go on every post on every platform. Rotate within a set; put them at th
 - Images: `YYYY-MM/wkWW/` where WW is the ISO week number used in `utm_campaign` (week of Nov 8 = `2026-11/wk46/`). Week 1's folder `2026-11/wk1/` stays as-is because Buffer links to it.
 - Filenames: `pNN_<slug>_<n>.png`, 1080×1350 for feed images and carousels, 1080×1920 for Reels/TikTok (MP4).
 - Each week's copy lives in `YYYY-MM/wkWW/posts.md`: platform, day, time (Central), copy, image paths, hashtags, link.
-- Never rename or delete a file that a scheduled post uses.
+- Never rename or delete a file that a scheduled post uses. A fix goes in a new file.
+- `templates/`: HTML source for cards (`stat-card.html`) and `render.js` (`node templates/render.js <html> <png>`, 1080×1350 via Playwright).
 
 ## 9. Visual rules (from the brand kit)
 
@@ -161,4 +166,4 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 | --- | --- | --- | --- | --- | --- |
 | w45 | (awaiting first brief, Thu Nov 5) | | | | |
 
-Hooks to retest: "39 applications. 27 interviews." (IG/FB), "3.1%." (LI), "Every job has 4 people who decide if you get it." (all), "Same job. Two messages." (all).
+Hooks to retest: "39 applications. 27 interviews." (IG/FB), "About 3 in 100." (LI, if Philip approves the swap), "Every job has 4 people who decide if you get it." (all), "Same job. Two messages." (all).
