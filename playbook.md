@@ -14,7 +14,10 @@ Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the 
 - **Spots left:** no spots-left posts until HQ sends a verified count. The live count is hidden right now.
 - **Stat wording:** "About 3 in 100 LinkedIn applications lead to an interview (Huntr, 2025)." Don't use "3.1%" or "598,627": Huntr's own page shows 3.3%, and the 598,627 total can't be verified.
 - **Verified work emails** are live (since Oct 29) and approved for copy.
-- **On hold until Philip says yes:** his 2023 hiring story (722 applicants in 24 hours).
+- **Approved founder facts (use exactly as written, add nothing):**
+  - Career line: "I built SDR teams at ClickUp and Deel, and a partner pipeline program at Google." At Google he built a partner pipeline program, not an SDR team. He has nine years in sales development.
+  - 2023 hiring story (approved for LinkedIn): 722 applicants in 24 hours, and the 9 cold calls and 16 emails were the ones that got answered.
+  - Fall 2026 search: 39 applications, 27 interviews (Aug–Oct 2026). IG, FB and TikTok only, never LinkedIn, framed as his results, not typical ones.
 - **Audience:** anyone looking for work, from a first job to a senior role, in any field. They read on phones and arrive mostly from Instagram, Facebook and LinkedIn.
 
 ## 2. Audience insights (start here, update with data)
