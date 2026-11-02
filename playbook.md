@@ -49,7 +49,7 @@ Every post belongs to one pillar. Aim for a mix each week; no pillar more than 4
 `GET https://getday60.com/api/hiring-list` is public JSON, rebuilt hourly. It returns up to 30 open postings from the last 14 days in four categories (Entry-level, Remote, Customer-facing, Operations), each with company, title, location, remote, postedOn and url.
 - Hand-pick every posting. The categories come from title keywords and some are wrong (e.g. "Associate General Counsel" under Entry-level, "Sales Recruiter" under Customer-facing). Open each link before using it, and check that it's still open and fits the category.
 - Never imply Day60 has a relationship with the company. Name the company and role only, and link to the posting or to `getday60.com/try?jobUrl=<encoded url>` with UTMs.
-- Format idea: "5 jobs posted this week + who to message for each" carousel (IG/FB/LI) or a fast TikTok list. Each slide is one job, then the CTA: "Paste it into Day60 to get the four people."
+- Format idea: "5 jobs posted this week + who to message for each" carousel (IG/FB/LI) or a fast Reel list (IG/FB Reels; TikTok once live). Each slide is one job, then the CTA: "Paste it into Day60 to get the four people."
 - **Roles only, never people.** "Who to message" means job titles, e.g. "the Director of Sales Development, their VP, a peer AE, the recruiter". Never name or picture a real employee, and never show a LinkedIn profile or an email address. Day60 never exposes the people it finds, and naming a hiring manager would put a stranger on the spot.
 - **US first.** Pick US postings by default and label the location on every card. Use a non-US posting only when it's clearly remote for US applicants.
 - List the postings used (company, title, url, category) in that week's posts.md and in the report to HQ, so HQ can tune the categories.
@@ -73,27 +73,28 @@ Every idea gets reshaped per platform. Never paste one post across channels.
 - **Send-this-to-someone post:** warm, plain tip written for the friend or parent of someone looking, ending with "Share this with someone who's looking."
 - Rules: links are clickable, so use the full UTM link in the post. Warmer and more personal than LinkedIn.
 
-### TikTok (@getday60; Philip posts by hand until Buffer connects it)
+### TikTok (@getday60): ON HOLD
+**Status (Nov 2):** on hold. TikTok needs Day60 LLC's EIN letter before @getday60 can become a business account, and Buffer connects only business accounts. That's expected in 1–2 weeks, after the LLC is filed. Philip has reserved @getday60 as a personal account. Until HQ says TikTok is connected: no TikTok-only posts, no hand posting by Philip. The short faceless videos still get made, delivered as **Instagram Reels and Facebook Reels** through Buffer (1080×1920 MP4, captions burned in, no TikTok watermark or TikTok-only sounds). The format notes below apply once it's live.
 - **"Tick checks your message":** green-screen-style text video or screen recording. A cringe opener ("I hope this finds you well") gets flagged line by line. Hook on screen in the first second.
 - **"Paste a job link, watch":** 15–25 s screen recording of /try finding the four people (names and emails blurred). Payoff by second 3.
 - **Pattern-interrupt one-liners:** "POV: you've applied to 200 jobs and your inbox is a ghost town." Trend sounds when they fit; original audio otherwise.
 - Rules: entertainment first, lesson second, CTA last ("link in bio"). 3–5 hashtags.
 
 ### Weekly founder video (Philip films himself, 30 s)
-Second 0–1: hook spoken and on screen. 1–22: one point, one example. 22–30: CTA with on-screen text. Phone upright, window light, one take. Works for IG Reels, TikTok and FB. LinkedIn only if it contains no personal results.
+Second 0–1: hook spoken and on screen. 1–22: one point, one example. 22–30: CTA with on-screen text. Phone upright, window light, one take. Works for IG Reels and FB Reels (TikTok once live). LinkedIn only if it contains no personal results.
 
 ## 5. Cadence and timing
 
 | Platform | Posts/week | Default slots (Central) | Notes |
 | --- | --- | --- | --- |
 | LinkedIn | 3 | Mon/Wed/Fri 8:30 AM (test Tue–Thu) | Philip replies to comments within the first hour if he can |
-| Instagram | 4 | 12:00 PM (test 7:00 PM) | 2 carousels, 1 Reel, 1 single image or Reel |
-| Facebook | 3 | 6:00 PM | Evenings, for the friends-and-family audience |
-| TikTok | 5 | 7:00–9:00 PM | Hand-posted until connected |
+| Instagram | 4 | 12:00 PM (test 7:00 PM) | 2 carousels, 2 Reels (the faceless TikTok-style videos) |
+| Facebook | 3 | 6:00 PM | Evenings, for the friends-and-family audience; at least 1 Facebook Reel |
+| TikTok | 0 (on hold) | 7:00–9:00 PM once live | Short videos run as IG/FB Reels until HQ says TikTok is connected |
 | Founder video | 1 | Script delivered with the week | Philip films |
 
 - Week runs Sunday through Saturday. Skip national news days (e.g., Election Day, Nov 3) and be careful on holidays (Veterans Day Nov 11, Thanksgiving Nov 26).
-- **Buffer limit:** the current plan allows **10 scheduled posts at a time** and **3 channels**. Philip is upgrading to Essentials and adding TikTok. Until he confirms, posts.md splits each week into two scheduling batches (Sun–Wed, Thu–Sat).
+- **Buffer limit:** the current plan allows **10 scheduled posts at a time** and **3 channels**. Philip is upgrading to Essentials (TikTok is added later, once the LLC's EIN arrives). Until he confirms, posts.md splits each week into two scheduling batches (Sun–Wed, Thu–Sat).
 
 ## 6. Hashtag sets
 
