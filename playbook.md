@@ -97,6 +97,7 @@ Second 0–1: hook spoken and on screen. 1–22: one point, one example. 22–30
 ### Reddit (u/Philminizer, Philip posts by hand)
 Full process in `reddit/README.md`; target subs and rule status in `reddit/subreddits.md`.
 - Twice a week (Tue and Fri, 6:37 AM CT ping from HQ): 3–5 fresh threads (<48 h), helpful replies drafted in `reddit/YYYY-MM-DD.md`. At most one value post a week where rules allow.
+- **Phase 1 (weeks 1–2, until about 50 comment karma):** comments only, no Day60 mention or link, no posts. Then:
 - 9:1 helpful-to-mention ratio. Day60 is mentioned only where a sub's **verified** rule allows it, always disclosed ("I built a free tool for this, Day60"), with `utm_source=reddit&utm_medium=social&utm_campaign=YYYY-wWW`.
 - An unverified or unclear rule means no self-promotion. No DMs, no upvote asks, no other accounts, no bought votes.
 - Founder facts only; Philip's 39/27 results stay off Reddit, as on LinkedIn.

@@ -2,6 +2,9 @@
 
 Philip posts himself from **u/Philminizer**. Social drafts; HQ puts the drafts on Philip's calendar the same morning.
 
+## Account phase
+Until u/Philminizer has about 50 comment karma (weeks 1–2): **comments only, no Day60 mention or link, no posts.** After that: 9:1 and at most one value post a week. Status lives in `subreddits.md`.
+
 ## Rhythm
 - **Tue and Fri, 6:37 AM CT** (HQ's scheduled ping): find 3–5 threads under ~48 h old and draft replies in `reddit/YYYY-MM-DD.md`.
 - **At most once a week:** one value post, only in a sub whose rules allow it.
