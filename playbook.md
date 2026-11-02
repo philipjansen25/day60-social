@@ -147,6 +147,13 @@ Hashtags go on every post on every platform. Rotate within a set; put them at th
 - Never rename or delete a file that a scheduled post uses. A fix goes in a new file.
 - `templates/`: HTML source for cards (`stat-card.html`) and `render.js` (`node templates/render.js <html> <png>`, 1080×1350 via Playwright).
 
+## 8b. Media library
+
+| File | What it is | Rules |
+| --- | --- | --- |
+| `media/try-demo-2026-11-02-reel.mp4` | Philip's real /try phone recording, 13 s, 1080×1920, no audio. Pastes a public OpenAI Ashby job link → "Reading the job…" → "15 seconds skipped" label → "Building the four roles…" → four roles (Director, Sales Development / VP Sales / Senior SDR / Sales Recruiter) → email step. | Use for /try Reels with captions burned in. Keep the "15 seconds skipped" label visible; never hide the cut. Never imply any relationship with OpenAI (it's just a public posting). Captions go in bands that don't cover the roles list. Replace with a fresh recording once #49 cuts step 1 under 6 s. |
+| `media/try-demo-2026-11-02-full-720.mp4` | The uncut 27 s version | Reference only, not for posting. |
+
 ## 9. Visual rules (from the brand kit)
 
 - Colors: cream `#FFF8EC` background, ink `#16133A` text and outlines, lime `#D9FF3F` highlight, coral `#FF5C4D`, blue `#3B5BFF`, pink `#FF9BDB` accents.
