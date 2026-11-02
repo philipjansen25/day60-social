@@ -45,6 +45,13 @@ Every post belongs to one pillar. Aim for a mix each week; no pillar more than 4
 4. **Receipts** (proof). Philip's own search (IG, FB, TikTok only, never LinkedIn), spots-left counts (once HQ verifies them), user wins shared with written permission. Goal: signups.
 5. **Inside the Sprint** (product + personality). Screen recordings of /try, Tick being Tick, Philip building in public. Goal: signups and follows.
 
+### Source: the Day60 hiring list (from week 46)
+`GET https://getday60.com/api/hiring-list` is public JSON, rebuilt hourly. It returns up to 30 open postings from the last 14 days in four categories (Entry-level, Remote, Customer-facing, Operations), each with company, title, location, remote, postedOn and url.
+- Hand-pick every posting. The categories come from title keywords and some are wrong (e.g. "Associate General Counsel" under Entry-level, "Sales Recruiter" under Customer-facing). Open each link before using it, and check that it's still open and fits the category.
+- Never imply Day60 has a relationship with the company. Name the company and role only, and link to the posting or to `getday60.com/try?jobUrl=<encoded url>` with UTMs.
+- Format idea: "5 jobs posted this week + who to message for each" carousel (IG/FB/LI) or a fast TikTok list. Each slide is one job, then the CTA: "Paste it into Day60 to get the four people."
+- List the postings used (company, title, url, category) in that week's posts.md and in the report to HQ, so HQ can tune the categories.
+
 ## 4. Signature formats per platform
 
 Every idea gets reshaped per platform. Never paste one post across channels.
