@@ -151,8 +151,9 @@ Hashtags go on every post on every platform. Rotate within a set; put them at th
 
 | File | What it is | Rules |
 | --- | --- | --- |
-| `media/try-demo-2026-11-02-reel.mp4` | Philip's real /try phone recording, 13 s, 1080×1920, no audio. Pastes a public OpenAI Ashby job link → "Reading the job…" → "15 seconds skipped" label → "Building the four roles…" → four roles (Director, Sales Development / VP Sales / Senior SDR / Sales Recruiter) → email step. | Use for /try Reels with captions burned in. Keep the "15 seconds skipped" label visible; never hide the cut. Never imply any relationship with OpenAI (it's just a public posting). Captions go in bands that don't cover the roles list. Replace with a fresh recording once #49 cuts step 1 under 6 s. |
-| `media/try-demo-2026-11-02-full-720.mp4` | The uncut 27 s version | Reference only, not for posting. |
+| `media/try-demo-2026-11-02b-reel.mp4` | **Current /try clip.** Philip's real phone recording, 12.3 s, 1080×1920, no audio, no cuts. Pastes a public OpenAI Ashby job link (Sales Development Manager, Enterprise AMER), then the four roles (Director, Sales Development / VP Sales / Senior SDR / Sales Recruiter) appear about 1 s after the tap (cached by #51), then scroll to the email step. The final frame is black, so trim it at render. | Use for /try Reels with captions burned in, in bands that don't cover the roles list. **Speed claims:** say "in seconds" or "the four people closest to the hire, in seconds". Never "instant" and never a specific time, because a new link takes a few seconds. Never imply any relationship with OpenAI; it's a public posting. |
+| `media/try-demo-2026-11-02-reel.mp4` | Retired: the older clip with the "15 seconds skipped" label | Don't use. |
+| `media/try-demo-2026-11-02-full-720.mp4` | Uncut 27 s version of the older recording | Reference only. |
 
 ## 9. Visual rules (from the brand kit)
 
