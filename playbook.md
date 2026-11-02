@@ -66,6 +66,7 @@ Every idea gets reshaped per platform. Never paste one post across channels.
 #### LinkedIn tags (from the week of Nov 8)
 LinkedIn posts go out from Philip's personal profile; the Day60 Page channel is locked on Buffer's free plan.
 - Every LinkedIn post in posts.md gets a **Tags** line listing each company with its exact LinkedIn company page URL (`https://www.linkedin.com/company/<slug>/`) and each person with their profile URL (`https://www.linkedin.com/in/<slug>/`). The @mention sits in the copy where it reads naturally, never in a pile at the end.
+- **Day60 page tag on every LinkedIn post (Philip's rule).** The page is https://www.linkedin.com/company/144030699 (org ID 144030699). HQ attaches it in Buffer at scheduling. In the copy, write the exact word "Day60" (capital D) **exactly once**, where it reads naturally ("I built Day60 to…" or a sign-off line). Elsewhere say "it" or "the sprint". The lowercase URL getday60.com doesn't count, and LinkedIn hashtags never include #day60. In posts.md each LinkedIn post's Tags line starts with "Day60 page (auto)".
 - **Tag people only when they'd welcome it:** credit for their work or idea, a source being quoted, or someone Philip asked to tag. They must be Philip's first-degree connections, or LinkedIn won't allow the tag. I can't see his connections, so every person tag is marked "Philip to confirm 1st-degree".
 - **Hiring-list posts: tag the company only.** Never tag hiring managers, recruiters or any employee.
 - Never tag people in the 722-applicants story or in any "bad message" teardown.
@@ -185,7 +186,7 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 - [ ] No invented stats, users, testimonials or quotes. Examples labeled "Illustrative example".
 - [ ] Never imply Day60 sends messages or logs in to LinkedIn.
 - [ ] No real employee named or pictured; no LinkedIn profiles or email addresses shown.
-- [ ] Every LinkedIn post has a Tags line (or "Tags: none"); no recruiter/hiring-manager tags; person tags flagged for Philip's 1st-degree check.
+- [ ] Every LinkedIn post has "Day60" exactly once and a Tags line starting "Day60 page (auto)"; no recruiter/hiring-manager tags; person tags flagged for Philip's 1st-degree check.
 - [ ] Every link has UTMs; IG and TikTok say "link in bio".
 - [ ] Re-read for banned phrases and em-dashes.
 
