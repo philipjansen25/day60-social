@@ -10,6 +10,8 @@ Seven years old, 1 karma, 0 posts, 0 comments: a clean history with almost no ka
 
 **Status (Nov 2, 2026): every rule below is UNVERIFIED.** Reddit blocks fetches from our containers, and web search didn't return any of these subs' own rule text. Third-party summaries are not the rules. Until a sub's rule is quoted verbatim from its sidebar or rules page (by Philip, or pasted by HQ), the sub is **helpful replies only, no Day60 mention, no link**.
 
+Philip copies the rules for r/jobs, r/jobsearchhacks, r/GetEmployed and r/salesdevelopment on Thu Nov 12; HQ forwards the screenshots.
+
 How to verify one: open `reddit.com/r/<sub>/about/rules` (or the sidebar on mobile) and paste the self-promotion rule word for word into the "Rule text" field, plus any weekly promo thread name.
 
 | Sub | Fit for Day60's method | Day60 mention allowed? | Where | Karma / age minimum | Rule text (verbatim, with date checked) | Notes (secondary, unverified) |
