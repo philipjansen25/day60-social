@@ -50,6 +50,8 @@ Every post belongs to one pillar. Aim for a mix each week; no pillar more than 4
 - Hand-pick every posting. The categories come from title keywords and some are wrong (e.g. "Associate General Counsel" under Entry-level, "Sales Recruiter" under Customer-facing). Open each link before using it, and check that it's still open and fits the category.
 - Never imply Day60 has a relationship with the company. Name the company and role only, and link to the posting or to `getday60.com/try?jobUrl=<encoded url>` with UTMs.
 - Format idea: "5 jobs posted this week + who to message for each" carousel (IG/FB/LI) or a fast TikTok list. Each slide is one job, then the CTA: "Paste it into Day60 to get the four people."
+- **Roles only, never people.** "Who to message" means job titles, e.g. "the Director of Sales Development, their VP, a peer AE, the recruiter". Never name or picture a real employee, and never show a LinkedIn profile or an email address. Day60 never exposes the people it finds, and naming a hiring manager would put a stranger on the spot.
+- **US first.** Pick US postings by default and label the location on every card. Use a non-US posting only when it's clearly remote for US applicants.
 - List the postings used (company, title, url, category) in that week's posts.md and in the report to HQ, so HQ can tune the categories.
 
 ## 4. Signature formats per platform
@@ -167,6 +169,7 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 - [ ] No prices, no "free forever"; the cap is 100 free sprints.
 - [ ] No invented stats, users, testimonials or quotes. Examples labeled "Illustrative example".
 - [ ] Never imply Day60 sends messages or logs in to LinkedIn.
+- [ ] No real employee named or pictured; no LinkedIn profiles or email addresses shown.
 - [ ] Every link has UTMs; IG and TikTok say "link in bio".
 - [ ] Re-read for banned phrases and em-dashes.
 
