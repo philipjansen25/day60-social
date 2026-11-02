@@ -63,6 +63,16 @@ Every idea gets reshaped per platform. Never paste one post across channels.
 - **PDF carousel (document post):** 5–7 slides, 1080×1350, same brand system as Instagram. Use for The Four People and Tick's Red Pen.
 - Rules: credible and professional, peer to peer. **Never Philip's 39/27 result while he is interviewing.** End on a question that invites a real answer. Put the UTM link in the post body until Buffer supports first comments (after the Essentials upgrade), then move it to the first comment.
 
+#### LinkedIn tags (from the week of Nov 8)
+LinkedIn posts go out from Philip's personal profile; the Day60 Page channel is locked on Buffer's free plan.
+- Every LinkedIn post in posts.md gets a **Tags** line listing each company with its exact LinkedIn company page URL (`https://www.linkedin.com/company/<slug>/`) and each person with their profile URL (`https://www.linkedin.com/in/<slug>/`). The @mention sits in the copy where it reads naturally, never in a pile at the end.
+- **Tag people only when they'd welcome it:** credit for their work or idea, a source being quoted, or someone Philip asked to tag. They must be Philip's first-degree connections, or LinkedIn won't allow the tag. I can't see his connections, so every person tag is marked "Philip to confirm 1st-degree".
+- **Hiring-list posts: tag the company only.** Never tag hiring managers, recruiters or any employee.
+- Never tag people in the 722-applicants story or in any "bad message" teardown.
+- Any URL I can't verify is marked "(verify)" for Philip; LinkedIn pages often block logged-out checks.
+- Tags show on the preview page so Philip approves them with the post.
+- No tags if the post reads fine without them: one well-placed tag beats five.
+
 ### Instagram (@getday60)
 - **Save-this carousel:** 6–8 slides. Slide 1 is a lime or cream cover with a bold hook and a "SAVE THIS" pill. Last slide is the CTA: "Paste a job link. Get your 4 people. Link in bio."
 - **Text-on-screen Reel** (7–20 s): a hook in frame 1, a message getting cut by Tick's red pen, end card with the CTA. Rendered from HTML with Playwright.
@@ -175,6 +185,7 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 - [ ] No invented stats, users, testimonials or quotes. Examples labeled "Illustrative example".
 - [ ] Never imply Day60 sends messages or logs in to LinkedIn.
 - [ ] No real employee named or pictured; no LinkedIn profiles or email addresses shown.
+- [ ] Every LinkedIn post has a Tags line (or "Tags: none"); no recruiter/hiring-manager tags; person tags flagged for Philip's 1st-degree check.
 - [ ] Every link has UTMs; IG and TikTok say "link in bio".
 - [ ] Re-read for banned phrases and em-dashes.
 
