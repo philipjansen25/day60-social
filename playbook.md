@@ -94,6 +94,13 @@ LinkedIn posts go out from Philip's personal profile; the Day60 Page channel is 
 ### Weekly founder video (Philip films himself, 30 s)
 Second 0–1: hook spoken and on screen. 1–22: one point, one example. 22–30: CTA with on-screen text. Phone upright, window light, one take. Works for IG Reels and FB Reels (TikTok once live). LinkedIn only if it contains no personal results.
 
+### Reddit (u/Philminizer, Philip posts by hand)
+Full process in `reddit/README.md`; target subs and rule status in `reddit/subreddits.md`.
+- Twice a week (Tue and Fri, 6:37 AM CT ping from HQ): 3–5 fresh threads (<48 h), helpful replies drafted in `reddit/YYYY-MM-DD.md`. At most one value post a week where rules allow.
+- 9:1 helpful-to-mention ratio. Day60 is mentioned only where a sub's **verified** rule allows it, always disclosed ("I built a free tool for this, Day60"), with `utm_source=reddit&utm_medium=social&utm_campaign=YYYY-wWW`.
+- An unverified or unclear rule means no self-promotion. No DMs, no upvote asks, no other accounts, no bought votes.
+- Founder facts only; Philip's 39/27 results stay off Reddit, as on LinkedIn.
+
 ## 5. Cadence and timing
 
 Cadence from the week of Nov 8 (set by Philip): **LinkedIn 3, Instagram 5, Facebook 5 = 13 posts a week.** Quality beats volume: if I can't make 5 good posts for a platform in a week, I say so in the brief instead of padding.
@@ -130,7 +137,7 @@ Hashtags go on every post on every platform. Rotate within a set; put them at th
 ## 7. UTM and link conventions
 
 - Base: `https://getday60.com/try?utm_source=<platform>&utm_medium=social&utm_campaign=<YYYY>-w<WW>&utm_content=<post-slug>`
-  - `utm_source`: `linkedin`, `instagram`, `facebook`, `tiktok`
+  - `utm_source`: `linkedin`, `instagram`, `facebook`, `tiktok`, `reddit`
   - `utm_campaign`: the ISO week of the Monday inside our Sunday–Saturday week. Nov 8–14, 2026 = `2026-w46`; Nov 15–21 = `2026-w47`.
   - `utm_content`: short post slug, e.g. `boss-carousel`, so we can trace single posts.
 - Pre-filled job: `https://getday60.com/try?jobUrl=<URL-encoded job link>&utm_source=...` for posts that demo a specific public job.
