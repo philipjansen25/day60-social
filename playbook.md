@@ -85,16 +85,20 @@ Second 0–1: hook spoken and on screen. 1–22: one point, one example. 22–30
 
 ## 5. Cadence and timing
 
-| Platform | Posts/week | Default slots (Central) | Notes |
-| --- | --- | --- | --- |
-| LinkedIn | 3 | Mon/Wed/Fri 8:30 AM (test Tue–Thu) | Philip replies to comments within the first hour if he can |
-| Instagram | 4 | 12:00 PM (test 7:00 PM) | 2 carousels, 2 Reels (the faceless TikTok-style videos) |
-| Facebook | 3 | 6:00 PM | Evenings, for the friends-and-family audience; at least 1 Facebook Reel |
-| TikTok | 0 (on hold) | 7:00–9:00 PM once live | Short videos run as IG/FB Reels until HQ says TikTok is connected |
-| Founder video | 1 | Script delivered with the week | Philip films |
+Cadence from the week of Nov 8 (set by Philip): **LinkedIn 3, Instagram 5, Facebook 5 = 13 posts a week.** Quality beats volume: if I can't make 5 good posts for a platform in a week, I say so in the brief instead of padding.
 
-- Week runs Sunday through Saturday. Skip national news days (e.g., Election Day, Nov 3) and be careful on holidays (Veterans Day Nov 11, Thanksgiving Nov 26).
-- **Buffer limit:** the current plan allows **10 scheduled posts at a time** and **3 channels**. Philip is upgrading to Essentials (TikTok is added later, once the LLC's EIN arrives). Until he confirms, posts.md splits each week into two scheduling batches (Sun–Wed, Thu–Sat).
+| Platform | Posts/week | Default mix | Default slots (Central) |
+| --- | --- | --- | --- |
+| LinkedIn | 3 | 2 field notes (text + card) + 1 PDF carousel | Mon, Wed, Thu 8:30 AM |
+| Instagram | 5 | 2 carousels + 3 Reels | Sun 11:00 AM, Mon 12:00 PM, Wed 12:00 PM, Thu 7:00 PM, Sat 10:00 AM |
+| Facebook | 5 | 2 Reels + 3 image or text posts | Sun 7:00 PM, Mon 6:00 PM, Tue 6:00 PM, Thu 6:00 PM, Sat 11:00 AM |
+| TikTok | 0 (on hold) | — | Short videos run as IG/FB Reels until HQ says TikTok is connected |
+| Founder video | 1 | 30-second script for Philip | Delivered with the week |
+
+- Facebook can reuse Instagram images and videos where they fit natively, but captions are always written fresh for each platform.
+- No two posts on the same platform on the same day. Avoid the same idea on IG and FB on the same day.
+- Week runs Sunday through Saturday. Skip national news days (e.g., Election Day) and handle holidays with care (Veterans Day Nov 11, Thanksgiving Nov 26).
+- **Buffer limit:** the free plan holds 10 scheduled posts at a time, so HQ schedules in two batches: **Batch A on Sunday** (posts due Sun–Wed: 2 LI + 3 IG + 3 FB = 8) and **Batch B, a Wednesday top-up** (posts due Thu–Sat: 1 LI + 2 IG + 2 FB = 5). Batch A's Sunday posts must be in Buffer before 11:00 AM Sunday. posts.md gives every post an explicit day, date, time (CT) and batch letter.
 
 ## 6. Hashtag sets
 
