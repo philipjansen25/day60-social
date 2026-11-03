@@ -1,0 +1,130 @@
+#!/usr/bin/env node
+// Day60 Reddit scan: finds fresh Reddit threads through Google's index (SerpAPI, Google engine).
+// It never fetches reddit.com, never uses mirrors, never stores usernames.
+//
+// Usage:
+//   SERPAPI_API_KEY=... node scripts/reddit-scan.mjs [--days 2] [--max 5] [--out file.json]
+//   node scripts/reddit-scan.mjs --fixture scripts/fixtures/serpapi-sample.json   (offline test)
+//   node scripts/reddit-scan.mjs --queries   (print the Google queries, no key needed)
+//
+// Output: JSON array of {title, url, subreddit, date, snippet, score, matched} on stdout (or --out).
+// Exit codes: 0 ok, 2 SERPAPI_API_KEY not set, 3 SerpAPI error.
+
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const args = Object.fromEntries(process.argv.slice(2).reduce((acc, a, i, all) => {
+  if (a.startsWith('--')) acc.push([a.slice(2), all[i + 1] && !all[i + 1].startsWith('--') ? all[i + 1] : true]);
+  return acc;
+}, []));
+const DAYS = Number(args.days || 2);
+const MAX = Number(args.max || 5);
+const MIN_SCORE = 2;
+
+// Subreddits come from reddit/subreddits.md (table rows that start with "| r/").
+function readSubs() {
+  const md = fs.readFileSync(path.join(ROOT, 'reddit/subreddits.md'), 'utf8');
+  return [...md.matchAll(/^\| r\/([A-Za-z0-9_]+) \|/gm)].map(m => m[1]);
+}
+// r/SideProject and r/startups are for value posts later, not question threads.
+const SKIP_FOR_REPLIES = new Set(['SideProject', 'startups']);
+
+// Topics Day60's method answers. Each becomes part of a Google query.
+const TOPICS = [
+  { key: 'no-replies', q: '("no response" OR "no responses" OR "no replies" OR ghosted OR "no interviews") applications' },
+  { key: 'reach-people', q: '("hiring manager" OR recruiter) (message OR email OR "reach out" OR "cold") LinkedIn' },
+];
+// Signals used to score fit from the title + snippet.
+const SIGNALS = [
+  [/hiring manager/i, 3], [/recruiter/i, 2], [/cold (email|message|outreach|call)/i, 3], [/reach(ing)? out/i, 2],
+  [/linkedin (message|dm|inmail)/i, 2], [/no (response|responses|replies|callbacks|interviews)/i, 3], [/ghost(ed|ing)?/i, 2],
+  [/follow(ing)?[- ]up/i, 2], [/referral/i, 1], [/applied to \d+|hundreds of (jobs|applications)/i, 2], [/\?/, 1],
+];
+const NEGATIVE = [/\bhiring\b.*\[hiring\]|\[for hire\]|\bmegathread\b|\bweekly\b.*thread/i, /\bscam\b/i];
+
+function chunk(list, n) { const out = []; for (let i = 0; i < list.length; i += n) out.push(list.slice(i, i + n)); return out; }
+
+function queries(subs) {
+  const groups = chunk(subs.filter(s => !SKIP_FOR_REPLIES.has(s)), 4).slice(0, 3); // 3 sub groups x 2 topics = 6 searches
+  const qs = [];
+  for (const g of groups) for (const t of TOPICS) {
+    qs.push({ topic: t.key, q: `(${g.map(s => `site:reddit.com/r/${s}`).join(' OR ')}) ${t.q}` });
+  }
+  return qs;
+}
+
+const scrub = s => String(s || '').replace(/\bu\/[A-Za-z0-9_-]+/g, 'u/[user]').replace(/\s+/g, ' ').trim();
+
+function threadFrom(r) {
+  const m = String(r.link || '').match(/^https?:\/\/(?:www\.|old\.)?reddit\.com\/r\/([A-Za-z0-9_]+)\/comments\/([a-z0-9]+)(?:\/([^/?#]*))?/i);
+  if (!m) return null;
+  return {
+    title: scrub(r.title).replace(/\s*:\s*r\/\w+\s*$/i, '').replace(/\s*-\s*Reddit\s*$/i, ''),
+    url: `https://www.reddit.com/r/${m[1]}/comments/${m[2]}/${m[3] || ''}`.replace(/\/$/, '/'),
+    id: m[2].toLowerCase(),
+    subreddit: m[1],
+    date: r.date || null,
+    snippet: scrub(r.snippet),
+  };
+}
+
+function alreadyUsedIds() {
+  const dir = path.join(ROOT, 'reddit');
+  const ids = new Set();
+  for (const f of fs.readdirSync(dir).filter(f => /^\d{4}-\d{2}-\d{2}\.md$/.test(f))) {
+    for (const m of fs.readFileSync(path.join(dir, f), 'utf8').matchAll(/reddit\.com\/r\/\w+\/comments\/([a-z0-9]+)/gi)) ids.add(m[1].toLowerCase());
+  }
+  return ids;
+}
+
+function score(t) {
+  const text = `${t.title} ${t.snippet}`;
+  if (NEGATIVE.some(re => re.test(text))) return { score: -1, matched: [] };
+  let s = 0; const matched = [];
+  for (const [re, w] of SIGNALS) if (re.test(text)) { s += w; matched.push(re.source); }
+  return { score: s, matched };
+}
+
+async function serp(q, key) {
+  const u = new URL('https://serpapi.com/search.json');
+  u.search = new URLSearchParams({ engine: 'google', q, tbs: `qdr:d${DAYS}`, num: '10', hl: 'en', gl: 'us', api_key: key }).toString();
+  const res = await fetch(u);
+  if (!res.ok) throw new Error(`SerpAPI HTTP ${res.status}`);
+  const j = await res.json();
+  if (j.error && !/hasn't returned any results/i.test(j.error)) throw new Error(`SerpAPI: ${j.error}`);
+  return j.organic_results || [];
+}
+
+async function main() {
+  if (args.queries) { for (const q of queries(readSubs())) console.log(`[${q.topic}] ${q.q}`); return; }
+  let results = [];
+  if (args.fixture) {
+    results = JSON.parse(fs.readFileSync(path.resolve(String(args.fixture)), 'utf8')).organic_results || [];
+  } else {
+    const key = process.env.SERPAPI_API_KEY;
+    if (!key) {
+      console.error('SERPAPI_API_KEY not set. Skipping the scan: use the fallback (search links + reply bank in reddit/YYYY-MM-DD.md).');
+      process.exit(2);
+    }
+    for (const { q } of queries(readSubs())) {
+      try { results.push(...await serp(q, key)); }
+      catch (e) { console.error(String(e.message || e).replace(key, '[key]')); process.exit(3); }
+    }
+  }
+  const used = alreadyUsedIds();
+  const seen = new Set();
+  const picked = results.map(threadFrom).filter(Boolean)
+    .filter(t => !used.has(t.id) && !seen.has(t.id) && seen.add(t.id))
+    .map(t => ({ ...t, ...score(t) }))
+    .filter(t => t.score >= MIN_SCORE)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, MAX)
+    .map(({ id, ...t }) => t);
+  const out = JSON.stringify(picked, null, 2);
+  if (args.out) fs.writeFileSync(String(args.out), out + '\n'); else console.log(out);
+  console.error(`${picked.length} thread(s) kept from ${results.length} search result(s).${picked.length < 3 ? ' Fewer than 3 fit: say so to HQ, do not pad.' : ''}`);
+}
+
+main();

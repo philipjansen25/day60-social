@@ -1,0 +1,11 @@
+{
+  "_note": "Synthetic SerpAPI-shaped fixture for offline tests. Not real threads.",
+  "organic_results": [
+    {"title": "Applied to 200 jobs, no responses. Should I message the hiring manager? : r/jobs", "link": "https://www.reddit.com/r/jobs/comments/abc123/applied_to_200_jobs_no_responses/", "snippet": "u/someone123 here. I've applied to 200 jobs and got no responses. Is it okay to reach out to the hiring manager on LinkedIn?", "date": "1 day ago"},
+    {"title": "Applied to 200 jobs, no responses. Should I message the hiring manager?", "link": "https://old.reddit.com/r/jobs/comments/abc123/applied_to_200_jobs_no_responses/?utm=x", "snippet": "duplicate of the first", "date": "1 day ago"},
+    {"title": "Recruiter ghosted me after final round - Reddit", "link": "https://www.reddit.com/r/recruitinghell/comments/def456/recruiter_ghosted_me/", "snippet": "Had a great final round, recruiter said they'd follow up Friday. It's been two weeks.", "date": "20 hours ago"},
+    {"title": "Weekly hiring megathread", "link": "https://www.reddit.com/r/jobs/comments/zzz999/weekly_hiring_megathread/", "snippet": "Post your [Hiring] and [For Hire] here", "date": "1 day ago"},
+    {"title": "Best laptop for school?", "link": "https://www.reddit.com/r/csMajors/comments/ggg777/best_laptop/", "snippet": "Looking for recommendations", "date": "1 day ago"},
+    {"title": "r/jobs subreddit", "link": "https://www.reddit.com/r/jobs/", "snippet": "community page, not a thread", "date": null}
+  ]
+}
