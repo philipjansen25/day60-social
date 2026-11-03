@@ -149,6 +149,20 @@ Hashtags go on every post on every platform. Rotate within a set; put them at th
 - Facebook: full UTM link in the post body.
 - Week 1 (Nov 2–6) used an older pattern (`utm_campaign=wk1_<slug>`, LinkedIn with no UTM). From week 46 on, everything follows the rule above.
 
+## 7b. Link targets (from week 47)
+Philip published the guides on Nov 3. Besides /try, LinkedIn and Facebook posts may link these, always with UTMs (`utm_content` = post slug):
+| Page | Use it for |
+| --- | --- |
+| https://getday60.com/guides/how-to-message-a-hiring-manager | Four People, Red Pen posts |
+| https://getday60.com/guides/hiring-manager-message-examples-by-role | role-specific posts, hiring-list posts |
+| https://getday60.com/guides/linkedin-connection-note-examples | LinkedIn connection-note tips |
+| https://getday60.com/guides/thank-you-message-after-linkedin-connection | next-day thank-you posts |
+| https://getday60.com/guides/follow-up-after-no-reply | 3-touch / follow-up posts |
+| https://getday60.com/message-checker | Tick's Red Pen / "check your message" posts |
+- **Never link from social:** the 4 `/guides/day60-vs-*` pages and `/guides/auto-apply-tools-vs-prospecting`. They're for people who search those names.
+- Instagram stays "link in bio". Reddit stays link-free during the karma phase.
+- Match the link to the post: a teaching post links its guide, and a product post links /try.
+
 ## 8. Repo and file conventions
 
 - Images: `YYYY-MM/wkWW/` where WW is the ISO week number used in `utm_campaign` (week of Nov 8 = `2026-11/wk46/`). Week 1's folder `2026-11/wk1/` stays as-is because Buffer links to it.
