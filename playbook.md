@@ -16,13 +16,15 @@ Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the 
 - **Verified work emails** are live (since Oct 29) and approved for copy.
 - **Follow-ups:** Day60 caps it at 3 touches per person (day 0, 2, 7) and tells you when each follow-up is due. Don't claim it drafts the follow-up messages.
 - **Founder page numbers** (ARR, quota, pipeline) never go into posts.
-- **Approved founder facts (use exactly as written, add nothing):**
-  - Career line: "I built SDR teams at ClickUp and Deel, and a partner pipeline program at Google." At Google he built a partner pipeline program, not an SDR team.
-  - **Career timeline (from Philip's LinkedIn export, Nov 3).** Sales roles since Jul 2018: SDR and enterprise SDR at Outreach (2018–19), LivePerson (2019–20), Manager of Sales Development at GoLinks (2020–21), Manager then Sr. Manager of Business Development at ClickUp (2021–23), Sr. Manager of Enterprise Sales Development at Deel (2023), Director of Sales Development at Butter Payments (2023–24) and Snappy Kraken (2024), Channel Account Manager for Google Cloud Security (Dec 2024–Feb 2026), Founder of Day60 (Oct 2026). Before sales: Executive Pastor at Legacy Nashville (2013–18). Use the approved career line in posts. The pastor-to-sales career change is a strong story but needs Philip's OK and his own words before use.
-  - **"Years in sales":** the timeline supports "8 years in sales" or "since 2018". Avoid "nine years in sales development" until Philip confirms it.
-  - Philip's current LinkedIn headline: "Founder, Day60 | Channel Sales & SDR Leadership | Ex Google, ClickUp, & Deel".
-  - 2023 hiring story (approved for LinkedIn): 722 applicants in 24 hours, and the 9 cold calls and 16 emails were the ones that got answered.
-  - Fall 2026 search: 39 applications, 27 interviews (Aug–Oct 2026). IG, FB and TikTok only, never LinkedIn, framed as his results, not typical ones.
+- **Approved founder facts (exactly these; posts may tell them in more detail, but the repo holds only these lines):**
+  - Career line: "I built SDR teams at ClickUp and Deel, and a partner pipeline program at Google." (At Google: a partner pipeline program, not an SDR team.)
+  - Years: "eight years in sales" or "in sales since 2018". Never "nine".
+  - Ministry, clean version: "Before sales, I spent nearly 10 years in ministry, 5 as an ordained pastor. Leading from a stage every week and sitting with people in hard seasons made VP and C-suite calls feel like talking to anyone else. I carry conviction into every cold call."
+  - Philip's own line, used sparingly and always as his words: "I figured I'd been 'selling' Jesus for 10 years, I might as well sell some software."
+  - Never say or hint why he left ministry. Add no facts beyond these.
+  - 2023 hiring story (LinkedIn only): 722 applicants in 24 hours, and the 9 cold calls and 16 emails were the ones that got answered.
+  - Fall 2026 search: 39 applications, 27 interviews (Aug–Oct 2026). IG, FB and TikTok only, never LinkedIn or Reddit, framed as his results, not typical ones.
+  - **Keep the repo clean:** no employer lists, dates or personal details beyond these lines (it's public).
 - **Audience:** anyone looking for work, from a first job to a senior role, in any field. They read on phones and arrive mostly from Instagram, Facebook and LinkedIn.
 
 ## 2. Audience insights (start here, update with data)
