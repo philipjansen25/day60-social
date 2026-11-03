@@ -17,7 +17,7 @@ Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the 
 - **Follow-ups:** Day60 caps it at 3 touches per person (day 0, 2, 7) and tells you when each follow-up is due. Don't claim it drafts the follow-up messages.
 - **Founder page numbers** (ARR, quota, pipeline) never go into posts.
 - **Approved founder facts (use exactly as written, add nothing):**
-  - Career line: "I built SDR teams at ClickUp and Deel, and a partner pipeline program at Google." At Google he built a partner pipeline program, not an SDR team. He has nine years in sales development.
+  - Career line: "I built SDR teams at ClickUp and Deel, and a partner pipeline program at Google." At Google he built a partner pipeline program, not an SDR team.
   - **Career timeline (from Philip's LinkedIn export, Nov 3).** Sales roles since Jul 2018: SDR and enterprise SDR at Outreach (2018–19), LivePerson (2019–20), Manager of Sales Development at GoLinks (2020–21), Manager then Sr. Manager of Business Development at ClickUp (2021–23), Sr. Manager of Enterprise Sales Development at Deel (2023), Director of Sales Development at Butter Payments (2023–24) and Snappy Kraken (2024), Channel Account Manager for Google Cloud Security (Dec 2024–Feb 2026), Founder of Day60 (Oct 2026). Before sales: Executive Pastor at Legacy Nashville (2013–18). Use the approved career line in posts. The pastor-to-sales career change is a strong story but needs Philip's OK and his own words before use.
   - **"Years in sales":** the timeline supports "8 years in sales" or "since 2018". Avoid "nine years in sales development" until Philip confirms it.
   - Philip's current LinkedIn headline: "Founder, Day60 | Channel Sales & SDR Leadership | Ex Google, ClickUp, & Deel".
@@ -64,7 +64,7 @@ Every post belongs to one pillar. Aim for a mix each week; no pillar more than 4
 Every idea gets reshaped per platform. Never paste one post across channels.
 
 ### LinkedIn (Philip's personal profile)
-- **Field note:** text-first post, 120–220 words, one idea, short lines. Hook line under 60 characters, so it shows before "...more". Opinion from nine years of building SDR teams, applied to job seekers. One stat card image or none.
+- **Field note:** text-first post, 120–220 words, one idea, short lines. Hook line under 60 characters, so it shows before "...more". Opinion from building SDR teams since 2018, applied to job seekers. One stat card image or none.
 - **PDF carousel (document post):** 5–7 slides, 1080×1350, same brand system as Instagram. Use for The Four People and Tick's Red Pen.
 - Rules: credible and professional, peer to peer. **Never Philip's 39/27 result while he is interviewing.** End on a question that invites a real answer. Put the UTM link in the post body until Buffer supports first comments (after the Essentials upgrade), then move it to the first comment.
 
