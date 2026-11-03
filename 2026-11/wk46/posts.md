@@ -299,7 +299,7 @@ Share this with someone who's job hunting this weekend.
 | Instagram bio | 150 | Free 60-day job-search sprint. Get to the 4 people closest to the hire. You send every message. Stop applying. Start prospecting. | 129 |
 | Facebook Page intro | 101 | Free 60-day job-search sprint. Reach the people who decide. You send every message. | 83 |
 | LinkedIn Day60 Page tagline | 120 | The 60-day job-search sprint. Reach the people who decide, in your own voice. Stop applying. Start prospecting. | 111 |
-| LinkedIn, Philip's headline | 220 | Keep current: "Founder, Day60 \| Channel Sales & SDR Leadership \| Ex Google, ClickUp, & Deel". Optional tweak: "Founder, Day60 · Stop applying. Start prospecting. · Ex Google, ClickUp & Deel" | 76 |
+| LinkedIn, Philip's headline | 220 | Keep current: "Founder, Day60 \| Channel Sales & SDR Leadership \| Ex Google, ClickUp, & Deel". Optional tweak: "Founder, Day60 · Stop applying. Start prospecting. · Ex Google, ClickUp & Deel" | 78 |
 | Reddit u/Philminizer | 200 | In sales since 2018. Built SDR teams at ClickUp and Deel. I built Day60, a free 60-day job-search sprint: getday60.com | 118 |
 | TikTok (later, when connected) | 80 | Stop applying. Start prospecting. Free 60-day job-search sprint. | 64 |
 
