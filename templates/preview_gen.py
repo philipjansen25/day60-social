@@ -59,7 +59,7 @@ days=''.join(f'<section class="day"><h2>{esc(d)}</h2><div class="grid">{"".join(
 def section(title):
     m=re.search(r'^## '+re.escape(title)+r'.*?\n(.*?)(?=^## |\Z)', src, re.S|re.M); return m.group(1) if m else ''
 def md_table(t):
-    rows=[[c.strip() for c in l.strip().strip('|').split('|')] for l in t.strip().split('\n') if l.strip().startswith('|')]
+    rows=[[c.strip().replace('\\|','|') for c in re.split(r'(?<!\\)\|', l.strip().strip('|'))] for l in t.strip().split('\n') if l.strip().startswith('|')]
     rows=[r for r in rows if not set(''.join(r))<=set('- ')]
     h=''.join(f'<th>{esc(c)}</th>' for c in rows[0])
     b=''.join('<tr>'+''.join(f'<td>{esc(c).replace("**","")}</td>' for c in r)+'</tr>' for r in rows[1:])
