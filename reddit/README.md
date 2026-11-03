@@ -6,6 +6,8 @@ Philip posts himself from **u/Philminizer**. Social drafts; HQ puts the drafts o
 Until u/Philminizer has about 50 comment karma (weeks 1–2): **comments only, no Day60 mention or link, no posts.** After that: 9:1 and at most one value post a week. Status lives in `subreddits.md`.
 
 ## Rhythm
+**Interim mode (from Nov 3, until Philip decides the lane's future):** the Tue/Fri scan does no thread hunting. It refreshes the sorted-by-New search links and adds 1–2 replies to the bank in that day's file. Philip uses the file himself, or pastes threads to HQ for tailored replies.
+
 - **Tue and Fri, 6:37 AM CT** (HQ's scheduled ping): find 3–5 threads under ~48 h old and draft replies in `reddit/YYYY-MM-DD.md`.
 - **At most once a week:** one value post, only in a sub whose rules allow it.
 - Then send HQ one message: file path, plus each thread's URL, sub, title and whether the reply mentions Day60.
