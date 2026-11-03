@@ -71,7 +71,7 @@ bios=md_table(section('Profile bio lines'))
 script_sec=section('Saturday filming')
 script=f'<p>{esc(script_sec.strip().split(chr(10))[0])}</p>'+md_table(script_sec)
 pins=md_list(section('Pinned and featured'))
-qs=md_list(section('Open questions for HQ'))
+qs=md_list(section('HQ answers') or section('Open questions for HQ'))
 angle=re.search(r'\*\*Angle:\*\* (.*)', src).group(1); angle=angle[0].upper()+angle[1:]
 sched_tbl=md_table('\n'.join(l for l in section('Schedule at a glance').split('\n') if l.startswith('|')))
 html_out=open('/tmp/claude-0/-home-user-day60-social/b6710d43-4ef8-534c-b45e-cef5489411c2/scratchpad/preview/tpl.html').read()
