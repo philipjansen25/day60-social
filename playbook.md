@@ -181,6 +181,12 @@ Hashtags go on every post on every platform. Rotate within a set; put them at th
 - Product words: "the sprint", "the Day60 Sprint", "job" or "target job". Day60 "finds" the four people and their verified work emails, "drafts" notes, and Tick "checks" them. The user "sends".
 - Honesty lines: we never promise replies, interviews or offers. Philip's result is "my results, yours will vary". Invented examples are labeled "Illustrative example". Stats carry their source.
 
+## 10b. Competitors (Philip's decision, Nov 2)
+- **Never name competitor tools in social posts or Reddit replies.** That includes Teal, Huntr, Jobscan and Careerflow. No logos, screenshots or tags either. Named, factual comparisons live only on the draft guide pages (issue #62), which Philip approves one by one.
+- Contrast only with the general habit: "applying to hundreds of jobs", "spray and pray", "auto-apply bots", "mass-apply tools". Keep it calm and never mock anyone.
+- Fair line to reuse: "Keep your tracker and your résumé tool. Day60 is the part after you find the job."
+- Philip's goal: people should know exactly what Day60 is, what it isn't, and the value it gives (replies from people who can hire you, instead of more applications into a pile). "It doesn't have to be an outright assault on the competition."
+
 ## 11. Banned phrases
 
 Cut on sight in final copy (fine only inside a quoted "bad message" example being torn down).
