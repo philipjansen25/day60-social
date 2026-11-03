@@ -1,0 +1,81 @@
+<title>Day60 Social: week of Nov 8</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&display=swap">
+<style>
+/* Layout: a review board. Day60's own brand (single light theme on purpose: posts are previewed on cream like the brand kit). Days run top to bottom; each post sits in a phone-width frame of its platform. */
+:root{
+  --cream:#FFF8EC; --ink:#16133A; --lime:#D9FF3F; --coral:#FF5C4D; --blue:#3B5BFF; --pink:#FF9BDB;
+  --paper:#FFFFFF; --muted:#5D5A78; --line:#E6DFCF;
+  --li:#0A66C2; --fb:#1877F2;
+  --display:'Bricolage Grotesque',ui-sans-serif,system-ui,sans-serif;
+  --body:'DM Sans',ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif;
+  color-scheme:light;
+}
+body{background:var(--cream);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 64px}
+.wrap{max-width:1180px;margin:0 auto}
+header.top{padding-block:40px 24px;display:grid;gap:14px}
+.eyebrow{font-weight:700;font-size:12px;letter-spacing:.14em;text-transform:uppercase;display:inline-flex;gap:10px;align-items:center}
+.eyebrow .st{background:var(--lime);border:2px solid var(--ink);border-radius:30px;padding:4px 12px;box-shadow:3px 3px 0 var(--ink)}
+h1{font-family:var(--display);font-weight:800;letter-spacing:-.04em;font-size:clamp(34px,6vw,64px);line-height:1;margin:0;text-wrap:balance}
+h1 .hl{background:var(--lime);border:3px solid var(--ink);border-radius:12px;padding:0 10px;box-shadow:5px 5px 0 var(--ink);display:inline-block}
+.angle{max-width:68ch;font-size:17px;margin:0}
+.facts{display:flex;flex-wrap:wrap;gap:10px;margin:6px 0 0;padding:0;list-style:none}
+.facts li{border:2px solid var(--ink);border-radius:30px;padding:4px 12px;font-weight:700;font-size:13px;background:var(--paper)}
+nav.jump{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+nav.jump a{color:var(--ink);font-weight:700;font-size:13px}
+h2{font-family:var(--display);font-weight:800;letter-spacing:-.03em;font-size:28px;margin:0 0 14px;text-wrap:balance}
+section{padding-block:22px;border-top:3px solid var(--ink)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,340px),1fr));gap:22px;align-items:start}
+.post{display:grid;gap:8px;min-width:0}
+.chip{font-size:12.5px;font-weight:700;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.chip .id{background:var(--ink);color:var(--cream);border-radius:6px;padding:1px 7px;font-variant-numeric:tabular-nums}
+.pin{background:var(--coral);color:var(--ink);border:2px solid var(--ink);border-radius:20px;padding:0 8px;font-size:11px;letter-spacing:.06em;text-transform:uppercase}
+.frame{background:var(--paper);border:2.5px solid var(--ink);border-radius:16px;box-shadow:6px 6px 0 var(--ink);overflow:hidden}
+.ph{display:flex;align-items:center;gap:10px;padding:10px 12px;border-bottom:1px solid var(--line)}
+.av{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;font-weight:800;font-family:var(--display);border:2px solid var(--ink);background:var(--lime);flex:none}
+.li .av{border-radius:50%;background:var(--pink)}
+.pn{font-weight:700;font-size:14px;line-height:1.2}
+.ps{font-size:12px;color:var(--muted)}
+.pl{margin-left:auto;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:2px 8px;border-radius:12px;color:var(--paper)}
+.li .pl{background:var(--li)} .fb .pl{background:var(--fb)} .ig .pl{background:var(--ink)}
+.cap{padding:12px 14px;font-size:14px;line-height:1.5;overflow-wrap:anywhere}
+.cap .tag{color:var(--blue);font-weight:500}
+.cap .lnk{color:var(--li);text-decoration:underline;word-break:break-all}
+.ig .cap .lnk{color:var(--coral)}
+.media img,.media video{display:block;width:100%;height:auto;max-width:100%}
+.vid{background:var(--ink)}
+.vid video{max-height:620px;margin:0 auto;aspect-ratio:9/16;width:auto;max-width:100%}
+.car{position:relative}
+.track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:thin}
+.track img{flex:0 0 100%;scroll-snap-align:start;width:100%}
+.hint{position:absolute;top:10px;right:10px;background:var(--ink);color:var(--cream);font-size:11px;font-weight:700;padding:3px 8px;border-radius:12px}
+details{font-size:12.5px;color:var(--muted)}
+details summary{cursor:pointer;font-weight:700;color:var(--ink)}
+details summary:focus-visible,a:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.ml{margin-top:4px;overflow-wrap:anywhere}.ml b{color:var(--ink)}
+.tw{overflow-x:auto;border:2.5px solid var(--ink);border-radius:12px;background:var(--paper)}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;background:var(--lime)}
+td{font-variant-numeric:tabular-nums}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:22px}
+.two>div{min-width:0}
+ul{margin:0;padding-left:20px;display:grid;gap:6px;max-width:75ch}
+.note{font-size:13px;color:var(--muted);max-width:75ch}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
+</style>
+<div class="wrap">
+<header class="top">
+  <div class="eyebrow">Day60 Social · Week 46 <span class="st">Proposed · awaiting Philip</span></div>
+  <h1>What Day60 <span class="hl">is</span> and isn't</h1>
+  <p class="angle">{{ANGLE}}</p>
+  <ul class="facts"><li>Sun Nov 8 – Sat Nov 14</li><li>LinkedIn 3</li><li>Instagram 5</li><li>Facebook 5</li><li>Times in Central</li><li>Batch A Sun · Batch B Wed</li></ul>
+  <nav class="jump" aria-label="Jump to"><a href="#schedule">Schedule</a><a href="#pins">Pins</a><a href="#bios">Bios</a><a href="#script">30-second script</a><a href="#questions">Open questions</a></nav>
+</header>
+<section id="schedule"><h2>Schedule</h2>{{SCHED}}<p class="note">Copy, images and Reels below are exactly what goes into Buffer. LinkedIn gets the Day60 page tag on the word "Day60" when scheduled. Instagram links live in the bio.</p></section>
+{{DAYS}}
+<section id="pins" class="two"><div><h2>Pinned and featured</h2>{{PINS}}</div><div id="questions"><h2>Open questions</h2>{{QS}}</div></section>
+<section id="bios"><h2>Profile bio lines</h2>{{BIOS}}</section>
+<section id="script"><h2>Saturday filming: 30-second "is / isn't"</h2>{{SCRIPT}}</section>
+</div>

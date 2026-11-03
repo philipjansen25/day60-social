@@ -1,6 +1,7 @@
 # Week 46 · Sun Nov 8 – Sat Nov 14, 2026 · "What Day60 is / isn't"
 
 **Status: PROPOSED. Philip approves before anything goes into Buffer.**
+Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 
 **Angle:** show plainly what Day60 is (a 60-day sprint that gets you to the 4 people closest to the hire, with a note in your voice that you send) and what it isn't (an auto-apply bot, a LinkedIn hack, mass messaging). We contrast with the category ("auto-apply bots", "mass-apply tools", "spray and pray") and never name a competitor. Fair line: "Keep your tracker and your résumé tool. Day60 is the part after you find the job."
 
