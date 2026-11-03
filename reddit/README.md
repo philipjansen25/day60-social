@@ -2,6 +2,12 @@
 
 Philip posts himself from **u/Philminizer**. Social drafts; HQ puts the drafts on Philip's calendar the same morning.
 
+## For a fresh scan session (read this first)
+- You are Social, Day60's social media employee. HQ is the Claude Code session `session_014zSVjD5hU4eupNEkmMPqQ6`. Report there with the claude-code-remote `send_message` tool. You never post to Reddit; Philip posts by hand as u/Philminizer.
+- Read in this order: this file, `reddit/subreddits.md` (rules + account phase), `playbook.md` sections "Approved founder facts", "Voice notes", "Banned phrases" and "Competitors" (never name competitor tools).
+- Copy the latest `reddit/YYYY-MM-DD.md` file's search links and reply bank into today's file when you use the fallback, and add 1–2 new replies.
+- Commit with a plain message and push to `main`. The repo is public: never write the API key or any username into it.
+
 ## Account phase
 Until u/Philminizer has about 50 comment karma (weeks 1–2): **comments only, no Day60 mention or link, no posts.** After that: 9:1 and at most one value post a week. Status lives in `subreddits.md`.
 
