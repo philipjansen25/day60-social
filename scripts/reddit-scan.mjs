@@ -22,6 +22,8 @@ const args = Object.fromEntries(process.argv.slice(2).reduce((acc, a, i, all) =>
 const DAYS = Number(args.days || 2);
 const MAX = Number(args.max || 5);
 const MIN_SCORE = 2;
+const MAX_PER_SUB = Number(args['per-sub'] || 2);
+const MAX_AGE_DAYS = 7;
 
 // Subreddits come from reddit/subreddits.md (table rows that start with "| r/").
 function readSubs() {
@@ -79,6 +81,23 @@ function alreadyUsedIds() {
   return ids;
 }
 
+// Age in days from Google's date field or an "Xmo ago"-style marker in the snippet; null if unknown.
+function ageDays(t) {
+  // Only Google's date field or the date prefix Google puts at the start of a snippet ("3mo ago · ...").
+  const text = t.date ? String(t.date) : String(t.snippet || '').slice(0, 24);
+  const rel = text.match(/\b(\d+)\s*(h|hr|hrs|hours?|d|days?|w|wk|weeks?|mo|months?|y|yr|years?)\s+ago\b/i);
+  if (rel) {
+    const n = Number(rel[1]), u = rel[2].toLowerCase();
+    if (u.startsWith('h')) return n / 24;
+    if (u.startsWith('d')) return n;
+    if (u.startsWith('w')) return n * 7;
+    if (u.startsWith('mo')) return n * 30;
+    if (u.startsWith('y')) return n * 365;
+  }
+  const abs = Date.parse(String(t.date || ''));
+  return Number.isNaN(abs) ? null : (Date.now() - abs) / 864e5;
+}
+
 function score(t) {
   const text = `${t.title} ${t.snippet}`;
   if (NEGATIVE.some(re => re.test(text))) return { score: -1, matched: [] };
@@ -115,11 +134,14 @@ async function main() {
   }
   const used = alreadyUsedIds();
   const seen = new Set();
+  const seenSub = {};
   const picked = results.map(threadFrom).filter(Boolean)
     .filter(t => !used.has(t.id) && !seen.has(t.id) && seen.add(t.id))
     .map(t => ({ ...t, ...score(t) }))
-    .filter(t => t.score >= MIN_SCORE)
+    .map(t => ({ ...t, ageDays: ageDays(t) }))
+    .filter(t => t.score >= MIN_SCORE && !(t.ageDays !== null && t.ageDays > MAX_AGE_DAYS))
     .sort((a, b) => b.score - a.score)
+    .filter((t, _, all) => { const n = (seenSub[t.subreddit] = (seenSub[t.subreddit] || 0) + 1); return n <= MAX_PER_SUB; })
     .slice(0, MAX)
     .map(({ id, ...t }) => t);
   const out = JSON.stringify(picked, null, 2);
