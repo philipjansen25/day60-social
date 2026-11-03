@@ -11,6 +11,8 @@ Until u/Philminizer has about 50 comment karma (weeks 1–2): **comments only, n
 - Then send HQ one message: file path, plus each thread's URL, sub, title and whether the reply mentions Day60.
 
 ## Finding threads
+**Known limit (Nov 3):** web search can't reach reddit.com (Reddit blocks the crawler) and direct fetches return 403. Until that changes, Philip finds 2–3 threads with the sorted-by-New links in the day's file, or pastes thread URLs and text to HQ for tailored drafts. Each scan file also carries a reusable reply bank.
+
 - Web search with `site:reddit.com` (Reddit blocks direct fetches from our containers). Use the thread URLs search returns; never use mirror sites.
 - Topics: no replies to applications; how to reach a hiring manager or recruiter; cold outreach to land a job; LinkedIn messages that get answered; referrals; following up.
 - Prefer threads that already rank on Google. Skip locked, archived, or already-answered-to-death threads.
