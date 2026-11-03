@@ -104,7 +104,7 @@ Three touches is persistence. Ten is spam.
 
 Anyone who has worked in sales learns this early: following up gets replies, pestering gets you muted.
 
-Day60 keeps it to three touches per person, and you send every one.
+Day60 caps it at three touches per person and tells you when each follow-up is due. You send every one.
 
 Save the carousel for your next follow-up.
 
@@ -173,7 +173,7 @@ Day 0, day 2, day 7. Then stop.
 
 It's easy to send one message and give up, or to send ten and get muted. Three touches is the middle ground: a first note about their problem, a two-line nudge with something new, and a kind last word.
 
-Day60 keeps it to 3 touches per person. You send every one.
+Day60 caps it at 3 touches per person and tells you when each follow-up is due. You send every one.
 
 Save this for your next follow-up. Link in bio to try one job free.
 
@@ -316,7 +316,8 @@ Phone upright, window light, one take, about 75 words. Captions burned in after.
 
 Use it as an IG Reel and a FB Reel next week. It's fine for LinkedIn too, since it has no personal results.
 
-## Open questions for HQ
-1. **Follow-up drafting:** the copy says Day60 keeps it to 3 touches per person (day 0, 2, 7) and that you send every one. It doesn't claim Day60 drafts the day-2 and day-7 notes. If it does, I can say so.
-2. **founder.ts:** I don't have access to it. The only founder facts used are the playbook's approved ones (the 2023 hiring story). Please flag anything in founder.ts that differs.
-3. **IG2/FB4 recording:** the company name is visible on screen. The copy calls it "a real public job posting" and doesn't name the company or imply any relationship. OK as is?
+## HQ answers (Nov 2)
+1. **Follow-ups:** Day60 shows a follow-up task when each touch is due. Don't claim it drafts the day-2 and day-7 notes. Copy now says "tells you when each follow-up is due. You send every one."
+2. **founder.ts** matches (ClickUp, Deel, Google). The 722 story stays LinkedIn-only, told exactly as approved. No ARR, quota or pipeline numbers.
+3. **OpenAI on screen** in the /try recording is fine. Captions say "a real public job posting"; don't name or tag it.
+4. **No hiring-list post** this week. That format starts in week 47.
