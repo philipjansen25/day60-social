@@ -93,7 +93,7 @@ Try it on one job: https://getday60.com/try?utm_source=linkedin&utm_medium=socia
 - Image: https://raw.githubusercontent.com/philipjansen25/day60-social/main/media/chrome-extension/screenshot-2-linkedin.png
 - Alt text: Day60 Chrome extension store screenshot: 'Day60 never reads LinkedIn pages. On a LinkedIn job, it asks you to paste the job's details into Day60 instead.'
 - Tags: Day60 page (auto)
-- Link: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=never-reads-linkedin (swap to https://getday60.com/chrome-extension with the same UTMs once HQ confirms it's live)
+- Link: https://getday60.com/chrome-extension?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=never-reads-linkedin
 - The launch version of this slot moved forward to Thu Nov 5 (see `2026-11/wk1/posts.md`). This is a different angle: why the extension never reads LinkedIn. v1.0.0 claims only.
 
 ```
@@ -107,7 +107,7 @@ It never fills in forms, never applies and never sends a message. You send every
 
 That's slower than a tool that does everything for you. It's also the only way I'd want someone reaching out in my name.
 
-Free in the Chrome Web Store: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=never-reads-linkedin
+Free in the Chrome Web Store: https://getday60.com/chrome-extension?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=never-reads-linkedin
 
 What would you want to know before installing an extension?
 
@@ -238,7 +238,7 @@ Know someone who's tired of the apply button? Tag them.
 
 ### FB3 · Tue Nov 10 · 6:00 PM · Batch A · EXTENSION: PLAIN ANSWERS
 - Image: `p10_chrome_extension.png` (alt text as before: illustrated careers page with the 'Find the 4 people with Day60' button)
-- Link: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-faq
+- Link: https://getday60.com/chrome-extension?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-faq
 - The launch version of this slot moved forward to Sat Nov 7. This is a different angle: the questions people ask before installing an extension. Every answer comes from the v1.0.0 store listing.
 
 ```
@@ -254,7 +254,7 @@ Does it track me? No analytics, and nothing is stored in your browser.
 
 So what does it do? On a job on a company's careers page, click it and press "Find the 4 people with Day60". The job opens in Day60, ready to find the four people closest to the hire. It's free.
 
-Get it here: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-faq
+Get it here: https://getday60.com/chrome-extension?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-faq
 
 Got a question we didn't cover? Ask in the comments.
 
