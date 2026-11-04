@@ -1,6 +1,6 @@
 # Week 45 · Nov 1–7, 2026 · Chrome extension launch set
 
-**Status: PENDING APPROVAL (Philip, Thu Nov 5 morning).** The posts already scheduled this week (Nov 4 and Nov 6) are approved and unchanged; these three are added around them.
+**Status: APPROVED (Philip, Nov 4) and scheduled in Buffer.** The posts already scheduled this week (Nov 4 and Nov 6) are approved and unchanged; these three are added around them.
 
 **Angle:** the extension is live: one click on a company careers page opens the job in Day60. **These are week 46's three extension posts (LI3, FB3, IG5), moved forward** so launch week gets them, per HQ (Nov 4). No new duplicate copy. Week 46 gets a different angle in those slots.
 
