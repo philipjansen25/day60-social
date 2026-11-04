@@ -306,7 +306,30 @@ Share this with someone who's job hunting this weekend.
 | Reddit u/Philminizer | 200 | In sales since 2018. Built SDR teams at ClickUp and Deel. I built Day60, a free 60-day job-search sprint: getday60.com | 118 |
 | TikTok (later, when connected) | 80 | Stop applying. Start prospecting. Free 60-day job-search sprint. | 64 |
 
-## Saturday filming: 30-second "is / isn't" script for Philip
+## Saturday filming (Nov 7): 30-second extension screen recording, narrated by Philip
+**This replaces the talking-head "is / isn't" script as the main Saturday shoot** (that script is kept below as a backup). Screen recording on a laptop: Chrome, with personal tabs and the bookmarks bar hidden, at 1920×1080 or larger. Record the voice-over separately or live. I'll crop it to 1080×1920 for Reels and 1080×1350 for feeds, and burn in captions.
+
+**Before recording:** use a real public job on a company's own careers site (a Greenhouse, Lever or Ashby page is fine). **Don't show LinkedIn**: the LinkedIn features (1.1.0) aren't live in the store. **Stop at the roles view, or blur anything showing a real person's name, photo or email**, because the sprint view can show real people.
+
+| Time | Screen | Philip says | On-screen text |
+| --- | --- | --- | --- |
+| 0–2 s | A job page on a company's careers site, cursor near the toolbar | "Finding a job is easy. Reaching the people behind it is the hard part." | **Found a job you want?** |
+| 2–7 s | Click the Day60 icon in the Chrome toolbar; the popup opens | "When you're on a company's careers page, click Day60…" | **Click Day60** |
+| 7–11 s | Press "Find the 4 people with Day60" | "…and press Find the 4 people." | **One click** |
+| 11–20 s | Day60 opens with the job's link filled in; the four roles appear | "Day60 opens with the job filled in, and shows the four people closest to the hire: the hiring manager, their boss, someone on the team and the recruiter." | **The 4 people closest to the hire** |
+| 20–26 s | Scroll to the note step (blur names) | "Then it drafts a short note to each, in your voice. You send it." | **You send every message** |
+| 26–30 s | End card (I'll add it) | "It only runs when you click it, and never reads LinkedIn. Free in the Chrome Web Store." | **Free · Chrome Web Store** |
+
+About 80 words spoken. If the roles take a few seconds to load, keep recording. I'll cut the wait and label the cut, as with the /try clip.
+
+## Next-week re-theme plan (extension as the theme; full rework after Thursday's brief)
+- Keep the evergreen pinned and featured trio (IG1, FB1, LI1, the is/isn't posts). They explain the product, and the extension sits inside that story.
+- Already extension posts: LI3 (Thu), FB3 (Tue), IG5 (Sat).
+- Swap toward the extension: IG2/FB4 (the /try Reel) become the Saturday screen-recording Reel, once filmed, posting from Tue Nov 10 on. One more FB and one more IG slot get an extension "how it works" carousel (3 steps + what it never does).
+- Keep LI2 (the 722 story) and IG4 (3 touches): they're the method that comes after the first click.
+- I'll deliver the reworked week with the preview by Thursday evening, for Friday's approval.
+
+## Backup script: 30-second "is / isn't" talking head
 Phone upright, window light, one take, about 75 words. Captions burned in after.
 
 | Time | Philip says | On-screen text |

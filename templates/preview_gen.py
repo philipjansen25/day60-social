@@ -1,14 +1,15 @@
 import re, html, json, sys
-REPO='/home/user/day60-social'; WK='2026-11/wk46'
+import sys
+REPO='/home/user/day60-social'; WK=sys.argv[1] if len(sys.argv)>1 else '2026-11/wk46'; OUT=sys.argv[2] if len(sys.argv)>2 else 'day60-social-w46.html'; TPL=sys.argv[3] if len(sys.argv)>3 else 'tpl.html'
 src=open(f'{REPO}/{WK}/posts.md').read()
 posts={}
-for m in re.finditer(r"^### ((?:LI|IG|FB)\d) · (.*?)\n(.*?)```\n(.*?)```", src, re.S|re.M):
+for m in re.finditer(r"^### ((?:LI|IG|FB)[A-Za-z0-9-]*) · (.*?)\n(.*?)```\n(.*?)```", src, re.S|re.M):
     pid, head, meta, copy = m.groups()
     posts[pid]={'head':head,'meta':meta,'copy':copy.strip()}
 sched=[]
 for l in src.split('\n'):
     c=[x.strip() for x in l.split('|')]
-    if len(c)>8 and re.match(r'^(LI|IG|FB)\d$',c[1]): sched.append(dict(id=c[1],day=c[2],time=c[3],plat=c[4],fmt=c[5],asset=c[6],batch=c[7],pin=c[8].replace('**','')))
+    if len(c)>8 and re.match(r'^(LI|IG|FB)[A-Za-z0-9-]*$',c[1]): sched.append(dict(id=c[1],day=c[2],time=c[3],plat=c[4],fmt=c[5],asset=c[6],batch=c[7],pin=c[8].replace('**','')))
 def assets_for(a):
     a=a.replace('–','-')
     m=re.match(r'(p\d+_[a-z_]+?)_1-(\d+)\.png',a)
@@ -59,12 +60,14 @@ days=''.join(f'<section class="day"><h2>{esc(d)}</h2><div class="grid">{"".join(
 def section(title):
     m=re.search(r'^## '+re.escape(title)+r'.*?\n(.*?)(?=^## |\Z)', src, re.S|re.M); return m.group(1) if m else ''
 def md_table(t):
+    if not t.strip(): return ''
     rows=[[c.strip().replace('\\|','|') for c in re.split(r'(?<!\\)\|', l.strip().strip('|'))] for l in t.strip().split('\n') if l.strip().startswith('|')]
     rows=[r for r in rows if not set(''.join(r))<=set('- ')]
     h=''.join(f'<th>{esc(c)}</th>' for c in rows[0])
     b=''.join('<tr>'+''.join(f'<td>{esc(c).replace("**","")}</td>' for c in r)+'</tr>' for r in rows[1:])
     return f'<div class="tw"><table><thead><tr>{h}</tr></thead><tbody>{b}</tbody></table></div>'
 def md_list(t):
+    if not t.strip(): return ''
     items=[l.strip()[2:] if l.strip().startswith('- ') else re.sub(r'^\d+\.\s*','',l.strip()) for l in t.strip().split('\n') if re.match(r'^\s*(-|\d+\.)\s',l)]
     return '<ul>'+''.join('<li>'+re.sub(r'\*\*(.*?)\*\*',r'<b>\1</b>',esc(i))+'</li>' for i in items)+'</ul>'
 bios=md_table(section('Profile bio lines'))
@@ -73,10 +76,12 @@ script=f'<p>{esc(script_sec.strip().split(chr(10))[0])}</p>'+md_table(script_sec
 pins=md_list(section('Pinned and featured'))
 qs=md_list(section('HQ answers') or section('Open questions for HQ'))
 angle=re.search(r'\*\*Angle:\*\* (.*)', src).group(1); angle=angle[0].upper()+angle[1:]
-sched_tbl=md_table('\n'.join(l for l in section('Schedule at a glance').split('\n') if l.startswith('|')))
-html_out=open('/tmp/claude-0/-home-user-day60-social/b6710d43-4ef8-534c-b45e-cef5489411c2/scratchpad/preview/tpl.html').read()
+sched_src=section('Schedule at a glance') or '\n'.join(l for l in src.split('\n') if l.startswith('|') and len(l.split('|'))>8)
+sched_tbl=md_table('\n'.join(l for l in sched_src.split('\n') if l.startswith('|')))
+html_out=open('/tmp/claude-0/-home-user-day60-social/b6710d43-4ef8-534c-b45e-cef5489411c2/scratchpad/preview/'+TPL).read()
 html_out=html_out.replace('{{ANGLE}}',esc(angle).replace('&quot;','"')).replace('{{DAYS}}',days).replace('{{SCHED}}',sched_tbl).replace('{{PINS}}',pins).replace('{{BIOS}}',bios).replace('{{SCRIPT}}',script).replace('{{QS}}',qs)
-open('/tmp/claude-0/-home-user-day60-social/b6710d43-4ef8-534c-b45e-cef5489411c2/scratchpad/preview/day60-social-w46.html','w').write(html_out)
-files={f'assets/{f}': f'{REPO}/{WK}/{f}' for f in sorted(used)}
-json.dump(files, open('/tmp/claude-0/-home-user-day60-social/b6710d43-4ef8-534c-b45e-cef5489411c2/scratchpad/preview/files.json','w'), indent=0)
+open('/tmp/claude-0/-home-user-day60-social/b6710d43-4ef8-534c-b45e-cef5489411c2/scratchpad/preview/'+OUT,'w').write(html_out)
+import os
+files={f'assets/{f}': (f'{REPO}/{WK}/{f}' if os.path.exists(f'{REPO}/{WK}/{f}') else next(os.path.join(dp,f) for dp,_,fs in os.walk(REPO+'/2026-11') if f in fs)) for f in sorted(used)}
+json.dump(files, open('/tmp/claude-0/-home-user-day60-social/b6710d43-4ef8-534c-b45e-cef5489411c2/scratchpad/preview/files_'+OUT.replace('.html','')+'.json','w'), indent=0)
 print(len(posts),'posts',len(sched),'sched',len(files),'files')
