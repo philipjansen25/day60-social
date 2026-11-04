@@ -91,7 +91,7 @@ Try it on one job: https://getday60.com/try?utm_source=linkedin&utm_medium=socia
 
 ### LI3 · Thu Nov 12 · 8:30 AM · Batch B · NEW: CHROME EXTENSION
 - Image: `p10_chrome_extension.png` (labeled "Illustration")
-- Alt text: Day60 Chrome extension, illustrated: on a company careers page, one click shows 'Open this job in Day60'. Runs only when you click it. Never reads LinkedIn pages. Never applies or sends anything.
+- Alt text: Day60 Chrome extension, illustrated: on a company careers page, the extension shows a 'Find the 4 people with Day60' button. Runs only when you click it. Never reads LinkedIn pages. Never applies or sends anything.
 - Tags: Day60 page (auto)
 - Link: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=chrome-extension
 - Replaces the "3 touches" PDF, which moves to week 47. Claims are limited to live version 1.0.0: one click on a company careers page opens that job. No LinkedIn features (those are in 1.1.0, not live).
@@ -182,7 +182,7 @@ Save this for your next follow-up. Link in bio to try one job free.
 
 ### IG5 · Sat Nov 14 · 10:00 AM · Batch B · NEW: CHROME EXTENSION
 - Image: `p10_chrome_extension.png`
-- Alt text: Day60 Chrome extension, illustrated: on a company careers page, one click shows 'Open this job in Day60'. Runs only when you click it. Never reads LinkedIn pages. Never applies or sends anything.
+- Alt text: Day60 Chrome extension, illustrated: on a company careers page, the extension shows a 'Find the 4 people with Day60' button. Runs only when you click it. Never reads LinkedIn pages. Never applies or sends anything.
 - Replaces the never-do Reel on Instagram (it still runs on Facebook, FB2 Mon). The bio link stays on /try, so the caption points people to the Chrome Web Store by name.
 
 ```
@@ -237,7 +237,7 @@ Know someone who's tired of the apply button? Tag them.
 
 ### FB3 · Tue Nov 10 · 6:00 PM · Batch A · NEW: CHROME EXTENSION
 - Image: `p10_chrome_extension.png`
-- Alt text: Day60 Chrome extension, illustrated: on a company careers page, one click shows 'Open this job in Day60'. Runs only when you click it. Never reads LinkedIn pages. Never applies or sends anything.
+- Alt text: Day60 Chrome extension, illustrated: on a company careers page, the extension shows a 'Find the 4 people with Day60' button. Runs only when you click it. Never reads LinkedIn pages. Never applies or sends anything.
 - Link: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=chrome-extension
 - Replaces "Two ways to spend tonight" (`p03_two_ways.png` is kept in the repo for a later week).
 
