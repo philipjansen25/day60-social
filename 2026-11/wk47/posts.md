@@ -35,3 +35,8 @@ Try it on one job: https://getday60.com/try?utm_source=linkedin&utm_medium=socia
 ```
 
 Checks: "Day60" appears once. No em-dashes, no banned phrases. "Eight years in sales" follows the years rule. Nothing about why he left ministry. Every fact is from the approved list or Philip's own words, reworded as allowed. The pastor story stays off the public repo except for these approved lines.
+
+### LI-3touch · moved from week 46 (Nov 4) · day TBD
+- Document: `2026-11/wk46/p06_three_touches_linkedin.pdf` (already built). It moved here because the Chrome extension post took week 46's Thursday LinkedIn slot.
+- Link: use `https://getday60.com/guides/follow-up-after-no-reply?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w47&utm_content=three-touches` (guide links are allowed from week 47).
+- Copy: reuse the week 46 LI3 draft (git history, commit 009d790 or earlier), updating the link. Same "Day60 once" and follow-up wording rules.

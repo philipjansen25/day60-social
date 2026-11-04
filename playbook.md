@@ -15,6 +15,7 @@ Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the 
 - **Stat wording:** "About 3 in 100 LinkedIn applications lead to an interview (Huntr, 2025)." Don't use "3.1%" or "598,627": Huntr's own page shows 3.3%, and the 598,627 total can't be verified.
 - **Verified work emails** are live (since Oct 29) and approved for copy.
 - **Follow-ups:** Day60 caps it at 3 touches per person (day 0, 2, 7) and tells you when each follow-up is due. Don't claim it drafts the follow-up messages.
+- **Chrome extension (live v1.0.0, Nov 4):** store link https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm (add UTMs; Instagram says "search Day60 in the Chrome Web Store"). Claims allowed: on a company careers page, one click opens that job in Day60; it runs only when you click it; it never reads LinkedIn pages; it never fills in forms, applies or sends. Don't promise LinkedIn features until HQ says 1.1.0 is live in the store.
 - **Founder page numbers** (ARR, quota, pipeline) never go into posts.
 - **Approved founder facts (exactly these; posts may tell them in more detail, but the repo holds only these lines):**
   - Career line: "I built SDR teams at ClickUp and Deel, and a partner pipeline program at Google." (At Google: a partner pipeline program, not an SDR team.)

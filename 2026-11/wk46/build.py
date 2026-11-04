@@ -190,6 +190,31 @@ out('p06_three_touches_6', page(
     f'<div class="foot"><div class="logo bg" style="color:{CREAM}">{LOGO_SVG}Day60</div>'
     f'<div class="url" style="color:{CREAM}">6/6</div></div>', bg=INK))
 
+# ---------- P10 Chrome extension (LI3 replacement, FB3, IG5) ----------
+lines = ''.join(f'<div style="height:22px;width:{w}px;background:#E6DFCF;border-radius:11px;margin-top:22px"></div>' for w in (520, 610, 440, 580, 360))
+out('p10_chrome_extension', page(
+    spark(900, 96, 60, CORAL) + spark(975, 205, 36, BLUE) +
+    f'<div class="pill" style="position:absolute;left:72px;top:96px;background:{LIME}">NEW · CHROME EXTENSION</div>'
+    f'<div class="bg" style="position:absolute;left:72px;top:200px;width:930px;font-size:86px;line-height:1">On a careers page? <span class="hl">One click.</span></div>'
+    # browser mock
+    f'<div class="box" style="position:absolute;left:72px;top:440px;width:936px;height:470px;background:{WHITE};overflow:hidden">'
+    f'<div style="height:74px;background:{CREAM};border-bottom:4px solid {INK};display:flex;align-items:center;gap:14px;padding:0 22px">'
+    f'<span style="width:18px;height:18px;border-radius:50%;background:{CORAL};border:3px solid {INK}"></span>'
+    f'<span style="width:18px;height:18px;border-radius:50%;background:{LIME};border:3px solid {INK}"></span>'
+    f'<div style="flex:1;height:40px;border:3px solid {INK};border-radius:20px;background:{WHITE};font-size:22px;display:flex;align-items:center;padding:0 18px;opacity:.85">company.com/careers/account-executive</div>'
+    f'<div style="width:54px;height:54px;border:4px solid {INK};border-radius:14px;background:{LIME};box-shadow:4px 4px 0 {INK};display:grid;place-items:center">{LOGO_SVG}</div></div>'
+    f'<div style="padding:30px 40px"><div class="bg" style="font-size:44px">Account Executive</div>{lines}</div>'
+    f'<div class="box" style="position:absolute;right:26px;top:96px;width:400px;padding:24px 26px;background:{CREAM};box-shadow:8px 8px 0 {INK}">'
+    f'<div style="font-size:22px;font-weight:700;letter-spacing:.08em">DAY60</div>'
+    f'<div class="bg" style="font-size:40px;line-height:1.05;margin-top:8px">Open this job in Day60</div>'
+    f'<div style="margin-top:16px;background:{LIME};border:4px solid {INK};border-radius:12px;padding:10px 0;text-align:center;font-weight:700;font-size:26px">Open &rarr;</div></div></div>'
+    f'<div style="position:absolute;left:74px;top:950px;width:930px;font-size:34px;font-weight:700;line-height:1.5">'
+    f'{mark(True)} <span style="vertical-align:middle">Runs only when you click it</span><br>'
+    f'{mark(True)} <span style="vertical-align:middle">Never reads LinkedIn pages</span><br>'
+    f'{mark(True)} <span style="vertical-align:middle">Never applies or sends anything</span></div>'
+    f'<div style="position:absolute;left:74px;top:1180px;font-size:24px;opacity:.8">Illustration. Free on the Chrome Web Store.</div>'
+    + foot()))
+
 # ---------- Reel scenes (1080x1920) ----------
 W, H = 1080, 1920
 
