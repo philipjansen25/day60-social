@@ -7,21 +7,22 @@
 - **Claims are limited to the live store listing (v1.0.0, checked Nov 4):** on a job on a company's careers page, click the Day60 icon and press "Find the 4 people with Day60", and Day60 opens with the job's link filled in. It works only when you click it. On LinkedIn it never reads the page. It never fills in forms, applies or sends.
 - **Not claimed yet:** the LinkedIn job and LinkedIn profile features. The live listing says "Paste a LinkedIn job's details into Day60 instead." Optional lines for those are at the bottom, ready to add when 1.1.0 is live in the store.
 - **Link:** https://getday60.com/chrome-extension with UTMs. It returned 404 on Nov 4. If it isn't live at posting time, swap in the store link (same UTMs): `https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm`
-- **Image:** `https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk46/p10_chrome_extension.png`. It shows the real "Find the 4 people with Day60" button and is labeled "Illustration". The three store screenshots in the private `day60` repo return 404 from raw GitHub, so Buffer can't load them. Once HQ hosts copies in this repo, I'll review them for real people's names or profiles before use.
+- **Images:** HQ hosted two store screenshots in this repo (`media/chrome-extension/`). I reviewed them: a made-up "Acme" job labeled "Illustrative example" and the 1.0.0 LinkedIn "paste instead" popup. No real people, and both match 1.0.0. Screenshot 3 (LinkedIn job, 1.1.0) isn't here and isn't used. LinkedIn and Facebook use the landscape screenshots as they are. Instagram gets a 4:5 carousel: our card, then the two screenshots framed (`2026-11/wk1/p11_*.png`).
 - **Slots:** LinkedIn has no post on Thursday, so it goes Thu 11:00 AM CT (after Philip's morning approval). Friday already has an approved Instagram post (12 PM) and Facebook post (6 PM). One post per platform per day, so IG and FB take the next free slots, Saturday. If Philip would rather have them Friday, IG Fri 7 PM and FB Fri 8 PM also work.
 - UTM campaign: `2026-w45`.
 
 | # | Day | Time (CT) | Platform | Format | Asset | Batch | Pin |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| LIX | Thu Nov 5 | 11:00 AM | LinkedIn | Image | p10_chrome_extension.png | Now | |
-| IGX | Sat Nov 7 | 10:00 AM | Instagram | Image | p10_chrome_extension.png | Now | |
-| FBX | Sat Nov 7 | 11:00 AM | Facebook | Image | p10_chrome_extension.png | Now | |
+| LIX | Thu Nov 5 | 11:00 AM | LinkedIn | 2 images | screenshot-1-job-page.png, screenshot-2-linkedin.png | Now | |
+| IGX | Sat Nov 7 | 10:00 AM | Instagram | Carousel (3) | p10_chrome_extension.png, p11_ext_careers_page.png, p11_ext_linkedin.png | Now | |
+| FBX | Sat Nov 7 | 11:00 AM | Facebook | Image | screenshot-1-job-page.png | Now | |
 
 ## LinkedIn (Philip's profile)
 
 ### LIX · Thu Nov 5 · 11:00 AM · PENDING APPROVAL
-- Image: `2026-11/wk46/p10_chrome_extension.png`
-- Alt text: Day60 Chrome extension, illustrated: on a company careers page, the extension shows a 'Find the 4 people with Day60' button. Runs only when you click it. Never reads LinkedIn pages. Never applies or sends anything.
+- Images (in order): https://raw.githubusercontent.com/philipjansen25/day60-social/main/media/chrome-extension/screenshot-1-job-page.png, https://raw.githubusercontent.com/philipjansen25/day60-social/main/media/chrome-extension/screenshot-2-linkedin.png
+- Alt text 1: Day60 Chrome extension store screenshot: an illustrative Acme job page with the Day60 popup, 'This is a job page', and the button 'Find the 4 people with Day60'.
+- Alt text 2: Day60 Chrome extension store screenshot: 'Day60 never reads LinkedIn pages. On a LinkedIn job, it asks you to paste the job's details into Day60 instead.'
 - Tags: Day60 page (auto)
 - Link: https://getday60.com/chrome-extension?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w45&utm_content=extension-launch
 
@@ -49,7 +50,8 @@ If you're job hunting, try it on the next careers page you open and tell me how 
 ## Instagram (@getday60)
 
 ### IGX · Sat Nov 7 · 10:00 AM · PENDING APPROVAL
-- Image: `2026-11/wk46/p10_chrome_extension.png` (same alt text as LIX)
+- Carousel (in order): https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk46/p10_chrome_extension.png, https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk1/p11_ext_careers_page.png, https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk1/p11_ext_linkedin.png
+- Alt text: 1 the illustrated extension card (runs only when you click it, never reads LinkedIn pages, never applies or sends) · 2 Day60 Chrome extension store screenshot: an illustrative Acme job page with the Day60 popup, 'This is a job page', and the button 'Find the 4 people with Day60'. · 3 Day60 Chrome extension store screenshot: 'Day60 never reads LinkedIn pages. On a LinkedIn job, it asks you to paste the job's details into Day60 instead.'
 
 ```
 Finding a job is easy. Reaching the people behind it is the hard part.
@@ -66,7 +68,8 @@ Free: search "Day60" in the Chrome Web Store.
 ## Facebook (Day60 Page)
 
 ### FBX · Sat Nov 7 · 11:00 AM · PENDING APPROVAL
-- Image: `2026-11/wk46/p10_chrome_extension.png` (same alt text as LIX)
+- Image: https://raw.githubusercontent.com/philipjansen25/day60-social/main/media/chrome-extension/screenshot-1-job-page.png
+- Alt text: Day60 Chrome extension store screenshot: an illustrative Acme job page with the Day60 popup, 'This is a job page', and the button 'Find the 4 people with Day60'.
 - Link: https://getday60.com/chrome-extension?utm_source=facebook&utm_medium=social&utm_campaign=2026-w45&utm_content=extension-launch
 
 ```

@@ -12,6 +12,7 @@ for l in src.split('\n'):
     if len(c)>8 and re.match(r'^(LI|IG|FB)[A-Za-z0-9-]*$',c[1]): sched.append(dict(id=c[1],day=c[2],time=c[3],plat=c[4],fmt=c[5],asset=c[6],batch=c[7],pin=c[8].replace('**','')))
 def assets_for(a):
     a=a.replace('–','-')
+    if ', ' in a: return [x.strip() for x in a.split(', ')]
     m=re.match(r'(p\d+_[a-z_]+?)_1-(\d+)\.png',a)
     if m: return [f'{m.group(1)}_{i}.png' for i in range(1,int(m.group(2))+1)]
     if a.endswith('.pdf'): return [f'p06_three_touches_{i}.png' for i in range(1,7)]
@@ -82,6 +83,6 @@ html_out=open('/tmp/claude-0/-home-user-day60-social/b6710d43-4ef8-534c-b45e-cef
 html_out=html_out.replace('{{ANGLE}}',esc(angle).replace('&quot;','"')).replace('{{DAYS}}',days).replace('{{SCHED}}',sched_tbl).replace('{{PINS}}',pins).replace('{{BIOS}}',bios).replace('{{SCRIPT}}',script).replace('{{QS}}',qs)
 open('/tmp/claude-0/-home-user-day60-social/b6710d43-4ef8-534c-b45e-cef5489411c2/scratchpad/preview/'+OUT,'w').write(html_out)
 import os
-files={f'assets/{f}': (f'{REPO}/{WK}/{f}' if os.path.exists(f'{REPO}/{WK}/{f}') else next(os.path.join(dp,f) for dp,_,fs in os.walk(REPO+'/2026-11') if f in fs)) for f in sorted(used)}
+files={f'assets/{f}': (f'{REPO}/{WK}/{f}' if os.path.exists(f'{REPO}/{WK}/{f}') else next(os.path.join(dp,f) for dp,_,fs in list(os.walk(REPO+'/'+WK.split('/')[0]))+list(os.walk(REPO+'/media')) if f in fs)) for f in sorted(used)}
 json.dump(files, open('/tmp/claude-0/-home-user-day60-social/b6710d43-4ef8-534c-b45e-cef5489411c2/scratchpad/preview/files_'+OUT.replace('.html','')+'.json','w'), indent=0)
 print(len(posts),'posts',len(sched),'sched',len(files),'files')
