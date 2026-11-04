@@ -66,7 +66,6 @@ What would you add to the "isn't" list?
 ```
 
 ### LI2 · Wed Nov 11 · 8:30 AM · Batch A
-- **Check for Philip (Nov 4 results ruling):** the 722 / 9 / 16 numbers are from his 2023 hiring story (hiring side), not his own job-search results, and he approved the story for LinkedIn on Nov 2. If he reads "no other personal numbers" as covering it, swap in the ready "3 touches" PDF (`p06_three_touches_linkedin.pdf`, no personal numbers) with no other change.
 - Image: `p05_722.png`
 - Alt text: 722 applicants in 24 hours. The ones that got answered: 9 cold calls and 16 emails. Stop applying. Start prospecting. Philip's 2023 hiring story.
 - Tags: Day60 page (auto)

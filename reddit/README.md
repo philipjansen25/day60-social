@@ -47,6 +47,7 @@ Reply:
 ```
 
 ## Reply rules
+- No hashtags in Reddit replies (exempt from the hashtag rule, per HQ Nov 4).
 - Method first: answer the actual question with specifics the person can use today. Short paragraphs, plain words, no headings, no bullet walls, no emoji, no em-dashes, no "Great question!".
 - Sound like a person who ran SDR teams, not a brand. Only facts from playbook.md's "Approved founder facts" that are cleared for Reddit (the ministry line and "in sales since 2018" are fine; the 722 story is LinkedIn-only). **Philip's personal results never go on Reddit.** No invented anecdotes, users, numbers or quotes.
 - **9:1:** about nine helpful replies with no mention for every one that mentions Day60.

@@ -23,7 +23,7 @@ Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the 
   - Ministry, clean version: "Before sales, I spent nearly 10 years in ministry, 5 as an ordained pastor. Leading from a stage every week and sitting with people in hard seasons made VP and C-suite calls feel like talking to anyone else. I carry conviction into every cold call."
   - Philip's own line, used sparingly and always as his words: "I figured I'd been 'selling' Jesus for 10 years, I might as well sell some software."
   - Never say or hint why he left ministry. Add no facts beyond these.
-  - 2023 hiring story (LinkedIn only): 722 applicants in 24 hours, and the 9 cold calls and 16 emails were the ones that got answered.
+  - 2023 hiring story (LinkedIn only): 722 applicants in 24 hours, and the 9 cold calls and 16 emails were the ones that got answered. It's from the hiring side, not his search results, so the results rule doesn't cover it (HQ, Nov 4).
   - **Philip's results (final ruling, Nov 4):** only his SDR-method benchmarks: a recruiter conversation 37%+ of the time per target job worked, and replies from associated contacts 85%+. **Instagram and Facebook only**, labeled "Philip's own results as an SDR leader; not typical" (or close to it). Never on LinkedIn or Reddit, and never presented as what users get. **No other personal numbers**: the 39 applications / 27 interviews figures are retired.
   - **Keep the repo clean:** no employer lists, dates or personal details beyond these lines (it's public).
 - **Audience:** anyone looking for work, from a first job to a senior role, in any field. They read on phones and arrive mostly from Instagram, Facebook and LinkedIn.
@@ -36,7 +36,7 @@ Standing brief for HQ and every agent: **Head of Growth, Conversion & Monetizati
 - **Price every idea:** $/month (default $0, free option first), minutes of Philip's time, and the metric it should move (follows, clicks to /try, free sprint starts).
 - **Philip's time:** 3–5 hours a week on Day60. Anything Social needs from him must fit a 5-minute item, batched into one short list.
 - **Voice:** content and email follow Ann Handley, with Seth Godin's brevity. Every word earns its place or goes. (The site follows Zinsser and Godin; outreach follows Braun, McKenna and Allen-Knuth.)
-- **House rules:** never automate actions inside LinkedIn; hashtags on every Day60 post on every platform, no exceptions; emails come from Philip, signed by Philip, in the branded Resend design.
+- **House rules:** never automate actions inside LinkedIn; hashtags on every Day60 post on every platform, no exceptions (Day60's own posts on Instagram, Facebook and LinkedIn, plus TikTok when it starts; **Philip's Reddit replies are exempt**, per HQ Nov 4, because hashtags there read as spam and cost karma); emails come from Philip, signed by Philip, in the branded Resend design.
 - **Philip's benchmarks** (a recruiter conversation 37%+ of the time per target job worked; replies from associated contacts 85%+) are his own. IG/FB only, labeled not typical. Never present them as what users get.
 - **Success:** in 90 days, a proof engine (outcomes, testimonials, stories) that runs on its own; in 12 months, a repeatable path to $1M with Philip at 3–5 hours a week.
 - **Ruled (Nov 4):** Buffer scheduling to Philip's LinkedIn profile and the Day60 page is allowed. "Never automate actions inside LinkedIn" covers users' outreach and anything done inside LinkedIn's site.
