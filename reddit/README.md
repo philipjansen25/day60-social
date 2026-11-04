@@ -48,7 +48,7 @@ Reply:
 
 ## Reply rules
 - Method first: answer the actual question with specifics the person can use today. Short paragraphs, plain words, no headings, no bullet walls, no emoji, no em-dashes, no "Great question!".
-- Sound like a person who ran SDR teams, not a brand. Only facts from playbook.md's "Approved founder facts" that are cleared for Reddit (the ministry line and "in sales since 2018" are fine; the 722 story is LinkedIn-only). **Philip's own job-search results (39/27) never go on Reddit.** No invented anecdotes, users, numbers or quotes.
+- Sound like a person who ran SDR teams, not a brand. Only facts from playbook.md's "Approved founder facts" that are cleared for Reddit (the ministry line and "in sales since 2018" are fine; the 722 story is LinkedIn-only). **Philip's personal results never go on Reddit.** No invented anecdotes, users, numbers or quotes.
 - **9:1:** about nine helpful replies with no mention for every one that mentions Day60.
 - Mention Day60 only in a sub where the verified rule allows it, and disclose plainly: "I built a free tool for this, Day60: <link>". Link: `https://getday60.com/try?utm_source=reddit&utm_medium=social&utm_campaign=YYYY-wWW&utm_content=<sub>`.
 - Never offer DMs, never ask for upvotes, never post the same reply twice, never reply from any account but u/Philminizer.
