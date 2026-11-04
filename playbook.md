@@ -87,7 +87,7 @@ Every idea gets reshaped per platform. Never paste one post across channels.
 ### LinkedIn (Philip's personal profile)
 - **Field note:** text-first post, 120–220 words, one idea, short lines. Hook line under 60 characters, so it shows before "...more". Opinion from building SDR teams since 2018, applied to job seekers. One stat card image or none.
 - **PDF carousel (document post):** 5–7 slides, 1080×1350, same brand system as Instagram. Use for The Four People and Tick's Red Pen.
-- Rules: credible and professional, peer to peer. **Never Philip's 39/27 result while he is interviewing.** End on a question that invites a real answer. Put the UTM link in the post body until Buffer supports first comments (after the Essentials upgrade), then move it to the first comment.
+- Rules: credible and professional, peer to peer. **Never Philip's 39/27 result on LinkedIn.** End on a question that invites a real answer. Put the UTM link in the post body until Buffer supports first comments (after the Essentials upgrade), then move it to the first comment.
 
 #### LinkedIn tags (from the week of Nov 8)
 LinkedIn posts go out from Philip's personal profile; the Day60 Page channel is locked on Buffer's free plan.
@@ -259,4 +259,4 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 | --- | --- | --- | --- | --- | --- |
 | w45 | (awaiting first brief, Thu Nov 5) | | | | |
 
-Hooks to retest: "39 applications. 27 interviews." (IG/FB), "About 3 in 100." (LI, if Philip approves the swap), "Every job has 4 people who decide if you get it." (all), "Same job. Two messages." (all).
+Hooks to retest: "39 applications. 27 interviews." (IG/FB, on hold until HQ clears the numbers), "About 3 in 100." (LI, if Philip approves the swap), "Every job has 4 people who decide if you get it." (all), "Same job. Two messages." (all).
