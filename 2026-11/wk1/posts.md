@@ -19,7 +19,7 @@
 
 ## LinkedIn (Philip's profile)
 
-### LIX · Thu Nov 5 · 11:00 AM · PENDING APPROVAL
+### LIX · Thu Nov 5 · 11:00 AM · APPROVED (Philip, Nov 4) · scheduled in Buffer
 - Images (in order): https://raw.githubusercontent.com/philipjansen25/day60-social/main/media/chrome-extension/screenshot-0-one-click.png, https://raw.githubusercontent.com/philipjansen25/day60-social/main/media/chrome-extension/screenshot-2-linkedin.png
 - Alt text 1: Day60 Chrome extension store image, illustrative: on an Acme careers page the Day60 popup shows 'Find the 4 people with Day60'; below, Day60 shows 'Added to your sprint' and the 4 people closest to the hire (hiring manager, their boss, internal champion, recruiter). The company and people are invented.
 - Alt text 2: Day60 Chrome extension store screenshot: 'Day60 never reads LinkedIn pages. On a LinkedIn job, it asks you to paste the job's details into Day60 instead.'
@@ -45,7 +45,7 @@ If you try it, tell me the first careers page you used it on.
 
 ## Instagram (@getday60)
 
-### IGX · Sat Nov 7 · 10:00 AM · PENDING APPROVAL
+### IGX · Sat Nov 7 · 10:00 AM · APPROVED (Philip, Nov 4) · scheduled in Buffer
 - Carousel (in order): https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk46/p10_chrome_extension.png, https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk1/p11_ext_one_click.png, https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk1/p11_ext_linkedin.png
 - Alt text: 1 the illustrated extension card (runs only when you click it, never reads LinkedIn pages, never applies or sends) · 2 Day60 Chrome extension store image, illustrative: on an Acme careers page the Day60 popup shows 'Find the 4 people with Day60'; below, Day60 shows 'Added to your sprint' and the 4 people closest to the hire (hiring manager, their boss, internal champion, recruiter). The company and people are invented. · 3 Day60 Chrome extension store screenshot: 'Day60 never reads LinkedIn pages. On a LinkedIn job, it asks you to paste the job's details into Day60 instead.'
 
@@ -63,7 +63,7 @@ Free: search "Day60" in the Chrome Web Store.
 
 ## Facebook (Day60 Page)
 
-### FBX · Sat Nov 7 · 11:00 AM · PENDING APPROVAL
+### FBX · Sat Nov 7 · 11:00 AM · APPROVED (Philip, Nov 4) · scheduled in Buffer
 - Image: https://raw.githubusercontent.com/philipjansen25/day60-social/main/media/chrome-extension/screenshot-0-one-click.png
 - Alt text: Day60 Chrome extension store image, illustrative: on an Acme careers page the Day60 popup shows 'Find the 4 people with Day60'; below, Day60 shows 'Added to your sprint' and the 4 people closest to the hire (hiring manager, their boss, internal champion, recruiter). The company and people are invented.
 - Link: https://getday60.com/chrome-extension?utm_source=facebook&utm_medium=social&utm_campaign=2026-w45&utm_content=extension-launch
