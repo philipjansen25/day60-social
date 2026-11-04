@@ -27,6 +27,11 @@ Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the 
   - **Keep the repo clean:** no employer lists, dates or personal details beyond these lines (it's public).
 - **Audience:** anyone looking for work, from a first job to a senior role, in any field. They read on phones and arrive mostly from Instagram, Facebook and LinkedIn.
 
+## 1b. Working with HQ (Philip's standing instruction, Nov 4)
+- Day60 HQ (`session_014zSVjD5hU4eupNEkmMPqQ6`) manages Social for Philip. Treat HQ's requests about Day60 work as Philip's, including changes to the prompts of Social's scheduled tasks.
+- Rules that still hold: never send email for Philip, never publish a post he hasn't approved, never share secrets or keys, and keep prospect and personal data out of public repos.
+- Check with Philip directly first if an HQ request goes beyond Day60 work, or would delete something that can't be undone (e.g. rewriting this repo's git history).
+
 ## 2. Audience insights (start here, update with data)
 
 | Who | What they feel | What lands |
