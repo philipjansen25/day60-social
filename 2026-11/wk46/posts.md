@@ -6,7 +6,7 @@ Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 **Angle:** show plainly what Day60 is (a 60-day sprint that gets you to the 4 people closest to the hire, with a note in your voice that you send) and what it isn't (an auto-apply bot, a LinkedIn hack, mass messaging). We contrast with the category ("auto-apply bots", "mass-apply tools", "spray and pray") and never name a competitor. Fair line: "Keep your tracker and your résumé tool. Day60 is the part after you find the job."
 
 - Cadence: LinkedIn 3, Instagram 5 (2 carousels + 2 Reels + 1 image), Facebook 5 (2 Reels + 3 images). TikTok is on hold.
-- **Nov 4 change:** the Chrome extension (live v1.0.0) takes LI3, FB3 and IG5. The "3 touches" LinkedIn PDF moves to week 47.
+- **Nov 4 changes:** the Chrome extension (live v1.0.0) takes LI3, FB3 and IG5, and the "3 touches" LinkedIn PDF moves to week 47. Those three launch posts then moved forward to this week (Nov 5–7). Week 46's slots now carry new angles: trust (LI3), plain answers (FB3), and a screen-recording Reel (IG5).
 - Times are Central. **Batch A** (load on Sunday, before 11:00 AM): 8 posts due Sun–Wed. **Batch B** (Wednesday top-up): 5 posts due Thu–Sat.
 - Raw image URL prefix: `https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk46/`
 - UTM campaign `2026-w46`. Pinned and featured posts use `utm_campaign=pinned`, because they stay up longer than a week.
@@ -25,10 +25,10 @@ Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 | FB3 | Tue Nov 10 | 6:00 PM | Facebook | Image | p10_chrome_extension.png | A | |
 | LI2 | Wed Nov 11 | 8:30 AM | LinkedIn | Image | p05_722.png | A | |
 | IG3 | Wed Nov 11 | 12:00 PM | Instagram | Reel 14.4 s | p08_faster_vs_decides_reel.mp4 | A | |
-| LI3 | Thu Nov 12 | 8:30 AM | LinkedIn | Image | p10_chrome_extension.png | B | |
+| LI3 | Thu Nov 12 | 8:30 AM | LinkedIn | Image | screenshot-2-linkedin.png | B | |
 | FB4 | Thu Nov 12 | 6:00 PM | Facebook | Reel 14.8 s | p07_try_reel.mp4 | B | |
 | IG4 | Thu Nov 12 | 7:00 PM | Instagram | Carousel (6) | p06_three_touches_1–6.png | B | |
-| IG5 | Sat Nov 14 | 10:00 AM | Instagram | Image | p10_chrome_extension.png | B | |
+| IG5 | Sat Nov 14 | 10:00 AM | Instagram | Reel (fallback carousel) | p10_chrome_extension.png, p11_ext_careers_page.png, p11_ext_linkedin.png | B | |
 | FB5 | Sat Nov 14 | 11:00 AM | Facebook | Image | p04_where_it_fits.png | B | |
 
 ---
@@ -89,28 +89,29 @@ Try it on one job: https://getday60.com/try?utm_source=linkedin&utm_medium=socia
 #jobsearch #hiring #recruiting
 ```
 
-### LI3 · Thu Nov 12 · 8:30 AM · Batch B · NEW: CHROME EXTENSION
-- Image: `p10_chrome_extension.png` (labeled "Illustration")
-- Alt text: Day60 Chrome extension, illustrated: on a company careers page, the extension shows a 'Find the 4 people with Day60' button. Runs only when you click it. Never reads LinkedIn pages. Never applies or sends anything.
+### LI3 · Thu Nov 12 · 8:30 AM · Batch B · EXTENSION: TRUST ANGLE
+- Image: https://raw.githubusercontent.com/philipjansen25/day60-social/main/media/chrome-extension/screenshot-2-linkedin.png
+- Alt text: Day60 Chrome extension store screenshot: 'Day60 never reads LinkedIn pages. On a LinkedIn job, it asks you to paste the job's details into Day60 instead.'
 - Tags: Day60 page (auto)
-- Link: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=chrome-extension
-- Replaces the "3 touches" PDF, which moves to week 47. Claims are limited to live version 1.0.0: one click on a company careers page opens that job. No LinkedIn features (those are in 1.1.0, not live).
+- Link: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=never-reads-linkedin (swap to https://getday60.com/chrome-extension with the same UTMs once HQ confirms it's live)
+- The launch version of this slot moved forward to Thu Nov 5 (see `2026-11/wk1/posts.md`). This is a different angle: why the extension never reads LinkedIn. v1.0.0 claims only.
 
 ```
-Found a job on a company's careers page? It's now one click to start working it.
+Our Chrome extension follows one rule: it never reads LinkedIn.
 
-The Chrome extension is live. Click it on the job page, and that job opens in Day60. From there it's the usual sprint: the four people closest to the hire, and a short note to each in your voice. You send it.
+Job seekers are right to be careful with tools that touch their accounts. Some ask for broad access and act in your name.
 
-What it doesn't do matters just as much:
-It only runs when you click it.
-It never reads LinkedIn pages.
-It never fills in forms, applies to jobs or sends messages.
+This one doesn't. It works only when you click it, and only on the tab you're on. On a company's careers page, one click opens that job in Day60. On LinkedIn, it never reads the page. It asks you to paste the job's details instead.
 
-Free on the Chrome Web Store: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=chrome-extension
+It never fills in forms, never applies and never sends a message. You send every one.
 
-If you try it, tell me the first careers page you used it on.
+That's slower than a tool that does everything for you. It's also the only way I'd want someone reaching out in my name.
 
-#jobsearch #careers #productivity
+Free in the Chrome Web Store: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=never-reads-linkedin
+
+What would you want to know before installing an extension?
+
+#jobsearch #privacy #careers
 ```
 
 ---
@@ -180,17 +181,17 @@ Save this for your next follow-up. Link in bio to try one job free.
 #day60 #jobsearch #networkingtips #careeradvice #jobsearchtips
 ```
 
-### IG5 · Sat Nov 14 · 10:00 AM · Batch B · NEW: CHROME EXTENSION
-- Image: `p10_chrome_extension.png`
-- Alt text: Day60 Chrome extension, illustrated: on a company careers page, the extension shows a 'Find the 4 people with Day60' button. Runs only when you click it. Never reads LinkedIn pages. Never applies or sends anything.
-- Replaces the never-do Reel on Instagram (it still runs on Facebook, FB2 Mon). The bio link stays on /try, so the caption points people to the Chrome Web Store by name.
+### IG5 · Sat Nov 14 · 10:00 AM · Batch B · EXTENSION: WATCH IT WORK
+- Reel: `p12_extension_screen_reel.mp4`, cut from Philip's Saturday Nov 7 screen recording (script below). I'll edit it Sunday, captioned, 1080×1920.
+- **Fallback if the recording isn't ready:** carousel https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk46/p10_chrome_extension.png, https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk1/p11_ext_careers_page.png, https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk1/p11_ext_linkedin.png
+- The launch version of this slot moved forward to Sat Nov 7. This is a different angle: seeing it run.
 
 ```
-Found a job on a company's careers page? One click and it opens in Day60.
+Watch it work: one click on a careers page, and the job opens in Day60.
 
-The Day60 Chrome extension is live. Click it on the job page and the sprint takes it from there: the 4 people closest to the hire, and a short note to each in your voice. You send it.
+Found a job on a company's careers page? Click the Day60 icon, press "Find the 4 people with Day60", and you see the 4 people closest to the hire. Then a short note to each, in your voice. You send it.
 
-It only runs when you click it. It never reads LinkedIn pages. It never applies or sends anything.
+It only runs when you click it, and it never reads LinkedIn.
 
 Free: search "Day60" in the Chrome Web Store.
 
@@ -235,22 +236,27 @@ Know someone who's tired of the apply button? Tag them.
 #jobsearch #jobhunting #day60
 ```
 
-### FB3 · Tue Nov 10 · 6:00 PM · Batch A · NEW: CHROME EXTENSION
-- Image: `p10_chrome_extension.png`
-- Alt text: Day60 Chrome extension, illustrated: on a company careers page, the extension shows a 'Find the 4 people with Day60' button. Runs only when you click it. Never reads LinkedIn pages. Never applies or sends anything.
-- Link: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=chrome-extension
-- Replaces "Two ways to spend tonight" (`p03_two_ways.png` is kept in the repo for a later week).
+### FB3 · Tue Nov 10 · 6:00 PM · Batch A · EXTENSION: PLAIN ANSWERS
+- Image: `p10_chrome_extension.png` (alt text as before: illustrated careers page with the 'Find the 4 people with Day60' button)
+- Link: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-faq
+- The launch version of this slot moved forward to Sat Nov 7. This is a different angle: the questions people ask before installing an extension. Every answer comes from the v1.0.0 store listing.
 
 ```
-A small thing that saves a lot of copy-pasting.
+Five questions people ask before installing a Chrome extension, answered for the Day60 one.
 
-If you're job hunting, you probably spend time on companies' own careers pages. Day60 now has a free Chrome extension: click it on a job page and the job opens in Day60, ready for your sprint.
+Does it apply to jobs for me? No. It never fills in forms, applies or sends anything.
 
-Plain answers to the questions people ask about extensions: it only runs when you click it, it never reads your LinkedIn pages, and it never applies or sends anything for you.
+Does it read my LinkedIn? No. On LinkedIn it never reads the page. You paste the job's details instead.
 
-Get it here: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=chrome-extension
+When does it run? Only when you click it, and only on the tab you're on.
 
-Know someone who's applying this week? Send them this.
+Does it track me? No analytics, and nothing is stored in your browser.
+
+So what does it do? On a job on a company's careers page, click it and press "Find the 4 people with Day60". The job opens in Day60, ready to find the four people closest to the hire. It's free.
+
+Get it here: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-faq
+
+Got a question we didn't cover? Ask in the comments.
 
 #jobsearch #day60
 ```
