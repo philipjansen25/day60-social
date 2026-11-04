@@ -29,14 +29,14 @@
 ```
 Found a job on a company's careers page? It's now one click to start working it.
 
-The Chrome extension is live. Click it on the job page, and that job opens in Day60. From there it's the usual sprint: the four people closest to the hire, and a short note to each in your voice. You send it.
+The Chrome extension is live. Open a job on a company's careers page, click the Day60 icon, then the button to find the 4 people. From there it's the usual sprint: the four people closest to the hire, and a short note to each in your voice. You send it.
 
 What it doesn't do matters just as much:
 It only runs when you click it.
 It never reads LinkedIn pages.
 It never fills in forms, applies to jobs or sends messages.
 
-Free on the Chrome Web Store: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w45&utm_content=extension-launch
+Add it to Chrome: https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w45&utm_content=extension-launch
 
 If you try it, tell me the first careers page you used it on.
 
@@ -52,7 +52,7 @@ If you try it, tell me the first careers page you used it on.
 ```
 Found a job on a company's careers page? One click and it opens in Day60.
 
-The Day60 Chrome extension is live. Click it on the job page and the sprint takes it from there: the 4 people closest to the hire, and a short note to each in your voice. You send it.
+The Day60 Chrome extension is live. Open a job on a company's careers page, click the Day60 icon and press "Find the 4 people with Day60". The sprint takes it from there: the 4 people closest to the hire, and a short note to each in your voice. You send it.
 
 It only runs when you click it. It never reads LinkedIn pages. It never applies or sends anything.
 
