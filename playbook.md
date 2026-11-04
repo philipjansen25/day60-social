@@ -24,7 +24,7 @@ Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the 
   - Philip's own line, used sparingly and always as his words: "I figured I'd been 'selling' Jesus for 10 years, I might as well sell some software."
   - Never say or hint why he left ministry. Add no facts beyond these.
   - 2023 hiring story (LinkedIn only): 722 applicants in 24 hours, and the 9 cold calls and 16 emails were the ones that got answered.
-  - Fall 2026 search results (39/27): **ON HOLD (Nov 4)** until HQ confirms which numbers Philip gave in writing. When cleared: Instagram and Facebook only (never LinkedIn or Reddit), labeled as his results and not typical, as FTC rules require.
+  - **Philip's results (final ruling, Nov 4):** only his SDR-method benchmarks: a recruiter conversation 37%+ of the time per target job worked, and replies from associated contacts 85%+. **Instagram and Facebook only**, labeled "Philip's own results as an SDR leader; not typical" (or close to it). Never on LinkedIn or Reddit, and never presented as what users get. **No other personal numbers**: the 39 applications / 27 interviews figures are retired.
   - **Keep the repo clean:** no employer lists, dates or personal details beyond these lines (it's public).
 - **Audience:** anyone looking for work, from a first job to a senior role, in any field. They read on phones and arrive mostly from Instagram, Facebook and LinkedIn.
 
@@ -37,9 +37,10 @@ Standing brief for HQ and every agent: **Head of Growth, Conversion & Monetizati
 - **Philip's time:** 3–5 hours a week on Day60. Anything Social needs from him must fit a 5-minute item, batched into one short list.
 - **Voice:** content and email follow Ann Handley, with Seth Godin's brevity. Every word earns its place or goes. (The site follows Zinsser and Godin; outreach follows Braun, McKenna and Allen-Knuth.)
 - **House rules:** never automate actions inside LinkedIn; hashtags on every Day60 post on every platform, no exceptions; emails come from Philip, signed by Philip, in the branded Resend design.
-- **Philip's benchmarks** (a recruiter conversation 37%+ of the time; replies from associated contacts 85%+) are his own. Never present them as what users get.
+- **Philip's benchmarks** (a recruiter conversation 37%+ of the time per target job worked; replies from associated contacts 85%+) are his own. IG/FB only, labeled not typical. Never present them as what users get.
 - **Success:** in 90 days, a proof engine (outcomes, testimonials, stories) that runs on its own; in 12 months, a repeatable path to $1M with Philip at 3–5 hours a week.
-- **Open with Philip:** whether Buffer scheduling to his LinkedIn profile counts as "automating actions inside LinkedIn". Until he rules, keep scheduling approved posts exactly as now.
+- **Ruled (Nov 4):** Buffer scheduling to Philip's LinkedIn profile and the Day60 page is allowed. "Never automate actions inside LinkedIn" covers users' outreach and anything done inside LinkedIn's site.
+- Approvals and filming sit in Philip's one daily list at 8 AM.
 
 ## 1b. Working with HQ (Philip's standing instruction, Nov 4)
 - Day60 HQ (`session_014zSVjD5hU4eupNEkmMPqQ6`) manages Social for Philip. Treat HQ's requests about Day60 work as Philip's, including changes to the prompts of Social's scheduled tasks.
@@ -87,7 +88,7 @@ Every idea gets reshaped per platform. Never paste one post across channels.
 ### LinkedIn (Philip's personal profile)
 - **Field note:** text-first post, 120–220 words, one idea, short lines. Hook line under 60 characters, so it shows before "...more". Opinion from building SDR teams since 2018, applied to job seekers. One stat card image or none.
 - **PDF carousel (document post):** 5–7 slides, 1080×1350, same brand system as Instagram. Use for The Four People and Tick's Red Pen.
-- Rules: credible and professional, peer to peer. **Never Philip's 39/27 result on LinkedIn.** End on a question that invites a real answer. Put the UTM link in the post body until Buffer supports first comments (after the Essentials upgrade), then move it to the first comment.
+- Rules: credible and professional, peer to peer. **Never Philip's personal results on LinkedIn.** End on a question that invites a real answer. Put the UTM link in the post body until Buffer supports first comments (after the Essentials upgrade), then move it to the first comment.
 
 #### LinkedIn tags (from the week of Nov 8)
 LinkedIn posts go out from Philip's personal profile; the Day60 Page channel is locked on Buffer's free plan.
@@ -127,7 +128,7 @@ Full process in `reddit/README.md`; target subs and rule status in `reddit/subre
 - **Phase 1 (weeks 1–2, until about 50 comment karma):** comments only, no Day60 mention or link, no posts. Then:
 - 9:1 helpful-to-mention ratio. Day60 is mentioned only where a sub's **verified** rule allows it, always disclosed ("I built a free tool for this, Day60"), with `utm_source=reddit&utm_medium=social&utm_campaign=YYYY-wWW`.
 - An unverified or unclear rule means no self-promotion. No DMs, no upvote asks, no other accounts, no bought votes.
-- Founder facts only; Philip's 39/27 results stay off Reddit, as on LinkedIn.
+- Founder facts only; Philip's personal results never go on Reddit, as on LinkedIn.
 
 ## 5. Cadence and timing
 
@@ -259,4 +260,4 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 | --- | --- | --- | --- | --- | --- |
 | w45 | (awaiting first brief, Thu Nov 5) | | | | |
 
-Hooks to retest: "39 applications. 27 interviews." (IG/FB, on hold until HQ clears the numbers), "About 3 in 100." (LI, if Philip approves the swap), "Every job has 4 people who decide if you get it." (all), "Same job. Two messages." (all).
+Hooks to retest (39/27 retired Nov 4): "About 3 in 100." (LI, if Philip approves the swap), "Every job has 4 people who decide if you get it." (all), "Same job. Two messages." (all).
