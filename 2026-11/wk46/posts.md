@@ -451,7 +451,7 @@ Phone upright, window light, one take, about 75 words. Captions burned in after.
 | 1–8 s | "It never applies for you. It never sends anything. It never touches your LinkedIn." | ✕ applies for you · ✕ sends for you · ✕ touches your LinkedIn |
 | 8–19 s | "Here's what it does. Paste a job link. It finds the four people closest to the hire, and drafts a short note to each, in your voice." | **4 people. 1 short note each. Your voice.** |
 | 19–25 s | "You read it. You hit send. Three touches, max." | **You send it. 3 touches max.** |
-| 25–30 s | "Every other tool makes applying faster. Day60 gets you to the person who decides. Try one job free, link in bio." | **Try one job free · link in bio** |
+| 25–30 s | "Most job tools make applying faster. Day60 gets you to the person who decides. Try one job free, link in bio." | **Try one job free · link in bio** |
 
 Use it as an IG Reel and a FB Reel next week. It's fine for LinkedIn too, since it has no personal results.
 
