@@ -253,6 +253,8 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 
 **Hype and spam:** 🚀 strings, ALL-CAPS sentences, "Don't miss out", "Act now", "Limited time only" (use the real cap: "the first 100 free sprints"), "you won't believe", "this changes everything".
 
+**Claims we can't back up (HQ, Nov 5):** "every other tool", "the only tool", "no one else", "all job tools" and any other sweeping comparison or superlative without a cited source. Use a claim we can prove, e.g. "Most job tools make applying faster."
+
 **Job-seeker clichés we mock, never use straight:** I hope this finds you well, I'm passionate about, I'd love to pick your brain, just following up, to whom it may concern, please find my résumé attached, I'm a great fit.
 
 ## 12. Hard rules (checklist before every hand-off)

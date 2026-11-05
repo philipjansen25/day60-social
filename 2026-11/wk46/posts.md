@@ -43,7 +43,7 @@ Totals: LinkedIn 3, Instagram 5, Facebook 2. Batch A 5 posts (1 approved), Batch
 - First comment: https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=pinned&utm_content=is-isnt
 
 ```
-Every other tool makes applying faster.
+Most job tools make applying faster.
 
 I built one that slows you down to the few jobs worth your time, then gets you to the person who decides.
 
