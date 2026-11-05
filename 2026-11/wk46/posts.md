@@ -296,6 +296,103 @@ Share this with someone who's job hunting this weekend.
 
 ---
 
+## Drafts for HQ (Nov 5, not scheduled): new-look extension posts + site picks
+Approved v9 posts above are unchanged. These are proposals, so Philip approves them before anything goes into Buffer. Each row says which slot it swaps into or adds. Friday Nov 13 has no posts yet, so the two new site-pick posts go there. If both are added, IG and FB have 6 posts each this week. Batch them to stay under Buffer's 10-queued limit.
+
+| ID | Day | Time | Platform | Format | Asset | Batch | Note |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| FB3-new | Draft · swaps | 6:00 PM | Facebook | Carousel (6) | p14_ext_steps_1–6.png | A | Swap into FB3 (Tue Nov 10). Same copy. |
+| IG5-fallback | Draft · swaps | 10:00 AM | Instagram | Carousel (6) | p14_ext_steps_1–6.png | B | New IG5 fallback (Sat Nov 14) if the Reel isn't ready |
+| IG6 | Draft · Fri Nov 13 | 12:00 PM | Instagram | Carousel (7) | p15_checker_1–7.png | B | New slot |
+| FB6 | Draft · Fri Nov 13 | 6:00 PM | Facebook | Image | p16_tick_404.png | B | New slot, light post |
+
+### FB3-new · Tue Nov 10 · 6:00 PM · swaps the FB3 image for the new-look carousel
+- Carousel: `p14_ext_steps_1–6.png` (built by `build_ext.py`). The copy is FB3's, word for word, and slide 5 ("What it never does") matches the FAQ.
+- Link: https://getday60.com/chrome-extension?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-faq
+- Alt text (per slide): 1 "From a careers page to your sprint. One click." with Tick pointing · 2 Step 01, an invented Northpine Account Executive job on its careers page · 3 Step 02, the Day60 popup with the "Find the 4 people with Day60" button · 4 Step 03, Day60 with the job link filled in and the four roles: hiring manager, their boss, internal champion, recruiter · 5 What it never does: read your LinkedIn pages, fill in forms or apply, send messages; it runs only when you click it · 6 Free in the Chrome Web Store, getday60.com/chrome-extension
+- Claims are limited to the live v1.0.0 store listing. The company is invented and labeled. p10 is untouched because the scheduled IGX post uses it.
+
+```
+Five questions people ask before installing a Chrome extension, answered for the Day60 one.
+
+Does it apply to jobs for me? No. It never fills in forms, applies or sends anything.
+
+Does it read my LinkedIn? No. On LinkedIn it never reads the page. You paste the job's details instead.
+
+When does it run? Only when you click it, and only on the tab you're on.
+
+Does it track me? No analytics, and nothing is stored in your browser.
+
+So what does it do? On a job on a company's careers page, click it and press "Find the 4 people with Day60". The job opens in Day60, ready to find the four people closest to the hire. It's free.
+
+Get it here: https://getday60.com/chrome-extension?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-faq
+
+Got a question we didn't cover? Ask in the comments.
+
+#jobsearch #day60
+```
+
+### IG5-fallback · Sat Nov 14 · 10:00 AM · new-look fallback for the IG5 Reel
+- Carousel: `p14_ext_steps_1–6.png`. It replaces the old-look p10 + wk1/p11 fallback. The IG5 copy is unchanged.
+- Alt text (per slide): same as FB3-new.
+
+```
+Watch it work: one click on a careers page, and the job opens in Day60.
+
+Found a job on a company's careers page? Click the Day60 icon, press "Find the 4 people with Day60", and you see the 4 people closest to the hire. Then a short note to each, in your voice. You send it.
+
+It only runs when you click it, and it never reads LinkedIn.
+
+Free: search "Day60" in the Chrome Web Store.
+
+#day60 #jobsearch #jobsearchtips #careertips #productivity
+```
+
+### IG6 · Fri Nov 13 · 12:00 PM · SITE PICK: MESSAGE CHECKER
+- Carousel: `p15_checker_1–7.png` (built by `build_picks.py`). Slides 2, 4 and 6 are real crops of getday60.com/message-checker, shot Nov 5: the choice cards and Tick's checklist. The draft is set in our own card because the site's message box edges are faint.
+- Both drafts are invented (sender "Sam", recipient "Dana", company "Northpine"), and the slides say so. The live checker really scored them 7 to fix / 6 passed, then All 13 rules pass.
+- Link (bio stays /try; this goes in the caption as text): https://getday60.com/message-checker?utm_source=instagram&utm_medium=social&utm_campaign=2026-w46&utm_content=message-checker
+- Alt text (per slide): 1 "Would Tick let you send it?" with Tick thinking · 2 Step 01, the checker's three choices: cold email, LinkedIn connection note, LinkedIn message after they accept · 3 Step 02, an invented first draft that opens "I hope this email finds you well" · 4 Tick's checklist: 7 to fix, 6 passed, short subject line and "doesn't start with I" flagged · 5 Step 03, the invented rewrite to Dana with one question and a sign-off · 6 Tick's checklist: all 13 rules pass · 7 Check it before you send it, free, getday60.com/message-checker
+
+```
+Would Tick let you send it?
+
+We ran one cold email through Day60's free message checker.
+
+The first draft: 7 things to fix. It opened with "I". The subject line ran 12 words. There was no clear question, two em dashes, and the phrases "I wanted to reach out" and "passionate".
+
+The rewrite: one line about their team, one line of proof, one clear question. All 13 rules pass.
+
+Pick what you're sending (a cold email, a LinkedIn connection note, or the message after they accept), paste your draft, and Tick tells you what to fix and why.
+
+Tick checks the rules, not the facts. Make sure every detail is true.
+
+Free, no sign-up: getday60.com/message-checker
+
+(The sender, recipient and company are invented.)
+
+#day60 #jobsearch #coldemail #jobsearchtips #careertips
+```
+
+### FB6 · Fri Nov 13 · 6:00 PM · SITE PICK: LIGHT POST (404)
+- Image: `p16_tick_404.png`. A real crop of getday60.com/no-such-page, the card only, with no site footer.
+- Link: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=tick-404
+- Alt text: "Even our 404 page has a job to do." The Day60 404 page shows Tick, "This page doesn't exist. Tick looked everywhere.", and buttons for "Back to home" and "Start my free sprint".
+
+```
+Even our 404 page has a job to do.
+
+Land on a page that doesn't exist and Tick has already looked everywhere. Then it points you back to the one thing worth doing.
+
+Same idea as the sprint: don't wander. Pick the job, find the four people closest to the hire, and send one short note to each.
+
+Start a free sprint (no card): https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=tick-404
+
+#day60 #jobsearch #smallwins
+```
+
+---
+
 ## Pinned and featured posts (one per channel)
 - **Instagram:** pin IG1 (the 7-slide carousel) to the top of the grid on Sunday.
 - **Facebook:** pin FB1 to the top of the Page on Sunday night.

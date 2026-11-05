@@ -126,7 +126,7 @@ out("p14_ext_steps_6", page(
     + f'<div class="card" style="position:absolute;left:72px;top:720px;padding:32px 40px;background:{CREAM};box-shadow:12px 12px 0 {LIME}">'
       f'<div class="d" style="font-size:56px">Free in the Chrome Web Store.</div>'
       f'<div style="font-size:34px;font-weight:700;margin-top:10px">getday60.com/chrome-extension</div></div>'
-    + f'<div class="d" style="position:absolute;left:74px;top:1020px;font-size:46px;color:{CREAM}">Link in bio →</div>'
+    + f'<div class="d" style="position:absolute;left:74px;top:1020px;font-size:40px;color:{CREAM}">Search “Day60” in the store →</div>'
     + f'<div style="position:absolute;right:80px;top:930px">{tick("celebrating", 220)}</div>'
     + count(6, dark=True), bg=D_BG))
 
