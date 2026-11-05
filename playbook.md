@@ -217,7 +217,7 @@ Philip published the guides on Nov 3. Besides /try, LinkedIn and Facebook posts 
 
 ## 9b. Design system and "For Social" picks (Philip, Nov 5)
 
-- **Look:** post images follow Day60's own design system (source: `artifacts/day60-design-system` and `.agents/skills/day60-design/SKILL.md` in the day60 repo), not a generic template. Ink borders, offset shadows, stickers, display type. Tick is static. Numbered step blocks. **Lime only as a fill, never as text.**
+- **Look:** post images follow Day60's own design system (source: `artifacts/day60-design-system` and `.agents/skills/day60-design/SKILL.md` in the day60 repo), not a generic template. Ink borders, offset shadows, stickers, display type. Tick is static. Numbered step blocks. **No lime text on cream or white** (lime as a fill there, ink text on it). Lime text or accents on ink/navy backgrounds are fine (HQ, Nov 5).
 - **"How it works" template:** numbered steps with Tick speaking each step in a speech bubble (the Find people pattern, issue #201). Don't show #201 itself until HQ says it's live.
 - **Picks:** each Auditor report lists up to 5 "For Social" picks (live screens that look clean and fun). HQ forwards them; I turn them into posts showing what Day60 feels like.
 - **Show only what's live on getday60.com.** Nothing merged but unpublished.
