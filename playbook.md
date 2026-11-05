@@ -214,6 +214,17 @@ Philip published the guides on Nov 3. Besides /try, LinkedIn and Facebook posts 
 - Footer: Day60 logo bottom left, getday60.com bottom right, slide count on carousels.
 - Text big enough to read on a phone at arm's length: headlines 90px+, body 34px+ on a 1080 canvas.
 
+## 9b. Design system and "For Social" picks (Philip, Nov 5)
+
+- **Look:** post images follow Day60's own design system (source: `artifacts/day60-design-system` and `.agents/skills/day60-design/SKILL.md` in the day60 repo), not a generic template. Ink borders, offset shadows, stickers, display type. Tick is static. Numbered step blocks. **Lime only as a fill, never as text.**
+- **"How it works" template:** numbered steps with Tick speaking each step in a speech bubble (the Find people pattern, issue #201). Don't show #201 itself until HQ says it's live.
+- **Picks:** each Auditor report lists up to 5 "For Social" picks (live screens that look clean and fun). HQ forwards them; I turn them into posts showing what Day60 feels like.
+- **Show only what's live on getday60.com.** Nothing merged but unpublished.
+- **Invented data only:** invented people and companies (swap Wise in the Find people mockups for an invented company). No personal screenshots, nothing from Philip's job search, no real users.
+- **Signed-in screens only from a QA account with invented data** (not created yet). Until then: marketing pages, /try (invented-job flow), /message-checker, /chrome-extension, /how-it-works.
+- **No LinkedIn-profile adding from the extension** until Google approves 1.1.0 and the site flag is flipped (HQ will say).
+- **Method:** live screens are captured at 390px wide (2x) from the public site, then framed in a token-built card (phone frame, step number, Tick bubble, footer). Explainers with no live screen are rebuilt from tokens. Cost $0.
+
 ## 10. Voice notes
 
 - Fun, vibrant, confident, plain English. Think a friend who used to run sales teams and is weirdly good at this.
