@@ -13,16 +13,17 @@
 
 | # | Day | Time (CT) | Platform | Format | Asset | Batch | Pin |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| LIX | Thu Nov 5 | 11:00 AM | LinkedIn | 2 images | screenshot-0-one-click.png, screenshot-2-linkedin.png | Now | |
-| IGX | Sat Nov 7 | 10:00 AM | Instagram | Carousel (3) | p10_chrome_extension.png, p11_ext_one_click.png, p11_ext_linkedin.png | Now | |
+| LIX | Thu Nov 5 | 11:00 AM | LinkedIn | 1 image | screenshot-0-one-click.png | Now | screenshot-2-linkedin.png image removed Nov 5 by HQ: 1.1.0 no longer asks you to paste on a LinkedIn job |
+| IGX | Sat Nov 7 | 10:00 AM | Instagram | Carousel (2) | p10_chrome_extension.png, p11_ext_one_click.png | Now | Slide 3 (p11_ext_linkedin.png) image removed Nov 5 by HQ: 1.1.0 no longer asks you to paste on a LinkedIn job |
 | FBX | Sat Nov 7 | 11:00 AM | Facebook | Image | screenshot-0-one-click.png | Now | |
 
 ## LinkedIn (Philip's profile)
 
 ### LIX · Thu Nov 5 · 11:00 AM · APPROVED (Philip, Nov 4) · scheduled in Buffer
-- Images (in order): https://raw.githubusercontent.com/philipjansen25/day60-social/main/media/chrome-extension/screenshot-0-one-click.png, https://raw.githubusercontent.com/philipjansen25/day60-social/main/media/chrome-extension/screenshot-2-linkedin.png
+- Image: https://raw.githubusercontent.com/philipjansen25/day60-social/main/media/chrome-extension/screenshot-0-one-click.png
+- **Nov 5:** image 2 (screenshot-2-linkedin.png) removed in Buffer: image removed Nov 5 by HQ: 1.1.0 no longer asks you to paste on a LinkedIn job. Text, time and hashtags unchanged.
 - Alt text 1: Day60 Chrome extension store image, illustrative: on an Acme careers page the Day60 popup shows 'Find the 4 people with Day60'; below, Day60 shows 'Added to your sprint' and the 4 people closest to the hire (hiring manager, their boss, internal champion, recruiter). The company and people are invented.
-- Alt text 2: Day60 Chrome extension store screenshot: 'Day60 never reads LinkedIn pages. On a LinkedIn job, it asks you to paste the job's details into Day60 instead.'
+- ~~Alt text 2 (image removed Nov 5)~~: Day60 Chrome extension store screenshot: 'Day60 never reads LinkedIn pages. On a LinkedIn job, it asks you to paste the job's details into Day60 instead.'
 - Tags: Day60 page (auto)
 - Link: https://getday60.com/chrome-extension?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w45&utm_content=extension-launch
 
@@ -46,8 +47,9 @@ If you try it, tell me the first careers page you used it on.
 ## Instagram (@getday60)
 
 ### IGX · Sat Nov 7 · 10:00 AM · APPROVED (Philip, Nov 4) · scheduled in Buffer
-- Carousel (in order): https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk46/p10_chrome_extension.png, https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk1/p11_ext_one_click.png, https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk1/p11_ext_linkedin.png
-- Alt text: 1 the illustrated extension card (runs only when you click it, never reads LinkedIn pages, never applies or sends) · 2 Day60 Chrome extension store image, illustrative: on an Acme careers page the Day60 popup shows 'Find the 4 people with Day60'; below, Day60 shows 'Added to your sprint' and the 4 people closest to the hire (hiring manager, their boss, internal champion, recruiter). The company and people are invented. · 3 Day60 Chrome extension store screenshot: 'Day60 never reads LinkedIn pages. On a LinkedIn job, it asks you to paste the job's details into Day60 instead.'
+- Carousel (in order): https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk46/p10_chrome_extension.png, https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk1/p11_ext_one_click.png
+- **Nov 5:** slide 3 (p11_ext_linkedin.png) removed in Buffer: image removed Nov 5 by HQ: 1.1.0 no longer asks you to paste on a LinkedIn job. Now 2 slides; text, time and hashtags unchanged.
+- Alt text: 1 the illustrated extension card (runs only when you click it, never reads LinkedIn pages, never applies or sends) · 2 Day60 Chrome extension store image, illustrative: on an Acme careers page the Day60 popup shows 'Find the 4 people with Day60'; below, Day60 shows 'Added to your sprint' and the 4 people closest to the hire (hiring manager, their boss, internal champion, recruiter). The company and people are invented.
 
 ```
 Found a job on a company's careers page? One click and it opens in Day60.

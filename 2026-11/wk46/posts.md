@@ -306,8 +306,8 @@ Approved v9 posts above are unchanged. These are proposals, so Philip approves t
 | IG5-fallback | Draft · swaps | 10:00 AM | Instagram | Carousel (6) | p14_ext_steps_1–6.png | B | New IG5 fallback (Sat Nov 14) if the Reel isn't ready |
 | IG6 | Draft · Fri Nov 13 | 12:00 PM | Instagram | Carousel (7) | p15_checker_1–7.png | B | New slot |
 | FB6 | Draft · Fri Nov 13 | 6:00 PM | Facebook | Image | p16_tick_404.png | B | New slot, light post |
-| IG7 | Draft · Tue Nov 10 | 12:00 PM | Instagram | Carousel (5) | p17_ext_linkedin_1–5.png | A | New slot. v1.1.0 LinkedIn steps. Schedule only after the site switches and Philip approves |
-| LI3-new | Draft · swaps | 8:30 AM | LinkedIn | Document (5 pages) | p17_ext_linkedin.pdf | B | Replaces LI3 (Thu Nov 12), whose paste claim is out of date. Schedule once /chrome-extension shows the LinkedIn steps, after telling HQ |
+| IG7 | Draft · Tue Nov 10 | 12:00 PM | Instagram | Carousel (5) | p17_ext_linkedin_1–5.png | A | New slot. v1.1.0 LinkedIn steps. On Philip's Nov 6 list. Schedule only after the site switches and Philip approves; check the Buffer 10-post cap first |
+| LI3-new | Draft · swaps | 8:30 AM | LinkedIn | Document (5 pages) | p17_ext_linkedin.pdf | B | Replaces LI3 (Thu Nov 12): HQ approved Nov 5. Schedule once /chrome-extension shows the LinkedIn steps, after telling HQ. Site not live by Wed Nov 11 6 PM CT: post neither, tell HQ and hold |
 
 ### FB3-new · Tue Nov 10 · 6:00 PM · swaps the FB3 image for the new-look carousel
 - Carousel: `p14_ext_steps_1–6.png` (built by `build_ext.py`). The copy is FB3's, word for word, and slide 5 ("What it never does") matches the FAQ.
