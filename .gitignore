@@ -2,3 +2,4 @@
 .env
 .env.*
 2026-11/wk46/_how/
+__pycache__/
