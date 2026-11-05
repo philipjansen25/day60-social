@@ -94,6 +94,7 @@ Try it on one job: https://getday60.com/try?utm_source=linkedin&utm_medium=socia
 - Alt text: Day60 Chrome extension store screenshot: 'Day60 never reads LinkedIn pages. On a LinkedIn job, it asks you to paste the job's details into Day60 instead.'
 - Tags: Day60 page (auto)
 - Link: https://getday60.com/chrome-extension?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=never-reads-linkedin
+- **Out of date after v1.1.0 (Nov 5):** "asks you to paste the job's details" on LinkedIn. Proposed replacement: LI3-new in the drafts below.
 - The launch version of this slot moved forward to Thu Nov 5 (see `2026-11/wk1/posts.md`). This is a different angle: why the extension never reads LinkedIn. v1.0.0 claims only.
 
 ```
@@ -305,19 +306,21 @@ Approved v9 posts above are unchanged. These are proposals, so Philip approves t
 | IG5-fallback | Draft · swaps | 10:00 AM | Instagram | Carousel (6) | p14_ext_steps_1–6.png | B | New IG5 fallback (Sat Nov 14) if the Reel isn't ready |
 | IG6 | Draft · Fri Nov 13 | 12:00 PM | Instagram | Carousel (7) | p15_checker_1–7.png | B | New slot |
 | FB6 | Draft · Fri Nov 13 | 6:00 PM | Facebook | Image | p16_tick_404.png | B | New slot, light post |
+| IG7 | Draft · Tue Nov 10 | 12:00 PM | Instagram | Carousel (5) | p17_ext_linkedin_1–5.png | A | New slot. v1.1.0 LinkedIn steps. Schedule only after the site switches and Philip approves |
+| LI3-new | Draft · swaps | 8:30 AM | LinkedIn | Document (5 pages) | p17_ext_linkedin.pdf | B | Replaces LI3 (Thu Nov 12), whose paste claim is out of date. Schedule once /chrome-extension shows the LinkedIn steps, after telling HQ |
 
 ### FB3-new · Tue Nov 10 · 6:00 PM · swaps the FB3 image for the new-look carousel
 - Carousel: `p14_ext_steps_1–6.png` (built by `build_ext.py`). The copy is FB3's, word for word, and slide 5 ("What it never does") matches the FAQ.
 - Link: https://getday60.com/chrome-extension?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-faq
 - Alt text (per slide): 1 "From a careers page to your sprint. One click." with Tick pointing · 2 Step 01, an invented Northpine Account Executive job on its careers page · 3 Step 02, the Day60 popup with the "Find the 4 people with Day60" button · 4 Step 03, Day60 with the job link filled in and the four roles: hiring manager, their boss, internal champion, recruiter · 5 What it never does: read your LinkedIn pages, fill in forms or apply, send messages; it runs only when you click it · 6 Free in the Chrome Web Store, getday60.com/chrome-extension
-- Claims are limited to the live v1.0.0 store listing. The company is invented and labeled. p10 is untouched because the scheduled IGX post uses it.
+- Claims are limited to the live store listing (LinkedIn answer updated Nov 5 for v1.1.0; the approved FB3 line "You paste the job's details instead" is out of date once /chrome-extension switches). The company is invented and labeled. p10 is untouched because the scheduled IGX post uses it.
 
 ```
 Five questions people ask before installing a Chrome extension, answered for the Day60 one.
 
 Does it apply to jobs for me? No. It never fills in forms, applies or sends anything.
 
-Does it read my LinkedIn? No. On LinkedIn it never reads the page. You paste the job's details instead.
+Does it read my LinkedIn? No. It never reads LinkedIn pages. It uses only the tab's address and title, and only when you press its button.
 
 When does it run? Only when you click it, and only on the tab you're on.
 
@@ -389,6 +392,52 @@ Same idea as the sprint: don't wander. Pick the job, find the four people closes
 Start a free sprint (no card): https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=tick-404
 
 #day60 #jobsearch #smallwins
+```
+
+### IG7 · Tue Nov 10 · 12:00 PM · EXTENSION 1.1.0: THE LINKEDIN STEPS
+- Carousel: `p17_ext_linkedin_1–5.png` (built by `build_li.py`). The popups are crops of the 1.1.0 store screenshots (no names on them). Claims are the listing's LinkedIn lines only: nothing from 1.2.0.
+- Gate: don't schedule until /chrome-extension shows the LinkedIn steps (#239) and Philip approves.
+- Link in bio stays /try. Caption link for reference: https://getday60.com/chrome-extension?utm_source=instagram&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-linkedin
+- Alt text (per slide): 1 "Found it on LinkedIn? Take it to Day60." Two new buttons for LinkedIn, with Tick pointing · 2 Step 01, the Day60 popup on a LinkedIn job: "Find this job on the company's own careers page" and the "Find it with Day60" button; Tick says it looks for the same job on the company's careers page, and if it isn't posted there you paste the description · 3 Step 02, the Day60 popup on a LinkedIn profile: "Add this person to one of your jobs" and the "Add to a job in Day60" button; Tick says pick the job and their role: hiring manager, their boss, champion or recruiter · 4 What it never does: read LinkedIn pages, fill in forms or apply, send messages for you. On LinkedIn it uses only the tab's address and title, and only when you press its button. You send every message · 5 Free in the Chrome Web Store, getday60.com/chrome-extension
+
+```
+Found the job on LinkedIn? Day60 for Chrome now has a button for that. 👀
+
+On a LinkedIn job, press "Find it with Day60". Day60 looks for the same job on the company's own careers page. If the company doesn't post it there, you paste the description.
+
+On a LinkedIn profile, press "Add to a job in Day60". That person goes into one of your jobs as the hiring manager, their boss, an internal champion or the recruiter.
+
+It never reads LinkedIn pages. It uses only the tab's address and title, and only when you press its button. It never fills in forms, applies or sends messages. You send every message.
+
+Free in the Chrome Web Store. Search "Day60" or tap the link in bio.
+
+#jobsearch #linkedintips #careeradvice #jobhunt #day60
+```
+
+### LI3-new · Thu Nov 12 · 8:30 AM · replaces LI3 (EXTENSION: TRUST ANGLE, now with the 1.1.0 LinkedIn steps)
+- Document: `p17_ext_linkedin.pdf` (the 5 IG7 slides). Title: "Day60 for Chrome on LinkedIn". Fallback image: `media/chrome-extension/screenshot-3-linkedin-job.png` (no names on it).
+- Link: https://getday60.com/chrome-extension?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-linkedin
+- Gate: schedule only once /chrome-extension shows the LinkedIn steps live, and tell HQ first. Same trust angle as LI3, updated so it doesn't say "you paste the job's details" on LinkedIn.
+- Alt text: same as IG7, slide by slide.
+
+```
+Our Chrome extension still follows one rule: it never reads LinkedIn pages.
+
+What's new is that it's now useful on LinkedIn anyway.
+
+On a LinkedIn job, press "Find it with Day60". Day60 looks for the same opening on the company's own careers page. If the company doesn't post it there, you paste the description.
+
+On a LinkedIn profile, press "Add to a job in Day60". It saves that person to one of your jobs as the hiring manager, their boss, an internal champion or the recruiter.
+
+How, without reading the page? It uses only the tab's address and title, and only when you press its button. It never fills in forms, never applies and never sends a message. You send every message.
+
+That's slower than a tool that does everything for you. It's also the only way I'd want someone reaching out in my name.
+
+Free in the Chrome Web Store: https://getday60.com/chrome-extension?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-linkedin
+
+What would you want to know before installing an extension?
+
+#jobsearch #privacy #careers #chromeextension
 ```
 
 ---
