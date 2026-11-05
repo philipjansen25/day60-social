@@ -382,7 +382,7 @@ Free, no sign-up: getday60.com/message-checker
 ```
 Even our 404 page has a job to do.
 
-Land on a page that doesn't exist and Tick has already looked everywhere. Then it points you back to the one thing worth doing.
+Land on a page that doesn't exist and Tick has already looked everywhere. Then he points you back to the one thing worth doing.
 
 Same idea as the sprint: don't wander. Pick the job, find the four people closest to the hire, and send one short note to each.
 
@@ -446,7 +446,7 @@ Phone upright, window light, one take, about 75 words. Captions burned in after.
 Use it as an IG Reel and a FB Reel next week. It's fine for LinkedIn too, since it has no personal results.
 
 ## HQ answers (Nov 2)
-1. **Follow-ups:** Day60 shows a follow-up task when each touch is due. Don't claim it drafts the day-2 and day-7 notes. Copy now says "tells you when each follow-up is due. You send every one."
+1. **Follow-ups (updated Nov 5, HQ; #192 live Nov 4):** "Day60 drafts the first message, the hiring manager's day-2 connection note, and the day-7 follow-up when it's due. You send every one." Don't claim it sends, or a sequence of more than 3 touches. Approved v9 copy ("tells you when each follow-up is due") stays as approved.
 2. **founder.ts** matches (ClickUp, Deel, Google). The 722 story stays LinkedIn-only, told exactly as approved. No ARR, quota or pipeline numbers.
 3. **OpenAI on screen** in the /try recording is fine. Captions say "a real public job posting"; don't name or tag it.
 4. **No hiring-list post** this week. That format starts in week 47.

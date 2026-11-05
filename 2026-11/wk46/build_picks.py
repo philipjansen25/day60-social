@@ -139,7 +139,7 @@ out("p16_tick_404",
     + title('Even our 404 page<br>has a <span class="fill">job to do.</span>', 200, 92)
     + shot("not_found.png", 450, 600, 72)
     + f'<div style="position:absolute;left:712px;right:56px;top:500px;font-size:34px;font-weight:700;line-height:1.3">'
-      f'Lost? Tick looked everywhere.<br><br>Then it points you to one thing worth doing: '
+      f'Lost? Tick looked everywhere.<br><br>Then he points you to one thing worth doing: '
       f'<span class="fill" style="white-space:nowrap">a free sprint.</span></div>'
     + foot())
 
