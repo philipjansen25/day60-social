@@ -1,7 +1,7 @@
 # Day60 Social Playbook
 
 Social's working memory between weeks. Updated each week after HQ's Thursday brief.
-Last updated: Sun, Nov 1, 2026 (first version, before any results).
+Last updated: Thu, Nov 5, 2026 (cadence LI 3 / IG 5 / FB 2; LinkedIn links in the first comment; Ops top-up job schedules approved posts).
 
 ---
 
@@ -89,7 +89,7 @@ Every idea gets reshaped per platform. Never paste one post across channels.
 ### LinkedIn (Philip's personal profile)
 - **Field note:** text-first post, 120–220 words, one idea, short lines. Hook line under 60 characters, so it shows before "...more". Opinion from building SDR teams since 2018, applied to job seekers. One stat card image or none.
 - **PDF carousel (document post):** 5–7 slides, 1080×1350, same brand system as Instagram. Use for The Four People and Tick's Red Pen.
-- Rules: credible and professional, peer to peer. **Never Philip's personal results on LinkedIn.** End on a question that invites a real answer. Put the UTM link in the post body until Buffer supports first comments (after the Essentials upgrade), then move it to the first comment.
+- Rules: credible and professional, peer to peer. **Never Philip's personal results on LinkedIn.** End on a question that invites a real answer. **No link in the body.** Every LinkedIn post in posts.md has a "First comment:" line with its UTM link, and Philip posts that comment by hand (Buffer's free plan can't; Philip chose on Nov 5 to stay on it). The copy says "Link in the first comment."
 
 #### LinkedIn tags (from the week of Nov 8)
 LinkedIn posts go out from Philip's personal profile; the Day60 Page channel is locked on Buffer's free plan.
@@ -133,20 +133,21 @@ Full process in `reddit/README.md`; target subs and rule status in `reddit/subre
 
 ## 5. Cadence and timing
 
-Cadence from the week of Nov 8 (set by Philip): **LinkedIn 3, Instagram 5, Facebook 5 = 13 posts a week.** Quality beats volume: if I can't make 5 good posts for a platform in a week, I say so in the brief instead of padding.
+Cadence (Philip, Nov 5; from the week of Nov 8): **LinkedIn 3, Instagram 5, Facebook 2 = 10 posts a week.** Quality beats volume: if I can't make good posts for a platform in a week, I say so in the brief instead of padding.
 
 | Platform | Posts/week | Default mix | Default slots (Central) |
 | --- | --- | --- | --- |
 | LinkedIn | 3 | 2 field notes (text + card) + 1 PDF carousel | Mon, Wed, Thu 8:30 AM |
 | Instagram | 5 | 2 carousels + 3 Reels | Sun 11:00 AM, Mon 12:00 PM, Wed 12:00 PM, Thu 7:00 PM, Sat 10:00 AM |
-| Facebook | 5 | 2 Reels + 3 image or text posts | Sun 7:00 PM, Mon 6:00 PM, Tue 6:00 PM, Thu 6:00 PM, Sat 11:00 AM |
+| Facebook | 2 | 2 posts reusing that week's Instagram images (from Nov 15) | Tue 6:00 PM, Fri 6:00 PM (or the 2 days that fit; never the same day as the IG original) |
 | TikTok | 0 (on hold) | — | Short videos run as IG/FB Reels until HQ says TikTok is connected |
 | Founder video | 1 | 30-second script for Philip | Delivered with the week |
 
-- Facebook can reuse Instagram images and videos where they fit natively, but captions are always written fresh for each platform.
+- **Facebook reuses Instagram art (from the week of Nov 15, Philip):** Facebook's 2 posts use the week's 2 strongest Instagram images or carousels. No Facebook-only art. Captions are always written fresh for Facebook (clickable UTM link, warmer tone).
 - No two posts on the same platform on the same day. Avoid the same idea on IG and FB on the same day.
 - Week runs Sunday through Saturday. Skip national news days (e.g., Election Day) and handle holidays with care (Veterans Day Nov 11, Thanksgiving Nov 26).
-- **Buffer limit:** the free plan holds 10 scheduled posts at a time, so HQ schedules in two batches: **Batch A on Sunday** (posts due Sun–Wed: 2 LI + 3 IG + 3 FB = 8) and **Batch B, a Wednesday top-up** (posts due Thu–Sat: 1 LI + 2 IG + 2 FB = 5). Batch A's Sunday posts must be in Buffer before 11:00 AM Sunday. posts.md gives every post an explicit day, date, time (CT) and batch letter.
+- **Buffer (free plan, Philip's choice Nov 5):** it holds 10 scheduled posts at a time and can't post first comments. **Social never schedules in Buffer.** The Day60 Ops top-up job reads posts.md and schedules **approved posts only** in two batches: **Batch A on Saturday at 2:23 PM CT** (posts due Sun–Wed) and **Batch B on Wednesday** (posts due Thu–Sat), within the 10-post limit. posts.md gives every post an explicit day, date, time (CT) and batch letter.
+- **Approval format the top-up job reads:** an approved post's heading carries `APPROVED (Philip, <date>)`, e.g. `### FB3 · Tue Nov 10 · 6:00 PM · Batch A · APPROVED (Philip, Nov 5) · EXTENSION FAQ`. Posts without it wait. Cut posts go under a "Not scheduled" heading with `(cut)` and `NOT SCHEDULED` in their headings.
 
 ## 6. Hashtag sets
 
@@ -171,7 +172,7 @@ Hashtags go on every post on every platform. Rotate within a set; put them at th
   - `utm_campaign`: the ISO week of the Monday inside our Sunday–Saturday week. Nov 8–14, 2026 = `2026-w46`; Nov 15–21 = `2026-w47`.
   - `utm_content`: short post slug, e.g. `boss-carousel`, so we can trace single posts.
 - Pre-filled job: `https://getday60.com/try?jobUrl=<URL-encoded job link>&utm_source=...` for posts that demo a specific public job.
-- LinkedIn: the full UTM link goes in the post body for now; it moves to the first comment once Buffer supports it.
+- LinkedIn: the full UTM link goes in the "First comment:" line, never the body. Philip comments it by hand.
 - Instagram and TikTok: "link in bio". The bio link stays fixed at `utm_campaign=bio` (`https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio`, same for `tiktok`). No weekly bio edits.
 - Facebook: full UTM link in the post body.
 - Week 1 (Nov 2–6) used an older pattern (`utm_campaign=wk1_<slug>`, LinkedIn with no UTM). From week 46 on, everything follows the rule above.
@@ -264,7 +265,7 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 - [ ] Never imply Day60 sends messages or logs in to LinkedIn.
 - [ ] No real employee named or pictured; no LinkedIn profiles or email addresses shown.
 - [ ] Every LinkedIn post has "Day60" exactly once and a Tags line starting "Day60 page (auto)"; no recruiter/hiring-manager tags; person tags flagged for Philip's 1st-degree check.
-- [ ] Every link has UTMs; IG and TikTok say "link in bio".
+- [ ] Every link has UTMs; IG and TikTok say "link in bio"; LinkedIn has no link in the body and a "First comment:" line.
 - [ ] Re-read for banned phrases and em-dashes.
 
 ## 13. What worked (filled from HQ's numbers)
