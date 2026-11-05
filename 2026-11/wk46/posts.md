@@ -20,13 +20,13 @@ Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 | IG1 | Sun Nov 8 | 11:00 AM | Instagram | Carousel (7) | p01_is_isnt_1–7.png | A | **Pin to grid** |
 | FB1 | Sun Nov 8 | 7:00 PM | Facebook | Image | p02_is_isnt_card.png | A | **Pin to Page** |
 | LI1 | Mon Nov 9 | 8:30 AM | LinkedIn | Image | p02_is_isnt_card.png | A | **Add to Featured** |
-| IG2 | Mon Nov 9 | 12:00 PM | Instagram | Reel 14.8 s | p07_try_reel.mp4 | A | |
+| IG2 | Mon Nov 9 | 12:00 PM | Instagram | Reel 18 s | p13_how_it_works_reel.mp4 | A | |
 | FB2 | Mon Nov 9 | 6:00 PM | Facebook | Reel 12.0 s | p09_never_do_reel.mp4 | A | |
 | FB3 | Tue Nov 10 | 6:00 PM | Facebook | Image | p10_chrome_extension.png | A | |
 | LI2 | Wed Nov 11 | 8:30 AM | LinkedIn | Image | p05_722.png | A | |
 | IG3 | Wed Nov 11 | 12:00 PM | Instagram | Reel 14.4 s | p08_faster_vs_decides_reel.mp4 | A | |
 | LI3 | Thu Nov 12 | 8:30 AM | LinkedIn | Image | screenshot-2-linkedin.png | B | |
-| FB4 | Thu Nov 12 | 6:00 PM | Facebook | Reel 14.8 s | p07_try_reel.mp4 | B | |
+| FB4 | Thu Nov 12 | 6:00 PM | Facebook | Reel 18 s | p13_how_it_works_reel.mp4 | B | |
 | IG4 | Thu Nov 12 | 7:00 PM | Instagram | Carousel (6) | p06_three_touches_1–6.png | B | |
 | IG5 | Sat Nov 14 | 10:00 AM | Instagram | Reel (fallback carousel) | p10_chrome_extension.png, p11_ext_careers_page.png, p11_ext_linkedin.png | B | |
 | FB5 | Sat Nov 14 | 11:00 AM | Facebook | Image | p04_where_it_fits.png | B | |
@@ -137,13 +137,13 @@ Day60 Sprint. Free. No card. Nothing to cancel. Try one job at the link in bio.
 ```
 
 ### IG2 · Mon Nov 9 · 12:00 PM · Batch A
-- Reel: `p07_try_reel.mp4` (14.8 s, 1080×1920, silent; add trending low-key audio in-app if Philip wants). Cover: first frame.
-- Recording: Philip's real phone recording of getday60.com/try on a public job posting. No cuts. The company name shows on screen, but no relationship is implied.
+- Reel: `p13_how_it_works_reel.mp4` (18 s, 1080×1920, silent; add low-key audio in-app if Philip wants). Cover: first frame.
+- **Replaces the retired /try phone clip** (HQ, Nov 5: it showed a real company's posting). Built from Day60's design tokens: 01 paste a job link, 02 Day60 finds the 4 people, 03 Tick checks the message, then "You send it." Invented company (Northpine) and people, labeled "Example · invented company & people" on every data screen.
 
 ```
-Paste a job link. See the 4 people closest to the hire.
+Paste a job link. Meet the 4 people who decide.
 
-Real public job posting, recorded on a phone, no cuts. On the free try page you get the four roles: hiring manager, their boss, an internal champion and the recruiter. In the sprint, Day60 finds the people and their verified work emails where available, then drafts a short note in your voice. You send it.
+Here's one job, start to finish (an invented company, as an example). Day60 finds the four people closest to the hire: the hiring manager, their boss, an internal champion and the recruiter. It drafts a short note to each, and Tick checks every draft against the rules before you see it. You edit it. You send it.
 
 Try one job free, no account: link in bio.
 
@@ -262,15 +262,15 @@ Got a question we didn't cover? Ask in the comments.
 ```
 
 ### FB4 · Thu Nov 12 · 6:00 PM · Batch B
-- Reel: `p07_try_reel.mp4`
-- Link: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=try-reel
+- Reel: `p13_how_it_works_reel.mp4` (replaces the retired /try clip; invented example data, labeled)
+- Link: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=how-it-works-reel
 
 ```
-Here's what happens when you paste a job link into Day60. A real public posting, recorded on a phone, no cuts.
+Here's what happens when you paste a job link into Day60, shown on an invented example company.
 
-You see the four roles closest to the hire: the hiring manager, their boss, an internal champion and the recruiter. Add a few details and Day60 drafts a short note in your voice. Nothing goes out until you send it.
+You see the four people closest to the hire: the hiring manager, their boss, an internal champion and the recruiter. Day60 drafts a short note to each, and Tick checks it before you see it. Nothing goes out until you send it.
 
-Try one job, no account needed: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=try-reel
+Try one job, no account needed: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=how-it-works-reel
 
 Share it with a friend who's applying this week.
 
