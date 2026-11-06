@@ -6,12 +6,15 @@
 //   SERPAPI_API_KEY=... node scripts/reddit-scan.mjs [--days 4] [--max 5] [--out file.json]
 //   node scripts/reddit-scan.mjs --fixture scripts/fixtures/serpapi-sample.json   (offline test)
 //   node scripts/reddit-scan.mjs --queries   (print the Google queries, no key needed)
+//   add --debug [file] to write why each result was dropped (reason, subreddit, title, age; no snippets,
+//   no usernames) to a JSON file outside the repo. Default: <os tmpdir>/reddit-scan-debug.json. Never commit it.
 //
 // Output: JSON array of {title, url, subreddit, date, snippet, score, matched} on stdout (or --out).
 // Exit codes: 0 ok, 2 SERPAPI_API_KEY not set, 3 SerpAPI error.
 
 import fs from 'node:fs';
 import path from 'node:path';
+import os from 'node:os';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -98,6 +101,22 @@ function ageDays(t) {
   return Number.isNaN(abs) ? null : (Date.now() - abs) / 864e5;
 }
 
+// Where ageDays() read the age from: Google's date field, the snippet's date prefix, or nowhere.
+function ageSource(t) {
+  if (t.date) return 'google-date';
+  return /\b\d+\s*(h|hr|hrs|hours?|d|days?|w|wk|weeks?|mo|months?|y|yr|years?)\s+ago\b/i.test(String(t.snippet || '').slice(0, 24)) ? 'snippet-prefix' : null;
+}
+
+function debugPath() {
+  const p = path.resolve(args.debug === true ? path.join(os.tmpdir(), 'reddit-scan-debug.json') : String(args.debug));
+  // The repo is public. Inside it, only the git-ignored name reddit-scan-debug*.json is allowed.
+  if ((p + path.sep).startsWith(ROOT + path.sep) && !/^reddit-scan-debug.*\.json$/.test(path.basename(p))) {
+    console.error(`--debug: refusing to write ${p} inside the repo. Use a path outside it (or a reddit-scan-debug*.json name, which is git-ignored).`);
+    process.exit(4);
+  }
+  return p;
+}
+
 function score(t) {
   const text = `${t.title} ${t.snippet}`;
   if (NEGATIVE.some(re => re.test(text))) return { score: -1, matched: [] };
@@ -135,18 +154,49 @@ async function main() {
   const used = alreadyUsedIds();
   const seen = new Set();
   const seenSub = {};
-  const picked = results.map(threadFrom).filter(Boolean)
-    .filter(t => !used.has(t.id) && !seen.has(t.id) && seen.add(t.id))
-    .map(t => ({ ...t, ...score(t) }))
-    .map(t => ({ ...t, ageDays: ageDays(t) }))
-    .filter(t => t.score >= MIN_SCORE && !(t.ageDays !== null && t.ageDays > MAX_AGE_DAYS))
-    .sort((a, b) => b.score - a.score)
-    .filter((t, _, all) => { const n = (seenSub[t.subreddit] = (seenSub[t.subreddit] || 0) + 1); return n <= MAX_PER_SUB; })
-    .slice(0, MAX)
-    .map(({ id, ...t }) => t);
+  const dropped = [];
+  const drop = (reasons, t) => dropped.push({
+    reason: reasons[0], reasons, subreddit: t.subreddit || null, title: t.title,
+    ageDays: t.ageDays == null ? null : Math.round(t.ageDays * 10) / 10, ageSource: t.ageSource ?? null,
+  });
+  const candidates = [];
+  for (const r of results) {
+    const t = threadFrom(r);
+    if (!t) {
+      const sub = String(r.link || '').match(/reddit\.com\/r\/([A-Za-z0-9_]+)/i);
+      drop(['not-thread-url'], { subreddit: sub ? sub[1] : null, title: scrub(r.title) });
+      continue;
+    }
+    if (used.has(t.id)) { drop(['already-used'], t); continue; }
+    if (seen.has(t.id)) { drop(['duplicate'], t); continue; }
+    seen.add(t.id);
+    const s = { ...t, ...score(t), ageDays: ageDays(t), ageSource: ageSource(t) };
+    const reasons = [];
+    if (s.score < 0) reasons.push('negative-match');
+    if (s.ageDays !== null && s.ageDays > MAX_AGE_DAYS) reasons.push('too-old');
+    if (s.score >= 0 && s.score < MIN_SCORE) reasons.push('low-score');
+    if (reasons.length) { drop(reasons, s); continue; }
+    candidates.push(s);
+  }
+  candidates.sort((a, b) => b.score - a.score);
+  const picked = [];
+  for (const t of candidates) {
+    const n = (seenSub[t.subreddit] = (seenSub[t.subreddit] || 0) + 1);
+    if (n > MAX_PER_SUB) { drop(['per-sub-cap'], t); continue; }
+    if (picked.length >= MAX) { drop(['over-max'], t); continue; }
+    const { id, ageSource: _src, ...keep } = t;
+    picked.push(keep);
+  }
   const out = JSON.stringify(picked, null, 2);
   if (args.out) fs.writeFileSync(String(args.out), out + '\n'); else console.log(out);
   console.error(`${DAYS}-day window: ${picked.length} thread(s) kept from ${results.length} search result(s).${picked.length < 3 ? ' Fewer than 3 fit: say so to HQ, do not pad.' : ''}`);
+  if (args.debug) {
+    const counts = {};
+    for (const d of dropped) counts[d.reason] = (counts[d.reason] || 0) + 1;
+    const file = debugPath();
+    fs.writeFileSync(file, JSON.stringify({ window_days: DAYS, results: results.length, kept: picked.length, dropped_by_reason: counts, dropped }, null, 2) + '\n');
+    console.error(`Dropped by reason: ${Object.entries(counts).map(([k, v]) => `${k} ${v}`).join(', ') || 'none'}. Debug file (do not commit): ${file}`);
+  }
 }
 
 main();
