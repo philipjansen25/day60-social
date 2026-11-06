@@ -5,6 +5,8 @@
 ## LinkedIn (Philip's profile)
 
 ### LI-founder · Mon Nov 16 · 8:30 AM (tentative) · Batch A
+
+**Rebuild before approval (HQ, Nov 6):** the ministry lines are on hold until Philip confirms them himself, so this post gets rebuilt without them. Also drop "Eight years in sales later" (retired) and move the /try link to a "First comment:" line.
 - Format: text only, or text plus a real photo of Philip if he has one he likes. No graphic: a founder story reads more personal without one.
 - Founder facts used: the approved ministry line, Philip's own "selling Jesus" line, the years rule. Nothing about why he left ministry. No added facts.
 - Tags: Day60 page (auto)

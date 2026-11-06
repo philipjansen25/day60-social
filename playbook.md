@@ -25,10 +25,11 @@ Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the 
     - He wrote the Enterprise SDR Target Account Playbook at Deel.
     - He designed the Partner Lead Development Program at Google.
   - Retired (founder.ts doesn't back them): "built SDR teams at ClickUp and Deel", "a partner pipeline program at Google", "eight years in sales", "in sales since 2018". No years-in-sales line at all.
+  - **Ministry lines ON HOLD (HQ, Nov 6):** not in founder.ts. Don't use either line below until Philip confirms it himself.
   - Ministry, clean version: "Before sales, I spent nearly 10 years in ministry, 5 as an ordained pastor. Leading from a stage every week and sitting with people in hard seasons made VP and C-suite calls feel like talking to anyone else. I carry conviction into every cold call."
   - Philip's own line, used sparingly and always as his words: "I figured I'd been 'selling' Jesus for 10 years, I might as well sell some software."
   - Never say or hint why he left ministry. Add no facts beyond these.
-  - 2023 hiring story (LinkedIn only): 722 applicants in 24 hours, and the 9 cold calls and 16 emails were the ones that got answered. It's from the hiring side, not his search results, so the results rule doesn't cover it (HQ, Nov 4).
+  - 2023 hiring story (LinkedIn only): 722 applicants in 24 hours, and the 9 cold calls and 16 emails were the ones that got answered. It's from the hiring side, not his search results, so the results rule doesn't cover it (HQ, Nov 4). Not in founder.ts, but it stays: Philip approved LI2's exact words on Nov 6 (HQ, Nov 6).
   - **Philip's results (final ruling, Nov 4):** only his SDR-method benchmarks: a recruiter conversation 37%+ of the time per target job worked, and replies from associated contacts 85%+. **Instagram and Facebook only**, labeled "Philip's own results as an SDR leader; not typical" (or close to it). Never on LinkedIn or Reddit, and never presented as what users get. **No other personal numbers**: the 39 applications / 27 interviews figures are retired.
   - **Keep the repo clean:** no employer lists, dates or personal details beyond these lines (it's public).
 - **Audience:** anyone looking for work, from a first job to a senior role, in any field. They read on phones and arrive mostly from Instagram, Facebook and LinkedIn.
