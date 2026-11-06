@@ -1,9 +1,9 @@
 #!/usr/bin/env node
-// Day60 Reddit scan: finds fresh Reddit threads through Google's index (SerpAPI, Google engine).
+// Day60 Reddit scan (4-day window by default; HQ, Nov 6): finds fresh Reddit threads through Google's index (SerpAPI, Google engine).
 // It never fetches reddit.com, never uses mirrors, never stores usernames.
 //
 // Usage:
-//   SERPAPI_API_KEY=... node scripts/reddit-scan.mjs [--days 2] [--max 5] [--out file.json]
+//   SERPAPI_API_KEY=... node scripts/reddit-scan.mjs [--days 4] [--max 5] [--out file.json]
 //   node scripts/reddit-scan.mjs --fixture scripts/fixtures/serpapi-sample.json   (offline test)
 //   node scripts/reddit-scan.mjs --queries   (print the Google queries, no key needed)
 //
@@ -19,7 +19,7 @@ const args = Object.fromEntries(process.argv.slice(2).reduce((acc, a, i, all) =>
   if (a.startsWith('--')) acc.push([a.slice(2), all[i + 1] && !all[i + 1].startsWith('--') ? all[i + 1] : true]);
   return acc;
 }, []));
-const DAYS = Number(args.days || 2);
+const DAYS = Number(args.days || 4);
 const MAX = Number(args.max || 5);
 const MIN_SCORE = 2;
 const MAX_PER_SUB = Number(args['per-sub'] || 2);
@@ -146,7 +146,7 @@ async function main() {
     .map(({ id, ...t }) => t);
   const out = JSON.stringify(picked, null, 2);
   if (args.out) fs.writeFileSync(String(args.out), out + '\n'); else console.log(out);
-  console.error(`${picked.length} thread(s) kept from ${results.length} search result(s).${picked.length < 3 ? ' Fewer than 3 fit: say so to HQ, do not pad.' : ''}`);
+  console.error(`${DAYS}-day window: ${picked.length} thread(s) kept from ${results.length} search result(s).${picked.length < 3 ? ' Fewer than 3 fit: say so to HQ, do not pad.' : ''}`);
 }
 
 main();
