@@ -1,6 +1,6 @@
 # Week 46 · Sun Nov 8 – Sat Nov 14, 2026 · "What Day60 is / isn't"
 
-**Status: PARTLY APPROVED.** Philip approved 4 posts on Nov 5 (his "8 yes"): FB3, IG5, IG6 and FB6. Their headings say APPROVED. Everything else waits for Philip's Friday approval (Nov 6) and doesn't go into Buffer until then.
+**Status: APPROVED (Philip, Nov 6).** All 10 posts are approved: FB3, IG5, IG6 and FB6 on Nov 5 (his "8 yes"), then IG1, LI1, IG2, LI2, IG4 and LI3-new on Fri Nov 6 ("approve social posts", relayed by HQ). Every scheduled heading says APPROVED. IG7 stays gated (not in the plan).
 Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 
 **Angle:** show plainly what Day60 is (a 60-day sprint that gets you to the 4 people closest to the hire, with a note in your voice that you send) and what it isn't (an auto-apply bot, a LinkedIn hack, mass messaging). We contrast with the category ("auto-apply bots", "mass-apply tools", "spray and pray") and never name a competitor. Fair line: "Keep your tracker and your résumé tool. Day60 is the part after you find the job."
@@ -19,24 +19,24 @@ Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 
 | # | Day | Time (CT) | Platform | Format | Asset | Batch | Status | Pin |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| IG1 | Sun Nov 8 | 11:00 AM | Instagram | Carousel (7) | p01_is_isnt_1–7.png | A | Waiting (Fri) | **Pin to grid** |
-| LI1 | Mon Nov 9 | 8:30 AM | LinkedIn | Image | p02_is_isnt_card.png | A | Waiting (Fri) | **Add to Featured** |
-| IG2 | Mon Nov 9 | 12:00 PM | Instagram | Reel 18 s | p13_how_it_works_reel.mp4 | A | Waiting (Fri) | |
+| IG1 | Sun Nov 8 | 11:00 AM | Instagram | Carousel (7) | p01_is_isnt_1–7.png | A | **APPROVED (Philip, Nov 6)** | **Pin to grid** |
+| LI1 | Mon Nov 9 | 8:30 AM | LinkedIn | Image | p02_is_isnt_card.png | A | **APPROVED (Philip, Nov 6)** | **Add to Featured** |
+| IG2 | Mon Nov 9 | 12:00 PM | Instagram | Reel 18 s | p13_how_it_works_reel.mp4 | A | **APPROVED (Philip, Nov 6)** | |
 | FB3 | Tue Nov 10 | 6:00 PM | Facebook | Carousel (6) | p14_ext_steps_1–6.png | A | **APPROVED (Philip, Nov 5)** | |
-| LI2 | Wed Nov 11 | 8:30 AM | LinkedIn | Image | p05_722.png | A | Waiting (Fri) | |
-| LI3 | Thu Nov 12 | 8:30 AM | LinkedIn | Image (or LI3-new PDF, gated) | screenshot-2-linkedin.png | B | Waiting (Fri) | |
-| IG4 | Thu Nov 12 | 7:00 PM | Instagram | Carousel (6) | p06_three_touches_1–6.png | B | Waiting (Fri) | |
+| LI2 | Wed Nov 11 | 8:30 AM | LinkedIn | Image | p05_722.png | A | **APPROVED (Philip, Nov 6)** | |
+| LI3-new | Thu Nov 12 | 8:30 AM | LinkedIn | Document (5 pages) | p17_ext_linkedin.pdf | B | **APPROVED (Philip, Nov 6)** | |
+| IG4 | Thu Nov 12 | 7:00 PM | Instagram | Carousel (6) | p06_three_touches_1–6.png | B | **APPROVED (Philip, Nov 6)** | |
 | IG6 | Fri Nov 13 | 12:00 PM | Instagram | Carousel (7) | p15_checker_1–7.png | B | **APPROVED (Philip, Nov 5)** | |
 | FB6 | Fri Nov 13 | 6:00 PM | Facebook | Image | p16_tick_404.png | B | **APPROVED (Philip, Nov 5)** | |
 | IG5 | Sat Nov 14 | 10:00 AM | Instagram | Carousel (6) | p14_ext_steps_1–6.png | B | **APPROVED (Philip, Nov 5)** | |
 
-Totals: LinkedIn 3, Instagram 5, Facebook 2. Batch A 5 posts (1 approved), Batch B 5 posts (3 approved).
+Totals: LinkedIn 3, Instagram 5, Facebook 2. Batch A 5 posts (IG1, LI1, IG2, FB3, LI2), Batch B 5 posts (LI3-new, IG4, IG6, FB6, IG5). All 10 approved.
 
 ---
 
 ## LinkedIn (Philip's profile)
 
-### LI1 · Mon Nov 9 · 8:30 AM · Batch A · FEATURED
+### LI1 · Mon Nov 9 · 8:30 AM · Batch A · APPROVED (Philip, Nov 6) · FEATURED
 - Image: `p02_is_isnt_card.png`
 - Alt text: Day60 in one picture. It is: a 60-day sprint, the 4 people closest to the hire, a short note in your voice, you hit send. It isn't: an auto-apply bot, a LinkedIn login, mass messages, keyword stuffing.
 - Tags: Day60 page (auto)
@@ -66,7 +66,7 @@ What would you add to the "isn't" list?
 #jobsearch #careers #hiring
 ```
 
-### LI2 · Wed Nov 11 · 8:30 AM · Batch A
+### LI2 · Wed Nov 11 · 8:30 AM · Batch A · APPROVED (Philip, Nov 6)
 - Image: `p05_722.png`
 - Alt text: 722 applicants in 24 hours. The ones that got answered: 9 cold calls and 16 emails. Stop applying. Start prospecting. Philip's 2023 hiring story.
 - Tags: Day60 page (auto)
@@ -90,22 +90,24 @@ Try it on one job. Link in the first comment.
 #jobsearch #hiring #recruiting
 ```
 
-### LI3 · Thu Nov 12 · 8:30 AM · Batch B · EXTENSION: TRUST ANGLE
-- Image: https://raw.githubusercontent.com/philipjansen25/day60-social/main/media/chrome-extension/screenshot-2-linkedin.png
-- Alt text: Day60 Chrome extension store screenshot: 'Day60 never reads LinkedIn pages. On a LinkedIn job, it asks you to paste the job's details into Day60 instead.'
+### LI3-new · Thu Nov 12 · 8:30 AM · Batch B · APPROVED (Philip, Nov 6) · EXTENSION: TRUST ANGLE (1.1.0 LinkedIn steps, 5-page document)
+- Document: `p17_ext_linkedin.pdf` (the 5 IG7 slides). Title: "Day60 for Chrome on LinkedIn". Fallback image: `media/chrome-extension/screenshot-3-linkedin-job.png` (no names on it).
 - Tags: Day60 page (auto)
-- First comment: https://getday60.com/chrome-extension?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=never-reads-linkedin
-- **Out of date after v1.1.0 (Nov 5):** "asks you to paste the job's details" on LinkedIn. Proposed replacement: LI3-new in the drafts below.
-- The launch version of this slot moved forward to Thu Nov 5 (see `2026-11/wk1/posts.md`). This is a different angle: why the extension never reads LinkedIn. v1.0.0 claims only.
+- First comment: https://getday60.com/chrome-extension?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-linkedin
+- Gate met (HQ, Nov 6): the live /chrome-extension (build d5b9503) shows the LinkedIn steps (Step 3, "Add to a job in Day60") and the address-and-title line. Same trust angle as the old LI3, which said "paste the job's details" on LinkedIn and is retired.
+- Week-46 claims stay at 1.1.0 (Google listed 1.2.0 on Nov 6; "never reads LinkedIn pages" holds in 1.2.0).
+- Alt text: same as IG7, slide by slide.
 
 ```
-Our Chrome extension follows one rule: it never reads LinkedIn.
+Our Chrome extension still follows one rule: it never reads LinkedIn pages.
 
-Job seekers are right to be careful with tools that touch their accounts. Some ask for broad access and act in your name.
+What's new is that it's now useful on LinkedIn anyway.
 
-This one doesn't. It works only when you click it, and only on the tab you're on. On a company's careers page, one click opens that job in Day60. On LinkedIn, it never reads the page. It asks you to paste the job's details instead.
+On a LinkedIn job, press "Find it with Day60". It looks for the same opening on the company's own careers page. If the company doesn't post it there, you paste the description.
 
-It never fills in forms, never applies and never sends a message. You send every one.
+On a LinkedIn profile, a second button saves that person to one of your jobs as the hiring manager, their boss, an internal champion or the recruiter.
+
+How, without reading the page? It uses only the tab's address and title, and only when you press its button. It never fills in forms, never applies and never sends a message. You send every message.
 
 That's slower than a tool that does everything for you. It's also the only way I'd want someone reaching out in my name.
 
@@ -120,7 +122,7 @@ What would you want to know before installing an extension?
 
 ## Instagram (@getday60)
 
-### IG1 · Sun Nov 8 · 11:00 AM · Batch A · PIN TO GRID
+### IG1 · Sun Nov 8 · 11:00 AM · Batch A · APPROVED (Philip, Nov 6) · PIN TO GRID
 - Carousel: `p01_is_isnt_1.png` … `p01_is_isnt_7.png`
 - Alt text (per slide): 1 "What Day60 is. And what it isn't." · 2 It is a 60-day job-search sprint, up to 3 new jobs a day · 3 It is the 4 people closest to the hire, verified work emails where available · 4 It is a short note in your voice, checked by Tick, 3 touches max · 5 It isn't an auto-apply bot · 6 It isn't a LinkedIn hack · 7 Keep your tracker and your résumé tool. Day60 is the part after you find the job. Free, no card.
 
@@ -138,7 +140,7 @@ Day60 Sprint. Free. No card. Nothing to cancel. Try one job at the link in bio.
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### IG2 · Mon Nov 9 · 12:00 PM · Batch A
+### IG2 · Mon Nov 9 · 12:00 PM · Batch A · APPROVED (Philip, Nov 6)
 - Reel: `p13_how_it_works_reel.mp4` (18 s, 1080×1920, silent; add low-key audio in-app if Philip wants). Cover: first frame.
 - **Replaces the retired /try phone clip** (HQ, Nov 5: it showed a real company's posting). Built from Day60's design tokens: 01 paste a job link, 02 Day60 finds the 4 people, 03 Tick checks the message, then "You send it." Invented company (Northpine) and people, labeled "Example · invented company & people" on every data screen.
 
@@ -152,7 +154,7 @@ Try one job free, no account: link in bio.
 #day60 #jobsearch #jobsearchtips #careertips #jobhunting
 ```
 
-### IG4 · Thu Nov 12 · 7:00 PM · Batch B
+### IG4 · Thu Nov 12 · 7:00 PM · Batch B · APPROVED (Philip, Nov 6)
 - Carousel: `p06_three_touches_1.png` … `p06_three_touches_6.png`
 - Alt text (per slide): 1 "3 touches. Then stop." · 2 Day 0, the first note · 3 Day 2, the nudge · 4 Day 7, the last word · 5 Then stop: three touches is persistence, ten is spam · 6 Four people, three touches, you send every one. Try one job free.
 
@@ -259,13 +261,12 @@ Start a free sprint (no card): https://getday60.com/try?utm_source=facebook&utm_
 
 ---
 
-## Gated drafts (not scheduled)
-FB3-new, IG5-fallback, IG6 and FB6 were approved on Nov 5 and now sit in the plan above. Two gated drafts remain. Neither goes into Buffer without Philip's approval.
+## Gated draft (not scheduled)
+FB3-new, IG5-fallback, IG6 and FB6 were approved on Nov 5, and LI3-new on Nov 6. They sit in the plan above. One gated draft remains, and it doesn't go into Buffer.
 
 | ID | Day | Time | Platform | Format | Asset | Batch | Note |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| IG7 | Draft · Tue Nov 10 | 12:00 PM | Instagram | Carousel (5) | p17_ext_linkedin_1–5.png | A | v1.1.0 LinkedIn steps. On Philip's Nov 6 list. Instagram is at 5, so if it runs it replaces one waiting Instagram post (Philip's pick). Schedule only after the site switches and Philip approves |
-| LI3-new | Draft · swaps | 8:30 AM | LinkedIn | Document (5 pages) | p17_ext_linkedin.pdf | B | Replaces LI3 (Thu Nov 12): HQ approved Nov 5. Schedule once /chrome-extension shows the LinkedIn steps, after telling HQ. Site not live by Wed Nov 11 6 PM CT: post neither, tell HQ and hold |
+| IG7 | Draft · Tue Nov 10 | 12:00 PM | Instagram | Carousel (5) | p17_ext_linkedin_1–5.png | A | v1.1.0 LinkedIn steps. Instagram is at 5, so it runs only if Philip picks which waiting Instagram post it replaces (HQ will say) |
 
 ### IG7 · Tue Nov 10 · 12:00 PM · EXTENSION 1.1.0: THE LINKEDIN STEPS
 - Carousel: `p17_ext_linkedin_1–5.png` (built by `build_li.py`). The popups are crops of the 1.1.0 store screenshots (no names on them). Claims are the listing's LinkedIn lines only: nothing from 1.2.0.
@@ -287,35 +288,8 @@ Free in the Chrome Web Store. Search "Day60" or tap the link in bio.
 #jobsearch #linkedintips #careeradvice #jobhunt #day60
 ```
 
-### LI3-new · Thu Nov 12 · 8:30 AM · replaces LI3 (EXTENSION: TRUST ANGLE, now with the 1.1.0 LinkedIn steps)
-- Document: `p17_ext_linkedin.pdf` (the 5 IG7 slides). Title: "Day60 for Chrome on LinkedIn". Fallback image: `media/chrome-extension/screenshot-3-linkedin-job.png` (no names on it).
-- Tags: Day60 page (auto)
-- First comment: https://getday60.com/chrome-extension?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-linkedin
-- Gate: schedule only once /chrome-extension shows the LinkedIn steps live, and tell HQ first. Same trust angle as LI3, updated so it doesn't say "you paste the job's details" on LinkedIn.
-- Alt text: same as IG7, slide by slide.
-
-```
-Our Chrome extension still follows one rule: it never reads LinkedIn pages.
-
-What's new is that it's now useful on LinkedIn anyway.
-
-On a LinkedIn job, press "Find it with Day60". It looks for the same opening on the company's own careers page. If the company doesn't post it there, you paste the description.
-
-On a LinkedIn profile, a second button saves that person to one of your jobs as the hiring manager, their boss, an internal champion or the recruiter.
-
-How, without reading the page? It uses only the tab's address and title, and only when you press its button. It never fills in forms, never applies and never sends a message. You send every message.
-
-That's slower than a tool that does everything for you. It's also the only way I'd want someone reaching out in my name.
-
-Free in the Chrome Web Store. Link in the first comment.
-
-What would you want to know before installing an extension?
-
-#jobsearch #privacy #careers
-```
-
 ## Not scheduled (Facebook cut to 2, Instagram cut to 5; Nov 5)
-Kept for later weeks. These are out of the plan: the top-up job must not schedule them. The old FB3 copy (v1.0.0, image p10) was replaced by the approved carousel version and is in git history.
+Kept for later weeks. These are out of the plan: the top-up job must not schedule them. The old FB3 copy (v1.0.0, image p10) was replaced by the approved carousel version, and the old LI3 copy ("paste the job's details" on LinkedIn, out of date since 1.1.0) was retired on Nov 6 for LI3-new. Both are in git history.
 
 ### IG3 (cut) · was Wed Nov 11 · 12:00 PM · NOT SCHEDULED
 - Reel: `p08_faster_vs_decides_reel.mp4` (14.4 s, silent text-on-screen)
