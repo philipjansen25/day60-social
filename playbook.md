@@ -1,7 +1,7 @@
 # Day60 Social Playbook
 
 Social's working memory between weeks. Updated each week after HQ's Thursday brief.
-Last updated: Thu, Nov 5, 2026 (cadence LI 3 / IG 5 / FB 2; LinkedIn links in the first comment; Ops top-up job schedules approved posts).
+Last updated: Fri, Nov 6, 2026 (founder facts from founder.ts; "Places are limited" replaces the 100-sprint cap; HQ). Before that: Thu, Nov 5 (cadence LI 3 / IG 5 / FB 2; LinkedIn links in the first comment; Ops top-up job schedules approved posts).
 
 ---
 
@@ -10,7 +10,7 @@ Last updated: Thu, Nov 5, 2026 (cadence LI 3 / IG 5 / FB 2; LinkedIn links in th
 Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the four people closest to the hire (hiring manager, their boss, an internal champion, the recruiter), their verified work emails, and drafts a short note to each in your voice. Tick checks every draft. You send every message. Day60 never logs in to LinkedIn and never sends anything.
 
 - **Goal of every post:** free sprint signups, via **getday60.com/try** (one job free, no account).
-- **Offer:** free sprint, no card. The first 100 free sprints are capped (confirmed by Philip). Never "free forever", "always free" or "lifetime". No prices.
+- **Offer:** free sprint, no card. For scarcity, say only "Places are limited; the site shows what's open." Never a number: the live site shows none (HQ, Nov 6). Never "free forever", "always free" or "lifetime". No prices.
 - **Spots left:** no spots-left posts until HQ sends a verified count. The live count is hidden right now.
 - **Stat wording:** "About 3 in 100 LinkedIn applications lead to an interview (Huntr, 2025)." Don't use "3.1%" or "598,627": Huntr's own page shows 3.3%, and the 598,627 total can't be verified.
 - **Verified work emails** are live (since Oct 29) and approved for copy.
@@ -19,8 +19,12 @@ Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the 
 - **Chrome extension (live v1.0.0, Nov 4):** link to https://getday60.com/chrome-extension with UTMs (the landing page, live Nov 4). The store link (https://chromewebstore.google.com/detail/day60-find-the-4-people-c/nialgbcmlkjbgcgcepfpjbgiicnngppm) is the fallback. Instagram says "search Day60 in the Chrome Web Store". Claims allowed: on a company careers page, one click opens that job in Day60; it runs only when you click it; it never reads LinkedIn pages; it never fills in forms, applies or sends. **1.1.0 LinkedIn steps are live on the site (HQ, Nov 6):** on a LinkedIn job, "Find it with Day60" looks for the same job on the company's own careers page; on a LinkedIn profile, "Add to a job in Day60" adds that person to one of your jobs. It uses only the tab's address and title, and only when you press its button. **From week 47 (1.2.0, listed Nov 6; live site describes it):** posts may also say that on a careers page, the press reads the job's title, company, location and description. "Never reads LinkedIn pages" stays true. Week 46 keeps to 1.1.0 claims.
 - **Founder page numbers** (ARR, quota, pipeline) never go into posts.
 - **Approved founder facts (exactly these; posts may tell them in more detail, but the repo holds only these lines):**
-  - Career line: "I built SDR teams at ClickUp and Deel, and a partner pipeline program at Google." (At Google: a partner pipeline program, not an SDR team.)
-  - Years: "eight years in sales" or "in sales since 2018". Never "nine".
+  - Career facts (from founder.ts, HQ, Nov 6). Use only these four, in Philip's voice, and lead with the first: it's the point of Day60.
+    - He used this playbook (the method Day60 runs) to land jobs at ClickUp, Deel and Google.
+    - He founded ClickUp's sales development team, which grew from 0 to 32 reps.
+    - He wrote the Enterprise SDR Target Account Playbook at Deel.
+    - He designed the Partner Lead Development Program at Google.
+  - Retired (founder.ts doesn't back them): "built SDR teams at ClickUp and Deel", "a partner pipeline program at Google", "eight years in sales", "in sales since 2018". No years-in-sales line at all.
   - Ministry, clean version: "Before sales, I spent nearly 10 years in ministry, 5 as an ordained pastor. Leading from a stage every week and sitting with people in hard seasons made VP and C-suite calls feel like talking to anyone else. I carry conviction into every cold call."
   - Philip's own line, used sparingly and always as his words: "I figured I'd been 'selling' Jesus for 10 years, I might as well sell some software."
   - Never say or hint why he left ministry. Add no facts beyond these.
@@ -87,7 +91,7 @@ Every post belongs to one pillar. Aim for a mix each week; no pillar more than 4
 Every idea gets reshaped per platform. Never paste one post across channels.
 
 ### LinkedIn (Philip's personal profile)
-- **Field note:** text-first post, 120–220 words, one idea, short lines. Hook line under 60 characters, so it shows before "...more". Opinion from building SDR teams since 2018, applied to job seekers. One stat card image or none.
+- **Field note:** text-first post, 120–220 words, one idea, short lines. Hook line under 60 characters, so it shows before "...more". Opinion from Philip's sales development work (only the approved founder facts), applied to job seekers. One stat card image or none.
 - **PDF carousel (document post):** 5–7 slides, 1080×1350, same brand system as Instagram. Use for The Four People and Tick's Red Pen.
 - Rules: credible and professional, peer to peer. **Never Philip's personal results on LinkedIn.** End on a question that invites a real answer. **No link in the body.** Every LinkedIn post in posts.md has a "First comment:" line with its UTM link, and Philip posts that comment by hand (Buffer's free plan can't; Philip chose on Nov 5 to stay on it). The copy says "Link in the first comment."
 
@@ -251,7 +255,7 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 
 **AI giveaways:** delve, tapestry, in today's fast-paced world, in today's job market, navigate the landscape, it's not just X, it's Y (and "isn't about X, it's about Y"), elevate, leverage (as a verb), seamless, harness, embark, journey (for a job search), realm, robust, boost your productivity, let's dive in, buckle up, here's the thing, the secret sauce, a testament to. Avoid em-dashes; use a period, comma, colon or parentheses.
 
-**Hype and spam:** 🚀 strings, ALL-CAPS sentences, "Don't miss out", "Act now", "Limited time only" (use the real cap: "the first 100 free sprints"), "you won't believe", "this changes everything".
+**Hype and spam:** 🚀 strings, ALL-CAPS sentences, "Don't miss out", "Act now", "Limited time only" (for scarcity, say "Places are limited; the site shows what's open"), "you won't believe", "this changes everything".
 
 **Claims we can't back up (HQ, Nov 5):** "every other tool", "the only tool", "no one else", "all job tools" and any other sweeping comparison or superlative without a cited source. Use a claim we can prove, e.g. "Most job tools make applying faster."
 
@@ -262,7 +266,7 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 - [ ] Hashtags on every post.
 - [ ] No Philip personal results on LinkedIn.
 - [ ] No link to or mention of Philip's personal Instagram. Only @getday60, the Day60 Facebook Page, Philip's LinkedIn and TikTok @getday60.
-- [ ] No prices, no "free forever"; the cap is 100 free sprints.
+- [ ] No prices, no "free forever", no number of places ("Places are limited; the site shows what's open").
 - [ ] No invented stats, users, testimonials or quotes. Examples labeled "Illustrative example".
 - [ ] Never imply Day60 sends messages or logs in to LinkedIn.
 - [ ] No real employee named or pictured; no LinkedIn profiles or email addresses shown.

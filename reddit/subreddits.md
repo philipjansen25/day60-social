@@ -6,7 +6,7 @@ Philip posts by hand from his own account, **u/Philminizer**. No other accounts,
 Seven years old, 1 karma, 0 posts, 0 comments: a clean history with almost no karma.
 - **Phase 1 (weeks 1–2, until about 50 comment karma):** helpful comments only. **No Day60 mention or link anywhere, and no posts.** Prefer subs without a karma minimum, and fresh threads where an early, specific answer can rise.
 - **Phase 2 (after about 50 comment karma):** the 9:1 rule applies, and at most one value post a week where the verified rules allow it.
-- Profile bio (draft, sent to HQ for Philip): "In sales since 2018. Built SDR teams at ClickUp and Deel. I built Day60, a free 60-day job-search sprint: getday60.com" (118 characters)
+- Profile bio (draft, sent to HQ for Philip): "Used a prospecting playbook to land jobs at ClickUp, Deel and Google. Founded ClickUp's SDR team, 0 to 32 reps. I built Day60, a free 60-day job-search sprint: getday60.com" (172 characters; founder.ts facts, HQ, Nov 6)
 
 **Status (Nov 2, 2026): every rule below is UNVERIFIED.** Reddit blocks fetches from our containers, and web search didn't return any of these subs' own rule text. Third-party summaries are not the rules. Until a sub's rule is quoted verbatim from its sidebar or rules page (by Philip, or pasted by HQ), the sub is **helpful replies only, no Day60 mention, no link**.
 
