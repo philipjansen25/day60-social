@@ -8,7 +8,7 @@ Philip launches on Product Hunt himself at 12:01 AM Pacific (2:01 AM Central). T
 
 | Platform | Weekly cap | Week 47 so far |
 | --- | --- | --- |
-| LinkedIn | 3 | LI-founder (Mon, rebuild), LI-PH (Tue), LI-3touch (day TBD) |
+| LinkedIn | 3 | LI1 (Mon Nov 16: week 46's approved is/isn't post, moved by Philip Nov 8, already in Buffer), LI-PH (Tue), LI-3touch (Thu, proposed) |
 | Instagram | 5 | IG-PH (Tue); 4 to plan after Thursday's brief |
 | Facebook | 2 | FB-PH (Tue, reuses IG-PH's image); 1 to plan |
 
@@ -86,7 +86,9 @@ Or try one job first, free and with no account: https://getday60.com/try?utm_sou
 
 ## LinkedIn (Philip's profile)
 
-### LI-founder · Mon Nov 16 · 8:30 AM (tentative) · Batch A
+**LinkedIn plan (Nov 8):** Mon Nov 16 belongs to LI1, approved in week 46 and already in Buffer (Philip moved it from Nov 9; its heading stays in `2026-11/wk46/posts.md`). Nothing else goes on LinkedIn that Monday. With LI-PH on Tue, one slot is left: proposed LI-3touch on Thu Nov 19, since its PDF is built. LI-founder moves to week 48, rebuilt (Phil's name, no ministry lines, no years line). Philip can swap the two at Friday's approval. Weekend slots are allowed from now on (Philip, Nov 8).
+
+### LI-founder · moved to week 48 (Nov 8) · day TBD
 
 **Rebuild before approval (HQ, Nov 6):** the ministry lines are on hold until Philip confirms them himself, so this post gets rebuilt without them. Also drop "Eight years in sales later" (retired) and move the /try link to a "First comment:" line.
 - Format: text only, or text plus a real photo of Philip if he has one he likes. No graphic: a founder story reads more personal without one.
@@ -120,7 +122,7 @@ Try it on one job: https://getday60.com/try?utm_source=linkedin&utm_medium=socia
 
 Checks: "Day60" appears once. No em-dashes, no banned phrases. "Eight years in sales" follows the years rule. Nothing about why he left ministry. Every fact is from the approved list or Philip's own words, reworded as allowed. The pastor story stays off the public repo except for these approved lines.
 
-### LI-3touch · moved from week 46 (Nov 4) · day TBD
+### LI-3touch · Thu Nov 19 · 8:30 AM (proposed) · Batch B · DRAFT
 - Document: `2026-11/wk46/p06_three_touches_linkedin.pdf` (already built). It moved here because the Chrome extension post took week 46's Thursday LinkedIn slot.
 - Link: use `https://getday60.com/guides/follow-up-after-no-reply?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w47&utm_content=three-touches` (guide links are allowed from week 47).
 - Copy: reuse the week 46 LI3 draft (git history, commit 009d790 or earlier), updating the link. Same "Day60 once" and follow-up wording rules.

@@ -1,6 +1,8 @@
 # Week 46 · Sun Nov 8 – Sat Nov 14, 2026 · "What Day60 is / isn't"
 
 **Status: APPROVED (Philip, Nov 6).** All 10 posts are approved: FB3, IG5, IG6 and FB6 on Nov 5 (his "8 yes"), then IG1, LI1, IG2, LI2, IG4 and LI3-new on Fri Nov 6 ("approve social posts", relayed by HQ). Every scheduled heading says APPROVED. IG7 stays gated (not in the plan).
+
+**LI1 moved to Mon Nov 16, 8:30 AM CT (Philip, Nov 8, via HQ).** Day60 has no LinkedIn post on Mon Nov 9. HQ already moved LI1 in Buffer; text, image and tag are unchanged, and it counts as one of week 47's three LinkedIn posts. LinkedIn this week: LI2 and LI3-new.
 Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 
 **Angle:** show plainly what Day60 is (a 60-day sprint that gets you to the 4 people closest to the hire, with a note in your voice that you send) and what it isn't (an auto-apply bot, a LinkedIn hack, mass messaging). We contrast with the category ("auto-apply bots", "mass-apply tools", "spray and pray") and never name a competitor. Fair line: "Keep your tracker and your résumé tool. Day60 is the part after you find the job."
@@ -20,7 +22,7 @@ Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 | # | Day | Time (CT) | Platform | Format | Asset | Batch | Status | Pin |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | IG1 | Sun Nov 8 | 11:00 AM | Instagram | Carousel (7) | p01_is_isnt_1–7.png | A | **APPROVED (Philip, Nov 6)** | **Pin to grid** |
-| LI1 | Mon Nov 9 | 8:30 AM | LinkedIn | Image | p02_is_isnt_card.png | A | **APPROVED (Philip, Nov 6)** | **Add to Featured** |
+| LI1 | **Mon Nov 16** (moved) | 8:30 AM | LinkedIn | Image | p02_is_isnt_card.png | A | **APPROVED (Philip, Nov 6)** | **Add to Featured** |
 | IG2 | Mon Nov 9 | 12:00 PM | Instagram | Reel 18 s | p13_how_it_works_reel.mp4 | A | **APPROVED (Philip, Nov 6)** | |
 | FB3 | Tue Nov 10 | 6:00 PM | Facebook | Carousel (6) | p14_ext_steps_1–6.png | A | **APPROVED (Philip, Nov 5)** | |
 | LI2 | Wed Nov 11 | 8:30 AM | LinkedIn | Image | p05_722.png | A | **APPROVED (Philip, Nov 6)** | |
@@ -30,13 +32,13 @@ Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 | FB6 | Fri Nov 13 | 6:00 PM | Facebook | Image | p16_tick_404.png | B | **APPROVED (Philip, Nov 5)** | |
 | IG5 | Sat Nov 14 | 10:00 AM | Instagram | Carousel (6) | p14_ext_steps_1–6.png | B | **APPROVED (Philip, Nov 5)** | |
 
-Totals: LinkedIn 3, Instagram 5, Facebook 2. Batch A 5 posts (IG1, LI1, IG2, FB3, LI2), Batch B 5 posts (LI3-new, IG4, IG6, FB6, IG5). All 10 approved.
+Totals: LinkedIn 2 this week (LI1 moved to Mon Nov 16), Instagram 5, Facebook 2. Batch A 5 posts (IG1, LI1, IG2, FB3, LI2), Batch B 5 posts (LI3-new, IG4, IG6, FB6, IG5). All 10 approved.
 
 ---
 
 ## LinkedIn (Philip's profile)
 
-### LI1 · Mon Nov 9 · 8:30 AM · Batch A · APPROVED (Philip, Nov 6) · FEATURED
+### LI1 · Mon Nov 16 · 8:30 AM · Batch A · APPROVED (Philip, Nov 6) · FEATURED · ALREADY IN BUFFER (Philip moved it Nov 8; HQ rescheduled it, don't schedule again)
 - Image: `p02_is_isnt_card.png`
 - Alt text: Day60 in one picture. It is: a 60-day sprint, the 4 people closest to the hire, a short note in your voice, you hit send. It isn't: an auto-apply bot, a LinkedIn login, mass messages, keyword stuffing.
 - Tags: Day60 page (auto)
@@ -378,7 +380,7 @@ Share this with someone who's job hunting this weekend.
 ## Pinned and featured posts (one per channel)
 - **Instagram:** pin IG1 (the 7-slide carousel) to the top of the grid on Sunday.
 - **Facebook:** FB1 was cut (Nov 5), so no new Facebook pin this week. Keep the current pin.
-- **LinkedIn:** after LI1 posts Monday, Philip adds it to the Featured section of his profile.
+- **LinkedIn:** after LI1 posts on Mon Nov 16, Philip adds it to the Featured section of his profile.
 - All three use `utm_campaign=pinned`, so long-tail signups stay separate from the week's numbers.
 
 ## Profile bio lines (proposed)

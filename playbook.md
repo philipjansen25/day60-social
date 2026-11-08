@@ -149,6 +149,7 @@ Cadence (Philip, Nov 5; from the week of Nov 8): **LinkedIn 3, Instagram 5, Face
 | Founder video | 1 | 30-second script for Philip | Delivered with the week |
 
 - **Facebook reuses Instagram art (from the week of Nov 15, Philip):** Facebook's 2 posts use the week's 2 strongest Instagram images or carousels. No Facebook-only art. Captions are always written fresh for Facebook (clickable UTM link, warmer tone).
+- **Weekend slots are fine on every platform (Philip, Nov 8).** Caps stay LI 3 / IG 5 / FB 2.
 - No two posts on the same platform on the same day. Avoid the same idea on IG and FB on the same day.
 - Week runs Sunday through Saturday. Skip national news days (e.g., Election Day) and handle holidays with care (Veterans Day Nov 11, Thanksgiving Nov 26).
 - **Buffer (free plan, Philip's choice Nov 5):** it holds 10 scheduled posts at a time and can't post first comments. **Social never schedules in Buffer.** The Day60 Ops top-up job reads posts.md and schedules **approved posts only** in two batches: **Batch A on Saturday at 2:23 PM CT** (posts due Sun–Wed) and **Batch B on Wednesday** (posts due Thu–Sat), within the 10-post limit. posts.md gives every post an explicit day, date, time (CT) and batch letter.
