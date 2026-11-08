@@ -17,12 +17,12 @@
 - **Voice:** first person, Phil, peer to peer. One honest promise, no hype. The method is the point: a few well-researched messages a day, sent by him. No competitor names. Ends on a question.
 - **LinkedIn rules:** "Day60" exactly once; Tags: Day60 page (auto); 3 hashtags at most; no link in the body.
 - First comment (Philip, by hand): https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48&utm_content=phil-story
-- **Rule check:** the playbook says no personal results on Phil's LinkedIn. Philip asked for this post on LinkedIn, so it's treated as an exception for this post only, and HQ confirms the scope before approval.
+- **Numbers ruling (HQ, Nov 8; default until Philip says otherwise):** keep any number exactly as Phil wrote it in his own Monday post, as his own result in his own words, and add none. The exception to the no-personal-results rule covers this post and its IG/FB adaptations only. It may say what happened to him, never turn that into a promise for the reader (the site's line: "Nobody can promise you a job. We promise the reps."). Philip sees this ruling on his list and approves the words before scheduling.
 
 ## Instagram and Facebook (proposed adaptations, within the caps)
 
 ### IG-story · day TBD · PROPOSED ADAPTATION
-- The same story for Instagram, from the same source and rules, on a design-system card (no photos of personal documents). Link in bio. Cap: 1 of 5.
+- The same story for Instagram, from the same source and rules (numbers ruling included), on a design-system card (no photos of personal documents). Link in bio. Cap: 1 of 5.
 
 ### FB-story · day TBD (not IG-story's day) · PROPOSED ADAPTATION
 - Reuses IG-story's image (Facebook reuses Instagram art from Nov 15). Fresh, warmer caption with a clickable link: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48&utm_content=phil-story. Cap: 1 of 2.
