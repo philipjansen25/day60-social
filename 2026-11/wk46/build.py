@@ -92,7 +92,7 @@ out('p02_is_isnt_card', page(
     f'<div class="bg" style="position:absolute;left:72px;top:190px;font-size:84px">Is. Isn\'t.</div>'
     + col(72, 'It is', rows_is, True, WHITE) + col(560, "It isn't", rows_not, False, WHITE) +
     f'<div class="bg" style="position:absolute;left:72px;top:1010px;width:936px;font-size:48px;line-height:1.05">'
-    f'Every other tool makes applying faster. <span style="background:{LIME};padding:0 8px">Day60 gets you to the person who decides.</span></div>'
+    f'Most job tools make applying faster. <span style="background:{LIME};padding:0 8px">Day60 gets you to the person who decides.</span></div>'
     + foot()))
 
 # ---------- P03 FB A/B: spray and pray vs prospecting ----------
@@ -249,7 +249,7 @@ scene('r2_s5', spark(880, 260, 60, CORAL) +
       f'<div class="box bg" style="position:absolute;left:80px;top:900px;padding:14px 40px 24px;background:{LIME};font-size:100px">You hit send.</div>')
 scene('r2_s6', spark(800, 1150, 110, LIME) + spark(950, 1300, 56, PINK) +
       f'<div class="bg" style="position:absolute;left:80px;top:330px;width:920px;font-size:92px;line-height:1.02;color:{CREAM}">'
-      f'Every other tool makes applying faster.</div>'
+      f'Most job tools make applying faster.</div>'
       f'<div class="bg" style="position:absolute;left:80px;top:640px;width:920px;font-size:92px;line-height:1.02;color:{LIME}">'
       f'Day60 gets you to the person who decides.</div>'
       f'<div style="position:absolute;left:84px;top:1110px;font-size:44px;font-weight:700;color:{CREAM};line-height:1.35">'

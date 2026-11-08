@@ -106,7 +106,7 @@ out("p02_is_isnt_card", page(
     + f'<div class="d" style="position:absolute;left:72px;top:185px;font-size:96px">Is. Isn\'t.</div>'
     + col(72, "It is", rows_is, True, MINT) + col(568, "It isn't", rows_not, False, PINK)
     + f'<div class="d" style="position:absolute;left:72px;top:1000px;width:700px;font-size:50px;line-height:1.1">'
-      f'Every other tool makes applying faster. <span class="fill">Day60 gets you to the person who decides.</span></div>'
+      f'Most job tools make applying faster. <span class="fill">Day60 gets you to the person who decides.</span></div>'
     + f'<div style="position:absolute;right:76px;top:980px">{tick("pointing", 190)}</div>'
     + foot()))
 
