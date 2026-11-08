@@ -1,7 +1,7 @@
 # Day60 Social Playbook
 
 Social's working memory between weeks. Updated each week after HQ's Thursday brief.
-Last updated: Fri, Nov 6, 2026 (founder facts from founder.ts; "Places are limited" replaces the 100-sprint cap; HQ). Before that: Thu, Nov 5 (cadence LI 3 / IG 5 / FB 2; LinkedIn links in the first comment; Ops top-up job schedules approved posts).
+Last updated: Sun, Nov 8, 2026 (he's "Phil" in all public copy, Philip's decision; HQ). Before that: Fri, Nov 6 (founder facts from founder.ts; "Places are limited" replaces the 100-sprint cap; HQ). Before that: Thu, Nov 5 (cadence LI 3 / IG 5 / FB 2; LinkedIn links in the first comment; Ops top-up job schedules approved posts).
 
 ---
 
@@ -30,7 +30,7 @@ Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the 
   - Philip's own line, used sparingly and always as his words: "I figured I'd been 'selling' Jesus for 10 years, I might as well sell some software."
   - Never say or hint why he left ministry. Add no facts beyond these.
   - 2023 hiring story (LinkedIn only): 722 applicants in 24 hours, and the 9 cold calls and 16 emails were the ones that got answered. It's from the hiring side, not his search results, so the results rule doesn't cover it (HQ, Nov 4). Not in founder.ts, but it stays: Philip approved LI2's exact words on Nov 6 (HQ, Nov 6).
-  - **Philip's results (final ruling, Nov 4):** only his SDR-method benchmarks: a recruiter conversation 37%+ of the time per target job worked, and replies from associated contacts 85%+. **Instagram and Facebook only**, labeled "Philip's own results as an SDR leader; not typical" (or close to it). Never on LinkedIn or Reddit, and never presented as what users get. **No other personal numbers**: the 39 applications / 27 interviews figures are retired.
+  - **Philip's results (final ruling, Nov 4):** only his SDR-method benchmarks: a recruiter conversation 37%+ of the time per target job worked, and replies from associated contacts 85%+. **Instagram and Facebook only**, labeled "Phil's own results as an SDR leader; not typical" (or close to it). Never on LinkedIn or Reddit, and never presented as what users get. **No other personal numbers**: the 39 applications / 27 interviews figures are retired.
   - **Keep the repo clean:** no employer lists, dates or personal details beyond these lines (it's public).
 - **Audience:** anyone looking for work, from a first job to a senior role, in any field. They read on phones and arrive mostly from Instagram, Facebook and LinkedIn.
 
@@ -235,6 +235,7 @@ Philip published the guides on Nov 3. Besides /try, LinkedIn and Facebook posts 
 
 ## 10. Voice notes
 
+- **His name is "Phil" (Philip's decision Nov 6; site, app and server emails switched Nov 8, HQ).** Every new bio, caption, post, first comment, alt text, script and asset says "Phil". Never "Philip" and never the surname in anything public. Approved or scheduled posts, their images and first comments stay exactly as they are unless Philip says otherwise via HQ. The Product Hunt gallery and listing copy keep "Philip" until HQ briefs a rebuild. Internal notes in this repo may still say Philip, and the approval token in posts.md headings stays `APPROVED (Philip, <date>)` because the Ops top-up job reads it.
 - Fun, vibrant, confident, plain English. Think a friend who used to run sales teams and is weirdly good at this.
 - Short sentences. Specific nouns and numbers. One idea per post.
 - Talk to one person ("you"), not "job seekers".
@@ -265,6 +266,7 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 ## 12. Hard rules (checklist before every hand-off)
 
 - [ ] Hashtags on every post.
+- [ ] He's "Phil" in all new public copy and alt text; never "Philip", never the surname.
 - [ ] No Philip personal results on LinkedIn.
 - [ ] No link to or mention of Philip's personal Instagram. Only @getday60, the Day60 Facebook Page, Philip's LinkedIn and TikTok @getday60.
 - [ ] No prices, no "free forever", no number of places ("Places are limited; the site shows what's open").
