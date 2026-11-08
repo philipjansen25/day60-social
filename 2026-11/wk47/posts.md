@@ -86,9 +86,9 @@ Or try one job first, free and with no account: https://getday60.com/try?utm_sou
 
 ## LinkedIn (Philip's profile)
 
-**LinkedIn plan (Nov 8):** Mon Nov 16 belongs to LI1, approved in week 46 and already in Buffer (Philip moved it from Nov 9; its heading stays in `2026-11/wk46/posts.md`). Nothing else goes on LinkedIn that Monday. With LI-PH on Tue, one slot is left: proposed LI-3touch on Thu Nov 19, since its PDF is built. LI-founder moves to week 48, rebuilt (Phil's name, no ministry lines, no years line). Philip can swap the two at Friday's approval. Weekend slots are allowed from now on (Philip, Nov 8).
+**LinkedIn plan (Nov 8):** Mon Nov 16 belongs to LI1, approved in week 46 and already in Buffer (Philip moved it from Nov 9; its heading stays in `2026-11/wk46/posts.md`). Nothing else goes on LinkedIn that Monday. With LI-PH on Tue, one slot is left: proposed LI-3touch on Thu Nov 19, since its PDF is built. LI-founder is replaced by week 48's LI-story (Philip, Nov 8; see `2026-11/wk48/posts.md`). Philip can swap the two at Friday's approval. Weekend slots are allowed from now on (Philip, Nov 8).
 
-### LI-founder · moved to week 48 (Nov 8) · day TBD
+### LI-founder (replaced) · NOT SCHEDULED · replaced by week 48's LI-story (Philip, Nov 8)
 
 **Rebuild before approval (HQ, Nov 6):** the ministry lines are on hold until Philip confirms them himself, so this post gets rebuilt without them. Also drop "Eight years in sales later" (retired) and move the /try link to a "First comment:" line.
 - Format: text only, or text plus a real photo of Philip if he has one he likes. No graphic: a founder story reads more personal without one.
