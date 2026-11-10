@@ -55,7 +55,8 @@ function queries(subs) {
   const groups = chunk(subs.filter(s => !SKIP_FOR_REPLIES.has(s)), 4).slice(0, 3); // 3 sub groups x 2 topics = 6 searches
   const qs = [];
   for (const g of groups) for (const t of TOPICS) {
-    qs.push({ topic: t.key, q: `(${g.map(s => `site:reddit.com/r/${s}`).join(' OR ')}) ${t.q}` });
+    // inurl:comments keeps Google to thread pages, not sub front pages or how-to pages (HQ, Nov 10).
+    qs.push({ topic: t.key, q: `(${g.map(s => `site:reddit.com/r/${s}`).join(' OR ')}) inurl:comments ${t.q}` });
   }
   return qs;
 }
