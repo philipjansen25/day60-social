@@ -23,11 +23,11 @@ Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 
 | # | Day | Time (CT) | Platform | Format | Asset | Status | Pin |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| IG1 | Sun Nov 8 | 11:00 AM | Instagram | Carousel (7) | p01_is_isnt_1–7.png | **APPROVED (Philip, Nov 6)** | **Pin to grid** |
+| IG1 | Sun Nov 8 | 11:00 AM | Instagram | Carousel (7) | p01_is_isnt_1–7.png | **POSTED** Nov 8 (Buffer) | **Pin to grid** |
 | LI1 | **Tue Nov 17** (moved) | 8:30 AM | LinkedIn | Image | p02_is_isnt_card.png | **APPROVED (Philip, Nov 6)** | **Add to Featured** |
-| IG2 | Mon Nov 9 | 12:00 PM | Instagram | Reel 18 s | p13_how_it_works_reel.mp4 | **APPROVED (Philip, Nov 6)** | |
-| FB3 | Tue Nov 10 | 6:00 PM | Facebook | Carousel (6) | p14_ext_steps_1–6.png | **APPROVED (Philip, Nov 5)** | |
-| LI2 | Wed Nov 11 | 8:30 AM | LinkedIn | Image | p05_722.png | **APPROVED (Philip, Nov 6)** | |
+| IG2 | Mon Nov 9 | 12:00 PM | Instagram | Reel 18 s | p13_how_it_works_reel.mp4 | **POSTED** Nov 9 (Buffer) | |
+| FB3 | Tue Nov 10 | 6:00 PM | Facebook | Carousel (6) | p14_ext_steps_1–6.png | **POSTED** Nov 10 (Buffer) | |
+| LI2 | Wed Nov 11 | 8:30 AM | LinkedIn | Image | p05_722.png | **POSTED** Nov 11 (Buffer) | |
 | LI3-new | Thu Nov 12 | 8:30 AM | LinkedIn | Document (5 pages) | p17_ext_linkedin.pdf | **APPROVED (Philip, Nov 6)** | |
 | IG4 | Thu Nov 12 | 7:00 PM | Instagram | Carousel (6) | p06_three_touches_1–6.png | **APPROVED (Philip, Nov 6)** | |
 | IG6 | Fri Nov 13 | 12:00 PM | Instagram | Carousel (7) | p15_checker_1–7.png | **APPROVED (Philip, Nov 5)** | |
@@ -70,7 +70,7 @@ What would you add to the "isn't" list?
 #jobsearch #careers #hiring
 ```
 
-### LI2 · Wed Nov 11 · 8:30 AM · APPROVED (Philip, Nov 6)
+### LI2 · Wed Nov 11 · 8:30 AM · APPROVED (Philip, Nov 6) · POSTED Nov 11, 8:31 AM (Buffer)
 - Image: `p05_722.png`
 - Alt text: 722 applicants in 24 hours. The ones that got answered: 9 cold calls and 16 emails. Stop applying. Start prospecting. Philip's 2023 hiring story.
 - Tags: Day60 page (auto)
@@ -126,7 +126,7 @@ What would you want to know before installing an extension?
 
 ## Instagram (@getday60)
 
-### IG1 · Sun Nov 8 · 11:00 AM · APPROVED (Philip, Nov 6) · PIN TO GRID
+### IG1 · Sun Nov 8 · 11:00 AM · APPROVED (Philip, Nov 6) · PIN TO GRID · POSTED Nov 8, 11:03 AM (Buffer)
 - Carousel: `p01_is_isnt_1.png` … `p01_is_isnt_7.png`
 - Alt text (per slide): 1 "What Day60 is. And what it isn't." · 2 It is a 60-day job-search sprint, up to 3 new jobs a day · 3 It is the 4 people closest to the hire, verified work emails where available · 4 It is a short note in your voice, checked by Tick, 3 touches max · 5 It isn't an auto-apply bot · 6 It isn't a LinkedIn hack · 7 Keep your tracker and your résumé tool. Day60 is the part after you find the job. Free, no card.
 
@@ -144,7 +144,7 @@ Day60 Sprint. Free. No card. Nothing to cancel. Try one job at the link in bio.
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### IG2 · Mon Nov 9 · 12:00 PM · APPROVED (Philip, Nov 6)
+### IG2 · Mon Nov 9 · 12:00 PM · APPROVED (Philip, Nov 6) · POSTED Nov 9, 12:04 PM (Buffer)
 - Reel: `p13_how_it_works_reel.mp4` (18 s, 1080×1920, silent; add low-key audio in-app if Philip wants). Cover: first frame.
 - **Replaces the retired /try phone clip** (HQ, Nov 5: it showed a real company's posting). Built from Day60's design tokens: 01 paste a job link, 02 Day60 finds the 4 people, 03 Tick checks the message, then "You send it." Invented company (Northpine) and people, labeled "Example · invented company & people" on every data screen.
 
@@ -220,7 +220,7 @@ Free: search "Day60" in the Chrome Web Store.
 
 ## Facebook (Day60 Page)
 
-### FB3 · Tue Nov 10 · 6:00 PM · APPROVED (Philip, Nov 5) · EXTENSION FAQ (6-slide carousel)
+### FB3 · Tue Nov 10 · 6:00 PM · APPROVED (Philip, Nov 5) · EXTENSION FAQ (6-slide carousel) · POSTED Nov 10, 6:02 PM (Buffer)
 - Carousel: `p14_ext_steps_1.png` … `p14_ext_steps_6.png` (built by `build_ext.py`). Was draft FB3-new; it replaces the old p10 image and v1.0.0 copy. Slide 5 ("What it never does") matches the FAQ.
 - Link: https://getday60.com/chrome-extension?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-faq
 - Alt text (per slide): 1 "From a careers page to your sprint. One click." with Tick pointing · 2 Step 01, an invented Northpine Account Executive job on its careers page · 3 Step 02, the Day60 popup with the "Find the 4 people with Day60" button · 4 Step 03, Day60 with the job link filled in and the four roles: hiring manager, their boss, internal champion, recruiter · 5 What it never does: read your LinkedIn pages, fill in forms or apply, send messages; it runs only when you click it · 6 Free in the Chrome Web Store, getday60.com/chrome-extension

@@ -1,7 +1,7 @@
 # Day60 Social Playbook
 
 Social's working memory between weeks. Updated each week after HQ's Thursday brief.
-Last updated: Sun, Nov 8, 2026 (he's "Phil" in all public copy, Philip's decision; HQ). Before that: Fri, Nov 6 (founder facts from founder.ts; "Places are limited" replaces the 100-sprint cap; HQ). Before that: Thu, Nov 5 (cadence LI 3 / IG 5 / FB 2; LinkedIn links in the first comment; Ops top-up job schedules approved posts).
+Last updated: Wed, Nov 11, 2026 (Buffer paused: Philip posts by hand from `library.json`; his LinkedIn goes to five a week and Day60's are Tue and Thu; HQ). Before that: Sun, Nov 8, 2026 (he's "Phil" in all public copy, Philip's decision; HQ). Before that: Fri, Nov 6 (founder facts from founder.ts; "Places are limited" replaces the 100-sprint cap; HQ). Before that: Thu, Nov 5 (cadence LI 3 / IG 5 / FB 2; LinkedIn links in the first comment; Ops top-up job schedules approved posts).
 
 ---
 
@@ -37,7 +37,7 @@ Day60 is a free 60-day job-search sprint. Paste a job link, and Day60 finds the 
 ## Role (D60-001, Nov 4)
 Standing brief for HQ and every agent: **Head of Growth, Conversion & Monetization**. Full text: https://docs.google.com/document/d/1gF1xYi-mLeP4l8Nx3LBLzaWU317yJ2iX8m3URneSY3k/edit
 - **Mission:** make Day60 a $1M-a-year business without it becoming a full-time job. Most traffic comes from Instagram, Facebook and LinkedIn.
-- **Job:** say what to change, in what order, what it costs and how to automate it, then hand it over ready to ship (for Social: posts.md + images + preview, ready for Buffer). Work autonomously; interrupt only on larger decisions.
+- **Job:** say what to change, in what order, what it costs and how to automate it, then hand it over ready to ship (for Social: posts.md + images + `library.json` + preview, ready for Philip to post). Work autonomously; interrupt only on larger decisions.
 - **How:** verdict first. Worst problems first, sorted into Cut / Rebuild / Keep. Blunt, but every claim rests on the live site, real data or a cited source, and estimates are labeled. Flag legal and irreversible calls (FTC endorsements, CAN-SPAM, LinkedIn's terms) instead of making them.
 - **Price every idea:** $/month (default $0, free option first), minutes of Philip's time, and the metric it should move (follows, clicks to /try, free sprint starts).
 - **Philip's time:** 3–5 hours a week on Day60. Anything Social needs from him must fit a 5-minute item, batched into one short list.
@@ -45,7 +45,7 @@ Standing brief for HQ and every agent: **Head of Growth, Conversion & Monetizati
 - **House rules:** never automate actions inside LinkedIn; hashtags on every Day60 post on every platform, no exceptions (Day60's own posts on Instagram, Facebook and LinkedIn, plus TikTok when it starts; **Philip's Reddit replies are exempt**, per HQ Nov 4, because hashtags there read as spam and cost karma); emails come from Philip, signed by Philip, in the branded Resend design.
 - **Philip's benchmarks** (a recruiter conversation 37%+ of the time per target job worked; replies from associated contacts 85%+) are his own. IG/FB only, labeled not typical. Never present them as what users get.
 - **Success:** in 90 days, a proof engine (outcomes, testimonials, stories) that runs on its own; in 12 months, a repeatable path to $1M with Philip at 3–5 hours a week.
-- **Ruled (Nov 4):** Buffer scheduling to Philip's LinkedIn profile and the Day60 page is allowed. "Never automate actions inside LinkedIn" covers users' outreach and anything done inside LinkedIn's site.
+- **Ruled (Nov 4):** Buffer scheduling to Philip's LinkedIn profile and the Day60 page is allowed. "Never automate actions inside LinkedIn" covers users' outreach and anything done inside LinkedIn's site. Buffer is paused from Nov 11 (see §5).
 - Approvals and filming sit in Philip's one daily list at 8 AM.
 
 ## 1b. Working with HQ (Philip's standing instruction, Nov 4)
@@ -94,12 +94,12 @@ Every idea gets reshaped per platform. Never paste one post across channels.
 ### LinkedIn (Philip's personal profile)
 - **Field note:** text-first post, 120–220 words, one idea, short lines. Hook line under 60 characters, so it shows before "...more". Opinion from Philip's sales development work (only the approved founder facts), applied to job seekers. One stat card image or none.
 - **PDF carousel (document post):** 5–7 slides, 1080×1350, same brand system as Instagram. Use for The Four People and Tick's Red Pen.
-- Rules: credible and professional, peer to peer. **Never Philip's personal results on LinkedIn.** End on a question that invites a real answer. **No link in the body.** Every LinkedIn post in posts.md has a "First comment:" line with its UTM link, and Philip posts that comment by hand (Buffer's free plan can't; Philip chose on Nov 5 to stay on it). The copy says "Link in the first comment."
+- Rules: credible and professional, peer to peer. **Never Philip's personal results on LinkedIn.** End on a question that invites a real answer. **No link in the body.** Every LinkedIn post in posts.md has a "First comment:" line with its UTM link, and Philip posts that comment by hand right after the post goes live. The copy says "Link in the first comment."
 
 #### LinkedIn tags (from the week of Nov 8)
-LinkedIn posts go out from Philip's personal profile; the Day60 Page channel is locked on Buffer's free plan.
+LinkedIn posts go out from Philip's personal profile, posted by him.
 - Every LinkedIn post in posts.md gets a **Tags** line listing each company with its exact LinkedIn company page URL (`https://www.linkedin.com/company/<slug>/`) and each person with their profile URL (`https://www.linkedin.com/in/<slug>/`). The @mention sits in the copy where it reads naturally, never in a pile at the end.
-- **Day60 page tag on every LinkedIn post (Philip's rule).** The page is https://www.linkedin.com/company/144030699 (org ID 144030699). HQ attaches it in Buffer at scheduling. In the copy, write the exact word "Day60" (capital D) **exactly once**, where it reads naturally ("I built Day60 to…" or a sign-off line). Elsewhere say "it" or "the sprint". The lowercase URL getday60.com doesn't count, and LinkedIn hashtags never include #day60. In posts.md each LinkedIn post's Tags line starts with "Day60 page (auto)".
+- **Day60 page tag on every LinkedIn post (Philip's rule).** The page is https://www.linkedin.com/company/144030699 (org ID 144030699). Philip adds it when he posts: where the copy says Day60, he types @Day60 and picks the page. In the copy, write the exact word "Day60" (capital D) **exactly once**, where it reads naturally ("I built Day60 to…" or a sign-off line). Elsewhere say "it" or "the sprint". The lowercase URL getday60.com doesn't count, and LinkedIn hashtags never include #day60. In posts.md each LinkedIn post's Tags line starts with "Day60 page (auto)".
 - **Pre-checked tags (1st-degree per Philip's Nov 2 export):** Sam Nelson, Pipeline Conference founder: https://www.linkedin.com/in/realsamnelson (note: a different Sam Nelson, at Telarus, is also a connection; use the realsamnelson URL). Kevin "KD" Dorsey: https://www.linkedin.com/in/kddorsey3. Tag them only with a real reason (credit, a quote). Philip's connections list is not stored in this public repo.
 - **Tag people only when they'd welcome it:** credit for their work or idea, a source being quoted, or someone Philip asked to tag. They must be Philip's first-degree connections, or LinkedIn won't allow the tag. I can't see his connections, so every person tag is marked "Philip to confirm 1st-degree".
 - **Hiring-list posts: tag the company only.** Never tag hiring managers, recruiters or any employee.
@@ -138,22 +138,24 @@ Full process in `reddit/README.md`; target subs and rule status in `reddit/subre
 
 ## 5. Cadence and timing
 
-Cadence (Philip, Nov 5; from the week of Nov 8): **LinkedIn 3, Instagram 5, Facebook 2 = 10 posts a week.** Quality beats volume: if I can't make good posts for a platform in a week, I say so in the brief instead of padding.
+Cadence (Philip, Nov 11; from Mon Nov 16): **LinkedIn 2 (Tue and Thu), Instagram 5, Facebook 2 = 9 Day60 posts a week.** Philip posts on LinkedIn five times a week, all at 8:30 AM CT. The Mon, Wed and Fri posts are his own, not Social's, and stay out of this repo. (Nov 8 to 15: LinkedIn 3.) Quality beats volume: if I can't make good posts for a platform in a week, I say so in the brief instead of padding.
 
 | Platform | Posts/week | Default mix | Default slots (Central) |
 | --- | --- | --- | --- |
-| LinkedIn | 3 | 2 field notes (text + card) + 1 PDF carousel | Mon, Wed, Thu 8:30 AM |
+| LinkedIn | 2 | 1 field note (text, or text + card) + 1 card or PDF carousel, as the week needs | Tue, Thu 8:30 AM |
 | Instagram | 5 | 2 carousels + 3 Reels | Sun 11:00 AM, Mon 12:00 PM, Wed 12:00 PM, Thu 7:00 PM, Sat 10:00 AM |
 | Facebook | 2 | 2 posts reusing that week's Instagram images (from Nov 15) | Tue 6:00 PM, Fri 6:00 PM (or the 2 days that fit; never the same day as the IG original) |
 | TikTok | 0 (on hold) | — | Short videos run as IG/FB Reels until HQ says TikTok is connected |
 | Founder video | 1 | 30-second script for Philip | Delivered with the week |
 
 - **Facebook reuses Instagram art (from the week of Nov 15, Philip):** Facebook's 2 posts use the week's 2 strongest Instagram images or carousels. No Facebook-only art. Captions are always written fresh for Facebook (clickable UTM link, warmer tone).
-- **Weekend slots are fine on every platform (Philip, Nov 8).** Caps stay LI 3 / IG 5 / FB 2.
+- **Weekend slots are fine on every platform (Philip, Nov 8).** Caps: LinkedIn 2 (Tue, Thu) / IG 5 / FB 2.
 - No two posts on the same platform on the same day. Avoid the same idea on IG and FB on the same day.
 - Week runs Sunday through Saturday. Skip national news days (e.g., Election Day) and handle holidays with care (Veterans Day Nov 11, Thanksgiving Nov 26).
-- **Buffer (free plan, Philip's choice Nov 5):** it holds 10 scheduled posts at a time and can't post first comments. **Social never schedules in Buffer.** The Day60 Ops top-up job reads posts.md and schedules **approved posts only** in two batches: **Batch A on Saturday at 2:23 PM CT** (posts due Sun–Wed) and **Batch B on Wednesday** (posts due Thu–Sat), within the 10-post limit. posts.md gives every post an explicit day, date, time (CT) and batch letter.
-- **Approval format the top-up job reads:** an approved post's heading carries `APPROVED (Philip, <date>)`, e.g. `### FB3 · Tue Nov 10 · 6:00 PM · Batch A · APPROVED (Philip, Nov 5) · EXTENSION FAQ`. Posts without it wait. Cut posts go under a "Not scheduled" heading with `(cut)` and `NOT SCHEDULED` in their headings.
+- **Posting is by hand (Philip, Nov 11).** Buffer is paused while Philip tests whether the platforms hold back reach on scheduler posts. He posts LinkedIn natively and Instagram and Facebook in Meta Business Suite. HQ moved the six scheduled posts to Buffer drafts on Nov 11 (nothing deleted). **Social never schedules anything.** posts.md gives every post an explicit day, date and time (CT), with no batch letters. Status is draft, approved or posted; cut or replaced posts keep `NOT SCHEDULED`.
+- **What Philip now does by hand (Buffer did it before):** LinkedIn: tag the Day60 page (@Day60 where the copy says Day60), add image alt text, upload a PDF as a document with its title, and post the first comment right after the post goes live. Instagram: slides in the listed order, alt text per slide; captions have no clickable links and the bio link stays fixed. Facebook: post as the Day60 Page, link in the text, alt text per image. Each post's notes in `library.json` say what applies.
+- **`library.json` (repo root) is what Philip posts from (HQ, Nov 11).** One object per post ever planned: `id` (`<week>-<post id>`, the week of the posts.md file it lives in), `week`, `channel`, `topic`, `date`, `time` (CT), `status` (posted, approved, draft, replaced), a 3 to 6 word `title`, `format`, the exact `text`, `firstComment`, `link`, `files` in posting order with alt text (a LinkedIn document's PDF first, then its pages), `notes` for posting by hand, and `postedVia` (buffer, native or empty). Posted posts keep their real date and time. The text is copied byte for byte from the post's code block in posts.md. Update it in the same commit as any posts.md change, and run `node scripts/check-library.mjs` before every push: it fails on a text mismatch, a missing file, a bad field or a link in a LinkedIn body.
+- **Approval format:** an approved post's heading carries `APPROVED (Philip, <date>)`, e.g. `### FB3 · Tue Nov 10 · 6:00 PM · APPROVED (Philip, Nov 5) · EXTENSION FAQ`. Posts without it wait. Once a post is out, its heading adds `POSTED <date, time> (<how>)`. Cut posts go under a "Not scheduled" heading with `(cut)` and `NOT SCHEDULED` in their headings.
 
 ## 6. Hashtag sets
 
@@ -199,10 +201,10 @@ Philip published the guides on Nov 3. Besides /try, LinkedIn and Facebook posts 
 
 ## 8. Repo and file conventions
 
-- Images: `YYYY-MM/wkWW/` where WW is the ISO week number used in `utm_campaign` (week of Nov 8 = `2026-11/wk46/`). Week 1's folder `2026-11/wk1/` stays as-is because Buffer links to it.
+- Images: `YYYY-MM/wkWW/` where WW is the ISO week number used in `utm_campaign` (week of Nov 8 = `2026-11/wk46/`). Week 1's folder `2026-11/wk1/` stays as-is because posted posts and `library.json` link to it.
 - Filenames: `pNN_<slug>_<n>.png`, 1080×1350 for feed images and carousels, 1080×1920 for Reels/TikTok (MP4).
 - Each week's copy lives in `YYYY-MM/wkWW/posts.md`: platform, day, time (Central), copy, image paths, hashtags, link.
-- Never rename or delete a file that a scheduled post uses. A fix goes in a new file.
+- Never rename or delete a file that a post in `library.json` uses. A fix goes in a new file.
 - `templates/`: HTML source for cards (`stat-card.html`) and `render.js` (`node templates/render.js <html> <png>`, 1080×1350 via Playwright).
 
 ## 8b. Media library
@@ -236,7 +238,7 @@ Philip published the guides on Nov 3. Besides /try, LinkedIn and Facebook posts 
 
 ## 10. Voice notes
 
-- **His name is "Phil" (Philip's decision Nov 6; site, app and server emails switched Nov 8, HQ).** Every new bio, caption, post, first comment, alt text, script and asset says "Phil". Never "Philip" and never the surname in anything public. Approved or scheduled posts, their images and first comments stay exactly as they are unless Philip says otherwise via HQ. The Product Hunt gallery and listing copy keep "Philip" until HQ briefs a rebuild. Internal notes in this repo may still say Philip, and the approval token in posts.md headings stays `APPROVED (Philip, <date>)` because the Ops top-up job reads it.
+- **His name is "Phil" (Philip's decision Nov 6; site, app and server emails switched Nov 8, HQ).** Every new bio, caption, post, first comment, alt text, script and asset says "Phil". Never "Philip" and never the surname in anything public. Approved or scheduled posts, their images and first comments stay exactly as they are unless Philip says otherwise via HQ. The Product Hunt gallery and listing copy keep "Philip" until HQ briefs a rebuild. Internal notes in this repo may still say Philip, and the approval token in posts.md headings stays `APPROVED (Philip, <date>)`.
 - Fun, vibrant, confident, plain English. Think a friend who used to run sales teams and is weirdly good at this.
 - Short sentences. Specific nouns and numbers. One idea per post.
 - Talk to one person ("you"), not "job seekers".
@@ -276,6 +278,7 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 - [ ] No real employee named or pictured; no LinkedIn profiles or email addresses shown.
 - [ ] Every LinkedIn post has "Day60" exactly once and a Tags line starting "Day60 page (auto)"; no recruiter/hiring-manager tags; person tags flagged for Philip's 1st-degree check.
 - [ ] Every link has UTMs; IG and TikTok say "link in bio"; LinkedIn has no link in the body and a "First comment:" line.
+- [ ] `library.json` matches posts.md: `node scripts/check-library.mjs` passes before the push.
 - [ ] Re-read for banned phrases and em-dashes.
 
 ## 13. What worked (filled from HQ's numbers)

@@ -1,18 +1,18 @@
 # Week 48 · Sun Nov 22 – Sat Nov 28, 2026 · SLOTS RESERVED
 
-**Status: nothing drafted, nothing approved.** The week is built after HQ's Thursday brief (Nov 19), and Philip approves it on Friday Nov 20. Thanksgiving is Thu Nov 26, so no LinkedIn post Thu Nov 26 or Fri Nov 27.
+**Status: nothing drafted, nothing approved.** The week is built after HQ's Thursday brief (Nov 19), and Philip approves it on Friday Nov 20. Thanksgiving is Thu Nov 26, so no LinkedIn post Thu Nov 26 or Fri Nov 27. Day60's LinkedIn posts are Tue and Thu from Nov 16 (HQ, Nov 11), so this week has one, Tue Nov 24. Buffer is paused: Philip posts approved posts by hand from `library.json`.
 
 | Platform | Weekly cap | Week 48 so far |
 | --- | --- | --- |
-| LinkedIn | 3 | LI-story (Mon Nov 23, reserved); 2 to plan |
+| LinkedIn | 2 Day60 posts (Tue, Thu) | LI-story (Tue Nov 24, reserved). No Day60 post Thu Nov 26 (Thanksgiving) |
 | Instagram | 5 | IG-story (proposed adaptation); 4 to plan |
 | Facebook | 2 | FB-story (proposed adaptation, reuses IG-story's image); 1 to plan |
 
 ## LinkedIn (Phil's profile)
 
-### LI-story · Mon Nov 23 · 8:30 AM (reserved) · Batch A · RESERVED, NOT DRAFTED
+### LI-story · Tue Nov 24 · 8:30 AM (reserved) · DRAFT · RESERVED, NOT DRAFTED (moved from Mon Nov 23, HQ Nov 11)
 - **What (Philip, Nov 8, via HQ):** a Day60 post that builds on Phil's own LinkedIn post of Mon Nov 9 and what he says there that Day60 did for him. It replaces week 47's LI-founder.
-- **Not drafted yet.** Social writes it only after HQ forwards Phil's Monday post, then marks it PROPOSED here and tells HQ. Philip approves the words before anything is scheduled.
+- **Not drafted yet.** Social writes it only after HQ forwards Phil's Monday post, then marks it PROPOSED here and tells HQ. Philip approves the words before he posts it.
 - **Source:** only what Phil wrote in that post, in his words where possible. Nothing invented. No numbers he didn't give, no company or role names beyond what he published, and the career facts stay the four founder.ts lines.
 - **Voice:** first person, Phil, peer to peer. One honest promise, no hype. The method is the point: a few well-researched messages a day, sent by him. No competitor names. Ends on a question.
 - **LinkedIn rules:** "Day60" exactly once; Tags: Day60 page (auto); 3 hashtags at most; no link in the body.
