@@ -2,91 +2,92 @@
 
 **Status: drafts, not approved.** The full week comes after Thursday's brief (Nov 12); Philip approves week 47 on Friday Nov 13 as usual.
 
-## Product Hunt launch day · Tue Nov 17 (Philip approved the launch and the kit's words on Nov 7)
+## Tue Nov 17: Product Hunt moved to Tue Dec 1 (Philip, Nov 11)
 
-Philip launches on Product Hunt himself at 12:01 AM Pacific (2:01 AM Central). These three posts use one week-47 slot on each platform and ask for honest feedback, never upvotes. Gallery, thumbnail and Philip's copy file: `product-hunt/` (see its README).
+The three launch posts (LI-PH, IG-PH, FB-PH) moved to `2026-11/wk49/posts.md`, still drafts with the link placeholder. Their slots are filled below with one idea, "every job has 4 people who decide", and no Product Hunt mention. All three are proposals for Friday's approval.
 
 | Platform | Weekly cap | Week 47 so far |
 | --- | --- | --- |
-| LinkedIn | 3 | LI1 (Mon Nov 16: week 46's approved is/isn't post, moved by Philip Nov 8, already in Buffer), LI-PH (Tue), LI-3touch (Thu, proposed) |
-| Instagram | 5 | IG-PH (Tue); 4 to plan after Thursday's brief |
-| Facebook | 2 | FB-PH (Tue, reuses IG-PH's image); 1 to plan |
+| LinkedIn | 3 | LI1 (Mon Nov 16: week 46's approved is/isn't post, moved by Philip Nov 8, already in Buffer), LI-thread (Tue, proposed), LI-3touch (Thu, proposed) |
+| Instagram | 5 | IG-four (Tue, proposed); 4 to plan after Thursday's brief |
+| Facebook | 2 | FB-four (Wed, proposed, reuses IG-four's carousel); 1 to plan |
 
-**Before Friday's approval:** replace `<Product Hunt launch link>` in LI-PH's first comment and in FB-PH with the launch page's link. Product Hunt gives the link once Philip schedules the launch.
+Offer wording: free places may be gone by next week, so none of these says "free sprint" or "no card". They say what Day60 does and point to a guide or the bio link.
 
-### LI-PH · Tue Nov 17 · 8:30 AM · Batch A · DRAFT · PRODUCT HUNT LAUNCH
+### LI-thread · Tue Nov 17 · 8:30 AM · Batch A · DRAFT · REPLACES LI-PH
 - Status: draft, not approved (Philip approves week 47 on Fri Nov 13).
-- Image: `product-hunt/01_hero.png` (gallery image 1)
-- Alt text: Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Tick points at the cards.
+- Format: text only (field note).
 - Tags: Day60 page (auto)
-- First comment: <Product Hunt launch link>
+- First comment: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w47&utm_content=single-threaded
 
 ```
-A sales playbook got me hired at ClickUp, Deel and Google.
+Most job searches are single-threaded.
 
-Not more applications. Find the few people who decide on a hire, and write each of them something worth reading.
+In sales, a deal with only one contact is called single-threaded. Everyone in sales knows how those go. One person gets busy, and the whole deal goes quiet.
 
-At ClickUp I founded the sales development team, which grew from 0 to 32 reps. At Deel I wrote the Enterprise SDR Target Account Playbook. At Google I designed the Partner Lead Development Program.
+A job search usually runs the same way. One application, one recruiter, one inbox. If that recruiter is buried this week, so are you.
 
-Job seekers mostly get told to apply to more. Most job tools make applying faster.
+Every job has four people who shape the hire:
+The hiring manager, who feels the empty seat.
+Their boss, who approved the role.
+Someone on the team who knows what the job really needs.
+The recruiter, who runs the process.
 
-So I built Day60 to run that playbook one job at a time. Paste a job link, and it finds the four people closest to the hire and drafts a short note to each in your voice. You send every message.
+You don't have to write to all four on day one. But know who they are, and make sure the hiring manager hears from you directly, in a short note about their team.
 
-It's on Product Hunt today. I'd rather hear what's wrong with it than collect compliments. Try it on one real job and tell me where it picked the wrong people, or where the note didn't sound like you.
+That's the method I built Day60 around: one job, four people, a few well-researched messages, and you send every one.
 
-What would it need to get right before you'd trust it with your search?
+How to write that first note: link in the first comment.
 
-Link to the launch in the first comment.
+Besides the recruiter, who have you reached out to about a job?
 
-#producthunt #jobsearch #hiring
+#jobsearch #careeradvice #networking
 ```
 
-Checks: "Day60" appears once. No link in the body. Founder facts are the four approved lines, nothing else; no personal results. Asks for feedback, not upvotes. No em-dashes, no banned phrases, no competitor names.
+Checks: hook is 38 characters. "Day60" appears once. No link in the body. No personal results, no founder facts beyond "I built Day60". Ends on a question. No em-dashes, no banned phrases, no competitor names.
 
-### IG-PH · Tue Nov 17 · 12:00 PM · Batch A · DRAFT · PRODUCT HUNT LAUNCH
+### IG-four · Tue Nov 17 · 12:00 PM · Batch A · DRAFT · REPLACES IG-PH
 - Status: draft, not approved (Philip approves week 47 on Fri Nov 13).
-- Image: `product-hunt/ig_launch_day.png` (1080×1350, the portrait version of gallery image 1)
-- Alt text: On Product Hunt today. Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Search Day60 on Product Hunt. Tell us what you think.
+- Carousel (6): `2026-11/wk47/p01_four_people_1.png` to `p01_four_people_6.png` (source: `2026-11/wk47/build.py`)
+- Alt text (per slide): 1 "Every job has 4 people who decide if you get it. An application reaches one of them. Maybe." · 2 "01, the hiring manager: feels the empty seat. Make your note about their team: one thing you noticed, one line of proof, one clear question." · 3 "02, their boss: approved the role. Keep it shorter. Say why their team's goal is the one you want to work on." · 4 "03, an internal champion: knows what the job really needs. Ask one real question about the work." · 5 "04, the recruiter: runs the process. Tell them you applied and why: the role, one line on fit, when you're free to talk." · 6 "Paste a job link. Get your 4 people. A short note to each, in your voice. You send every message. Link in bio."
 - Link: bio link stays /try. No link in the caption.
 
 ```
-We're on Product Hunt today.
+Every job has 4 people who decide if you get it. An application reaches one of them, maybe.
 
-Day60 is the part after you find the job. Paste a job link and it finds the four people closest to the hire: the hiring manager, their boss, an internal champion and the recruiter, with verified work emails. It drafts a short note to each in your voice, and Tick checks every draft. You send every message.
+The hiring manager feels the empty seat. Their boss approved the role. Someone on the team knows what the job really needs. The recruiter runs the process.
 
-We want the honest version. Try it on one real job, then tell us where it picked the wrong people or where the note didn't sound like you. Search Day60 on Product Hunt, or tell us in the comments here.
+Swipe for what to send each one, and save it for your next application.
 
-Try one job free, no account needed. Link in bio.
+Paste a job link and Day60 finds your 4 people, with a short note to each in your voice. You send every message. Link in bio.
 
-(The names on the cards are invented.)
-
-#day60 #producthunt #jobsearch #jobsearchtips #careertips
+#day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### FB-PH · Tue Nov 17 · 6:00 PM · Batch A · DRAFT · PRODUCT HUNT LAUNCH
+### FB-four · Wed Nov 18 · 6:00 PM · Batch A · DRAFT · REPLACES FB-PH
 - Status: draft, not approved (Philip approves week 47 on Fri Nov 13).
-- Image: `product-hunt/ig_launch_day.png` (same as IG-PH; from Nov 15 Facebook reuses the week's Instagram images)
-- Alt text: same as IG-PH.
-- Links: the Product Hunt link, plus https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w47&utm_content=product-hunt
+- Carousel: IG-four's 6 slides (Facebook reuses the week's Instagram art, on a different day from the Instagram post).
+- Alt text: same as IG-four.
+- Link: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w47&utm_content=four-people
 
 ```
-Day60 launched on Product Hunt today, and we'd like your honest take.
+If someone you care about has sent out application after application and heard nothing, this one's for them.
 
-Paste a job link, and it finds the four people closest to the hire, with verified work emails, and drafts a short note to each in your voice. Tick checks every draft. You send every message. It never applies for you and never logs in to your LinkedIn.
+Every job has four people who decide who gets hired: the hiring manager, their boss, someone on the team who knows the work, and the recruiter. An application usually reaches only one of them.
 
-Try it on one real job, then tell us where it got the people or the note wrong. You can comment on the launch here: <Product Hunt launch link>
+A short note to the hiring manager, about their team and ending with one clear question, puts your name in front of the person who decides. The slides show what to send each of the four.
 
-Or try one job first, free and with no account: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w47&utm_content=product-hunt
+How to write that first note: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w47&utm_content=four-people
 
-(The names on the image are invented.)
+Share this with someone who's looking.
 
-#jobsearch #day60 #producthunt
+#jobsearch #day60 #careeradvice
 ```
 
 
 ## LinkedIn (Philip's profile)
 
-**LinkedIn plan (Nov 8):** Mon Nov 16 belongs to LI1, approved in week 46 and already in Buffer (Philip moved it from Nov 9; its heading stays in `2026-11/wk46/posts.md`). Nothing else goes on LinkedIn that Monday. With LI-PH on Tue, one slot is left: proposed LI-3touch on Thu Nov 19, since its PDF is built. LI-founder is replaced by week 48's LI-story (Philip, Nov 8; see `2026-11/wk48/posts.md`). Philip can swap the two at Friday's approval. Weekend slots are allowed from now on (Philip, Nov 8).
+**LinkedIn plan (Nov 8):** Mon Nov 16 belongs to LI1, approved in week 46 and already in Buffer (Philip moved it from Nov 9; its heading stays in `2026-11/wk46/posts.md`). Nothing else goes on LinkedIn that Monday. Tue Nov 17 is LI-thread (proposed; it replaces LI-PH, which moved to Dec 1). The third slot is LI-3touch on Thu Nov 19 (proposed), since its PDF is built. LI-founder is replaced by week 48's LI-story (Philip, Nov 8; see `2026-11/wk48/posts.md`). Philip can swap the two at Friday's approval. Weekend slots are allowed from now on (Philip, Nov 8).
 
 ### LI-founder (replaced) · NOT SCHEDULED · replaced by week 48's LI-story (Philip, Nov 8)
 

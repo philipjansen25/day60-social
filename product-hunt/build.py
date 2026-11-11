@@ -1,4 +1,4 @@
-"""Product Hunt gallery (launch Tue Nov 17; Philip approved the kit Nov 7).
+"""Product Hunt gallery (launch Tue Dec 1, moved from Nov 17 on Nov 11; Philip approved the kit Nov 7).
 
 Builds, in Day60's design system (design-system/ds.py):
   01_hero.png           1270x760  tagline, Tick pointing at 4 role cards (invented names), "You send every message"
