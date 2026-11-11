@@ -263,6 +263,21 @@ Start a free sprint (no card): https://getday60.com/try?utm_source=facebook&utm_
 #day60 #jobsearch #smallwins
 ```
 
+**Second version, only if Philip says yes (HQ, Nov 11; he decides Thursday).** Free places may be gone by Friday, so only the last line before the hashtags changes: "Start a free sprint (no card)" becomes "Try it on one job", the line the approved LinkedIn posts already use. `library.json` keeps the approved text above until HQ says which one to keep.
+- The image is a real crop of the 404 page, and it shows a "Start my free sprint" button. If the site changes that button when the offer ends, the image is out of date too.
+
+```
+Even our 404 page has a job to do.
+
+Land on a page that doesn't exist and Tick has already looked everywhere. Then he points you back to the one thing worth doing.
+
+Same idea as the sprint: don't wander. Pick the job, find the four people closest to the hire, and send one short note to each.
+
+Try it on one job: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=tick-404
+
+#day60 #jobsearch #smallwins
+```
+
 ---
 
 ## Gated draft (not scheduled)

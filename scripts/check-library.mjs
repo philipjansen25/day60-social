@@ -84,6 +84,7 @@ for (const p of lib) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(p.date)) err(id, `bad date "${p.date}"`);
   if (!/^\d{2}:\d{2}$/.test(p.time)) err(id, `bad time "${p.time}"`);
   if (p.status === 'posted' && !p.postedVia) err(id, 'posted but postedVia is empty');
+  if (p.notes.split('\n').some((l) => /^\s*(\d+[.)]|[-*•])\s/.test(l))) err(id, 'notes: one instruction per line, no numbering or bullets');
   const words = p.title.trim().split(/\s+/).length;
   if (words < 3 || words > 6) err(id, `title has ${words} words (3 to 6)`);
 
