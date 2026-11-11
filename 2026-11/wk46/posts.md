@@ -2,16 +2,18 @@
 
 **Status: APPROVED (Philip, Nov 6).** All 10 posts are approved: FB3, IG5, IG6 and FB6 on Nov 5 (his "8 yes"), then IG1, LI1, IG2, LI2, IG4 and LI3-new on Fri Nov 6 ("approve social posts", relayed by HQ). Every scheduled heading says APPROVED. IG7 stays gated (not in the plan).
 
-**LI1 moved to Mon Nov 16, 8:30 AM CT (Philip, Nov 8, via HQ).** Day60 has no LinkedIn post on Mon Nov 9. HQ already moved LI1 in Buffer; text, image and tag are unchanged, and it counts as one of week 47's three LinkedIn posts. LinkedIn this week: LI2 and LI3-new.
+**Buffer is paused (Philip, Nov 11).** Philip posts by hand: LinkedIn natively, Instagram and Facebook in Meta Business Suite. Each post's text, files, alt text, first comment and posting notes are in `library.json` at the repo root. IG1, IG2, FB3 and LI2 went out through Buffer before the pause; HQ moved the other six to Buffer drafts on Nov 11 (nothing deleted). Status is now draft, approved or posted.
+
+**LI1 moved to Tue Nov 17, 8:30 AM CT (HQ, Nov 11).** Philip had moved it from Mon Nov 9 to Mon Nov 16 (Nov 8). From Nov 16 his LinkedIn Mondays are his own posts, and Day60's LinkedIn posts go on Tue and Thu. Text, image, tag and first comment are unchanged; it's one of week 47's two Day60 LinkedIn posts. LinkedIn this week: LI2 and LI3-new.
 Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 
 **Angle:** show plainly what Day60 is (a 60-day sprint that gets you to the 4 people closest to the hire, with a note in your voice that you send) and what it isn't (an auto-apply bot, a LinkedIn hack, mass messaging). We contrast with the category ("auto-apply bots", "mass-apply tools", "spray and pray") and never name a competitor. Fair line: "Keep your tracker and your résumé tool. Day60 is the part after you find the job."
 
 - Cadence (Philip, Nov 5): **LinkedIn 3, Instagram 5, Facebook 2 = 10 posts a week.** This week: Instagram 4 carousels + 1 Reel; Facebook 2 (the extension carousel and the 404 image). From the week of Nov 15, Facebook's 2 posts reuse that week's 2 strongest Instagram images (no Facebook-only art). TikTok is on hold.
 - **Nov 5 changes:** FB1, FB2, FB4 and FB5 are cut (Facebook is down to 2). Their text is kept under "Not scheduled" at the end of the drafts. IG3 is dropped too, because adding IG6 made 6 Instagram posts: it repeated IG1's is/isn't point three days later and reused LI1's hook. IG5 is now the approved extension carousel, so the Saturday screen-recording Reel has no slot this week.
-- **LinkedIn links:** no link in the body. Each LinkedIn post has a "First comment:" line, and Philip posts that comment by hand (Buffer's free plan can't post first comments).
+- **LinkedIn links:** no link in the body. Each LinkedIn post has a "First comment:" line, and Philip posts that comment by hand right after the post goes live.
 - **Nov 4 changes:** the Chrome extension (live v1.0.0) takes LI3, FB3 and IG5, and the "3 touches" LinkedIn PDF moves to week 47. Those three launch posts then moved forward to this week (Nov 5–7). Week 46's slots now carry new angles: trust (LI3), plain answers (FB3), and a screen-recording Reel (IG5).
-- Times are Central. The Day60 Ops top-up job schedules **approved posts only** from this file, within Buffer's 10-post limit: **Batch A** on Saturday at 2:23 PM CT (posts due Sun–Wed, 5 this week) and **Batch B** on Wednesday (posts due Thu–Sat, 5 this week). Social doesn't schedule in Buffer.
+- Times are Central. Philip posts approved posts by hand at these times (Buffer paused Nov 11).
 - Raw image URL prefix: `https://raw.githubusercontent.com/philipjansen25/day60-social/main/2026-11/wk46/`
 - UTM campaign `2026-w46`. Pinned and featured posts use `utm_campaign=pinned`, because they stay up longer than a week.
 - No spots-left numbers (no verified count yet). No Philip job-search results on LinkedIn. Founder facts: only the 2023 hiring story from playbook.md.
@@ -19,26 +21,26 @@ Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 
 ## Schedule at a glance
 
-| # | Day | Time (CT) | Platform | Format | Asset | Batch | Status | Pin |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| IG1 | Sun Nov 8 | 11:00 AM | Instagram | Carousel (7) | p01_is_isnt_1–7.png | A | **APPROVED (Philip, Nov 6)** | **Pin to grid** |
-| LI1 | **Mon Nov 16** (moved) | 8:30 AM | LinkedIn | Image | p02_is_isnt_card.png | A | **APPROVED (Philip, Nov 6)** | **Add to Featured** |
-| IG2 | Mon Nov 9 | 12:00 PM | Instagram | Reel 18 s | p13_how_it_works_reel.mp4 | A | **APPROVED (Philip, Nov 6)** | |
-| FB3 | Tue Nov 10 | 6:00 PM | Facebook | Carousel (6) | p14_ext_steps_1–6.png | A | **APPROVED (Philip, Nov 5)** | |
-| LI2 | Wed Nov 11 | 8:30 AM | LinkedIn | Image | p05_722.png | A | **APPROVED (Philip, Nov 6)** | |
-| LI3-new | Thu Nov 12 | 8:30 AM | LinkedIn | Document (5 pages) | p17_ext_linkedin.pdf | B | **APPROVED (Philip, Nov 6)** | |
-| IG4 | Thu Nov 12 | 7:00 PM | Instagram | Carousel (6) | p06_three_touches_1–6.png | B | **APPROVED (Philip, Nov 6)** | |
-| IG6 | Fri Nov 13 | 12:00 PM | Instagram | Carousel (7) | p15_checker_1–7.png | B | **APPROVED (Philip, Nov 5)** | |
-| FB6 | Fri Nov 13 | 6:00 PM | Facebook | Image | p16_tick_404.png | B | **APPROVED (Philip, Nov 5)** | |
-| IG5 | Sat Nov 14 | 10:00 AM | Instagram | Carousel (6) | p14_ext_steps_1–6.png | B | **APPROVED (Philip, Nov 5)** | |
+| # | Day | Time (CT) | Platform | Format | Asset | Status | Pin |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| IG1 | Sun Nov 8 | 11:00 AM | Instagram | Carousel (7) | p01_is_isnt_1–7.png | **APPROVED (Philip, Nov 6)** | **Pin to grid** |
+| LI1 | **Tue Nov 17** (moved) | 8:30 AM | LinkedIn | Image | p02_is_isnt_card.png | **APPROVED (Philip, Nov 6)** | **Add to Featured** |
+| IG2 | Mon Nov 9 | 12:00 PM | Instagram | Reel 18 s | p13_how_it_works_reel.mp4 | **APPROVED (Philip, Nov 6)** | |
+| FB3 | Tue Nov 10 | 6:00 PM | Facebook | Carousel (6) | p14_ext_steps_1–6.png | **APPROVED (Philip, Nov 5)** | |
+| LI2 | Wed Nov 11 | 8:30 AM | LinkedIn | Image | p05_722.png | **APPROVED (Philip, Nov 6)** | |
+| LI3-new | Thu Nov 12 | 8:30 AM | LinkedIn | Document (5 pages) | p17_ext_linkedin.pdf | **APPROVED (Philip, Nov 6)** | |
+| IG4 | Thu Nov 12 | 7:00 PM | Instagram | Carousel (6) | p06_three_touches_1–6.png | **APPROVED (Philip, Nov 6)** | |
+| IG6 | Fri Nov 13 | 12:00 PM | Instagram | Carousel (7) | p15_checker_1–7.png | **APPROVED (Philip, Nov 5)** | |
+| FB6 | Fri Nov 13 | 6:00 PM | Facebook | Image | p16_tick_404.png | **APPROVED (Philip, Nov 5)** | |
+| IG5 | Sat Nov 14 | 10:00 AM | Instagram | Carousel (6) | p14_ext_steps_1–6.png | **APPROVED (Philip, Nov 5)** | |
 
-Totals: LinkedIn 2 this week (LI1 moved to Mon Nov 16), Instagram 5, Facebook 2. Batch A 5 posts (IG1, LI1, IG2, FB3, LI2), Batch B 5 posts (LI3-new, IG4, IG6, FB6, IG5). All 10 approved.
+Totals: LinkedIn 2 this week (LI1 moved to Tue Nov 17), Instagram 5, Facebook 2. All 10 approved. IG1, IG2, FB3 and LI2 went out through Buffer; Philip posts the rest by hand.
 
 ---
 
 ## LinkedIn (Philip's profile)
 
-### LI1 · Mon Nov 16 · 8:30 AM · Batch A · APPROVED (Philip, Nov 6) · FEATURED · ALREADY IN BUFFER (Philip moved it Nov 8; HQ rescheduled it, don't schedule again)
+### LI1 · Tue Nov 17 · 8:30 AM · APPROVED (Philip, Nov 6) · FEATURED · MOVED FROM MON NOV 16 (HQ, Nov 11)
 - Image: `p02_is_isnt_card.png`
 - Alt text: Day60 in one picture. It is: a 60-day sprint, the 4 people closest to the hire, a short note in your voice, you hit send. It isn't: an auto-apply bot, a LinkedIn login, mass messages, keyword stuffing.
 - Tags: Day60 page (auto)
@@ -68,7 +70,7 @@ What would you add to the "isn't" list?
 #jobsearch #careers #hiring
 ```
 
-### LI2 · Wed Nov 11 · 8:30 AM · Batch A · APPROVED (Philip, Nov 6)
+### LI2 · Wed Nov 11 · 8:30 AM · APPROVED (Philip, Nov 6)
 - Image: `p05_722.png`
 - Alt text: 722 applicants in 24 hours. The ones that got answered: 9 cold calls and 16 emails. Stop applying. Start prospecting. Philip's 2023 hiring story.
 - Tags: Day60 page (auto)
@@ -92,7 +94,7 @@ Try it on one job. Link in the first comment.
 #jobsearch #hiring #recruiting
 ```
 
-### LI3-new · Thu Nov 12 · 8:30 AM · Batch B · APPROVED (Philip, Nov 6) · EXTENSION: TRUST ANGLE (1.1.0 LinkedIn steps, 5-page document)
+### LI3-new · Thu Nov 12 · 8:30 AM · APPROVED (Philip, Nov 6) · EXTENSION: TRUST ANGLE (1.1.0 LinkedIn steps, 5-page document)
 - Document: `p17_ext_linkedin.pdf` (the 5 IG7 slides). Title: "Day60 for Chrome on LinkedIn". Fallback image: `media/chrome-extension/screenshot-3-linkedin-job.png` (no names on it).
 - Tags: Day60 page (auto)
 - First comment: https://getday60.com/chrome-extension?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-linkedin
@@ -124,7 +126,7 @@ What would you want to know before installing an extension?
 
 ## Instagram (@getday60)
 
-### IG1 · Sun Nov 8 · 11:00 AM · Batch A · APPROVED (Philip, Nov 6) · PIN TO GRID
+### IG1 · Sun Nov 8 · 11:00 AM · APPROVED (Philip, Nov 6) · PIN TO GRID
 - Carousel: `p01_is_isnt_1.png` … `p01_is_isnt_7.png`
 - Alt text (per slide): 1 "What Day60 is. And what it isn't." · 2 It is a 60-day job-search sprint, up to 3 new jobs a day · 3 It is the 4 people closest to the hire, verified work emails where available · 4 It is a short note in your voice, checked by Tick, 3 touches max · 5 It isn't an auto-apply bot · 6 It isn't a LinkedIn hack · 7 Keep your tracker and your résumé tool. Day60 is the part after you find the job. Free, no card.
 
@@ -142,7 +144,7 @@ Day60 Sprint. Free. No card. Nothing to cancel. Try one job at the link in bio.
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### IG2 · Mon Nov 9 · 12:00 PM · Batch A · APPROVED (Philip, Nov 6)
+### IG2 · Mon Nov 9 · 12:00 PM · APPROVED (Philip, Nov 6)
 - Reel: `p13_how_it_works_reel.mp4` (18 s, 1080×1920, silent; add low-key audio in-app if Philip wants). Cover: first frame.
 - **Replaces the retired /try phone clip** (HQ, Nov 5: it showed a real company's posting). Built from Day60's design tokens: 01 paste a job link, 02 Day60 finds the 4 people, 03 Tick checks the message, then "You send it." Invented company (Northpine) and people, labeled "Example · invented company & people" on every data screen.
 
@@ -156,7 +158,7 @@ Try one job free, no account: link in bio.
 #day60 #jobsearch #jobsearchtips #careertips #jobhunting
 ```
 
-### IG4 · Thu Nov 12 · 7:00 PM · Batch B · APPROVED (Philip, Nov 6)
+### IG4 · Thu Nov 12 · 7:00 PM · APPROVED (Philip, Nov 6)
 - Carousel: `p06_three_touches_1.png` … `p06_three_touches_6.png`
 - Alt text (per slide): 1 "3 touches. Then stop." · 2 Day 0, the first note · 3 Day 2, the nudge · 4 Day 7, the last word · 5 Then stop: three touches is persistence, ten is spam · 6 Four people, three touches, you send every one. Try one job free.
 
@@ -172,7 +174,7 @@ Save this for your next follow-up. Link in bio to try one job free.
 #day60 #jobsearch #networkingtips #careeradvice #jobsearchtips
 ```
 
-### IG6 · Fri Nov 13 · 12:00 PM · Batch B · APPROVED (Philip, Nov 5) · SITE PICK: MESSAGE CHECKER
+### IG6 · Fri Nov 13 · 12:00 PM · APPROVED (Philip, Nov 5) · SITE PICK: MESSAGE CHECKER
 - Carousel: `p15_checker_1–7.png` (built by `build_picks.py`). Slides 2, 4 and 6 are real crops of getday60.com/message-checker, shot Nov 5: the choice cards and Tick's checklist. The draft is set in our own card because the site's message box edges are faint.
 - Both drafts are invented (sender "Sam", recipient "Dana", company "Northpine"), and the slides say so. The live checker really scored them 7 to fix / 6 passed, then All 13 rules pass.
 - Link (bio stays /try; this goes in the caption as text): https://getday60.com/message-checker?utm_source=instagram&utm_medium=social&utm_campaign=2026-w46&utm_content=message-checker
@@ -198,7 +200,7 @@ Free, no sign-up: getday60.com/message-checker
 #day60 #jobsearch #coldemail #jobsearchtips #careertips
 ```
 
-### IG5 · Sat Nov 14 · 10:00 AM · Batch B · APPROVED (Philip, Nov 5) · EXTENSION CAROUSEL
+### IG5 · Sat Nov 14 · 10:00 AM · APPROVED (Philip, Nov 5) · EXTENSION CAROUSEL
 - Carousel: `p14_ext_steps_1.png` … `p14_ext_steps_6.png`, the same 6 slides as FB3. Was draft IG5-fallback; it replaces the planned screen-recording Reel and the old p10 + wk1/p11 fallback.
 - Alt text (per slide): same as FB3.
 
@@ -218,7 +220,7 @@ Free: search "Day60" in the Chrome Web Store.
 
 ## Facebook (Day60 Page)
 
-### FB3 · Tue Nov 10 · 6:00 PM · Batch A · APPROVED (Philip, Nov 5) · EXTENSION FAQ (6-slide carousel)
+### FB3 · Tue Nov 10 · 6:00 PM · APPROVED (Philip, Nov 5) · EXTENSION FAQ (6-slide carousel)
 - Carousel: `p14_ext_steps_1.png` … `p14_ext_steps_6.png` (built by `build_ext.py`). Was draft FB3-new; it replaces the old p10 image and v1.0.0 copy. Slide 5 ("What it never does") matches the FAQ.
 - Link: https://getday60.com/chrome-extension?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-faq
 - Alt text (per slide): 1 "From a careers page to your sprint. One click." with Tick pointing · 2 Step 01, an invented Northpine Account Executive job on its careers page · 3 Step 02, the Day60 popup with the "Find the 4 people with Day60" button · 4 Step 03, Day60 with the job link filled in and the four roles: hiring manager, their boss, internal champion, recruiter · 5 What it never does: read your LinkedIn pages, fill in forms or apply, send messages; it runs only when you click it · 6 Free in the Chrome Web Store, getday60.com/chrome-extension
@@ -244,7 +246,7 @@ Got a question we didn't cover? Ask in the comments.
 #jobsearch #day60
 ```
 
-### FB6 · Fri Nov 13 · 6:00 PM · Batch B · APPROVED (Philip, Nov 5) · SITE PICK: LIGHT POST (404)
+### FB6 · Fri Nov 13 · 6:00 PM · APPROVED (Philip, Nov 5) · SITE PICK: LIGHT POST (404)
 - Image: `p16_tick_404.png`. A real crop of getday60.com/no-such-page, the card only, with no site footer.
 - Link: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=tick-404
 - Alt text: "Even our 404 page has a job to do." The Day60 404 page shows Tick, "This page doesn't exist. Tick looked everywhere.", and buttons for "Back to home" and "Start my free sprint".
@@ -264,11 +266,11 @@ Start a free sprint (no card): https://getday60.com/try?utm_source=facebook&utm_
 ---
 
 ## Gated draft (not scheduled)
-FB3-new, IG5-fallback, IG6 and FB6 were approved on Nov 5, and LI3-new on Nov 6. They sit in the plan above. One gated draft remains, and it doesn't go into Buffer.
+FB3-new, IG5-fallback, IG6 and FB6 were approved on Nov 5, and LI3-new on Nov 6. They sit in the plan above. One gated draft remains, and it isn't posted.
 
-| ID | Day | Time | Platform | Format | Asset | Batch | Note |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| IG7 | Draft · Tue Nov 10 | 12:00 PM | Instagram | Carousel (5) | p17_ext_linkedin_1–5.png | A | v1.1.0 LinkedIn steps. Instagram is at 5, so it runs only if Philip picks which waiting Instagram post it replaces (HQ will say) |
+| ID | Day | Time | Platform | Format | Asset | Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| IG7 | Draft · Tue Nov 10 | 12:00 PM | Instagram | Carousel (5) | p17_ext_linkedin_1–5.png | v1.1.0 LinkedIn steps. Instagram is at 5, so it runs only if Philip picks which waiting Instagram post it replaces (HQ will say) |
 
 ### IG7 · Tue Nov 10 · 12:00 PM · EXTENSION 1.1.0: THE LINKEDIN STEPS
 - Carousel: `p17_ext_linkedin_1–5.png` (built by `build_li.py`). The popups are crops of the 1.1.0 store screenshots (no names on them). Claims are the listing's LinkedIn lines only: nothing from 1.2.0.
@@ -380,7 +382,7 @@ Share this with someone who's job hunting this weekend.
 ## Pinned and featured posts (one per channel)
 - **Instagram:** pin IG1 (the 7-slide carousel) to the top of the grid on Sunday.
 - **Facebook:** FB1 was cut (Nov 5), so no new Facebook pin this week. Keep the current pin.
-- **LinkedIn:** after LI1 posts on Mon Nov 16, Philip adds it to the Featured section of his profile.
+- **LinkedIn:** after LI1 posts on Tue Nov 17, Philip adds it to the Featured section of his profile.
 - All three use `utm_campaign=pinned`, so long-tail signups stay separate from the week's numbers.
 
 ## Profile bio lines (proposed)

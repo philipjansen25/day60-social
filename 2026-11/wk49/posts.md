@@ -8,7 +8,7 @@ Philip launches on Product Hunt himself at 12:01 AM Pacific (2:01 AM Central). T
 
 | Platform | Weekly cap | Week 49 so far |
 | --- | --- | --- |
-| LinkedIn | 3 | LI-PH (Tue Dec 1); 2 to plan |
+| LinkedIn | 2 Day60 posts (Tue, Thu) | LI-PH (Tue Dec 1), LI-3touch (Thu Dec 3, proposed; moved from week 47) |
 | Instagram | 5 | IG-PH (Tue Dec 1); 4 to plan |
 | Facebook | 2 | FB-PH (Tue Dec 1, reuses IG-PH's image); 1 to plan |
 
@@ -84,3 +84,10 @@ Or try one job first, free and with no account: https://getday60.com/try?utm_sou
 
 #jobsearch #day60 #producthunt
 ```
+
+## LinkedIn (Philip's profile)
+
+### LI-3touch · Thu Dec 3 · 8:30 AM (proposed) · DRAFT · MOVED FROM WEEK 47 (HQ, Nov 11)
+- Document: `2026-11/wk46/p06_three_touches_linkedin.pdf` (already built). It moved to week 47 when the Chrome extension post took week 46's Thursday slot, then here when Day60's LinkedIn went to two posts a week (Tue and Thu) from Nov 16.
+- Link: use `https://getday60.com/guides/follow-up-after-no-reply?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49&utm_content=three-touches` (guide links are allowed from week 47).
+- Copy: reuse the week 46 LI3 draft (git history, commit 009d790 or earlier), updating the link. Same "Day60 once" and follow-up wording rules.

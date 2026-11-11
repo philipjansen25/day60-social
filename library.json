@@ -1,0 +1,319 @@
+[
+  {
+    "id": "2026-w46-LI3-new",
+    "week": "2026-w46",
+    "channel": "linkedin",
+    "topic": "day60",
+    "date": "2026-11-12",
+    "time": "08:30",
+    "status": "approved",
+    "title": "Day60 for Chrome on LinkedIn",
+    "format": "document",
+    "text": "Our Chrome extension still follows one rule: it never reads LinkedIn pages.\n\nWhat's new is that it's now useful on LinkedIn anyway.\n\nOn a LinkedIn job, press \"Find it with Day60\". It looks for the same opening on the company's own careers page. If the company doesn't post it there, you paste the description.\n\nOn a LinkedIn profile, a second button saves that person to one of your jobs as the hiring manager, their boss, an internal champion or the recruiter.\n\nHow, without reading the page? It uses only the tab's address and title, and only when you press its button. It never fills in forms, never applies and never sends a message. You send every message.\n\nThat's slower than a tool that does everything for you. It's also the only way I'd want someone reaching out in my name.\n\nFree in the Chrome Web Store. Link in the first comment.\n\nWhat would you want to know before installing an extension?\n\n#jobsearch #privacy #careers",
+    "firstComment": "https://getday60.com/chrome-extension?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-linkedin",
+    "link": "",
+    "files": [
+      {
+        "path": "2026-11/wk46/p17_ext_linkedin.pdf",
+        "alt": "Day60 for Chrome on LinkedIn"
+      },
+      {
+        "path": "2026-11/wk46/p17_ext_linkedin_1.png",
+        "alt": "\"Found it on LinkedIn? Take it to Day60.\" Two new buttons for LinkedIn, with Tick pointing"
+      },
+      {
+        "path": "2026-11/wk46/p17_ext_linkedin_2.png",
+        "alt": "Step 01, the Day60 popup on a LinkedIn job: \"Find this job on the company's own careers page\" and the \"Find it with Day60\" button; Tick says it looks for the same job on the company's careers page, and if it isn't posted there you paste the description"
+      },
+      {
+        "path": "2026-11/wk46/p17_ext_linkedin_3.png",
+        "alt": "Step 02, the Day60 popup on a LinkedIn profile: \"Add this person to one of your jobs\" and the \"Add to a job in Day60\" button; Tick says pick the job and their role: hiring manager, their boss, champion or recruiter"
+      },
+      {
+        "path": "2026-11/wk46/p17_ext_linkedin_4.png",
+        "alt": "What it never does: read LinkedIn pages, fill in forms or apply, send messages for you. On LinkedIn it uses only the tab's address and title, and only when you press its button. You send every message"
+      },
+      {
+        "path": "2026-11/wk46/p17_ext_linkedin_5.png",
+        "alt": "Free in the Chrome Web Store, getday60.com/chrome-extension"
+      }
+    ],
+    "notes": "Tag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699). No link in the body. Post the first comment yourself right after the post goes live. Upload the PDF as a document and give it the title \"Day60 for Chrome on LinkedIn\" (LinkedIn asks for a title, and document pages have no alt text). The 5 page images are the same slides, for reference only.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w46-IG4",
+    "week": "2026-w46",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-11-12",
+    "time": "19:00",
+    "status": "approved",
+    "title": "Three touches, then stop",
+    "format": "carousel",
+    "text": "Day 0, day 2, day 7. Then stop.\n\nIt's easy to send one message and give up, or to send ten and get muted. Three touches is the middle ground: a first note about their problem, a two-line nudge with something new, and a kind last word.\n\nDay60 caps it at 3 touches per person and tells you when each follow-up is due. You send every one.\n\nSave this for your next follow-up. Link in bio to try one job free.\n\n#day60 #jobsearch #networkingtips #careeradvice #jobsearchtips",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-11/wk46/p06_three_touches_1.png",
+        "alt": "3 touches. Then stop."
+      },
+      {
+        "path": "2026-11/wk46/p06_three_touches_2.png",
+        "alt": "Day 0, the first note"
+      },
+      {
+        "path": "2026-11/wk46/p06_three_touches_3.png",
+        "alt": "Day 2, the nudge"
+      },
+      {
+        "path": "2026-11/wk46/p06_three_touches_4.png",
+        "alt": "Day 7, the last word"
+      },
+      {
+        "path": "2026-11/wk46/p06_three_touches_5.png",
+        "alt": "Then stop: three touches is persistence, ten is spam"
+      },
+      {
+        "path": "2026-11/wk46/p06_three_touches_6.png",
+        "alt": "Four people, three touches, you send every one. Try one job free."
+      }
+    ],
+    "notes": "Post as a carousel, slides in the order listed. Add each slide's alt text (in the Instagram app: Advanced settings, then Accessibility). Captions can't hold clickable links; the bio link stays as it is. Before posting, check getday60.com/try still lets you try one job free (the caption and slide 6 say so).",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w46-IG6",
+    "week": "2026-w46",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-11-13",
+    "time": "12:00",
+    "status": "approved",
+    "title": "Would Tick let you send it",
+    "format": "carousel",
+    "text": "Would Tick let you send it?\n\nWe ran one cold email through Day60's free message checker.\n\nThe first draft: 7 things to fix. It opened with \"I\". The subject line ran 12 words. There was no clear question, two em dashes, and the phrases \"I wanted to reach out\" and \"passionate\".\n\nThe rewrite: one line about their team, one line of proof, one clear question. All 13 rules pass.\n\nPick what you're sending (a cold email, a LinkedIn connection note, or the message after they accept), paste your draft, and Tick tells you what to fix and why.\n\nTick checks the rules, not the facts. Make sure every detail is true.\n\nFree, no sign-up: getday60.com/message-checker\n\n(The sender, recipient and company are invented.)\n\n#day60 #jobsearch #coldemail #jobsearchtips #careertips",
+    "firstComment": "",
+    "link": "https://getday60.com/message-checker?utm_source=instagram&utm_medium=social&utm_campaign=2026-w46&utm_content=message-checker",
+    "files": [
+      {
+        "path": "2026-11/wk46/p15_checker_1.png",
+        "alt": "\"Would Tick let you send it?\" with Tick thinking"
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_2.png",
+        "alt": "Step 01, the checker's three choices: cold email, LinkedIn connection note, LinkedIn message after they accept"
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_3.png",
+        "alt": "Step 02, an invented first draft that opens \"I hope this email finds you well\""
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_4.png",
+        "alt": "Tick's checklist: 7 to fix, 6 passed, short subject line and \"doesn't start with I\" flagged"
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_5.png",
+        "alt": "Step 03, the invented rewrite to Dana with one question and a sign-off"
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_6.png",
+        "alt": "Tick's checklist: all 13 rules pass"
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_7.png",
+        "alt": "Check it before you send it, free, getday60.com/message-checker"
+      }
+    ],
+    "notes": "Post as a carousel, slides in the order listed. Add each slide's alt text (in the Instagram app: Advanced settings, then Accessibility). Captions can't hold clickable links; the bio link stays as it is. The message-checker link is already in the caption as plain text; it isn't clickable, and the bio link doesn't change.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w46-FB6",
+    "week": "2026-w46",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-11-13",
+    "time": "18:00",
+    "status": "approved",
+    "title": "Even our 404 page works",
+    "format": "image",
+    "text": "Even our 404 page has a job to do.\n\nLand on a page that doesn't exist and Tick has already looked everywhere. Then he points you back to the one thing worth doing.\n\nSame idea as the sprint: don't wander. Pick the job, find the four people closest to the hire, and send one short note to each.\n\nStart a free sprint (no card): https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=tick-404\n\n#day60 #jobsearch #smallwins",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=tick-404",
+    "files": [
+      {
+        "path": "2026-11/wk46/p16_tick_404.png",
+        "alt": "\"Even our 404 page has a job to do.\" The Day60 404 page shows Tick, \"This page doesn't exist. Tick looked everywhere.\", and buttons for \"Back to home\" and \"Start my free sprint\"."
+      }
+    ],
+    "notes": "Post on the Day60 Facebook Page in Meta Business Suite. The link stays in the text, as written. Add each image's alt text. One image. Before posting, check getday60.com/try still offers the free sprint with no card; if it doesn't, ask HQ for a new last line.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w46-IG5",
+    "week": "2026-w46",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-11-14",
+    "time": "10:00",
+    "status": "approved",
+    "title": "The extension in three steps",
+    "format": "carousel",
+    "text": "Watch it work: one click on a careers page, and the job opens in Day60.\n\nFound a job on a company's careers page? Click the Day60 icon, press \"Find the 4 people with Day60\", and you see the 4 people closest to the hire. Then a short note to each, in your voice. You send it.\n\nIt only runs when you click it, and it never reads LinkedIn.\n\nFree: search \"Day60\" in the Chrome Web Store.\n\n#day60 #jobsearch #jobsearchtips #careertips #productivity",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-11/wk46/p14_ext_steps_1.png",
+        "alt": "\"From a careers page to your sprint. One click.\" with Tick pointing"
+      },
+      {
+        "path": "2026-11/wk46/p14_ext_steps_2.png",
+        "alt": "Step 01, an invented Northpine Account Executive job on its careers page"
+      },
+      {
+        "path": "2026-11/wk46/p14_ext_steps_3.png",
+        "alt": "Step 02, the Day60 popup with the \"Find the 4 people with Day60\" button"
+      },
+      {
+        "path": "2026-11/wk46/p14_ext_steps_4.png",
+        "alt": "Step 03, Day60 with the job link filled in and the four roles: hiring manager, their boss, internal champion, recruiter"
+      },
+      {
+        "path": "2026-11/wk46/p14_ext_steps_5.png",
+        "alt": "What it never does: read your LinkedIn pages, fill in forms or apply, send messages; it runs only when you click it"
+      },
+      {
+        "path": "2026-11/wk46/p14_ext_steps_6.png",
+        "alt": "Free in the Chrome Web Store, getday60.com/chrome-extension"
+      }
+    ],
+    "notes": "Post as a carousel, slides in the order listed. Add each slide's alt text (in the Instagram app: Advanced settings, then Accessibility). Captions can't hold clickable links; the bio link stays as it is.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w46-LI1",
+    "week": "2026-w46",
+    "channel": "linkedin",
+    "topic": "day60",
+    "date": "2026-11-17",
+    "time": "08:30",
+    "status": "approved",
+    "title": "What Day60 is and isn't",
+    "format": "image",
+    "text": "Most job tools make applying faster.\n\nI built one that slows you down to the few jobs worth your time, then gets you to the person who decides.\n\nWhat it is:\nA 60-day job-search sprint. Up to 3 new jobs a day.\nFor each job, the four people closest to the hire: the hiring manager, their boss, an internal champion and the recruiter. Verified work emails where available.\nA short draft in your voice, checked against writing rules before you send it.\n\nWhat it isn't:\nAn auto-apply bot. It never applies and never sends.\nA LinkedIn hack. It never logs in to LinkedIn, scrapes it or automates it.\nA blast tool. No mass messages, no keyword stuffing.\n\nKeep your tracker and your résumé tool. Day60 is the part after you find the job.\n\nTry it on one job. Link in the first comment.\n\nWhat would you add to the \"isn't\" list?\n\n#jobsearch #careers #hiring",
+    "firstComment": "https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=pinned&utm_content=is-isnt",
+    "link": "",
+    "files": [
+      {
+        "path": "2026-11/wk46/p02_is_isnt_card.png",
+        "alt": "Day60 in one picture. It is: a 60-day sprint, the 4 people closest to the hire, a short note in your voice, you hit send. It isn't: an auto-apply bot, a LinkedIn login, mass messages, keyword stuffing."
+      }
+    ],
+    "notes": "Tag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699). No link in the body. Post the first comment yourself right after the post goes live. Add the image's alt text when you upload it. After it posts, add it to the Featured section of your profile. Moved from Mon Nov 16 (Day60's LinkedIn days are Tue and Thu).",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w47-IG-four",
+    "week": "2026-w47",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-11-17",
+    "time": "12:00",
+    "status": "draft",
+    "title": "Every job has 4 people",
+    "format": "carousel",
+    "text": "Every job has 4 people who decide if you get it. An application reaches one of them, maybe.\n\nThe hiring manager feels the empty seat. Their boss approved the role. Someone on the team knows what the job really needs. The recruiter runs the process.\n\nSwipe for what to send each one, and save it for your next application.\n\nPaste a job link and Day60 finds your 4 people, with a short note to each in your voice. You send every message. Link in bio.\n\n#day60 #jobsearch #jobsearchtips #careertips #networking",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-11/wk47/p01_four_people_1.png",
+        "alt": "Every job has 4 people who decide if you get it. An application reaches one of them. Maybe."
+      },
+      {
+        "path": "2026-11/wk47/p01_four_people_2.png",
+        "alt": "01, the hiring manager: feels the empty seat. Make your note about their team: one thing you noticed, one line of proof, one clear question."
+      },
+      {
+        "path": "2026-11/wk47/p01_four_people_3.png",
+        "alt": "02, their boss: approved the role. Keep it shorter. Say why their team's goal is the one you want to work on."
+      },
+      {
+        "path": "2026-11/wk47/p01_four_people_4.png",
+        "alt": "03, an internal champion: knows what the job really needs. Ask one real question about the work."
+      },
+      {
+        "path": "2026-11/wk47/p01_four_people_5.png",
+        "alt": "04, the recruiter: runs the process. Tell them you applied and why: the role, one line on fit, when you're free to talk."
+      },
+      {
+        "path": "2026-11/wk47/p01_four_people_6.png",
+        "alt": "Paste a job link. Get your 4 people. A short note to each, in your voice. You send every message. Link in bio."
+      }
+    ],
+    "notes": "Post as a carousel, slides in the order listed. Add each slide's alt text (in the Instagram app: Advanced settings, then Accessibility). Captions can't hold clickable links; the bio link stays as it is. Draft: waits for Philip's approval on Fri Nov 13.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w47-FB-four",
+    "week": "2026-w47",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-11-18",
+    "time": "18:00",
+    "status": "draft",
+    "title": "Four people who decide",
+    "format": "carousel",
+    "text": "If someone you care about has sent out application after application and heard nothing, this one's for them.\n\nEvery job has four people who decide who gets hired: the hiring manager, their boss, someone on the team who knows the work, and the recruiter. An application usually reaches only one of them.\n\nA short note to the hiring manager, about their team and ending with one clear question, puts your name in front of the person who decides. The slides show what to send each of the four.\n\nHow to write that first note: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w47&utm_content=four-people\n\nShare this with someone who's looking.\n\n#jobsearch #day60 #careeradvice",
+    "firstComment": "",
+    "link": "https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w47&utm_content=four-people",
+    "files": [
+      {
+        "path": "2026-11/wk47/p01_four_people_1.png",
+        "alt": "Every job has 4 people who decide if you get it. An application reaches one of them. Maybe."
+      },
+      {
+        "path": "2026-11/wk47/p01_four_people_2.png",
+        "alt": "01, the hiring manager: feels the empty seat. Make your note about their team: one thing you noticed, one line of proof, one clear question."
+      },
+      {
+        "path": "2026-11/wk47/p01_four_people_3.png",
+        "alt": "02, their boss: approved the role. Keep it shorter. Say why their team's goal is the one you want to work on."
+      },
+      {
+        "path": "2026-11/wk47/p01_four_people_4.png",
+        "alt": "03, an internal champion: knows what the job really needs. Ask one real question about the work."
+      },
+      {
+        "path": "2026-11/wk47/p01_four_people_5.png",
+        "alt": "04, the recruiter: runs the process. Tell them you applied and why: the role, one line on fit, when you're free to talk."
+      },
+      {
+        "path": "2026-11/wk47/p01_four_people_6.png",
+        "alt": "Paste a job link. Get your 4 people. A short note to each, in your voice. You send every message. Link in bio."
+      }
+    ],
+    "notes": "Post on the Day60 Facebook Page in Meta Business Suite. The link stays in the text, as written. Add each image's alt text. Upload the 6 images in the order listed (same slides as IG-four). Draft: waits for Philip's approval on Fri Nov 13.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w47-LI-thread",
+    "week": "2026-w47",
+    "channel": "linkedin",
+    "topic": "day60",
+    "date": "2026-11-19",
+    "time": "08:30",
+    "status": "draft",
+    "title": "Most job searches are single-threaded",
+    "format": "text",
+    "text": "Most job searches are single-threaded.\n\nIn sales, a deal with only one contact is called single-threaded. Everyone in sales knows how those go. One person gets busy, and the whole deal goes quiet.\n\nA job search usually runs the same way. One application, one recruiter, one inbox. If that recruiter is buried this week, so are you.\n\nEvery job has four people who shape the hire:\nThe hiring manager, who feels the empty seat.\nTheir boss, who approved the role.\nSomeone on the team who knows what the job really needs.\nThe recruiter, who runs the process.\n\nYou don't have to write to all four on day one. But know who they are, and make sure the hiring manager hears from you directly, in a short note about their team.\n\nThat's the method I built Day60 around: one job, four people, a few well-researched messages, and you send every one.\n\nHow to write that first note: link in the first comment.\n\nBesides the recruiter, who have you reached out to about a job?\n\n#jobsearch #careeradvice #networking",
+    "firstComment": "https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w47&utm_content=single-threaded",
+    "link": "",
+    "files": [],
+    "notes": "Tag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699). No link in the body. Post the first comment yourself right after the post goes live. Text only, no image. Draft: waits for Philip's approval on Fri Nov 13.",
+    "postedVia": ""
+  }
+]
