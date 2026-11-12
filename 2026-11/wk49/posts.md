@@ -1,6 +1,6 @@
 # Week 49 · Sun Nov 29 – Sat Dec 5, 2026 · DRAFTS IN PROGRESS
 
-**Status: drafts, not approved.** Only the Product Hunt launch-day posts so far. The rest of the week comes after HQ's brief for week 49.
+**Status: LI-PH, IG-PH and FB-PH are approved (Philip, Nov 11, Post Library) and scheduled by Philip; LI-3touch is a draft.** The rest of the week comes after HQ's brief for week 49.
 
 ## Product Hunt launch day · Tue Dec 1 (Philip moved it from Nov 17 on Nov 11; he approved the kit's words on Nov 7)
 
@@ -12,12 +12,12 @@ Philip launches on Product Hunt himself at 12:01 AM Pacific (2:01 AM Central). T
 | Instagram | 5 | IG-PH (Tue Dec 1); 4 to plan |
 | Facebook | 2 | FB-PH (Tue Dec 1, reuses IG-PH's image); 1 to plan |
 
-**Before approval:** replace `<Product Hunt launch link>` in LI-PH's first comment and in FB-PH with the launch page's link. Product Hunt gives the link once Philip schedules the launch. Philip doesn't post anything that still has the placeholder.
+**When the launch link comes:** HQ asks Social to replace `<Product Hunt launch link>` in FB-PH's text and LI-PH's first comment, and Philip edits the scheduled FB-PH by hand. Product Hunt gives the link once Philip schedules the launch. Philip doesn't post anything that still has the placeholder.
 
-**Thanksgiving timing:** the usual Friday approval would be Fri Nov 27, the day after Thanksgiving. Better to approve these three earlier (with week 48 on Fri Nov 20, or by Wed Nov 25), once the launch link exists, so they're ready for Philip to post by hand on Dec 1 (Buffer is paused).
+**Thanksgiving timing:** Philip approved and scheduled these three on Nov 11, well before Thanksgiving. Only the launch link is left.
 
-### LI-PH · Tue Dec 1 · 8:30 AM · DRAFT · PRODUCT HUNT LAUNCH
-- Status: draft, not approved. Philip approves the words before he posts it (see Thanksgiving timing above).
+### LI-PH · Tue Dec 1 · 8:30 AM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH
+- Status: approved in the Post Library (Philip, Nov 11) and scheduled by Philip. It's live copy: change it only if something is wrong, and tell HQ.
 - Image: `product-hunt/01_hero.png` (gallery image 1)
 - Alt text: Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Tick points at the cards.
 - Tags: Day60 page (auto)
@@ -45,8 +45,8 @@ Link to the launch in the first comment.
 
 Checks: "Day60" appears once. No link in the body. Founder facts are the four approved lines, nothing else; no personal results. Asks for feedback, not upvotes. No em-dashes, no banned phrases, no competitor names.
 
-### IG-PH · Tue Dec 1 · 12:00 PM · DRAFT · PRODUCT HUNT LAUNCH
-- Status: draft, not approved. Philip approves the words before he posts it (see Thanksgiving timing above).
+### IG-PH · Tue Dec 1 · 12:00 PM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH
+- Status: approved in the Post Library (Philip, Nov 11) and scheduled by Philip. It's live copy: change it only if something is wrong, and tell HQ.
 - Image: `product-hunt/ig_launch_day.png` (1080×1350, the portrait version of gallery image 1)
 - Alt text: On Product Hunt today. Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Search Day60 on Product Hunt. Tell us what you think.
 - Link: bio link stays /try. No link in the caption.
@@ -65,8 +65,8 @@ Try one job free, no account needed. Link in bio.
 #day60 #producthunt #jobsearch #jobsearchtips #careertips
 ```
 
-### FB-PH · Tue Dec 1 · 6:00 PM · DRAFT · PRODUCT HUNT LAUNCH
-- Status: draft, not approved. Philip approves the words before he posts it (see Thanksgiving timing above).
+### FB-PH · Tue Dec 1 · 6:00 PM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH
+- Status: approved in the Post Library (Philip, Nov 11) and scheduled by Philip. It's live copy: change it only if something is wrong, and tell HQ.
 - Image: `product-hunt/ig_launch_day.png` (same as IG-PH; Facebook reuses the week's Instagram images)
 - Alt text: same as IG-PH.
 - Links: the Product Hunt link, plus https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=product-hunt

@@ -281,15 +281,15 @@ Try it on one job: https://getday60.com/try?utm_source=facebook&utm_medium=socia
 ---
 
 ## Gated draft (not scheduled)
-FB3-new, IG5-fallback, IG6 and FB6 were approved on Nov 5, and LI3-new on Nov 6. They sit in the plan above. One gated draft remains, and it isn't posted.
+FB3-new, IG5-fallback, IG6 and FB6 were approved on Nov 5, and LI3-new on Nov 6. They sit in the plan above. IG7 was a gated draft; Philip approved it in the Post Library on Nov 11 and scheduled it himself.
 
 | ID | Day | Time | Platform | Format | Asset | Note |
 | --- | --- | --- | --- | --- | --- | --- |
-| IG7 | Draft · Tue Nov 10 | 12:00 PM | Instagram | Carousel (5) | p17_ext_linkedin_1–5.png | v1.1.0 LinkedIn steps. Instagram is at 5, so it runs only if Philip picks which waiting Instagram post it replaces (HQ will say) |
+| IG7 | **APPROVED (Philip, Nov 11, Post Library)** · old slot Tue Nov 10 | 12:00 PM | Instagram | Carousel (5) | p17_ext_linkedin_1–5.png | v1.1.0 LinkedIn steps. Philip scheduled it himself on Nov 11; its new date is his |
 
-### IG7 · Tue Nov 10 · 12:00 PM · EXTENSION 1.1.0: THE LINKEDIN STEPS
+### IG7 · Tue Nov 10 · 12:00 PM · APPROVED (Philip, Nov 11, Post Library) · EXTENSION 1.1.0: THE LINKEDIN STEPS
 - Carousel: `p17_ext_linkedin_1–5.png` (built by `build_li.py`). The popups are crops of the 1.1.0 store screenshots (no names on them). Claims are the listing's LinkedIn lines only: nothing from 1.2.0.
-- Gate: don't schedule until /chrome-extension shows the LinkedIn steps (#239) and Philip approves.
+- Gate: don't schedule until /chrome-extension shows the LinkedIn steps (#239) and Philip approves. Philip approved it in the Post Library on Nov 11 and scheduled it himself; Tue Nov 10 is its old slot.
 - Link in bio stays /try. Caption link for reference: https://getday60.com/chrome-extension?utm_source=instagram&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-linkedin
 - Alt text (per slide): 1 "Found it on LinkedIn? Take it to Day60." Two new buttons for LinkedIn, with Tick pointing · 2 Step 01, the Day60 popup on a LinkedIn job: "Find this job on the company's own careers page" and the "Find it with Day60" button; Tick says it looks for the same job on the company's careers page, and if it isn't posted there you paste the description · 3 Step 02, the Day60 popup on a LinkedIn profile: "Add this person to one of your jobs" and the "Add to a job in Day60" button; Tick says pick the job and their role: hiring manager, their boss, champion or recruiter · 4 What it never does: read LinkedIn pages, fill in forms or apply, send messages for you. On LinkedIn it uses only the tab's address and title, and only when you press its button. You send every message · 5 Free in the Chrome Web Store, getday60.com/chrome-extension
 

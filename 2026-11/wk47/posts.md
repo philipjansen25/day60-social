@@ -1,23 +1,23 @@
 # Week 47 · Sun Nov 15 – Sat Nov 21, 2026 · DRAFTS IN PROGRESS
 
-**Status: drafts, not approved.** The full week comes after Thursday's brief (Nov 12); Philip approves week 47 on Friday Nov 13 as usual.
+**Status: IG-four, FB-four and LI-thread are approved (Philip, Nov 11, Post Library) and scheduled by Philip.** The rest of the week comes after Thursday's brief (Nov 12); Philip approves those on Friday Nov 13 as usual.
 
 **Buffer is paused (Philip, Nov 11).** Philip posts approved posts by hand: LinkedIn natively, Instagram and Facebook in Meta Business Suite. Each post's text, files, alt text, first comment and posting notes are in `library.json` at the repo root. Status is draft, approved or posted.
 
 ## Tue Nov 17: Product Hunt moved to Tue Dec 1 (Philip, Nov 11)
 
-The three launch posts (LI-PH, IG-PH, FB-PH) moved to `2026-11/wk49/posts.md`, still drafts with the link placeholder. Their slots are filled below with one idea, "every job has 4 people who decide", and no Product Hunt mention. All three are proposals for Friday's approval.
+The three launch posts (LI-PH, IG-PH, FB-PH) moved to `2026-11/wk49/posts.md`, still drafts with the link placeholder. Their slots are filled below with one idea, "every job has 4 people who decide", and no Product Hunt mention. Philip approved all three in the Post Library on Nov 11.
 
 | Platform | Weekly cap | Week 47 so far |
 | --- | --- | --- |
-| LinkedIn | 2 Day60 posts (Tue, Thu) | LI1 (Tue Nov 17: week 46's approved is/isn't post, moved from Mon Nov 16), LI-thread (Thu Nov 19, proposed) |
-| Instagram | 5 | IG-four (Tue, proposed); 4 to plan after Thursday's brief |
-| Facebook | 2 | FB-four (Wed, proposed, reuses IG-four's carousel); 1 to plan |
+| LinkedIn | 2 Day60 posts (Tue, Thu) | LI1 (Tue Nov 17: week 46's approved is/isn't post, moved from Mon Nov 16), LI-thread (Thu Nov 19, approved Nov 11) |
+| Instagram | 5 | IG-four (Tue, approved Nov 11); 4 to plan after Thursday's brief |
+| Facebook | 2 | FB-four (Wed, approved Nov 11, reuses IG-four's carousel); 1 to plan |
 
 Offer wording: free places may be gone by next week, so none of these says "free sprint" or "no card". They say what Day60 does and point to a guide or the bio link.
 
-### LI-thread · Thu Nov 19 · 8:30 AM · DRAFT · REPLACES LI-PH (moved from Tue Nov 17, HQ Nov 11)
-- Status: draft, not approved (Philip approves week 47 on Fri Nov 13).
+### LI-thread · Thu Nov 19 · 8:30 AM · APPROVED (Philip, Nov 11, Post Library) · REPLACES LI-PH (moved from Tue Nov 17, HQ Nov 11)
+- Status: approved in the Post Library (Philip, Nov 11) and scheduled by Philip. It's live copy: change it only if something is wrong, and tell HQ.
 - Format: text only (field note).
 - Tags: Day60 page (auto)
 - First comment: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w47&utm_content=single-threaded
@@ -48,8 +48,8 @@ Besides the recruiter, who have you reached out to about a job?
 
 Checks: hook is 38 characters. "Day60" appears once. No link in the body. No personal results, no founder facts beyond "I built Day60". Ends on a question. No em-dashes, no banned phrases, no competitor names.
 
-### IG-four · Tue Nov 17 · 12:00 PM · DRAFT · REPLACES IG-PH
-- Status: draft, not approved (Philip approves week 47 on Fri Nov 13).
+### IG-four · Tue Nov 17 · 12:00 PM · APPROVED (Philip, Nov 11, Post Library) · REPLACES IG-PH
+- Status: approved in the Post Library (Philip, Nov 11) and scheduled by Philip. It's live copy: change it only if something is wrong, and tell HQ.
 - Carousel (6): `2026-11/wk47/p01_four_people_1.png` to `p01_four_people_6.png` (source: `2026-11/wk47/build.py`)
 - Alt text (per slide): 1 "Every job has 4 people who decide if you get it. An application reaches one of them. Maybe." · 2 "01, the hiring manager: feels the empty seat. Make your note about their team: one thing you noticed, one line of proof, one clear question." · 3 "02, their boss: approved the role. Keep it shorter. Say why their team's goal is the one you want to work on." · 4 "03, an internal champion: knows what the job really needs. Ask one real question about the work." · 5 "04, the recruiter: runs the process. Tell them you applied and why: the role, one line on fit, when you're free to talk." · 6 "Paste a job link. Get your 4 people. A short note to each, in your voice. You send every message. Link in bio."
 - Link: bio link stays /try. No link in the caption.
@@ -66,8 +66,8 @@ Paste a job link and Day60 finds your 4 people, with a short note to each in you
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### FB-four · Wed Nov 18 · 6:00 PM · DRAFT · REPLACES FB-PH
-- Status: draft, not approved (Philip approves week 47 on Fri Nov 13).
+### FB-four · Wed Nov 18 · 6:00 PM · APPROVED (Philip, Nov 11, Post Library) · REPLACES FB-PH
+- Status: approved in the Post Library (Philip, Nov 11) and scheduled by Philip. It's live copy: change it only if something is wrong, and tell HQ.
 - Carousel: IG-four's 6 slides (Facebook reuses the week's Instagram art, on a different day from the Instagram post).
 - Alt text: same as IG-four.
 - Link: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w47&utm_content=four-people
@@ -89,7 +89,7 @@ Share this with someone who's looking.
 
 ## LinkedIn (Philip's profile)
 
-**LinkedIn plan (HQ, Nov 11):** from Mon Nov 16 Philip posts on LinkedIn five times a week, all at 8:30 AM CT. Two of those are Day60's, on Tue and Thu; the other three are his own posts and aren't planned in this repo. Tue Nov 17 is LI1 (approved in week 46, moved from Mon Nov 16; its heading stays in `2026-11/wk46/posts.md`). Thu Nov 19 is LI-thread (proposed; it replaces LI-PH, which moved to Dec 1). LI-3touch moved to Thu Dec 3 (`2026-11/wk49/posts.md`): week 48's one Day60 LinkedIn slot, Tue Nov 24, goes to LI-story, and Thu Nov 26 is Thanksgiving. LI-founder is replaced by week 48's LI-story (Philip, Nov 8; see `2026-11/wk48/posts.md`).
+**LinkedIn plan (HQ, Nov 11):** from Mon Nov 16 Philip posts on LinkedIn five times a week, all at 8:30 AM CT. Two of those are Day60's, on Tue and Thu; the other three are his own posts and aren't planned in this repo. Tue Nov 17 is LI1 (approved in week 46, moved from Mon Nov 16; its heading stays in `2026-11/wk46/posts.md`). Thu Nov 19 is LI-thread (approved Nov 11; it replaces LI-PH, which moved to Dec 1). LI-3touch moved to Thu Dec 3 (`2026-11/wk49/posts.md`): week 48's one Day60 LinkedIn slot, Tue Nov 24, goes to LI-story, and Thu Nov 26 is Thanksgiving. LI-founder is replaced by week 48's LI-story (Philip, Nov 8; see `2026-11/wk48/posts.md`).
 
 ### LI-founder (replaced) · NOT SCHEDULED · replaced by week 48's LI-story (Philip, Nov 8)
 

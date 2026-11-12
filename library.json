@@ -450,7 +450,7 @@
     "topic": "day60",
     "date": "2026-11-10",
     "time": "12:00",
-    "status": "draft",
+    "status": "approved",
     "title": "Extension LinkedIn steps carousel",
     "format": "carousel",
     "text": "Found the job on LinkedIn? Day60 for Chrome now has a button for that. 👀\n\nOn a LinkedIn job, press \"Find it with Day60\". Day60 looks for the same job on the company's own careers page. If the company doesn't post it there, you paste the description.\n\nOn a LinkedIn profile, press \"Add to a job in Day60\". That person goes into one of your jobs as the hiring manager, their boss, an internal champion or the recruiter.\n\nIt never reads LinkedIn pages. It uses only the tab's address and title, and only when you press its button. It never fills in forms, applies or sends messages. You send every message.\n\nFree in the Chrome Web Store. Search \"Day60\" or tap the link in bio.\n\n#jobsearch #linkedintips #careeradvice #jobhunt #day60",
@@ -478,7 +478,7 @@
         "alt": "Free in the Chrome Web Store, getday60.com/chrome-extension"
       }
     ],
-    "notes": "Gated draft, not planned: Instagram is at 5 a week, so it runs only if Philip picks the Instagram post it replaces.\nThe date is its old slot.\nLI3-new uses the same slides.",
+    "notes": "Add each slide's alt text (Instagram app: Advanced settings, then Accessibility).\nUpload the slides in the order listed.\nNo clickable links in the caption; the bio link stays as it is.\nThe date shown is its old slot (Tue Nov 10); Philip set the real date when he scheduled it on Nov 11.\nLI3-new uses the same slides.",
     "postedVia": ""
   },
   {
@@ -851,7 +851,7 @@
     "topic": "day60",
     "date": "2026-11-17",
     "time": "12:00",
-    "status": "draft",
+    "status": "approved",
     "title": "Every job has 4 people",
     "format": "carousel",
     "text": "Every job has 4 people who decide if you get it. An application reaches one of them, maybe.\n\nThe hiring manager feels the empty seat. Their boss approved the role. Someone on the team knows what the job really needs. The recruiter runs the process.\n\nSwipe for what to send each one, and save it for your next application.\n\nPaste a job link and Day60 finds your 4 people, with a short note to each in your voice. You send every message. Link in bio.\n\n#day60 #jobsearch #jobsearchtips #careertips #networking",
@@ -883,7 +883,7 @@
         "alt": "Paste a job link. Get your 4 people. A short note to each, in your voice. You send every message. Link in bio."
       }
     ],
-    "notes": "Add each slide's alt text (Instagram app: Advanced settings, then Accessibility).\nUpload the slides in the order listed.\nNo clickable links in the caption; the bio link stays as it is.\nDraft: waits for Philip's approval on Fri Nov 13.",
+    "notes": "Add each slide's alt text (Instagram app: Advanced settings, then Accessibility).\nUpload the slides in the order listed.\nNo clickable links in the caption; the bio link stays as it is.",
     "postedVia": ""
   },
   {
@@ -893,7 +893,7 @@
     "topic": "day60",
     "date": "2026-11-18",
     "time": "18:00",
-    "status": "draft",
+    "status": "approved",
     "title": "Four people who decide",
     "format": "carousel",
     "text": "If someone you care about has sent out application after application and heard nothing, this one's for them.\n\nEvery job has four people who decide who gets hired: the hiring manager, their boss, someone on the team who knows the work, and the recruiter. An application usually reaches only one of them.\n\nA short note to the hiring manager, about their team and ending with one clear question, puts your name in front of the person who decides. The slides show what to send each of the four.\n\nHow to write that first note: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w47&utm_content=four-people\n\nShare this with someone who's looking.\n\n#jobsearch #day60 #careeradvice",
@@ -925,7 +925,7 @@
         "alt": "Paste a job link. Get your 4 people. A short note to each, in your voice. You send every message. Link in bio."
       }
     ],
-    "notes": "Add each image's alt text.\nUpload the images in the order listed.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe link stays in the text, as written.\nSame 6 slides as IG-four.\nDraft: waits for Philip's approval on Fri Nov 13.",
+    "notes": "Add each image's alt text.\nUpload the images in the order listed.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe link stays in the text, as written.\nSame 6 slides as IG-four.",
     "postedVia": ""
   },
   {
@@ -935,14 +935,14 @@
     "topic": "day60",
     "date": "2026-11-19",
     "time": "08:30",
-    "status": "draft",
+    "status": "approved",
     "title": "Most job searches are single-threaded",
     "format": "text",
     "text": "Most job searches are single-threaded.\n\nIn sales, a deal with only one contact is called single-threaded. Everyone in sales knows how those go. One person gets busy, and the whole deal goes quiet.\n\nA job search usually runs the same way. One application, one recruiter, one inbox. If that recruiter is buried this week, so are you.\n\nEvery job has four people who shape the hire:\nThe hiring manager, who feels the empty seat.\nTheir boss, who approved the role.\nSomeone on the team who knows what the job really needs.\nThe recruiter, who runs the process.\n\nYou don't have to write to all four on day one. But know who they are, and make sure the hiring manager hears from you directly, in a short note about their team.\n\nThat's the method I built Day60 around: one job, four people, a few well-researched messages, and you send every one.\n\nHow to write that first note: link in the first comment.\n\nBesides the recruiter, who have you reached out to about a job?\n\n#jobsearch #careeradvice #networking",
     "firstComment": "https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w47&utm_content=single-threaded",
     "link": "",
     "files": [],
-    "notes": "Tag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.\nText only, no image.\nDraft: waits for Philip's approval on Fri Nov 13.",
+    "notes": "Tag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.\nText only, no image.",
     "postedVia": ""
   },
   {
@@ -969,7 +969,7 @@
     "topic": "day60",
     "date": "2026-12-01",
     "time": "08:30",
-    "status": "draft",
+    "status": "approved",
     "title": "Product Hunt launch day",
     "format": "image",
     "text": "A sales playbook got me hired at ClickUp, Deel and Google.\n\nNot more applications. Find the few people who decide on a hire, and write each of them something worth reading.\n\nAt ClickUp I founded the sales development team, which grew from 0 to 32 reps. At Deel I wrote the Enterprise SDR Target Account Playbook. At Google I designed the Partner Lead Development Program.\n\nJob seekers mostly get told to apply to more. Most job tools make applying faster.\n\nSo I built Day60 to run that playbook one job at a time. Paste a job link, and it finds the four people closest to the hire and drafts a short note to each in your voice. You send every message.\n\nIt's on Product Hunt today. I'd rather hear what's wrong with it than collect compliments. Try it on one real job and tell me where it picked the wrong people, or where the note didn't sound like you.\n\nWhat would it need to get right before you'd trust it with your search?\n\nLink to the launch in the first comment.\n\n#producthunt #jobsearch #hiring",
@@ -981,7 +981,7 @@
         "alt": "Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Tick points at the cards."
       }
     ],
-    "notes": "The first comment is a placeholder until the Product Hunt launch link exists.\nTag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.\nAdd the image's alt text when you upload it.\nDraft: Philip approves it by Wed Nov 25.",
+    "notes": "The first comment is a placeholder until the Product Hunt launch link exists.\nTag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.\nAdd the image's alt text when you upload it.",
     "postedVia": ""
   },
   {
@@ -991,7 +991,7 @@
     "topic": "day60",
     "date": "2026-12-01",
     "time": "12:00",
-    "status": "draft",
+    "status": "approved",
     "title": "Product Hunt launch day",
     "format": "image",
     "text": "We're on Product Hunt today.\n\nDay60 is the part after you find the job. Paste a job link and it finds the four people closest to the hire: the hiring manager, their boss, an internal champion and the recruiter, with verified work emails. It drafts a short note to each in your voice, and Tick checks every draft. You send every message.\n\nWe want the honest version. Try it on one real job, then tell us where it picked the wrong people or where the note didn't sound like you. Search Day60 on Product Hunt, or tell us in the comments here.\n\nTry one job free, no account needed. Link in bio.\n\n(The names on the cards are invented.)\n\n#day60 #producthunt #jobsearch #jobsearchtips #careertips",
@@ -1003,7 +1003,7 @@
         "alt": "On Product Hunt today. Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Search Day60 on Product Hunt. Tell us what you think."
       }
     ],
-    "notes": "Add the image's alt text (Instagram app: Advanced settings, then Accessibility).\nNo clickable links in the caption; the bio link stays as it is.\nDraft: Philip approves it by Wed Nov 25.",
+    "notes": "Add the image's alt text (Instagram app: Advanced settings, then Accessibility).\nNo clickable links in the caption; the bio link stays as it is.",
     "postedVia": ""
   },
   {
@@ -1013,7 +1013,7 @@
     "topic": "day60",
     "date": "2026-12-01",
     "time": "18:00",
-    "status": "draft",
+    "status": "approved",
     "title": "Product Hunt launch day",
     "format": "image",
     "text": "Day60 launched on Product Hunt today, and we'd like your honest take.\n\nPaste a job link, and it finds the four people closest to the hire, with verified work emails, and drafts a short note to each in your voice. Tick checks every draft. You send every message. It never applies for you and never logs in to your LinkedIn.\n\nTry it on one real job, then tell us where it got the people or the note wrong. You can comment on the launch here: <Product Hunt launch link>\n\nOr try one job first, free and with no account: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=product-hunt\n\n(The names on the image are invented.)\n\n#jobsearch #day60 #producthunt",
@@ -1025,7 +1025,7 @@
         "alt": "On Product Hunt today. Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Search Day60 on Product Hunt. Tell us what you think."
       }
     ],
-    "notes": "The text needs the Product Hunt launch link, a placeholder until it exists.\nAdd the image's alt text.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe links stay in the text, as written.\nDraft: Philip approves it by Wed Nov 25.",
+    "notes": "The text needs the Product Hunt launch link, a placeholder until it exists.\nAdd the image's alt text.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe links stay in the text, as written.",
     "postedVia": ""
   },
   {
