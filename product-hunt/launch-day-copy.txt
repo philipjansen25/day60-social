@@ -1,4 +1,4 @@
-DAY60 ON PRODUCT HUNT: COPY FOR PHILIP (launch Tue Dec 1, 12:01 AM Pacific; moved from Nov 17 on Nov 11)
+DAY60 ON PRODUCT HUNT: COPY FOR PHILIP (launch Tue Jan 12, 2027, 12:01 AM Pacific; moved from Nov 17 to Dec 1, then to Jan 12, on Nov 11)
 Words exactly as approved in the kit doc on Nov 7. Copy each block between the lines.
 Never ask for upvotes. Adapt each reply to the person; don't paste the same one twice in a row.
 
@@ -12,7 +12,7 @@ Tagline (56 characters):
 Paste a job link. Meet the 4 people closest to the hire.
 
 Website:
-https://getday60.com/try?utm_source=producthunt&utm_medium=referral&utm_campaign=2026-w49&utm_content=listing
+https://getday60.com/try?utm_source=producthunt&utm_medium=referral&utm_campaign=2027-w02&utm_content=listing
 
 Topics: Productivity, Career, Chrome Extensions
 
@@ -91,7 +91,7 @@ His rules include: Doesn't start with "I". Short subject line. Asks one clear qu
 ------------------------------------------------------------
 
 
-=== YOUR DAY, TUE DEC 1 (Central time) ===
+=== YOUR DAY, TUE JAN 12 (Central time) ===
 2:01 AM   The launch goes live (12:01 AM Pacific).
 8:30 AM   Social's LinkedIn post goes out (no link in it).
 8:35 AM   You, 5 min: post the Product Hunt link as the first comment on that LinkedIn post; post your maker comment if the form didn't; answer overnight comments.

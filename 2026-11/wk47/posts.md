@@ -6,7 +6,7 @@
 
 ## Tue Nov 17: Product Hunt moved to Tue Dec 1 (Philip, Nov 11)
 
-The three launch posts (LI-PH, IG-PH, FB-PH) moved to `2026-11/wk49/posts.md`, still drafts with the link placeholder. Their slots are filled below with one idea, "every job has 4 people who decide", and no Product Hunt mention. Philip approved all three in the Post Library on Nov 11.
+The three launch posts (LI-PH, IG-PH, FB-PH) moved to `2026-11/wk49/posts.md`, still drafts with the link placeholder. (On Nov 11 Philip moved the launch again, to Tue Jan 12, 2027: they're in `2027-01/wk02/posts.md` now.) Their slots are filled below with one idea, "every job has 4 people who decide", and no Product Hunt mention. Philip approved all three in the Post Library on Nov 11.
 
 | Platform | Weekly cap | Week 47 so far |
 | --- | --- | --- |

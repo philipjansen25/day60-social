@@ -22,8 +22,10 @@ const KEYS = ['id', 'week', 'channel', 'topic', 'date', 'time', 'status', 'title
 
 function weekDir(week) {
   if (WEEK_DIR[week]) return WEEK_DIR[week];
-  const wk = `wk${week.slice(-2)}`;
-  for (const d of fs.readdirSync(ROOT).filter((d) => /^\d{4}-\d{2}$/.test(d)).sort()) {
+  const y = week.slice(0, 4), wk = `wk${week.slice(-2)}`;
+  const dirs = fs.readdirSync(ROOT).filter((d) => /^\d{4}-\d{2}$/.test(d)).sort();
+  // a week's folder is in its own year, or in the December before it (an ISO week 1 can start there)
+  for (const d of dirs.filter((d) => d.startsWith(y) || d === `${Number(y) - 1}-12`)) {
     if (fs.existsSync(path.join(ROOT, d, wk, 'posts.md'))) return `${d}/${wk}`;
   }
   return null;
@@ -89,10 +91,13 @@ for (const p of lib) {
   const words = p.title.trim().split(/\s+/).length;
   if (words < 3 || words > 6) err(id, `title has ${words} words (3 to 6)`);
 
-  // text: byte for byte with the first code block under "### <post id> ·" in that week's posts.md
-  const pid = id.startsWith(`${p.week}-`) ? id.slice(p.week.length + 1) : null;
+  // text: byte for byte with the first code block under "### <post id> ·" in the posts.md of the week it's filed in.
+  // The id never changes: it keeps the week the post was first planned in, even after the post moves (2026-w49-LI-PH in 2027-w02).
+  const m = /^(\d{4}-w\d{2})-(.+)$/.exec(id);
+  const pid = m ? m[2] : null;
   const dir = weekDir(p.week);
-  if (!pid) err(id, `id must start with "${p.week}-"`);
+  if (!pid) err(id, 'id must be "<week>-<post id>"');
+  else if (m[1] > p.week) err(id, `id's week ${m[1]} is after the week it's filed in (${p.week}); posts only move later`);
   else if (!dir) err(id, `no posts.md for ${p.week}`);
   else {
     const sec = sections(`${dir}/posts.md`).get(pid);

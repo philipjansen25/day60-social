@@ -963,72 +963,6 @@
     "postedVia": ""
   },
   {
-    "id": "2026-w49-LI-PH",
-    "week": "2026-w49",
-    "channel": "linkedin",
-    "topic": "day60",
-    "date": "2026-12-01",
-    "time": "08:30",
-    "status": "approved",
-    "title": "Product Hunt launch day",
-    "format": "image",
-    "text": "A sales playbook got me hired at ClickUp, Deel and Google.\n\nNot more applications. Find the few people who decide on a hire, and write each of them something worth reading.\n\nAt ClickUp I founded the sales development team, which grew from 0 to 32 reps. At Deel I wrote the Enterprise SDR Target Account Playbook. At Google I designed the Partner Lead Development Program.\n\nJob seekers mostly get told to apply to more. Most job tools make applying faster.\n\nSo I built Day60 to run that playbook one job at a time. Paste a job link, and it finds the four people closest to the hire and drafts a short note to each in your voice. You send every message.\n\nIt's on Product Hunt today. I'd rather hear what's wrong with it than collect compliments. Try it on one real job and tell me where it picked the wrong people, or where the note didn't sound like you.\n\nWhat would it need to get right before you'd trust it with your search?\n\nLink to the launch in the first comment.\n\n#producthunt #jobsearch #hiring",
-    "firstComment": "<Product Hunt launch link>",
-    "link": "",
-    "files": [
-      {
-        "path": "product-hunt/01_hero.png",
-        "alt": "Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Tick points at the cards."
-      }
-    ],
-    "notes": "The first comment is a placeholder until the Product Hunt launch link exists.\nTag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.\nAdd the image's alt text when you upload it.",
-    "postedVia": ""
-  },
-  {
-    "id": "2026-w49-IG-PH",
-    "week": "2026-w49",
-    "channel": "instagram",
-    "topic": "day60",
-    "date": "2026-12-01",
-    "time": "12:00",
-    "status": "approved",
-    "title": "Product Hunt launch day",
-    "format": "image",
-    "text": "We're on Product Hunt today.\n\nDay60 is the part after you find the job. Paste a job link and it finds the four people closest to the hire: the hiring manager, their boss, an internal champion and the recruiter, with verified work emails. It drafts a short note to each in your voice, and Tick checks every draft. You send every message.\n\nWe want the honest version. Try it on one real job, then tell us where it picked the wrong people or where the note didn't sound like you. Search Day60 on Product Hunt, or tell us in the comments here.\n\nTry one job free, no account needed. Link in bio.\n\n(The names on the cards are invented.)\n\n#day60 #producthunt #jobsearch #jobsearchtips #careertips",
-    "firstComment": "",
-    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
-    "files": [
-      {
-        "path": "product-hunt/ig_launch_day.png",
-        "alt": "On Product Hunt today. Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Search Day60 on Product Hunt. Tell us what you think."
-      }
-    ],
-    "notes": "Add the image's alt text (Instagram app: Advanced settings, then Accessibility).\nNo clickable links in the caption; the bio link stays as it is.",
-    "postedVia": ""
-  },
-  {
-    "id": "2026-w49-FB-PH",
-    "week": "2026-w49",
-    "channel": "facebook",
-    "topic": "day60",
-    "date": "2026-12-01",
-    "time": "18:00",
-    "status": "approved",
-    "title": "Product Hunt launch day",
-    "format": "image",
-    "text": "Day60 launched on Product Hunt today, and we'd like your honest take.\n\nPaste a job link, and it finds the four people closest to the hire, with verified work emails, and drafts a short note to each in your voice. Tick checks every draft. You send every message. It never applies for you and never logs in to your LinkedIn.\n\nTry it on one real job, then tell us where it got the people or the note wrong. You can comment on the launch here: <Product Hunt launch link>\n\nOr try one job first, free and with no account: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=product-hunt\n\n(The names on the image are invented.)\n\n#jobsearch #day60 #producthunt",
-    "firstComment": "",
-    "link": "https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=product-hunt",
-    "files": [
-      {
-        "path": "product-hunt/ig_launch_day.png",
-        "alt": "On Product Hunt today. Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Search Day60 on Product Hunt. Tell us what you think."
-      }
-    ],
-    "notes": "The text needs the Product Hunt launch link, a placeholder until it exists.\nAdd the image's alt text.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe links stay in the text, as written.",
-    "postedVia": ""
-  },
-  {
     "id": "2026-w49-LI-3touch",
     "week": "2026-w49",
     "channel": "linkedin",
@@ -1048,6 +982,72 @@
       }
     ],
     "notes": "Copy not written yet (moved from week 47).\nUpload the PDF as a document and give it a title.\nTag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w49-LI-PH",
+    "week": "2027-w02",
+    "channel": "linkedin",
+    "topic": "day60",
+    "date": "2027-01-12",
+    "time": "08:30",
+    "status": "approved",
+    "title": "Product Hunt launch day",
+    "format": "image",
+    "text": "A sales playbook got me hired at ClickUp, Deel and Google.\n\nNot more applications. Find the few people who decide on a hire, and write each of them something worth reading.\n\nAt ClickUp I founded the sales development team, which grew from 0 to 32 reps. At Deel I wrote the Enterprise SDR Target Account Playbook. At Google I designed the Partner Lead Development Program.\n\nJob seekers mostly get told to apply to more. Most job tools make applying faster.\n\nSo I built Day60 to run that playbook one job at a time. Paste a job link, and it finds the four people closest to the hire and drafts a short note to each in your voice. You send every message.\n\nIt's on Product Hunt today. I'd rather hear what's wrong with it than collect compliments. Try it on one real job and tell me where it picked the wrong people, or where the note didn't sound like you.\n\nWhat would it need to get right before you'd trust it with your search?\n\nLink to the launch in the first comment.\n\n#producthunt #jobsearch #hiring",
+    "firstComment": "<Product Hunt launch link>",
+    "link": "",
+    "files": [
+      {
+        "path": "product-hunt/01_hero.png",
+        "alt": "Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Tick points at the cards."
+      }
+    ],
+    "notes": "Not scheduled. Philip schedules it once the Product Hunt launch link exists.\nThe first comment is a placeholder until the Product Hunt launch link exists.\nTag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.\nAdd the image's alt text when you upload it.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w49-IG-PH",
+    "week": "2027-w02",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2027-01-12",
+    "time": "12:00",
+    "status": "approved",
+    "title": "Product Hunt launch day",
+    "format": "image",
+    "text": "We're on Product Hunt today.\n\nDay60 is the part after you find the job. Paste a job link and it finds the four people closest to the hire: the hiring manager, their boss, an internal champion and the recruiter, with verified work emails. It drafts a short note to each in your voice, and Tick checks every draft. You send every message.\n\nWe want the honest version. Try it on one real job, then tell us where it picked the wrong people or where the note didn't sound like you. Search Day60 on Product Hunt, or tell us in the comments here.\n\nTry one job free, no account needed. Link in bio.\n\n(The names on the cards are invented.)\n\n#day60 #producthunt #jobsearch #jobsearchtips #careertips",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "product-hunt/ig_launch_day.png",
+        "alt": "On Product Hunt today. Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Search Day60 on Product Hunt. Tell us what you think."
+      }
+    ],
+    "notes": "Not scheduled. Philip schedules it once the Product Hunt launch link exists.\nAdd the image's alt text (Instagram app: Advanced settings, then Accessibility).\nNo clickable links in the caption; the bio link stays as it is.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w49-FB-PH",
+    "week": "2027-w02",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2027-01-12",
+    "time": "18:00",
+    "status": "approved",
+    "title": "Product Hunt launch day",
+    "format": "image",
+    "text": "Day60 launched on Product Hunt today, and we'd like your honest take.\n\nPaste a job link, and it finds the four people closest to the hire, with verified work emails, and drafts a short note to each in your voice. Tick checks every draft. You send every message. It never applies for you and never logs in to your LinkedIn.\n\nTry it on one real job, then tell us where it got the people or the note wrong. You can comment on the launch here: <Product Hunt launch link>\n\nOr try one job first, free and with no account: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2027-w02&utm_content=product-hunt\n\n(The names on the image are invented.)\n\n#jobsearch #day60 #producthunt",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2027-w02&utm_content=product-hunt",
+    "files": [
+      {
+        "path": "product-hunt/ig_launch_day.png",
+        "alt": "On Product Hunt today. Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Search Day60 on Product Hunt. Tell us what you think."
+      }
+    ],
+    "notes": "Not scheduled. Philip schedules it once the Product Hunt launch link exists.\nThe text needs the Product Hunt launch link, a placeholder until it exists.\nAdd the image's alt text.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe links stay in the text, as written.",
     "postedVia": ""
   }
 ]

@@ -1,11 +1,11 @@
-# Product Hunt launch, Tue Dec 1, 2026
+# Product Hunt launch, Tue Jan 12, 2027
 
-Philip approved the kit's words on Nov 7 and moved the launch from Tue Nov 17 to Tue Dec 1 on Nov 11 (kit doc, via HQ). **Philip posts on Product Hunt himself. No agent posts there.** He schedules the launch for 12:01 AM Pacific (2:01 AM Central).
+Philip approved the kit's words on Nov 7 and moved the launch from Tue Nov 17 to Tue Dec 1, then to Tue Jan 12, 2027, on Nov 11 (kit doc, via HQ). **Philip posts on Product Hunt himself. No agent posts there.** He schedules the launch for 12:01 AM Pacific (2:01 AM Central).
 
 - `launch-day-copy.txt`: everything Philip copies on the day, with the words exactly as approved: listing fields, maker comment, five reply templates, and his three check-ins.
 - `build.py`: rebuilds every image below from `design-system/ds.py`. Run from the repo root: `python3 product-hunt/build.py`.
 - `site/`: the live crop used in image 4 and the script that shot it (`cap_checker.js`).
-- Launch-day posts (LinkedIn, Instagram, Facebook): drafts in `2026-11/wk49/posts.md`, not approved. Philip approves them before Batch A loads on Sat Nov 28 (Thanksgiving weekend, so earlier than the usual Friday).
+- Launch-day posts (LinkedIn, Instagram, Facebook): in `2027-01/wk02/posts.md`, approved by Philip on Nov 11 (Post Library). Not scheduled: Philip schedules them once the Product Hunt launch link exists.
 
 ## Gallery (upload in this order, 1270×760)
 
