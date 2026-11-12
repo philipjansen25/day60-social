@@ -251,7 +251,8 @@ Philip published the guides on Nov 3. Besides /try, LinkedIn and Facebook posts 
 ## 10b. Competitors (Philip's decision, Nov 2)
 - **Never name competitor tools in social posts or Reddit replies.** That includes Teal, Huntr, Jobscan and Careerflow. No logos, screenshots or tags either. Named, factual comparisons live only on the draft guide pages (issue #62), which Philip approves one by one.
 - Contrast only with the general habit: "applying to hundreds of jobs", "spray and pray", "auto-apply bots", "mass-apply tools". Keep it calm and never mock anyone.
-- Fair line to reuse: "Keep your tracker and your résumé tool. Day60 is the part after you find the job."
+- Fair line to reuse: "Keep your tracker. Day60 is the part after you find the job." **Never "and your résumé tool" in new copy (HQ, Nov 11):** Day60 has its own free résumé builder (getday60.com/resume-builder) and promotes it. Posts already scheduled with the old line stay as they are (LI1).
+- **Free résumé builder (HQ, Nov 11):** the public labels are "What this job wants", "Keywords you can't claim yet", "Make it stronger" and "Rebuild with my answers". It rewrites a résumé for one job using only what the résumé and the user's notes show, never adding a skill, number or title. Job links can't be LinkedIn links. The user reads every line, then downloads a Word file or copies the text. "Day60 keeps none of it." Claim nothing beyond that. Rebuilt result screens are labeled "Illustrative example".
 - Philip's goal: people should know exactly what Day60 is, what it isn't, and the value it gives (replies from people who can hire you, instead of more applications into a pile). "It doesn't have to be an outright assault on the competition."
 
 ## 11. Banned phrases
