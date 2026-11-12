@@ -2,7 +2,8 @@
 // Checks library.json against the posts.md files. Run before every push:
 //   node scripts/check-library.mjs
 // Fails (exit 1) if a post's text differs from its posts.md code block, a listed file is
-// missing, a field is malformed, or a LinkedIn draft/approved post has a link in its body.
+// missing, a field is malformed, a LinkedIn draft/approved post has a link in its body, or a
+// first comment has an unmarked placeholder or stray whitespace.
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -120,6 +121,12 @@ for (const p of lib) {
 
   if (p.channel === 'linkedin' && ['draft', 'approved'].includes(p.status) && /https?:\/\/|getday60\.com/.test(p.text)) {
     err(id, 'LinkedIn body has a link (it goes in the first comment)');
+  }
+
+  // firstComment is pasted word for word from Philip's 8 AM list (HQ, Nov 11)
+  if (p.firstComment !== p.firstComment.trim()) err(id, 'firstComment has leading or trailing whitespace');
+  if (/<[^>]*>/.test(p.firstComment) && !/placeholder/i.test(p.notes)) {
+    err(id, 'firstComment has a placeholder but the notes don\'t say so');
   }
 }
 
