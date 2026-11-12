@@ -21,6 +21,7 @@
 - **LinkedIn rules:** "Day60" exactly once; Tags: Day60 page (auto); 3 hashtags at most; no link in the body.
 - First comment (Philip, by hand): https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49&utm_content=phil-story
 - **Numbers ruling (HQ, Nov 8; default until Philip says otherwise):** keep any number exactly as Phil wrote it in his own Monday post, as his own result in his own words, and add none. The exception to the no-personal-results rule covers this post and its IG/FB adaptations only. It may say what happened to him, never turn that into a promise for the reader (the site's line: "Nobody can promise you a job. We promise the reps."). Philip sees this ruling on his list and approves the words before scheduling.
+- **IG-story and FB-story** (proposed Instagram and Facebook versions of this post) moved here from week 48 with it (Nov 12: week 48's Instagram and Facebook slots are full). They stay proposals until LI-story is written, and they need open slots in this week's caps.
 
 ### LI-3touch · Thu Dec 3 · 8:30 AM (proposed) · DRAFT · MOVED FROM WEEK 47 (HQ, Nov 11)
 - Document: `2026-11/wk46/p06_three_touches_linkedin.pdf` (already built). It moved to week 47 when the Chrome extension post took week 46's Thursday slot, then here when Day60's LinkedIn went to two posts a week (Tue and Thu) from Nov 16.

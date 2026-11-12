@@ -1,6 +1,6 @@
-# Week 47 · Sun Nov 15 – Sat Nov 21, 2026 · DRAFTS IN PROGRESS
+# Week 47 · Sun Nov 15 – Sat Nov 21, 2026 · FULL: DRAFTS WAIT FOR APPROVAL
 
-**Status: IG-four, FB-four and LI-thread are approved (Philip, Nov 11, Post Library) and scheduled by Philip. IG-resume and FB-resume are drafts (HQ, Nov 11).** The rest of the week comes after Thursday's brief (Nov 12); Philip approves those on Friday Nov 13 as usual.
+**Status: IG-four, FB-four and LI-thread are approved (Philip, Nov 11, Post Library) and scheduled by Philip. IG-resume and FB-resume are drafts (HQ, Nov 11). IG-onejob, IG-redpen and IG-firstjob are drafts from Thursday's brief (Nov 12), for Philip to approve on Friday Nov 13.** The week is full: LinkedIn 2, Instagram 5, Facebook 2.
 
 **Buffer is paused (Philip, Nov 11).** Philip posts approved posts by hand: LinkedIn natively, Instagram and Facebook in Meta Business Suite. Each post's text, files, alt text, first comment and posting notes are in `library.json` at the repo root. Status is draft, approved or posted.
 
@@ -11,7 +11,7 @@ The three launch posts (LI-PH, IG-PH, FB-PH) moved to `2026-11/wk49/posts.md`, s
 | Platform | Weekly cap | Week 47 so far |
 | --- | --- | --- |
 | LinkedIn | 2 Day60 posts (Tue, Thu) | LI1 (Tue Nov 17: week 46's approved is/isn't post, moved from Mon Nov 16), LI-thread (Thu Nov 19, approved Nov 11) |
-| Instagram | 5 | IG-resume (Sun Nov 15, proposed), IG-four (Tue, approved Nov 11); 3 to plan after Thursday's brief |
+| Instagram | 5 | IG-resume (Sun Nov 15, proposed), IG-four (Tue, approved Nov 11), IG-onejob (Wed Nov 18, proposed), IG-redpen (Thu Nov 19, proposed), IG-firstjob (Sat Nov 21, proposed). Full |
 | Facebook | 2 | FB-four (Wed, approved Nov 11, reuses IG-four's carousel), FB-resume (Fri Nov 20, proposed, reuses IG-resume's carousel). Full |
 
 Offer wording: free places may be gone by next week, so none of these says "free sprint" or "no card". They say what Day60 does and point to a guide or the bio link.
@@ -133,6 +133,72 @@ Phil tried it on his own résumé before we shared it. Try it on one job: https:
 Share this with someone who's applying this week.
 
 #jobsearch #day60 #careeradvice
+```
+
+## The first action (HQ brief, Thu Nov 12)
+
+HQ's brief: the problem now is after sign-up, not reach. People start a sprint but don't add a job or send a message, so these three make the next step concrete: pick one job, paste its link, see the 4 people, send one message. They fill Instagram's three open slots (Wed 12:00 PM, Thu 7:00 PM, Sat 10:00 AM), on days whose Facebook post has a different idea (FB-four is Wed, FB-resume is Fri). No price, no "free sprint", no founding-sprint copy, no Product Hunt. Built from design tokens (`2026-11/wk47/build_first.py`); Northpine and its people are invented and labeled "Illustrative example". The carousel images carry no "Link in bio", so Facebook can reuse them later.
+
+### IG-onejob · Wed Nov 18 · 12:00 PM · DRAFT · START WITH ONE JOB (HQ brief, Nov 12)
+- Status: draft, for Philip to approve in the Post Library.
+- Reel: `2026-11/wk47/p03_one_job_reel.mp4` (15 s, silent, text on screen; source: `2026-11/wk47/build_first.py`). The cover is the first frame.
+- Alt text: "Reel: Don't start with 50 jobs. Start with one. 1, pick one you'd say yes to tomorrow. 2, find it on the company's own careers page; saw it on LinkedIn? Look for the same job on their site. 3, paste that one link into Day60 and see the 4 people closest to the hire. End card: One job. Four people. One message. Paste a job link. Get your 4 people. You send every message. Link in bio."
+- Link: bio link stays /try. No link in the caption.
+
+```
+You don't need a list of 50 jobs to start. You need one.
+
+1. Pick a job you'd say yes to tomorrow.
+2. Find it on the company's own careers page. Saw it on LinkedIn? Look for the same job on their site.
+3. Paste that one link into Day60 and see the 4 people closest to the hire.
+
+Then send one message. Day60 drafts it in your voice, and you send it.
+
+Paste a job link. Get your 4 people. Link in bio.
+
+#day60 #jobsearch #jobsearchtips #careertips #networking
+```
+
+### IG-redpen · Thu Nov 19 · 7:00 PM · DRAFT · YOUR FIRST MESSAGE, CUT TO 3 LINES (HQ brief, Nov 12)
+- Status: draft, for Philip to approve in the Post Library.
+- Reel: `2026-11/wk47/p04_red_pen_reel.mp4` (17 s, silent, text on screen; source: `2026-11/wk47/build_first.py`). The cover is the first frame.
+- Alt text: "Reel, Tick's red pen. Your first message is too long. Illustrative example, a note to Maya Ortiz, hiring manager at Northpine (invented). Tick strikes out: I hope this finds you well; I'm very passionate about this opportunity, and I'm a fast learner; I've attached my résumé for your consideration; Please let me know if there are any opportunities to connect. Three lines stay: what you noticed, Your posting says new customers take too long to get started; one line of proof, At my last job, I onboarded new accounts and trained their teams; one clear question, Where do new customers get stuck most: setup or training? End card: 3 lines. Send one today. Day60 drafts a short note to each of the 4 people closest to the hire. Tick checks every draft. You send every message. Link in bio."
+- Link: bio link stays /try. No link in the caption.
+
+```
+Most first messages say too much and ask too little.
+
+Cut anything that's about you in general. Keep three lines:
+1. What you noticed about their team
+2. One line of proof
+3. One clear question
+
+Then send it. One message today beats a perfect one next week.
+
+Day60 drafts a short note to each of the 4 people closest to the hire, and Tick checks every draft. You send every message. Link in bio.
+
+#day60 #jobsearch #careeradvice #networkingtips #coverletter
+```
+
+### IG-firstjob · Sat Nov 21 · 10:00 AM · DRAFT · ONE JOB, FOUR PEOPLE, ONE MESSAGE (HQ brief, Nov 12)
+- Status: draft, for Philip to approve in the Post Library.
+- Carousel (6): `2026-11/wk47/p05_first_job_1.png` to `p05_first_job_6.png` (source: `2026-11/wk47/build_first.py`)
+- Alt text (per slide): 1 "One job. Four people. One message. Your first job in Day60, step by step. Tick running." · 2 "Step 01, paste one job link. Illustrative example: careers.northpine.example/jobs/csm in the Job link field, and the job it finds, Customer Success Manager at Northpine, remote. Tick says: use the link from the company's own site." · 3 "Step 02, meet your 4 people. Illustrative example, all invented: Maya Ortiz, Head of Customer Success, hiring manager; Dev Raman, VP Customer Experience, their boss; Jess Kowalski, Senior Customer Success Manager, internal champion; Priya Hale, Talent Partner, recruiter. Each has a verified work email." · 4 "Step 03, start with the hiring manager. Illustrative example: Maya Ortiz, Head of Customer Success, verified work email. The hiring manager feels the empty seat. Day60 drafts a short note to Maya, in your voice." · 5 "Step 04, make it yours, send it. Illustrative example, a draft to Maya Ortiz: Hi Maya, your posting says new customers take too long to get started. At my last job, I onboarded new accounts and trained their teams. Where do new customers get stuck most: setup or training? Checks: asks one clear question, the question comes last, fits the length limit, no links. Tick checks every draft. You send it. Day60 never sends anything." · 6 "That's day 0. Day60 drafts the hiring manager's day-2 connection note and the day-7 follow-up when they're due. You send every one. Paste a job link. Get your 4 people. getday60.com."
+- Link: bio link stays /try. No link in the caption.
+
+```
+Started a sprint and not sure what to do first? Here's the whole first step.
+
+1. Paste one job link, from the company's own site.
+2. Meet the 4 people closest to the hire.
+3. Start with the hiring manager.
+4. Read the draft, make it sound like you, and send it.
+
+That's day 0. Day60 drafts the day-2 connection note and the day-7 follow-up when they're due, and you send every one.
+
+Save this for the job you start with. Paste a job link. Get your 4 people. Link in bio.
+
+#day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
 ## LinkedIn (Philip's profile)

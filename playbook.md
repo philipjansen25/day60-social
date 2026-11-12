@@ -214,7 +214,8 @@ Philip published the guides on Nov 3. Besides /try, LinkedIn and Facebook posts 
 | File | What it is | Rules |
 | --- | --- | --- |
 | `media/try-demo-2026-11-02b-reel.mp4` | **RETIRED Nov 5 (HQ): shows a real company's posting; invented data only now.** Was the /try clip. Philip's real phone recording, 12.3 s, 1080×1920, no audio, no cuts. Pastes a public OpenAI Ashby job link (Sales Development Manager, Enterprise AMER), then the four roles (Director, Sales Development / VP Sales / Senior SDR / Sales Recruiter) appear about 1 s after the tap (cached by #51), then scroll to the email step. The final frame is black, so trim it at render. | Use for /try Reels with captions burned in, in bands that don't cover the roles list. **Speed claims:** say "in seconds" or "the four people closest to the hire, in seconds". Never "instant" and never a specific time, because a new link takes a few seconds. Never imply any relationship with OpenAI; it's a public posting. |
-| `2026-11/wk46/p13_how_it_works_reel.mp4` | **Current how-it-works Reel** (Nov 5). Token-built, invented Northpine example, 18 s. | Reuse for /try slots. Keep the example label. |
+| `2026-11/wk48/p04_one_link_reel.mp4` | **Current how-it-works Reel** (Nov 12, IG-onelink). Token-built, invented Northpine example, 15 s: one job link, four people, one message, you send it. Source: `2026-11/wk48/build.py`. | Reuse for /try slots. Keep the example label. |
+| `2026-11/wk46/p13_how_it_works_reel.mp4` | Previous how-it-works Reel (Nov 5). Its end card says "No account. No card.", which HQ's Nov 12 brief cuts. | Don't reuse; history only. |
 | `media/try-demo-2026-11-02-reel.mp4` | Retired: the older clip with the "15 seconds skipped" label | Don't use. |
 | `media/try-demo-2026-11-02-full-720.mp4` | Uncut 27 s version of the older recording | Reference only. |
 
