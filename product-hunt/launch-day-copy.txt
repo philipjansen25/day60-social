@@ -1,5 +1,5 @@
 DAY60 ON PRODUCT HUNT: COPY FOR PHILIP (launch Tue Jan 12, 2027, 12:01 AM Pacific; moved from Nov 17 to Dec 1, then to Jan 12, on Nov 11)
-Words exactly as approved in the kit doc on Nov 7. Copy each block between the lines.
+Words exactly as approved in the kit doc on Nov 7; the description's resume builder paragraph and "Keep your tracker." approved Nov 11 (kit doc rev 20). Copy each block between the lines.
 Never ask for upvotes. Adapt each reply to the person; don't paste the same one twice in a row.
 
 
@@ -32,7 +32,9 @@ It runs as a 60-day sprint, up to 3 new jobs a day, so you work a short list pro
 
 There's a free Chrome extension too. On a job page that isn't LinkedIn, one press reads the job's title, company, location and description and sends them to Day60. It never reads LinkedIn pages.
 
-Keep your tracker and your résumé tool.
+There's also a free resume builder, no account needed. Add a job and your resume, and it tailors the resume to that one posting, using only what your resume and your notes show. Day60 keeps none of it.
+
+Keep your tracker.
 
 Day60 Sprint. Free. No card. Nothing to cancel. Try one job, no account needed.
 ------------------------------------------------------------
