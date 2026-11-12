@@ -2,6 +2,7 @@
 
 p02_resume_builder_1-6.png  1080x1350  "One résumé. Tailored to one job."
 Used by IG-resume (Sun Nov 15) and FB-resume (Fri Nov 20). Drafts, not approved.
+p02_resume_builder_6_fb.png is slide 6 without the "Link in bio" sticker; FB-resume uses it in place of slide 6.
 
 Slide 2 is a real crop of getday60.com/resume-builder (site/resume_builder_form.png, shot by
 site/cap_resume_builder.js with an invented job link typed in, nothing submitted). Slides 3-5 are
@@ -9,7 +10,7 @@ rebuilt from tokens: the results screen needs a real submission, so they show th
 ("What this job wants", "Keywords you can't claim yet", "Make it stronger") on an invented résumé
 and job (Northpine, Customer Success Manager), labeled "Illustrative example".
 
-Run from repo root: python3 2026-11/wk47/build_resume.py
+Run from repo root: python3 2026-11/wk47/build_resume.py [slide names to render, default all]
 """
 import base64, io, json, os, subprocess, sys, tempfile
 from PIL import Image
@@ -142,18 +143,27 @@ out("p02_resume_builder_5",
     + f'<div style="position:absolute;right:52px;top:930px">{tick("thinking", 200)}</div>'
     + foot(bottom=40, right=URL))
 
-# 6. CTA (dark)
-out("p02_resume_builder_6",
-    f'<div class="d" style="position:absolute;left:72px;top:150px;width:936px;font-size:112px;color:{CREAM}">'
-    f'Read every line.<br><span class="fill" style="color:{INK}">Get a Word file.</span></div>'
-    + f'<div style="position:absolute;left:76px;top:600px;width:620px;font-size:44px;font-weight:600;line-height:1.3;color:{CREAM}">'
-      f'Free. No account. Nothing you add is kept.</div>'
-    + sticker(URL, LIME, 72, 860, 30)
-    + sticker("Link in bio", WHITE, 72, 960, 30)
-    + f'<div style="position:absolute;right:60px;top:700px">{tick("celebrating", 300)}</div>'
-    + spark(900, 110, 64, LIME)
-    + foot(dark=True), bg=INK)
+# 6. CTA (dark). _fb is the same slide without "Link in bio", for FB-resume only (HQ, Nov 12).
+def cta(name, link_in_bio):
+    out(name,
+        f'<div class="d" style="position:absolute;left:72px;top:150px;width:936px;font-size:112px;color:{CREAM}">'
+        f'Read every line.<br><span class="fill" style="color:{INK}">Get a Word file.</span></div>'
+        + f'<div style="position:absolute;left:76px;top:600px;width:620px;font-size:44px;font-weight:600;line-height:1.3;color:{CREAM}">'
+          f'Free. No account. Nothing you add is kept.</div>'
+        + sticker(URL, LIME, 72, 860, 30)
+        + (sticker("Link in bio", WHITE, 72, 960, 30) if link_in_bio else "")
+        + f'<div style="position:absolute;right:60px;top:700px">{tick("celebrating", 300)}</div>'
+        + spark(900, 110, 64, LIME)
+        + foot(dark=True), bg=INK)
+
+
+cta("p02_resume_builder_6", True)
+cta("p02_resume_builder_6_fb", False)
 
 if __name__ == "__main__":
+    # optional: slide names to render, e.g. p02_resume_builder_6_fb (default: all)
+    only = sys.argv[1:]
+    if only:
+        jobs = [j for j in jobs if os.path.basename(j["png"])[:-4] in only]
     jf = os.path.join(TMP, "jobs.json"); json.dump(jobs, open(jf, "w"))
     subprocess.run(["node", os.path.join(ROOT, "templates", "render_many.js"), jf], check=True)
