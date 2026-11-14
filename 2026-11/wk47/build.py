@@ -10,6 +10,7 @@ WK = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(WK))
 sys.path.insert(0, os.path.join(ROOT, "design-system"))
 from ds import *  # noqa
+from grounds import INK_KEYLINES  # noqa
 
 TMP = tempfile.mkdtemp(prefix="wk47_")
 jobs = []
@@ -61,9 +62,9 @@ for k, (num, role, col, head, body, pose) in enumerate(ROLES):
         + f'<div style="position:absolute;right:56px;bottom:150px">{tick(pose, 230)}</div>'
         + foot())
 
-# 6. CTA (dark)
-out("p01_four_people_6",
-    f'<div class="d" style="position:absolute;left:72px;top:150px;width:936px;font-size:112px;color:{CREAM}">'
+# 6. CTA (dark). v2 (HQ, Nov 13): cream keylines on ink; the old p01_four_people_6.png stays on disk.
+out("p01_four_people_6_v2",
+    INK_KEYLINES + f'<div class="d" style="position:absolute;left:72px;top:150px;width:936px;font-size:112px;color:{CREAM}">'
     f'Paste a job link.<br><span class="fill" style="color:{INK}">Get your 4 people.</span></div>'
     + f'<div style="position:absolute;left:76px;top:640px;width:620px;font-size:44px;font-weight:600;line-height:1.3;color:{CREAM}">'
       f'A short note to each, in your voice. You send every message.</div>'
@@ -73,5 +74,8 @@ out("p01_four_people_6",
     + foot(dark=True), bg=INK)
 
 if __name__ == "__main__":
+    only = sys.argv[1:]  # optional: output names to render, e.g. p14_ext_steps_6_v2 (default: all)
+    if only:
+        jobs = [j for j in jobs if os.path.basename(j["png"])[:-4] in only]
     jf = os.path.join(TMP, "jobs.json"); json.dump(jobs, open(jf, "w"))
     subprocess.run(["node", os.path.join(ROOT, "templates", "render_many.js"), jf], check=True)

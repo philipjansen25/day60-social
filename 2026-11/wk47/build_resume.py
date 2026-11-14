@@ -18,6 +18,7 @@ WK = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(WK))
 sys.path.insert(0, os.path.join(ROOT, "design-system"))
 from ds import *  # noqa
+from grounds import INK_KEYLINES  # noqa
 
 TMP = tempfile.mkdtemp(prefix="wk47_rb_")
 jobs = []
@@ -146,7 +147,7 @@ out("p02_resume_builder_5",
 # 6. CTA (dark). _fb is the same slide without "Link in bio", for FB-resume only (HQ, Nov 12).
 def cta(name, link_in_bio):
     out(name,
-        f'<div class="d" style="position:absolute;left:72px;top:150px;width:936px;font-size:112px;color:{CREAM}">'
+        INK_KEYLINES + f'<div class="d" style="position:absolute;left:72px;top:150px;width:936px;font-size:112px;color:{CREAM}">'
         f'Read every line.<br><span class="fill" style="color:{INK}">Get a Word file.</span></div>'
         + f'<div style="position:absolute;left:76px;top:600px;width:620px;font-size:44px;font-weight:600;line-height:1.3;color:{CREAM}">'
           f'Free. No account. Nothing you add is kept.</div>'
@@ -157,8 +158,9 @@ def cta(name, link_in_bio):
         + foot(dark=True), bg=INK)
 
 
-cta("p02_resume_builder_6", True)
-cta("p02_resume_builder_6_fb", False)
+# v2 (HQ, Nov 13): cream keylines on ink. The old p02_resume_builder_6(.png/_fb.png) stay on disk.
+cta("p02_resume_builder_6_v2", True)
+cta("p02_resume_builder_6_fb_v2", False)
 
 if __name__ == "__main__":
     # optional: slide names to render, e.g. p02_resume_builder_6_fb (default: all)

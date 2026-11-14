@@ -3,6 +3,7 @@
     from grounds import *
     html = cover_page(body, "ink")            # 1080x1350; cover_page(body, g, 1080, 1920) for a Reel cover
     dial(cx, cy, r, g) · lanes(top, n, gap, g) · confetti(spots) · tape(x, top, h)
+    page(INK_KEYLINES + body, bg=INK)        # any inner slide or Reel scene on ink: cream keylines
 
 Text that passes AA on each ground (ratios from tokens.json, HQ Nov 13):
   ink    #16133A  cream text (16.7); pink and mint accents; highlight = lime block, ink text
@@ -128,3 +129,10 @@ def confetti(spots):
         out += (f'<svg viewBox="0 0 40 40" width="{size}" height="{size}" '
                 f'style="position:absolute;left:{x}px;top:{y}px;transform:rotate({rot}deg)">{shape}</svg>')
     return out
+
+
+# Inner slides on ink (HQ, Nov 13): add to the body of any ink page. Tick gets a cream ring; cards, stickers,
+# buttons, bubbles and step blocks get a cream outline outside their ink border, so they still read as
+# thick-outlined stickers. Outline (not box-shadow) keeps each shape's own hard shadow, e.g. a lime one.
+INK_KEYLINES = (f"<style>.d60-tick{{filter:{_ring(CREAM, 4)}}}.foot .d60-tick{{filter:{_ring(CREAM, 2)}}}"
+                f".card,.sticker,.btn,.bubble,.step{{outline:4px solid {CREAM};outline-offset:0}}</style>")

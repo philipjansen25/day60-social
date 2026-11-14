@@ -18,6 +18,7 @@ WK = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(WK))
 sys.path.insert(0, os.path.join(ROOT, "design-system"))
 from reel import *  # noqa
+from grounds import INK_KEYLINES  # noqa
 
 TMP = tempfile.mkdtemp(prefix="wk48_")
 FOOT = foot()
@@ -25,7 +26,8 @@ EX_R = sticker(EXAMPLE, MUTED, 64, 84, 24, right=True)
 
 
 def rpage(body, bg=CREAM):
-    return page(body + foot(dark=(bg == INK)), RW, RH, bg)
+    # v2 (HQ, Nov 13): every ink scene gets cream keylines on Tick, cards and stickers.
+    return page((INK_KEYLINES if bg == INK else "") + body + foot(dark=(bg == INK)), RW, RH, bg)
 
 
 def counter(n, total, dark=False):
@@ -80,8 +82,9 @@ def thanks():
           f'Send it before Thursday. It\'s the easiest message you\'ll send all year.</div>'
         + f'<div style="position:absolute;right:64px;top:880px">{tick("thinking", 220)}</div>'
         + FOOT)))
-    s.append(("p01_thanks_6", page(
-        counter(6, T, True)
+    # v2 (HQ, Nov 13): cream keylines on ink; the old p01_thanks_6.png stays on disk.
+    s.append(("p01_thanks_6_v2", page(
+        INK_KEYLINES + counter(6, T, True)
         + f'<div class="d" style="position:absolute;left:72px;top:170px;width:936px;font-size:120px;color:{CREAM}">Happy Thanksgiving.</div>'
         + f'<div style="position:absolute;left:76px;top:460px;width:880px;font-size:46px;font-weight:600;line-height:1.3;color:{CREAM}">'
           f'Next week: one job, one message.</div>'
@@ -258,19 +261,25 @@ def onelink():
             ("ol_msg", msg, 3.6), ("ol_end", end, 3.4)]
 
 
-def still(slides):
+def still(slides, names=()):
     jobs = []
     for name, html in slides:
+        if names and name not in names:
+            continue
         p = os.path.join(TMP, name + ".html"); open(p, "w").write(html)
         jobs.append({"html": p, "png": os.path.join(WK, name + ".png"), "w": 1080, "h": 1350})
     render(jobs, TMP)
 
 
 if __name__ == "__main__":
-    want = set(sys.argv[1:]) or {"thanks", "which", "rb", "onelink", "shortlist"}
-    if "thanks" in want: still(thanks())
-    if "which" in want: still(which())
-    if "shortlist" in want: still(shortlist())
-    if "rb" in want: make_reel(rb(), os.path.join(WK, "p03_resume_reel.mp4"), os.path.join(TMP, "rb"))
-    if "onelink" in want: make_reel(onelink(), os.path.join(WK, "p04_one_link_reel.mp4"), os.path.join(TMP, "onelink"))
+    # Modes: thanks, which, rb, onelink, shortlist. Any other argument is a slide name to render alone.
+    # The _v2 reels (HQ, Nov 13) only change the ink end scene; the old mp4s stay on disk.
+    args = set(sys.argv[1:])
+    names = {a for a in args if a.startswith("p0")}
+    want = (args - names) or ({"thanks", "which", "shortlist"} if names else {"thanks", "which", "rb", "onelink", "shortlist"})
+    if "thanks" in want: still(thanks(), names)
+    if "which" in want: still(which(), names)
+    if "shortlist" in want: still(shortlist(), names)
+    if "rb" in want: make_reel(rb(), os.path.join(WK, "p03_resume_reel_v2.mp4"), os.path.join(TMP, "rb"))
+    if "onelink" in want: make_reel(onelink(), os.path.join(WK, "p04_one_link_reel_v2.mp4"), os.path.join(TMP, "onelink"))
     print("tmp:", TMP)

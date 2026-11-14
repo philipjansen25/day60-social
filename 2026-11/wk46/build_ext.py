@@ -13,6 +13,7 @@ WK = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(WK))
 sys.path.insert(0, os.path.join(ROOT, "design-system"))
 from ds import *  # noqa
+from grounds import INK_KEYLINES  # noqa
 
 TMP = os.path.join(WK, "_ext"); os.makedirs(TMP, exist_ok=True)
 N = 6
@@ -120,9 +121,11 @@ out("p14_ext_steps_5", page(
     + count(5)))
 
 # 6 CTA (dark)
-out("p14_ext_steps_6", page(
-    spark(900, 110, 60, LIME) + spark(960, 980, 50, PINK)
-    + f'<div class="d" style="position:absolute;left:72px;right:72px;top:150px;font-size:100px;color:{CREAM}">Find the job.<br><span style="color:{LIME}">One click to start working it.</span></div>'
+# v2 (HQ, Nov 13): lime is never text, so the second line is a lime block with ink text; cream keylines on ink.
+# The old p14_ext_steps_6.png stays on disk.
+out("p14_ext_steps_6_v2", page(
+    INK_KEYLINES + spark(900, 110, 60, LIME) + spark(960, 980, 50, PINK)
+    + f'<div class="d" style="position:absolute;left:72px;right:72px;top:150px;font-size:100px;line-height:1.1;color:{CREAM}">Find the job.<br><span class="fill" style="color:{INK}">One click to start working it.</span></div>'
     + f'<div class="card" style="position:absolute;left:72px;top:720px;padding:32px 40px;background:{CREAM};box-shadow:12px 12px 0 {LIME}">'
       f'<div class="d" style="font-size:56px">Free in the Chrome Web Store.</div>'
       f'<div style="font-size:34px;font-weight:700;margin-top:10px">getday60.com/chrome-extension</div></div>'
@@ -131,5 +134,8 @@ out("p14_ext_steps_6", page(
     + count(6, dark=True), bg=D_BG))
 
 if __name__ == "__main__":
+    only = sys.argv[1:]  # optional: output names to render, e.g. p14_ext_steps_6_v2 (default: all)
+    if only:
+        jobs = [j for j in jobs if os.path.basename(j["png"])[:-4] in only]
     jf = os.path.join(TMP, "jobs.json"); json.dump(jobs, open(jf, "w"))
     subprocess.run(["node", os.path.join(ROOT, "templates", "render_many.js"), jf], check=True)

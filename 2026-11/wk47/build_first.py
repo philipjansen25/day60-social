@@ -14,13 +14,15 @@ WK = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(WK))
 sys.path.insert(0, os.path.join(ROOT, "design-system"))
 from reel import *  # noqa
+from grounds import INK_KEYLINES  # noqa
 
 TMP = tempfile.mkdtemp(prefix="wk47_first_")
 EX_R = sticker(EXAMPLE, MUTED, 64, 84, 24, right=True)
 
 
 def rpage(body, bg=CREAM):
-    return page(body + foot(dark=(bg == INK)), RW, RH, bg)
+    # v2 (HQ, Nov 13): every ink scene gets cream keylines on Tick, cards and stickers.
+    return page((INK_KEYLINES if bg == INK else "") + body + foot(dark=(bg == INK)), RW, RH, bg)
 
 
 # ---------- IG-onejob: Start with one job ----------
@@ -208,8 +210,9 @@ def fj_slides():
           f'Tick checks every draft. You send it. Day60 never sends anything.</div>'
         + f'<div style="position:absolute;right:64px;top:930px">{tick("celebrating", 230)}</div>'
         + foot(bottom=40))))
-    s.append(("p05_first_job_6", page(
-        counter(6, True)
+    # v2 (HQ, Nov 13): cream keylines on ink; the old p05_first_job_6.png stays on disk.
+    s.append(("p05_first_job_6_v2", page(
+        INK_KEYLINES + counter(6, True)
         + f'<div class="d" style="position:absolute;left:72px;top:170px;width:936px;font-size:130px;color:{CREAM}">'
           f'That\'s day 0.</div>'
         + f'<div style="position:absolute;left:76px;top:360px;width:900px;font-size:42px;font-weight:600;line-height:1.32;color:{CREAM}">'
@@ -224,14 +227,20 @@ def fj_slides():
 
 
 if __name__ == "__main__":
-    want = set(sys.argv[1:]) or {"onejob", "redpen", "firstjob"}
+    # Modes: onejob, redpen, firstjob. Any other argument is a slide name to render alone (e.g. p05_first_job_6_v2).
+    # The _v2 reels (HQ, Nov 13) only change the ink end scene; the old mp4s stay on disk.
+    args = set(sys.argv[1:])
+    names = {a for a in args if a.startswith("p0")}
+    want = (args - names) or ({"firstjob"} if names else {"onejob", "redpen", "firstjob"})
     if "onejob" in want:
-        make_reel(ONEJOB, os.path.join(WK, "p03_one_job_reel.mp4"), os.path.join(TMP, "onejob"))
+        make_reel(ONEJOB, os.path.join(WK, "p03_one_job_reel_v2.mp4"), os.path.join(TMP, "onejob"))
     if "redpen" in want:
-        make_reel(REDPEN, os.path.join(WK, "p04_red_pen_reel.mp4"), os.path.join(TMP, "redpen"))
+        make_reel(REDPEN, os.path.join(WK, "p04_red_pen_reel_v2.mp4"), os.path.join(TMP, "redpen"))
     if "firstjob" in want:
         jobs = []
         for name, html in fj_slides():
+            if names and name not in names:
+                continue
             p = os.path.join(TMP, name + ".html"); open(p, "w").write(html)
             jobs.append({"html": p, "png": os.path.join(WK, name + ".png"), "w": 1080, "h": 1350})
         render(jobs, TMP)

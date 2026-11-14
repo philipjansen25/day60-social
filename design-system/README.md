@@ -4,7 +4,7 @@ Built from the public site, getday60.com, so it needs no access to the app repo.
 
 - `fonts/`: Bricolage Grotesque and DM Sans woff2 files from getday60.com/fonts, with their SIL OFL license files.
 - `tick/`: the six Tick poses (running, celebrating, waiting, waving, pointing, thinking), taken from the site's prerendered pages as standalone SVGs. **Tick stays static, and never draw other characters.**
-- `grounds.py`: cover grounds across the palette (Philip, Nov 13): AA text per ground, cream keylines on ink, white halo on lime, and background shapes (60-mark dial, track lanes, finish tape, confetti).
+- `grounds.py`: cover grounds across the palette (Philip, Nov 13): AA text per ground, cream keylines on ink, white halo on lime, and background shapes (60-mark dial, track lanes, finish tape, confetti). `INK_KEYLINES` gives any inner slide or Reel scene on ink the same cream keylines (HQ, Nov 13).
 - `ds.py`: the tokens as Python constants, plus CSS helpers: `page`, `tick(pose, w)`, `.step` numbered blocks, `.bubble` speech bubbles, `.sticker`, `.btn`, `.fill`, `check`, `foot`.
 
 Rules: no lime text on cream or white (use lime as a fill there, with ink text). Lime is never text, on any ground, ink included (HQ, Nov 13). Covers use the grounds in `grounds.py`. Coral text uses #C83F19; #FF5C4D is a ground (ink text only) or decoration, never text. Stickers always carry words. Use invented data only, and label it as an example. Show only what's live on getday60.com.
