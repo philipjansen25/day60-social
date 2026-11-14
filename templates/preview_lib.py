@@ -43,7 +43,9 @@ def media(p):
     if not fs:
         return ""
     if fs[0]["path"].endswith(".mp4"):
-        return (f'<div class="media vid"><video src="{asset(fs[0]["path"])}" controls muted playsinline loop '
+        covers = [f["path"] for f in fs[1:] if f["path"].endswith(".png")]  # a Reel's cover PNG, listed after the video
+        poster = f' poster="{asset(covers[0])}"' if covers else ""
+        return (f'<div class="media vid"><video src="{asset(fs[0]["path"])}"{poster} controls muted playsinline loop '
                 f'preload="metadata" aria-label="{esc(fs[0]["alt"])}"></video></div>')
     if len(fs) > 1:
         imgs = "".join(f'<img src="{asset(f["path"])}" alt="{esc(f["alt"])}" loading="lazy">' for f in fs)

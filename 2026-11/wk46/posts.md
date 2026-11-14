@@ -145,6 +145,7 @@ Day60 Sprint. Free. No card. Nothing to cancel. Try one job at the link in bio.
 ```
 
 ### IG2 · Mon Nov 9 · 12:00 PM · APPROVED (Philip, Nov 6) · POSTED Nov 9, 12:04 PM (Buffer)
+- New cover (Philip, Nov 13: no cream covers): `2026-11/wk46/p13_how_it_works_cover_ink.png` on ink, optional. The Reel is live; Philip can swap its cover in the Instagram app. Source: `2026-11/build_covers.py`.
 - Reel: `p13_how_it_works_reel.mp4` (18 s, 1080×1920, silent; add low-key audio in-app if Philip wants). Cover: first frame.
 - **Replaces the retired /try phone clip** (HQ, Nov 5: it showed a real company's posting). Built from Day60's design tokens: 01 paste a job link, 02 Day60 finds the 4 people, 03 Tick checks the message, then "You send it." Invented company (Northpine) and people, labeled "Example · invented company & people" on every data screen.
 
@@ -201,6 +202,7 @@ Free, no sign-up: getday60.com/message-checker
 ```
 
 ### IG5 · Sat Nov 14 · 10:00 AM · APPROVED (Philip, Nov 5) · EXTENSION CAROUSEL
+- New cover (Philip, Nov 13: no cream covers): `2026-11/wk46/p14_ext_steps_1_mint.png` on mint replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Carousel: `p14_ext_steps_1.png` … `p14_ext_steps_6.png`, the same 6 slides as FB3. Was draft IG5-fallback; it replaces the planned screen-recording Reel and the old p10 + wk1/p11 fallback.
 - Alt text (per slide): same as FB3.
 
@@ -288,6 +290,7 @@ FB3-new, IG5-fallback, IG6 and FB6 were approved on Nov 5, and LI3-new on Nov 6.
 | IG7 | **APPROVED (Philip, Nov 11, Post Library)** · old slot Tue Nov 10 | 12:00 PM | Instagram | Carousel (5) | p17_ext_linkedin_1–5.png | v1.1.0 LinkedIn steps. Philip scheduled it himself on Nov 11; its new date is his |
 
 ### IG7 · Tue Nov 10 · 12:00 PM · APPROVED (Philip, Nov 11, Post Library) · EXTENSION 1.1.0: THE LINKEDIN STEPS
+- New cover (Philip, Nov 13: no cream covers): `2026-11/wk46/p17_ext_linkedin_1_cobalt.png` on cobalt replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Carousel: `p17_ext_linkedin_1–5.png` (built by `build_li.py`). The popups are crops of the 1.1.0 store screenshots (no names on them). Claims are the listing's LinkedIn lines only: nothing from 1.2.0.
 - Gate: don't schedule until /chrome-extension shows the LinkedIn steps (#239) and Philip approves. Philip approved it in the Post Library on Nov 11 and scheduled it himself; Tue Nov 10 is its old slot.
 - Link in bio stays /try. Caption link for reference: https://getday60.com/chrome-extension?utm_source=instagram&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-linkedin

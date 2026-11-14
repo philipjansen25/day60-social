@@ -1,7 +1,7 @@
 # Day60 Social Playbook
 
 Social's working memory between weeks. Updated each week after HQ's Thursday brief.
-Last updated: Wed, Nov 11, 2026, evening (Philip scheduled every post with words through Dec 1 in LinkedIn and Meta Business Suite: they're live copy, and first comments go on his 8 AM list word for word; HQ). Earlier that day (Buffer paused: Philip posts by hand from `library.json`; his LinkedIn goes to five a week and Day60's are Tue and Thu; HQ). Before that: Sun, Nov 8, 2026 (he's "Phil" in all public copy, Philip's decision; HQ). Before that: Fri, Nov 6 (founder facts from founder.ts; "Places are limited" replaces the 100-sprint cap; HQ). Before that: Thu, Nov 5 (cadence LI 3 / IG 5 / FB 2; LinkedIn links in the first comment; Ops top-up job schedules approved posts).
+Last updated: Fri, Nov 13, 2026, night (covers take their ground from the whole palette, plus the Instagram grid rule, §9b; lime is never text; Philip via HQ, Nov 13). Before that: Wed, Nov 11, 2026, evening (Philip scheduled every post with words through Dec 1 in LinkedIn and Meta Business Suite: they're live copy, and first comments go on his 8 AM list word for word; HQ). Earlier that day (Buffer paused: Philip posts by hand from `library.json`; his LinkedIn goes to five a week and Day60's are Tue and Thu; HQ). Before that: Sun, Nov 8, 2026 (he's "Phil" in all public copy, Philip's decision; HQ). Before that: Fri, Nov 6 (founder facts from founder.ts; "Places are limited" replaces the 100-sprint cap; HQ). Before that: Thu, Nov 5 (cadence LI 3 / IG 5 / FB 2; LinkedIn links in the first comment; Ops top-up job schedules approved posts).
 
 ---
 
@@ -230,7 +230,13 @@ Philip published the guides on Nov 3. Besides /try, LinkedIn and Facebook posts 
 
 ## 9b. Design system and "For Social" picks (Philip, Nov 5)
 
-- **Look:** post images follow Day60's own design system (source: `artifacts/day60-design-system` and `.agents/skills/day60-design/SKILL.md` in the day60 repo), not a generic template. Ink borders, offset shadows, stickers, display type. Tick is static. Numbered step blocks. **No lime text on cream or white** (lime as a fill there, ink text on it). Lime text or accents on ink/navy backgrounds are fine (HQ, Nov 5).
+- **Look:** post images follow Day60's own design system (source: `artifacts/day60-design-system` and `.agents/skills/day60-design/SKILL.md` in the day60 repo), not a generic template. Ink borders, offset shadows, stickers, display type. Tick is static. Numbered step blocks. **Lime is never text, on any ground, ink included** (HQ, Nov 13; replaces the Nov 5 line that allowed lime text on ink). Lime is a fill with ink text on it, a button, or an accent shape.
+- **Cover grounds (Philip, Fri Nov 13 via HQ: "too much cream background" in the Instagram grid).** Every cover (the first image, and a Reel's cover) takes its ground from the whole palette; inner slides may stay cream. Kit: `design-system/grounds.py` (AA text per ground, keylines, dial, lanes, tape, confetti); first batch: `2026-11/build_covers.py`.
+  - Grounds and text: ink (cream text; highlight = lime block, ink text), lime (ink text; emphasis = white boxed words), cobalt (white or cream text, never ink), pink, mint (ink text), coral (ink text only, display size; never white).
+  - On ink, Tick, cards, bubbles, stickers and buttons get a cream keyline. On lime, Tick gets a white halo. One lime button or sticker per image. Bricolage Grotesque display, DM Sans body. No new claims or numbers; founder-result footnotes stay word for word.
+  - **Grid rule:** any four Instagram posts in a row (posting order) have four different grounds; cream (and muted, which reads as cream) at most one post in five. Check it with `python3 templates/grid_preview.py <out.png> <ids oldest first> --live N --labels`.
+  - Loose meaning, the grid rule wins: pink and coral for wins, mint for how-to, cobalt for product news, ink for the method, lime for "save this".
+  - Facebook posts that reuse an Instagram cover take the new cover too. A Reel's cover is a separate 1080x1920 PNG listed after the video; the grid shows its middle 1080x1440. Old covers are never deleted, so a post can go back.
 - **"How it works" template:** numbered steps with Tick speaking each step in a speech bubble (the Find people pattern, issue #201). Don't show #201 itself until HQ says it's live.
 - **Picks:** each Auditor report lists up to 5 "For Social" picks (live screens that look clean and fun). HQ forwards them; I turn them into posts showing what Day60 feels like.
 - **Show only what's live on getday60.com.** Nothing merged but unpublished.

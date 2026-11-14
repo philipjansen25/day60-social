@@ -5,7 +5,7 @@ them), Tick poses extracted from the prerendered pages, and tokens from
 tokens.json (df9b902) as relayed by HQ.
 
 Rules baked in:
-- No lime text on cream/white (fill only there, ink text on it). Lime text on ink/navy is fine.
+- Lime is never text, on any ground, ink included (HQ, Nov 13): a fill with ink text, a button or an accent.
 - Coral text uses #C83F19; brand coral #FF5C4D is decoration only.
 - Tick is static. No other characters.
 - Stickers carry short text, never color alone.
@@ -20,7 +20,7 @@ FONT_DIR = os.path.join(HERE, "fonts")
 
 # Light theme
 CREAM, INK, WHITE = "#FFF8EC", "#16133A", "#FFFFFF"
-LIME = "#D9FF3F"             # no lime text on light backgrounds
+LIME = "#D9FF3F"             # never text; fill, button or accent only
 COBALT = "#3B5BFF"           # links/progress, white text on it
 MUTED, MUTED_TEXT = "#F5EBDD", "#5A6972"
 CORAL_TEXT, CORAL = "#C83F19", "#FF5C4D"   # text / decoration only

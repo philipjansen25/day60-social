@@ -46,6 +46,7 @@ HQ's brief: make the next step concrete (pick one job, paste its link, see the 4
 IG-story and FB-story (proposed adaptations of LI-story) moved to week 49 with LI-story; they stay proposals until it's written.
 
 ### IG-thanks · Sun Nov 22 · 11:00 AM · DRAFT · SEND ONE THANK-YOU THIS WEEK (HQ brief, Nov 12)
+- New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p01_thanks_1_pink.png` on pink replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Status: draft, for Philip to approve in the Post Library.
 - Carousel (6): `2026-11/wk48/p01_thanks_1.png` to `p01_thanks_6.png` (source: `2026-11/wk48/build.py`). FB-thanks reuses it on Thu Nov 26.
 - Alt text (per slide): 1 "Thanksgiving week. Send one thank-you this week. 3 people in your job search worth thanking, and what to say. Tick celebrating." · 2 "01, someone who told you no, instead of leaving you waiting. What to say: Thanks for letting me know about the role. A clear answer helps, and I appreciated it. If your team hires again, I'd love to hear about it." · 3 "02, someone who accepted your connection request. Name one thing they shared. Illustrative example: Thanks for connecting. Your post about onboarding new customers was the most useful thing I read this month." · 4 "03, someone who gave you an intro, a referral or advice. Say what came of it. Illustrative example: Thank you for the intro to Dana. We talked on Tuesday, and I left with two good ideas. I'll let you know how it goes." · 5 "How to write it. Short: two or three sentences. Specific: one thing they did or said. No ask: not a call, not a referral, just thanks. Send it before Thursday. It's the easiest message you'll send all year." · 6 "Happy Thanksgiving. Next week: one job, one message. Paste a job link. Get your 4 people. getday60.com. Tick celebrating."
@@ -67,6 +68,7 @@ Next week, back to one job and one message. Paste a job link. Get your 4 people.
 ```
 
 ### IG-which · Mon Nov 23 · 12:00 PM · DRAFT · WHICH WOULD YOU ANSWER? (HQ brief, Nov 12)
+- New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p02_which_ink.png` on ink replaces the image; same words. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Status: draft, for Philip to approve in the Post Library.
 - Image: `2026-11/wk48/p02_which.png` (source: `2026-11/wk48/build.py`). FB-which reuses it on Tue Nov 24.
 - Alt text: "Which would you answer? Two ways to end a first message to a hiring manager. Illustrative example. A: Would you have 30 minutes this week to tell me about opportunities on your team? B: Is onboarding or renewals the bigger fire on your team right now? Tell us: A or B? Tick thinking."
@@ -87,6 +89,7 @@ Day60 drafts a short note to each of the 4 people closest to the hire. You send 
 ```
 
 ### IG-rb-reel · Tue Nov 24 · 12:00 PM · DRAFT · THE FREE RÉSUMÉ BUILDER, AS A REEL (HQ brief, Nov 12)
+- New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p03_resume_cover_cobalt.png` on cobalt, uploaded as the Reel's cover (1080x1920; the grid shows the middle). The video is unchanged. Source: `2026-11/build_covers.py`.
 - Status: draft, for Philip to approve in the Post Library. Same morning as LI-resume on LinkedIn.
 - Reel: `2026-11/wk48/p03_resume_reel.mp4` (20 s, silent, text on screen; source: `2026-11/wk48/build.py`). The cover is the first frame. Scene 2 is the real crop of getday60.com/resume-builder from week 47; scenes 3 to 5 are rebuilt and labeled "Illustrative example".
 - Alt text: "Reel: Tailor your résumé to one job. No account. 01, add the job and your résumé: the real résumé builder form with an invented job link; Tick says a link to the posting (not LinkedIn) or the posting itself. 02, see what the job wants: keywords and 3 problems this role solves, for an invented Customer Success Manager job at Northpine. 03, tailored, with only what's true: two résumé lines rewritten for the job; no new skill, number or title. 04, know the gap before they do: keywords you can't claim yet, and a Make it stronger question. End card: Read every line. Get a Word file. Free. No account. Nothing you add is kept. getday60.com/resume-builder. Link in bio."
@@ -103,6 +106,7 @@ No account, and nothing you add is kept. It's at getday60.com/resume-builder, or
 ```
 
 ### FB-which · Tue Nov 24 · 6:00 PM · DRAFT · WHICH WOULD YOU ANSWER? (HQ brief, Nov 12)
+- New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p02_which_ink.png` on ink replaces the image; same words. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Status: draft, for Philip to approve in the Post Library.
 - Image: IG-which's image, `2026-11/wk48/p02_which.png` (Facebook reuses the week's Instagram art, the day after the Instagram post).
 - Alt text: same as IG-which.
@@ -124,6 +128,7 @@ Tell us in the comments: A or B?
 ```
 
 ### IG-onelink · Wed Nov 25 · 12:00 PM · DRAFT · ONE JOB LINK, FOUR PEOPLE, ONE MESSAGE (HQ brief, Nov 12)
+- New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p04_one_link_cover_mint.png` on mint, uploaded as the Reel's cover (1080x1920; the grid shows the middle). The video is unchanged. Source: `2026-11/build_covers.py`.
 - Status: draft, for Philip to approve in the Post Library.
 - Reel: `2026-11/wk48/p04_one_link_reel.mp4` (15 s, silent, text on screen; source: `2026-11/wk48/build.py`). The cover is the first frame. It replaces week 46's how-it-works Reel (p13) for /try slots: p13's end card says "No account. No card.", which the brief cuts.
 - Alt text: "Reel, illustrative example with an invented company and people. One job link: careers.northpine.example/jobs/csm is pasted and finds Customer Success Manager at Northpine, remote. Four people: Maya Ortiz, hiring manager; Dev Raman, their boss; Jess Kowalski, internal champion; Priya Hale, recruiter; each with a verified work email. One message: a 3-line draft to Maya, with Tick's checks: asks one clear question, the question comes last, fits the length limit, no links. End card: You send it. Day60 never logs in to LinkedIn and never sends anything for you. Paste a job link. Get your 4 people. Link in bio."
@@ -142,6 +147,7 @@ Paste a job link. Get your 4 people. Link in bio.
 ```
 
 ### FB-thanks · Thu Nov 26 · 10:00 AM · DRAFT · THANKSGIVING: SEND ONE THANK-YOU (HQ brief, Nov 12)
+- New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p01_thanks_1_pink.png` on pink replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Status: draft, for Philip to approve in the Post Library.
 - Carousel: IG-thanks's 6 slides, `2026-11/wk48/p01_thanks_1.png` to `p01_thanks_6.png` (Facebook reuses the week's Instagram art, four days after the Instagram post).
 - Alt text: same as IG-thanks.
@@ -165,6 +171,7 @@ Share this with someone who's looking.
 ```
 
 ### IG-shortlist · Sat Nov 28 · 10:00 AM · DRAFT · LONG WEEKEND, SHORT LIST (HQ brief, Nov 12)
+- New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p05_short_list_coral.png` on coral replaces the image; same words. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Status: draft, for Philip to approve in the Post Library.
 - Image: `2026-11/wk48/p05_short_list.png` (source: `2026-11/wk48/build.py`).
 - Alt text: "Holiday weekend. Long weekend. Short list. Three empty checkboxes: Pick one job you'd say yes to. Paste its link. See your 4 people. Send the hiring manager one short note. Then back to the leftovers. Tick waving."
