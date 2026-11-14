@@ -70,10 +70,10 @@ Paste a job link and Day60 finds your 4 people, with a short note to each in you
 
 ### FB-four · Wed Nov 18 · 6:00 PM · APPROVED (Philip, Nov 11, Post Library) · REPLACES FB-PH
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk47/p01_four_people_1_ink.png` on ink replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
-- Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk47/p01_four_people_6_v2.png` replaces slide 6. The old file stays in the repo.
+- Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline) and Facebook slide 6 (HQ, Nov 14): `2026-11/wk47/p01_four_people_6_fb_v2.png` replaces slide 6. It's IG-four's slide 6 with the getday60.com sticker in place of "Link in bio", which doesn't work on Facebook; no new copy. The old file stays in the repo. Source: `2026-11/wk47/build.py`.
 - Status: approved in the Post Library (Philip, Nov 11) and scheduled by Philip. It's live copy: change it only if something is wrong, and tell HQ.
-- Carousel: IG-four's 6 slides (Facebook reuses the week's Instagram art, on a different day from the Instagram post).
-- Alt text: same as IG-four.
+- Carousel: IG-four's 6 slides, except slide 6 (above) (Facebook reuses the week's Instagram art, on a different day from the Instagram post).
+- Alt text: same as IG-four, except slide 6 ends "getday60.com." in place of "Link in bio."
 - Link: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w47&utm_content=four-people
 
 ```

@@ -24,6 +24,6 @@
 - **IG-story and FB-story** (proposed Instagram and Facebook versions of this post) moved here from week 48 with it (Nov 12: week 48's Instagram and Facebook slots are full). They stay proposals until LI-story is written, and they need open slots in this week's caps.
 
 ### LI-3touch · Thu Dec 3 · 8:30 AM (proposed) · DRAFT · MOVED FROM WEEK 47 (HQ, Nov 11)
-- Document: `2026-11/wk46/p06_three_touches_linkedin.pdf` (already built). It moved to week 47 when the Chrome extension post took week 46's Thursday slot, then here when Day60's LinkedIn went to two posts a week (Tue and Thu) from Nov 16.
+- Document: `2026-11/wk46/p06_three_touches_linkedin_v2.pdf` (HQ, Nov 14: slide 6 now has cream keylines on Tick and the card; slides 1 to 5 are unchanged, and the old PDF and IG4's slides stay in the repo. Source: `2026-11/wk46/build_v2.py`). It moved to week 47 when the Chrome extension post took week 46's Thursday slot, then here when Day60's LinkedIn went to two posts a week (Tue and Thu) from Nov 16.
 - Link: use `https://getday60.com/guides/follow-up-after-no-reply?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49&utm_content=three-touches` (guide links are allowed from week 47).
 - Copy: reuse the week 46 LI3 draft (git history, commit 009d790 or earlier), updating the link. Same "Day60 once" and follow-up wording rules.

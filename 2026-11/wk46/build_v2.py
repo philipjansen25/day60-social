@@ -11,6 +11,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
 sys.path.insert(0, os.path.join(ROOT, "design-system"))
 from ds import *  # noqa
+from grounds import INK_KEYLINES  # noqa
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 TMP = os.path.join(HERE, "_v2"); os.makedirs(TMP, exist_ok=True)
@@ -45,9 +46,9 @@ def cover(i, n, label, title_html, sub, pose):
         + count(i, n))
 
 
-def end_dark(i, n, top_html, card_title, card_sub, cta):
+def end_dark(i, n, top_html, card_title, card_sub, cta, keylines=False):
     return page(
-        spark(900, 110, 60, LIME) + spark(960, 1000, 50, PINK)
+        (INK_KEYLINES if keylines else "") + spark(900, 110, 60, LIME) + spark(960, 1000, 50, PINK)
         + f'<div class="d" style="position:absolute;left:72px;top:150px;right:72px;font-size:90px;line-height:1.02;color:{CREAM}">{top_html}</div>'
         + f'<div class="card" style="position:absolute;left:72px;top:760px;padding:32px 40px;background:{CREAM};box-shadow:12px 12px 0 {LIME}">'
           f'<div class="d" style="font-size:56px">{card_title}</div><div style="font-size:34px;font-weight:700;margin-top:10px">{card_sub}</div></div>'
@@ -165,11 +166,26 @@ out("p06_three_touches_5", page(
 out("p06_three_touches_6", end_dark(6, N6,
     'Four people. Three touches.<br><br><span class="fill" style="color:#16133A">You send every one.</span>',
     "Try one job free.", "getday60.com/try · No account needed.", ""))
+# v2 (HQ, Nov 14): the same slide with cream keylines on Tick and the card, for LI-3touch's PDF only.
+# IG4 (live) keeps p06_three_touches_6.png and the old PDF stays on disk.
+out("p06_three_touches_6_v2", end_dark(6, N6,
+    'Four people. Three touches.<br><br><span class="fill" style="color:#16133A">You send every one.</span>',
+    "Try one job free.", "getday60.com/try · No account needed.", "", keylines=True))
 
 if __name__ == "__main__":
+    only = sys.argv[1:]  # optional: output names to render, e.g. p06_three_touches_6_v2 (default: all)
+    if only:
+        jobs = [j for j in jobs if os.path.basename(j["png"])[:-4] in only]
     jf = os.path.join(TMP, "jobs.json"); json.dump(jobs, open(jf, "w"))
     subprocess.run(["node", os.path.join(ROOT, "templates", "render_many.js"), jf], check=True)
     from PIL import Image
-    ims = [Image.open(os.path.join(HERE, f"p06_three_touches_{i}.png")).convert("RGB") for i in range(1, 7)]
-    ims[0].save(os.path.join(HERE, "p06_three_touches_linkedin.pdf"), save_all=True, append_images=ims[1:], resolution=144)
-    print("pdf ok")
+    pdfs = {"p06_three_touches_linkedin.pdf": [f"p06_three_touches_{i}" for i in range(1, 7)],
+            "p06_three_touches_linkedin_v2.pdf": [f"p06_three_touches_{i}" for i in range(1, 6)] + ["p06_three_touches_6_v2"]}
+    for pdf, names in pdfs.items():
+        if only and not set(only) & set(names):
+            continue
+        if only and pdf == "p06_three_touches_linkedin.pdf":
+            continue  # a filtered run never rewrites the old PDF
+        ims = [Image.open(os.path.join(HERE, n + ".png")).convert("RGB") for n in names]
+        ims[0].save(os.path.join(HERE, pdf), save_all=True, append_images=ims[1:], resolution=144)
+        print("pdf ok", pdf)

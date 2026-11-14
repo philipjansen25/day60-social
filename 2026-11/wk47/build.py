@@ -73,6 +73,18 @@ out("p01_four_people_6_v2",
     + spark(900, 110, 64, LIME)
     + foot(dark=True), bg=INK)
 
+# 6 for Facebook (HQ, Nov 14): "Link in bio" doesn't work on Facebook, so FB-four's last slide carries the
+# getday60.com sticker already on approved slides instead. No new copy. Cream keylines on ink.
+out("p01_four_people_6_fb_v2",
+    INK_KEYLINES + f'<div class="d" style="position:absolute;left:72px;top:150px;width:936px;font-size:112px;color:{CREAM}">'
+    f'Paste a job link.<br><span class="fill" style="color:{INK}">Get your 4 people.</span></div>'
+    + f'<div style="position:absolute;left:76px;top:640px;width:620px;font-size:44px;font-weight:600;line-height:1.3;color:{CREAM}">'
+      f'A short note to each, in your voice. You send every message.</div>'
+    + sticker("getday60.com", LIME, 72, 900, 34)
+    + f'<div style="position:absolute;right:60px;top:760px">{tick("celebrating", 300)}</div>'
+    + spark(900, 110, 64, LIME)
+    + foot(dark=True), bg=INK)
+
 if __name__ == "__main__":
     only = sys.argv[1:]  # optional: output names to render, e.g. p14_ext_steps_6_v2 (default: all)
     if only:
