@@ -42,7 +42,7 @@ Totals: LinkedIn 2 this week (LI1 moved to Tue Nov 17), Instagram 5, Facebook 2.
 
 ### LI1 · Tue Nov 17 · 8:30 AM · APPROVED (Philip, Nov 6) · FEATURED · MOVED FROM MON NOV 16 (HQ, Nov 11)
 - Image: `p02_is_isnt_card.png`
-- Alt text: Day60 in one picture. It is: a 60-day sprint, the 4 people closest to the hire, a short note in your voice, you hit send. It isn't: an auto-apply bot, a LinkedIn login, mass messages, keyword stuffing.
+- Alt text: What Day60 is: a 60-day sprint to the 4 people closest to the hire. What it isn't: an auto-apply bot or mass messages.
 - Tags: Day60 page (auto)
 - First comment: https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=pinned&utm_content=is-isnt
 
@@ -161,7 +161,7 @@ Try one job free, no account: link in bio.
 
 ### IG4 · Thu Nov 12 · 7:00 PM · APPROVED (Philip, Nov 6)
 - Carousel: `p06_three_touches_1.png` … `p06_three_touches_6.png`
-- Alt text (per slide): 1 "3 touches. Then stop." · 2 Day 0, the first note · 3 Day 2, the nudge · 4 Day 7, the last word · 5 Then stop: three touches is persistence, ten is spam · 6 Four people, three touches, you send every one. Try one job free.
+- Alt text (per slide): 1 3 touches. Then stop. The follow-up rhythm that's persistent, not pushy. · 2 Day 0, the first note: their problem, one line of proof, one easy ask. · 3 Day 2, the nudge: two lines that add something new. Never "just following up." · 4 Day 7, the last word: close the loop kindly and leave the door open. · 5 Then stop. Three touches is persistence; ten is spam. Day60 keeps it to 3 per person. · 6 Four people, three touches, you send every one. Try one job free at getday60.com/try
 
 ```
 Day 0, day 2, day 7. Then stop.
@@ -179,7 +179,7 @@ Save this for your next follow-up. Link in bio to try one job free.
 - Carousel: `p15_checker_1–7.png` (built by `build_picks.py`). Slides 2, 4 and 6 are real crops of getday60.com/message-checker, shot Nov 5: the choice cards and Tick's checklist. The draft is set in our own card because the site's message box edges are faint.
 - Both drafts are invented (sender "Sam", recipient "Dana", company "Northpine"), and the slides say so. The live checker really scored them 7 to fix / 6 passed, then All 13 rules pass.
 - Link (bio stays /try; this goes in the caption as text): https://getday60.com/message-checker?utm_source=instagram&utm_medium=social&utm_campaign=2026-w46&utm_content=message-checker
-- Alt text (per slide): 1 "Would Tick let you send it?" with Tick thinking · 2 Step 01, the checker's three choices: cold email, LinkedIn connection note, LinkedIn message after they accept · 3 Step 02, an invented first draft that opens "I hope this email finds you well" · 4 Tick's checklist: 7 to fix, 6 passed, short subject line and "doesn't start with I" flagged · 5 Step 03, the invented rewrite to Dana with one question and a sign-off · 6 Tick's checklist: all 13 rules pass · 7 Check it before you send it, free, getday60.com/message-checker
+- Alt text (per slide): 1 One cold email through Day60's free message checker, before and after. · 2 Step 1: Pick what you're sending: a cold email, a LinkedIn connection note or a message after they accept. · 3 Step 2: Paste your draft. The example is a long first email that opens "I hope this email finds you well!" · 4 The verdict: 7 to fix, 6 passed. Each fix says why, like a short subject line and not starting with "I". · 5 Step 3: Fix it. Check again. The example rewrite is shorter and ends with one clear question. · 6 All 13 rules pass. Same ask, easier to answer. · 7 Check it before you send it. Free at getday60.com/message-checker
 
 ```
 Would Tick let you send it?
@@ -205,7 +205,7 @@ Free, no sign-up: getday60.com/message-checker
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk46/p14_ext_steps_1_mint.png` on mint replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk46/p14_ext_steps_6_v2.png` replaces slide 6; its second headline line is now a lime block with ink text, not lime text. The old file stays in the repo.
 - Carousel: `p14_ext_steps_1.png` … `p14_ext_steps_6.png`, the same 6 slides as FB3. Was draft IG5-fallback; it replaces the planned screen-recording Reel and the old p10 + wk1/p11 fallback.
-- Alt text (per slide): same as FB3.
+- Alt text (per slide): 1 From a careers page to your sprint in one click: how the free Day60 Chrome extension works, in 3 steps. · 2 Step 1: Open a job on the company's careers page. · 3 Step 2: Click the Day60 icon and press "Find the 4 people with Day60". It runs only when you click it. · 4 Step 3: The job opens in Day60 with its link filled in, ready to find the 4 people closest to the hire. · 5 What it never does: read your LinkedIn pages, fill in forms, apply or send messages. It runs only when you click it. · 6 Free in the Chrome Web Store: getday60.com/chrome-extension
 
 ```
 Watch it work: one click on a careers page, and the job opens in Day60.
@@ -252,7 +252,7 @@ Got a question we didn't cover? Ask in the comments.
 ### FB6 · Fri Nov 13 · 6:00 PM · APPROVED (Philip, Nov 5) · SITE PICK: LIGHT POST (404)
 - Image: `p16_tick_404.png`. A real crop of getday60.com/no-such-page, the card only, with no site footer.
 - Link: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=tick-404
-- Alt text: "Even our 404 page has a job to do." The Day60 404 page shows Tick, "This page doesn't exist. Tick looked everywhere.", and buttons for "Back to home" and "Start my free sprint".
+- Alt text: Even our 404 page has a job to do: if you're lost, it points you to a free sprint.
 
 ```
 Even our 404 page has a job to do.
@@ -296,7 +296,7 @@ FB3-new, IG5-fallback, IG6 and FB6 were approved on Nov 5, and LI3-new on Nov 6.
 - Carousel: `p17_ext_linkedin_1–5.png` (built by `build_li.py`). The popups are crops of the 1.1.0 store screenshots (no names on them). Claims are the listing's LinkedIn lines only: nothing from 1.2.0.
 - Gate: don't schedule until /chrome-extension shows the LinkedIn steps (#239) and Philip approves. Philip approved it in the Post Library on Nov 11 and scheduled it himself; Tue Nov 10 is its old slot.
 - Link in bio stays /try. Caption link for reference: https://getday60.com/chrome-extension?utm_source=instagram&utm_medium=social&utm_campaign=2026-w46&utm_content=extension-linkedin
-- Alt text (per slide): 1 "Found it on LinkedIn? Take it to Day60." Two new buttons for LinkedIn, with Tick pointing · 2 Step 01, the Day60 popup on a LinkedIn job: "Find this job on the company's own careers page" and the "Find it with Day60" button; Tick says it looks for the same job on the company's careers page, and if it isn't posted there you paste the description · 3 Step 02, the Day60 popup on a LinkedIn profile: "Add this person to one of your jobs" and the "Add to a job in Day60" button; Tick says pick the job and their role: hiring manager, their boss, champion or recruiter · 4 What it never does: read LinkedIn pages, fill in forms or apply, send messages for you. On LinkedIn it uses only the tab's address and title, and only when you press its button. You send every message · 5 Free in the Chrome Web Store, getday60.com/chrome-extension
+- Alt text (per slide): 1 Found the job on LinkedIn? Take it to Day60 with two new buttons. · 2 Step 1: On a LinkedIn job, press "Find it with Day60". Day60 looks for the same job on the company's careers page. · 3 Step 2: On a LinkedIn profile, press "Add to a job in Day60", then pick the job and their role. · 4 What it never does: read LinkedIn pages, fill in forms, apply or send messages. You send every message. · 5 Free in the Chrome Web Store: getday60.com/chrome-extension
 
 ```
 Found the job on LinkedIn? Day60 for Chrome now has a button for that. 👀

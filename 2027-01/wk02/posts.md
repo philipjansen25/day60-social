@@ -19,7 +19,7 @@ They keep the library ids they had in week 49 (`2026-w49-LI-PH`, `2026-w49-IG-PH
 ### LI-PH · Tue Jan 12 · 8:30 AM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
 - Status: approved in the Post Library (Philip, Nov 11). Not scheduled. Philip schedules it once the Product Hunt launch link exists. He deletes the Dec 1 version he had scheduled.
 - Image: `product-hunt/01_hero.png` (gallery image 1)
-- Alt text: Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Tick points at the cards.
+- Alt text: Paste a job link. Meet the 4 people closest to the hire, each with a verified work email and a drafted note you send.
 - Tags: Day60 page (auto)
 - First comment: <Product Hunt launch link>
 
@@ -48,7 +48,7 @@ Checks: "Day60" appears once. No link in the body. Founder facts are the four ap
 ### IG-PH · Tue Jan 12 · 12:00 PM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
 - Status: approved in the Post Library (Philip, Nov 11). Not scheduled. Philip schedules it once the Product Hunt launch link exists. He deletes the Dec 1 version he had scheduled.
 - Image: `product-hunt/ig_launch_day.png` (1080×1350, the portrait version of gallery image 1)
-- Alt text: On Product Hunt today. Paste a job link. Meet the 4 people closest to the hire. An example job, Account Executive at Acme, with four invented people: Maya Torres, hiring manager; Chris Patel, their boss; Dana Kim, internal champion; Sam Rivera, recruiter. Each has a verified work email and a short note drafted. You send every message. Search Day60 on Product Hunt. Tell us what you think.
+- Alt text: On Product Hunt today: paste a job link and meet the 4 people closest to the hire. Search Day60 on Product Hunt.
 - Link: bio link stays /try. No link in the caption.
 
 ```

@@ -1,7 +1,7 @@
 # Day60 Social Playbook
 
 Social's working memory between weeks. Updated each week after HQ's Thursday brief.
-Last updated: Fri, Nov 13, 2026, night (covers take their ground from the whole palette, plus the Instagram grid rule, §9b; lime is never text; Philip via HQ, Nov 13). Before that: Wed, Nov 11, 2026, evening (Philip scheduled every post with words through Dec 1 in LinkedIn and Meta Business Suite: they're live copy, and first comments go on his 8 AM list word for word; HQ). Earlier that day (Buffer paused: Philip posts by hand from `library.json`; his LinkedIn goes to five a week and Day60's are Tue and Thu; HQ). Before that: Sun, Nov 8, 2026 (he's "Phil" in all public copy, Philip's decision; HQ). Before that: Fri, Nov 6 (founder facts from founder.ts; "Places are limited" replaces the 100-sprint cap; HQ). Before that: Thu, Nov 5 (cadence LI 3 / IG 5 / FB 2; LinkedIn links in the first comment; Ops top-up job schedules approved posts).
+Last updated: Sun, Nov 15, 2026 (alt text says what each slide is for, in 125 characters or less, never what Tick does, §10c; Philip via HQ). Before that: Fri, Nov 13, 2026, night (covers take their ground from the whole palette, plus the Instagram grid rule, §9b; lime is never text; Philip via HQ, Nov 13). Before that: Wed, Nov 11, 2026, evening (Philip scheduled every post with words through Dec 1 in LinkedIn and Meta Business Suite: they're live copy, and first comments go on his 8 AM list word for word; HQ). Earlier that day (Buffer paused: Philip posts by hand from `library.json`; his LinkedIn goes to five a week and Day60's are Tue and Thu; HQ). Before that: Sun, Nov 8, 2026 (he's "Phil" in all public copy, Philip's decision; HQ). Before that: Fri, Nov 6 (founder facts from founder.ts; "Places are limited" replaces the 100-sprint cap; HQ). Before that: Thu, Nov 5 (cadence LI 3 / IG 5 / FB 2; LinkedIn links in the first comment; Ops top-up job schedules approved posts).
 
 ---
 
@@ -262,6 +262,21 @@ Philip published the guides on Nov 3. Besides /try, LinkedIn and Facebook posts 
 - **Free résumé builder (HQ, Nov 11):** the public labels are "What this job wants", "Keywords you can't claim yet", "Make it stronger" and "Rebuild with my answers". It rewrites a résumé for one job using only what the résumé and the user's notes show, never adding a skill, number or title. Job links can't be LinkedIn links. The user reads every line, then downloads a Word file or copies the text. "Day60 keeps none of it." Claim nothing beyond that. Rebuilt result screens are labeled "Illustrative example".
 - Philip's goal: people should know exactly what Day60 is, what it isn't, and the value it gives (replies from people who can hire you, instead of more applications into a pile). "It doesn't have to be an outright assault on the competition."
 
+## 10c. Alt text (Philip, Sun Nov 15, via HQ: a standing rule)
+
+Philip: "The Alt text on several posts is overly descriptive and includes what Tick is doing in the image. Keep these simple and specific to what each slide is intended for."
+
+- Alt text says what the slide is for: its message, in one short sentence, two at most. Aim for 125 characters or less.
+- It carries the headline or the step, plus the one fact someone who can't see the image needs.
+- It never describes the picture: no Tick, nothing Tick does, says or points at; no layout, colors, stickers, popups or cards; no "illustrative", "screenshot of", "store image" or "the popup shows".
+- Quote a button's label only when the reader has to press it.
+- A numbered step reads "Step 1: ...". Never "slide 2 of 5".
+- The last slide is the action and the address (getday60.com/..., or "Link in bio" on Instagram).
+- It claims nothing the slide doesn't say. No real names. If an example names an invented company or invented people, leave the names out.
+- A video keeps an empty alt. A Reel's cover PNG carries the alt: what the Reel is for. A LinkedIn PDF's alt is its document title.
+- Example (IG7, slide 2): Step 1: On a LinkedIn job, press "Find it with Day60". Day60 looks for the same job on the company's careers page.
+- Where it lives: the "Alt text" bullet of each post in posts.md; `library.json` takes it from there.
+
 ## 11. Banned phrases
 
 Cut on sight in final copy (fine only inside a quoted "bad message" example being torn down).
@@ -280,6 +295,7 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 
 - [ ] Hashtags on every post.
 - [ ] He's "Phil" in all new public copy and alt text; never "Philip", never the surname.
+- [ ] Alt text follows §10c: what each slide is for, 125 characters or less, no Tick and no description of the picture.
 - [ ] No Philip personal results on LinkedIn.
 - [ ] No link to or mention of Philip's personal Instagram. Only @getday60, the Day60 Facebook Page, Philip's LinkedIn and TikTok @getday60.
 - [ ] No prices, no "free forever", no number of places ("Places are limited; the site shows what's open").
