@@ -159,9 +159,12 @@
    "sha256": "be3a366d63b9b3c40e8af52d2797109548dee52b7c44cd002e5b08ed48450409",
    "scale": 0.848,
    "checked": "2026-11-17"
+  },
+  "product-hunt/ig_launch_day_safe.png": {
+   "sha256": "312dfd267f97ccc7f60fe36a9d02d63d28bddde4351fab8e97df8b1e9348cbe6",
+   "scale": 0.88,
+   "checked": "2026-11-17"
   }
  },
- "waived": {
-  "product-hunt/ig_launch_day.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 84 to 1277. Not in HQ's Nov 16 re-render list; HQ to decide."
- }
+ "waived": {}
 }

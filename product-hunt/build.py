@@ -9,8 +9,10 @@ Builds, in Day60's design system (design-system/ds.py):
   06_linkedin_profile.png 1270x760 media/chrome-extension/screenshot-4-linkedin-profile.png, fitted on cream
   thumbnail.png         240x240   Tick waving on lime
   ig_launch_day.png     1080x1350 portrait hero for the launch-day Instagram and Facebook posts
+  ig_launch_day_safe.png  the same, fitted inside y 150 to 1200 (feed safe area, HQ Nov 16); IG-PH and FB-PH use it
 
-Run from repo root: python3 product-hunt/build.py
+Run from repo root: python3 product-hunt/build.py [names...]  (optional output names, e.g. ig_launch_day; default: all)
+
 """
 import base64, json, os, subprocess, sys
 PH = os.path.dirname(os.path.abspath(__file__))
@@ -161,5 +163,8 @@ out("ig_launch_day",
     w=1080, h=1350)
 
 if __name__ == "__main__":
+    only = sys.argv[1:]
+    if only:
+        jobs = [j for j in jobs if os.path.basename(j["png"])[:-4] in only]
     jf = os.path.join(TMP, "jobs.json"); json.dump(jobs, open(jf, "w"))
     subprocess.run(["node", os.path.join(ROOT, "templates", "render_many.js"), jf], check=True)

@@ -1422,11 +1422,11 @@
     "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
     "files": [
       {
-        "path": "product-hunt/ig_launch_day.png",
+        "path": "product-hunt/ig_launch_day_safe.png",
         "alt": "On Product Hunt today: paste a job link and meet the 4 people closest to the hire. Search Day60 on Product Hunt."
       }
     ],
-    "notes": "Instagram app: before Next, tap the expand button on the first photo so it shows the full 4:5.\nNot scheduled. Philip schedules it once the Product Hunt launch link exists.\nAdd the image's alt text (Instagram app: Advanced settings, then Accessibility).\nNo clickable links in the caption; the bio link stays as it is.",
+    "notes": "Instagram app: before Next, tap the expand button on the first photo so it shows the full 4:5.\nAlready scheduled? These are new files (Nov 16) that keep every word inside the centered square; to use them, replace every image in the scheduled post before it goes out. The old files stay in the repo.\nNot scheduled. Philip schedules it once the Product Hunt launch link exists.\nAdd the image's alt text (Instagram app: Advanced settings, then Accessibility).\nNo clickable links in the caption; the bio link stays as it is.",
     "postedVia": ""
   },
   {
@@ -1444,11 +1444,11 @@
     "link": "https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2027-w02&utm_content=product-hunt",
     "files": [
       {
-        "path": "product-hunt/ig_launch_day.png",
+        "path": "product-hunt/ig_launch_day_safe.png",
         "alt": "On Product Hunt today: paste a job link and meet the 4 people closest to the hire. Search Day60 on Product Hunt."
       }
     ],
-    "notes": "Not scheduled. Philip schedules it once the Product Hunt launch link exists.\nThe text needs the Product Hunt launch link, a placeholder until it exists.\nAdd the image's alt text.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe links stay in the text, as written.",
+    "notes": "Already scheduled? These are new files (Nov 16) that keep every word inside the centered square; to use them, replace every image in the scheduled post before it goes out. The old files stay in the repo.\nNot scheduled. Philip schedules it once the Product Hunt launch link exists.\nThe text needs the Product Hunt launch link, a placeholder until it exists.\nAdd the image's alt text.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe links stay in the text, as written.",
     "postedVia": ""
   }
 ]
