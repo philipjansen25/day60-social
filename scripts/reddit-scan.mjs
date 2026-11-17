@@ -8,6 +8,9 @@
 //   node scripts/reddit-scan.mjs --queries   (print the Google queries, no key needed)
 //   add --debug [file] to write why each result was dropped (reason, subreddit, title, age; no snippets,
 //   no usernames) to a JSON file outside the repo. Default: <os tmpdir>/reddit-scan-debug.json. Never commit it.
+// Drop reasons (HQ, Nov 17): off-list-sub (the thread's sub isn't a reply sub in reddit/subreddits.md; Google
+// sometimes ignores the site: filter) and no-date (neither Google's date nor a snippet prefix gives an age) join
+// not-thread-url, already-used, duplicate, negative-match, too-old, low-score, per-sub-cap and over-max.
 //
 // Output: JSON array of {title, url, subreddit, date, snippet, score, matched} on stdout (or --out).
 // Exit codes: 0 ok, 2 SERPAPI_API_KEY not set, 3 SerpAPI error.
@@ -153,6 +156,7 @@ async function main() {
     }
   }
   const used = alreadyUsedIds();
+  const replySubs = new Set(readSubs().filter(x => !SKIP_FOR_REPLIES.has(x)).map(x => x.toLowerCase()));
   const seen = new Set();
   const seenSub = {};
   const dropped = [];
@@ -173,8 +177,10 @@ async function main() {
     seen.add(t.id);
     const s = { ...t, ...score(t), ageDays: ageDays(t), ageSource: ageSource(t) };
     const reasons = [];
+    if (!replySubs.has(String(s.subreddit || '').toLowerCase())) reasons.push('off-list-sub');
     if (s.score < 0) reasons.push('negative-match');
-    if (s.ageDays !== null && s.ageDays > MAX_AGE_DAYS) reasons.push('too-old');
+    if (s.ageDays === null) reasons.push('no-date');
+    else if (s.ageDays > MAX_AGE_DAYS) reasons.push('too-old');
     if (s.score >= 0 && s.score < MIN_SCORE) reasons.push('low-score');
     if (reasons.length) { drop(reasons, s); continue; }
     candidates.push(s);
