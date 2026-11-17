@@ -4,6 +4,11 @@
 // Fails (exit 1) if a post's text differs from its posts.md code block, a listed file is
 // missing, a field is malformed, a LinkedIn draft/approved post has a link in its body, or a
 // first comment has an unmarked placeholder or stray whitespace.
+// Feed safe area (HQ, Nov 16): every feed PNG still to post (an Instagram or Facebook image or carousel, draft or
+// approved, dated today or later in Chicago) must have a passing record in design-system/safe-area.json with the
+// file's SHA-256. templates/render_many.js writes that record only when every non-decorative element sits inside
+// y 150 to 1200 of the 1080x1350 canvas. A waived file is listed with its reason but doesn't fail.
+import crypto from 'node:crypto';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -135,9 +140,45 @@ for (const p of lib) {
   }
 }
 
+// feed safe area
+const SAFE = path.join(ROOT, 'design-system', 'safe-area.json');
+const safe = fs.existsSync(SAFE) ? JSON.parse(fs.readFileSync(SAFE, 'utf8')) : { files: {}, waived: {} };
+const today = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Chicago' }).format(new Date());
+const feed = new Map();
+for (const p of lib) {
+  if (!['instagram', 'facebook'].includes(p.channel) || !['image', 'carousel'].includes(p.format)) continue;
+  if (!['draft', 'approved'].includes(p.status) || p.date < today) continue;
+  for (const f of p.files ?? []) {
+    if (f.path.endsWith('.png') && fs.existsSync(path.join(ROOT, f.path))) feed.set(f.path, [...(feed.get(f.path) ?? []), p.id]);
+  }
+}
+const EXPAND = 'Instagram app: before Next, tap the expand button on the first photo so it shows the full 4:5.';
+for (const p of lib) {
+  if (p.channel !== 'instagram' || !['image', 'carousel'].includes(p.format)) continue;
+  if (!['draft', 'approved'].includes(p.status) || p.date < today) continue;
+  if (!(p.notes ?? '').split('\n').includes(EXPAND)) err(p.id, `notes need the expand line: "${EXPAND}"`);
+}
+const safeOk = [], waived = [];
+for (const [file, ids] of feed) {
+  const buf = fs.readFileSync(path.join(ROOT, file));
+  const w = buf.readUInt32BE(16), h = buf.readUInt32BE(20);
+  if (h <= w) { safeOk.push(file); continue; } // square or landscape: nothing to crop
+  const rec = safe.files?.[file];
+  const sha = crypto.createHash('sha256').update(buf).digest('hex');
+  if (rec && rec.sha256 === sha) safeOk.push(file);
+  else if (safe.waived?.[file]) waived.push(`${file} (${ids.join(', ')}): ${safe.waived[file]}`);
+  else err(ids.join(', '), `${file} (${w}x${h}) has no passing safe-area record: render it with templates/render_many.js (content inside y 150 to 1200)`);
+}
+const safeLine = `safe area: ${feed.size} feed PNG(s) still to post, ${safeOk.length} pass, ${waived.length} waived`;
+if (waived.length) {
+  console.warn(`${safeLine}. Waived (they cross y 150 to 1200; see design-system/safe-area.json):`);
+  for (const x of waived) console.warn(`  ${x}`);
+}
+
 if (errors.length) {
+  console.error(safeLine);
   console.error(`library.json: ${errors.length} problem(s)`);
   for (const e of errors) console.error(`  ${e}`);
   process.exit(1);
 }
-console.log(`library.json OK: ${lib.length} posts, text matches posts.md, every file exists.`);
+console.log(`library.json OK: ${lib.length} posts, text matches posts.md, every file exists; ${safeLine}.`);

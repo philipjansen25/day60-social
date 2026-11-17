@@ -87,7 +87,7 @@ def dial(cx, cy, r, g, color=None, opacity=None, sw=None):
         marks.append(f'<line x1="0" y1="{-r * 0.86:.1f}" x2="0" y2="{-r * 0.86 + L:.1f}" stroke-width="{sw if big else sw * 0.5:.1f}" '
                      f'transform="rotate({k * 6})"/>')
     return (f'<svg width="{2 * s}" height="{2 * s}" viewBox="{-s} {-s} {2 * s} {2 * s}" '
-            f'style="position:absolute;left:{cx - s}px;top:{cy - s}px;opacity:{op}">'
+            f'class="d60-bleed-art" style="position:absolute;left:{cx - s}px;top:{cy - s}px;opacity:{op}">'
             f'<g fill="none" stroke="{col}" stroke-linecap="round">'
             f'<circle r="{r}" stroke-width="{sw * 1.6:.1f}"/>'
             f'<rect x="{-r * 0.11:.1f}" y="{-r - r * 0.24:.1f}" width="{r * 0.22:.1f}" height="{r * 0.16:.1f}" rx="{r * 0.04:.1f}" stroke-width="{sw:.1f}"/>'
@@ -103,13 +103,13 @@ def lanes(top, n, gap, g, w=1080, color=None, opacity=None, dash=True):
     lines = "".join(f'<line x1="0" y1="{k * gap}" x2="{w}" y2="{k * gap}"'
                     f'{" stroke-dasharray=\"60 34\"" if dash and 0 < k < n else ""}/>' for k in range(n + 1))
     return (f'<svg width="{w}" height="{n * gap + 12}" viewBox="0 -6 {w} {n * gap + 12}" '
-            f'style="position:absolute;left:0;top:{top}px;opacity:{op}"><g stroke="{col}" stroke-width="8" '
+            f'class="d60-bleed-art" style="position:absolute;left:0;top:{top}px;opacity:{op}"><g stroke="{col}" stroke-width="8" '
             f'stroke-linecap="round">{lines}</g></svg>')
 
 
 def tape(x, top, h, color=PINK, w=34):
     """Finish tape: a solid ribbon across the lanes, ink-edged like every sticker."""
-    return (f'<div style="position:absolute;left:{x}px;top:{top}px;width:{w}px;height:{h}px;background:{color};'
+    return (f'<div class="d60-bleed-art" style="position:absolute;left:{x}px;top:{top}px;width:{w}px;height:{h}px;background:{color};'
             f'border:4px solid {INK};border-radius:8px;transform:rotate(-4deg)"></div>')
 
 
@@ -126,7 +126,7 @@ def confetti(spots):
             shape = f'<circle cx="20" cy="20" r="13" fill="none" stroke="{col}" stroke-width="7"/>'
         else:
             shape = f'<rect x="4" y="13" width="32" height="14" rx="5" fill="{col}" stroke="{INK}" stroke-width="3.5"/>'
-        out += (f'<svg viewBox="0 0 40 40" width="{size}" height="{size}" '
+        out += (f'<svg class="d60-bleed-art" viewBox="0 0 40 40" width="{size}" height="{size}" '
                 f'style="position:absolute;left:{x}px;top:{y}px;transform:rotate({rot}deg)">{shape}</svg>')
     return out
 

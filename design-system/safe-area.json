@@ -1,0 +1,90 @@
+{
+ "files": {
+  "2026-11/wk47/p05_first_job_1_lime_safe.png": {
+   "sha256": "2aa61a334a322bcb8c58e60ffff0bb419258d63242b419680616710a78983501",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p05_first_job_2_safe.png": {
+   "sha256": "7b516b3feba36b69b863c030185305e177d88f060065bd200cfda5eac47b5c44",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p05_first_job_3_safe.png": {
+   "sha256": "f4502553b89409df91a1ea81b9cd2ae839ff6d2c9c12a66bd36fe6acad3e00c3",
+   "scale": 0.848,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p05_first_job_4_safe.png": {
+   "sha256": "ca5e23cd723b9c48edc8e7a184d9e2e72d457851f0a7038b185cde4b0e6b76c1",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p05_first_job_5_safe.png": {
+   "sha256": "917da9380d82583c1d07092f1d2e36c55c455a9e69ac0a1e35729afba816bdd2",
+   "scale": 0.848,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p05_first_job_6_v2_safe.png": {
+   "sha256": "8c0c1bfc46e293dde831094481ed435c9f977bee5bb22079734f4807d6bd426f",
+   "scale": 0.871,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk48/p01_thanks_1_pink_safe.png": {
+   "sha256": "8162cbbd3ff2fe8af137028f8f9340495d554c1632f9d280fd0b95e8c0260d57",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk48/p01_thanks_2_safe.png": {
+   "sha256": "67417306864e7b76b15cbc1845687305232077276e4512685e17d7d28cf2e50d",
+   "scale": 0.848,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk48/p01_thanks_3_safe.png": {
+   "sha256": "e0e3fcb2270956537e8d13cdc1391553afba5e6ef57d95a8c3acd726668b4f24",
+   "scale": 0.848,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk48/p01_thanks_4_safe.png": {
+   "sha256": "4e934010ebe4d7dbdc562922110842697866196fc9bfae27b1b06fd8f2b45e4f",
+   "scale": 0.848,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk48/p01_thanks_5_safe.png": {
+   "sha256": "9af71f2372bd01f96fe883861ba13589ea0686046c9c6ce053ba29688f8f4ea3",
+   "scale": 0.871,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk48/p01_thanks_6_v2_safe.png": {
+   "sha256": "9771c110a60c499d0cf433f4166b926293d5feb9280ddf1c86cc532c89d1ddc1",
+   "scale": 0.871,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk48/p02_which_ink_safe.png": {
+   "sha256": "cab717455764be8d5f2608c6d16697baad54a9a15fd1c42f39b626ed2ed2fa71",
+   "scale": 0.875,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk48/p05_short_list_coral_safe.png": {
+   "sha256": "be3a366d63b9b3c40e8af52d2797109548dee52b7c44cd002e5b08ed48450409",
+   "scale": 0.848,
+   "checked": "2026-11-17"
+  }
+ },
+ "waived": {
+  "2026-11/wk47/p01_four_people_1_ink.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "2026-11/wk47/p01_four_people_2.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "2026-11/wk47/p01_four_people_3.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "2026-11/wk47/p01_four_people_4.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "2026-11/wk47/p01_four_people_5.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "2026-11/wk47/p01_four_people_6_fb_v2.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): footer row crosses, content y 1226 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "2026-11/wk47/p01_four_people_6_v2.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): footer row crosses, content y 1226 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "2026-11/wk47/p02_resume_builder_1_lime.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "2026-11/wk47/p02_resume_builder_2.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "2026-11/wk47/p02_resume_builder_3.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "2026-11/wk47/p02_resume_builder_4.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "2026-11/wk47/p02_resume_builder_5.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1310. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "2026-11/wk47/p02_resume_builder_6_fb_v2.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): footer row crosses, content y 1226 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
+  "product-hunt/ig_launch_day.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 84 to 1277. Not in HQ's Nov 16 re-render list; HQ to decide."
+ }
+}

@@ -48,6 +48,7 @@ IG-story and FB-story (proposed adaptations of LI-story) moved to week 49 with L
 ### IG-thanks · Sun Nov 22 · 11:00 AM · DRAFT · SEND ONE THANK-YOU THIS WEEK (HQ brief, Nov 12)
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p01_thanks_1_pink.png` on pink replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk48/p01_thanks_6_v2.png` replaces slide 6. The old file stays in the repo.
+- Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): all 6 slides as new files, `2026-11/wk48/p01_thanks_1_pink_safe.png`, `p01_thanks_2_safe.png` to `p01_thanks_5_safe.png`, `p01_thanks_6_v2_safe.png`. FB-thanks uses them too. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.
 - Status: draft, for Philip to approve in the Post Library.
 - Carousel (6): `2026-11/wk48/p01_thanks_1.png` to `p01_thanks_6.png` (source: `2026-11/wk48/build.py`). FB-thanks reuses it on Thu Nov 26.
 - Alt text (per slide): 1 Thanksgiving week: send one thank-you. 3 people in your job search worth thanking, and what to say. · 2 Thank someone who told you no instead of leaving you waiting: a clear answer helps, and you appreciated it. · 3 Thank someone who accepted your connection request, and name one thing they shared. · 4 Thank someone who gave you an intro, a referral or advice, and say what came of it. · 5 How to write it: short, specific, and no ask. Send it before Thursday. · 6 Happy Thanksgiving. Next week: one job, one message. Paste a job link to get your 4 people at getday60.com
@@ -70,6 +71,7 @@ Next week, back to one job and one message. Paste a job link. Get your 4 people.
 
 ### IG-which · Mon Nov 23 · 12:00 PM · DRAFT · WHICH WOULD YOU ANSWER? (HQ brief, Nov 12)
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p02_which_ink.png` on ink replaces the image; same words. The old file stays in the repo. Source: `2026-11/build_covers.py`.
+- Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `2026-11/wk48/p02_which_ink_safe.png`, a new file. FB-which uses it too. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.
 - Status: draft, for Philip to approve in the Post Library.
 - Image: `2026-11/wk48/p02_which.png` (source: `2026-11/wk48/build.py`). FB-which reuses it on Tue Nov 24.
 - Alt text: Which would you answer? A asks for 30 minutes to hear about openings. B asks which problem is the team's bigger fire.
@@ -109,6 +111,7 @@ No account, and nothing you add is kept. It's at getday60.com/resume-builder, or
 
 ### FB-which · Tue Nov 24 · 6:00 PM · DRAFT · WHICH WOULD YOU ANSWER? (HQ brief, Nov 12)
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p02_which_ink.png` on ink replaces the image; same words. The old file stays in the repo. Source: `2026-11/build_covers.py`.
+- Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): IG-which's new file, `2026-11/wk48/p02_which_ink_safe.png`. Same words, grounds and alt text. The old files stay in the repo; if this post is already scheduled, Philip decides whether to swap them.
 - Status: draft, for Philip to approve in the Post Library.
 - Image: IG-which's image, `2026-11/wk48/p02_which.png` (Facebook reuses the week's Instagram art, the day after the Instagram post).
 - Alt text: same as IG-which.
@@ -152,6 +155,7 @@ Paste a job link. Get your 4 people. Link in bio.
 ### FB-thanks · Thu Nov 26 · 10:00 AM · DRAFT · THANKSGIVING: SEND ONE THANK-YOU (HQ brief, Nov 12)
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p01_thanks_1_pink.png` on pink replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk48/p01_thanks_6_v2.png` replaces slide 6. The old file stays in the repo.
+- Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): IG-thanks's 6 new files, `2026-11/wk48/p01_thanks_1_pink_safe.png`, `p01_thanks_2_safe.png` to `p01_thanks_5_safe.png`, `p01_thanks_6_v2_safe.png`. Same words, grounds and alt text. The old files stay in the repo; if this post is already scheduled, Philip decides whether to swap them.
 - Status: draft, for Philip to approve in the Post Library.
 - Carousel: IG-thanks's 6 slides, `2026-11/wk48/p01_thanks_1.png` to `p01_thanks_6.png` (Facebook reuses the week's Instagram art, four days after the Instagram post).
 - Alt text: same as IG-thanks.
@@ -176,6 +180,7 @@ Share this with someone who's looking.
 
 ### IG-shortlist · Sat Nov 28 · 10:00 AM · DRAFT · LONG WEEKEND, SHORT LIST (HQ brief, Nov 12)
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p05_short_list_coral.png` on coral replaces the image; same words. The old file stays in the repo. Source: `2026-11/build_covers.py`.
+- Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `2026-11/wk48/p05_short_list_coral_safe.png`, a new file. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.
 - Status: draft, for Philip to approve in the Post Library.
 - Image: `2026-11/wk48/p05_short_list.png` (source: `2026-11/wk48/build.py`).
 - Alt text: Long weekend, short list: pick one job, paste its link to see your 4 people, send the hiring manager one short note.

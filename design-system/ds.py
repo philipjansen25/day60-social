@@ -10,6 +10,12 @@ Rules baked in:
 - Tick is static. No other characters.
 - Stickers carry short text, never color alone.
 - Invented data only, labeled as an example.
+- Instagram may show a feed post as a square (HQ, Nov 16). On the 1080x1350 canvas every text, sticker, button,
+  Tick, wordmark and slide marker sits inside the centered square, y 150 to 1200. Only the ground and background
+  art (spark: class d60-deco; dial, lanes, tape, confetti: class d60-bleed-art) may use the top and bottom 135px.
+  page() does this for every 1080x1350 page: render_many.js calls d60Safe.fit(), which shrinks the content layer
+  around the center just enough to fit (scale 1 if it already fits), then d60Safe.measure(); any element still
+  outside y 150 to 1200 fails the render. Design inside the square so the scale stays near 1.
 
 Render with: node templates/render_many.js <jobs.json>
 """
@@ -77,7 +83,7 @@ def tick(pose, w, style=""):
 
 
 def spark(x, y, size, color=PINK):
-    return (f'<svg viewBox="0 0 24 24" width="{size}" height="{size}" '
+    return (f'<svg class="d60-deco" viewBox="0 0 24 24" width="{size}" height="{size}" '
             f'style="position:absolute;left:{x}px;top:{y}px">'
             f'<path d="M12 1l2.6 7.4L22 11l-7.4 2.6L12 21l-2.6-7.4L2 11l7.4-2.6z" '
             f'fill="{color}" stroke="{INK}" stroke-width="1.4" stroke-linejoin="round"/></svg>')
@@ -98,6 +104,67 @@ def foot(bottom=60, right="getday60.com", dark=False):
             f'{tick("waving", 54)}Day60</div><div class="url">{right}</div></div>')
 
 
+# Feed safe area (HQ, Nov 16): Instagram may crop a 1080x1350 feed post to its centered 1080x1080 square.
+SAFE_TOP, SAFE_BOTTOM = 150, 1200
+SAFE_JS = """
+window.d60Safe = (function () {
+  var TOP = %d, BOT = %d, W = 1080;
+  var root = document.querySelector('.d60-safe'), bleed = document.querySelector('.d60-bleed');
+  function visual(el) {
+    var tag = el.tagName.toLowerCase();
+    if (tag === 'style' || tag === 'script') return false;
+    if (tag !== 'svg' && el.closest('svg')) return false;
+    if (tag === 'svg' || tag === 'img' || tag === 'canvas') return true;
+    for (var i = 0; i < el.childNodes.length; i++) {
+      var n = el.childNodes[i];
+      if (n.nodeType === 3 && n.textContent.trim()) return true;
+    }
+    var cs = getComputedStyle(el);
+    if (cs.backgroundImage !== 'none') return true;
+    var bg = cs.backgroundColor.match(/[\\d.]+/g);
+    if (bg && (bg.length < 4 || parseFloat(bg[3]) > 0)) return true;
+    return ['Top', 'Right', 'Bottom', 'Left'].some(function (k) {
+      return parseFloat(cs['border' + k + 'Width']) > 0 && cs['border' + k + 'Style'] !== 'none';
+    });
+  }
+  function items() {
+    var out = [];
+    root.querySelectorAll('*').forEach(function (el) {
+      if (el.closest('.d60-deco, .d60-bleed-art') || !visual(el)) return;
+      var cs = getComputedStyle(el);
+      if (cs.display === 'none' || cs.visibility === 'hidden') return;
+      var r = el.getBoundingClientRect();
+      if (r.width >= 1 && r.height >= 1) out.push({ el: el, r: r });
+    });
+    return out;
+  }
+  function fit() {
+    root.querySelectorAll('.d60-bleed-art').forEach(function (el) { bleed.appendChild(el); });
+    var it = items();
+    if (!it.length) return 1;
+    var top = Math.min.apply(null, it.map(function (x) { return x.r.top; }));
+    var bot = Math.max.apply(null, it.map(function (x) { return x.r.bottom; }));
+    if (top >= TOP && bot <= BOT) return 1;
+    var s = Math.min(1, (BOT - TOP) / (bot - top));
+    var ty = TOP + ((BOT - TOP) - s * (bot - top)) / 2 - s * top, tx = (W - s * W) / 2;
+    root.style.transformOrigin = '0 0';
+    root.style.transform = 'translate(' + tx + 'px,' + ty + 'px) scale(' + s + ')';
+    return Math.round(s * 1000) / 1000;
+  }
+  function measure() {
+    return items().filter(function (x) { return x.r.top < TOP - 0.5 || x.r.bottom > BOT + 0.5; }).map(function (x) {
+      return { tag: x.el.tagName.toLowerCase(), cls: x.el.getAttribute('class') || '',
+               text: (x.el.textContent || '').trim().slice(0, 40), top: Math.round(x.r.top), bottom: Math.round(x.r.bottom) };
+    });
+  }
+  return { fit: fit, measure: measure };
+})();
+""" % (SAFE_TOP, SAFE_BOTTOM)
+
+
 def page(body, w=1080, h=1350, bg=CREAM):
+    if (w, h) == (1080, 1350):  # feed post: content layer that fits the safe square, bleed layer for background art
+        body = (f'<div class="d60-bleed" style="position:absolute;inset:0"></div>'
+                f'<div class="d60-safe" style="position:absolute;inset:0">{body}</div><script>{SAFE_JS}</script>')
     return (f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}</style></head>'
             f'<body><div class="c" style="width:{w}px;height:{h}px;background:{bg}">{body}</div></body></html>')

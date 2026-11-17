@@ -482,7 +482,7 @@
         "alt": "Free in the Chrome Web Store: getday60.com/chrome-extension"
       }
     ],
-    "notes": "Already scheduled? Before it posts, replace slide 1 with the new cobalt cover listed first (p17_ext_linkedin_1_cobalt.png) and slide 5 with p17_ext_linkedin_5_v2.png (cream keylines on ink; no lime text).\nAdd each slide's alt text (Instagram app: Advanced settings, then Accessibility).\nUpload the slides in the order listed.\nNo clickable links in the caption; the bio link stays as it is.\nThe date shown is its old slot (Tue Nov 10); Philip set the real date when he scheduled it on Nov 11.\nLI3-new uses the same slides.",
+    "notes": "Instagram app: before Next, tap the expand button on the first photo so it shows the full 4:5.\nAlready scheduled? Before it posts, replace slide 1 with the new cobalt cover listed first (p17_ext_linkedin_1_cobalt.png) and slide 5 with p17_ext_linkedin_5_v2.png (cream keylines on ink; no lime text).\nAdd each slide's alt text (Instagram app: Advanced settings, then Accessibility).\nUpload the slides in the order listed.\nNo clickable links in the caption; the bio link stays as it is.\nThe date shown is its old slot (Tue Nov 10); Philip set the real date when he scheduled it on Nov 11.\nLI3-new uses the same slides.",
     "postedVia": ""
   },
   {
@@ -929,7 +929,7 @@
         "alt": "Paste a job link. Get your 4 people and a short note to each, in your voice. You send every message. Link in bio."
       }
     ],
-    "notes": "Already scheduled? Before it posts, replace slide 1 with the new ink cover listed first (p01_four_people_1_ink.png) and slide 6 with p01_four_people_6_v2.png (cream keylines on ink).\nAdd each slide's alt text (Instagram app: Advanced settings, then Accessibility).\nUpload the slides in the order listed.\nNo clickable links in the caption; the bio link stays as it is.",
+    "notes": "Instagram app: before Next, tap the expand button on the first photo so it shows the full 4:5.\nAlready scheduled? Before it posts, replace slide 1 with the new ink cover listed first (p01_four_people_1_ink.png) and slide 6 with p01_four_people_6_v2.png (cream keylines on ink).\nAdd each slide's alt text (Instagram app: Advanced settings, then Accessibility).\nUpload the slides in the order listed.\nNo clickable links in the caption; the bio link stays as it is.",
     "postedVia": ""
   },
   {
@@ -1100,31 +1100,31 @@
     "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
     "files": [
       {
-        "path": "2026-11/wk47/p05_first_job_1_lime.png",
+        "path": "2026-11/wk47/p05_first_job_1_lime_safe.png",
         "alt": "One job. Four people. One message. Your first job in Day60, step by step."
       },
       {
-        "path": "2026-11/wk47/p05_first_job_2.png",
+        "path": "2026-11/wk47/p05_first_job_2_safe.png",
         "alt": "Step 1: Paste one job link, from the company's own site."
       },
       {
-        "path": "2026-11/wk47/p05_first_job_3.png",
+        "path": "2026-11/wk47/p05_first_job_3_safe.png",
         "alt": "Step 2: Meet your 4 people, each with a verified work email: hiring manager, their boss, internal champion, recruiter."
       },
       {
-        "path": "2026-11/wk47/p05_first_job_4.png",
+        "path": "2026-11/wk47/p05_first_job_4_safe.png",
         "alt": "Step 3: Start with the hiring manager, who feels the empty seat. Day60 drafts a short note to them in your voice."
       },
       {
-        "path": "2026-11/wk47/p05_first_job_5.png",
+        "path": "2026-11/wk47/p05_first_job_5_safe.png",
         "alt": "Step 4: Make it yours, then send it. Every draft is checked, and Day60 never sends anything."
       },
       {
-        "path": "2026-11/wk47/p05_first_job_6_v2.png",
+        "path": "2026-11/wk47/p05_first_job_6_v2_safe.png",
         "alt": "That's day 0. Day60 drafts the day-2 and day-7 follow-ups when they're due; you send every one. getday60.com"
       }
     ],
-    "notes": "Add each slide's alt text (Instagram app: Advanced settings, then Accessibility).\nUpload the slides in the order listed.\nNo clickable links in the caption; the bio link stays as it is.",
+    "notes": "Instagram app: before Next, tap the expand button on the first photo so it shows the full 4:5.\nAlready scheduled? These are new files (Nov 16) that keep every word inside the centered square; to use them, replace every image in the scheduled post before it goes out. The old files stay in the repo.\nAdd each slide's alt text (Instagram app: Advanced settings, then Accessibility).\nUpload the slides in the order listed.\nNo clickable links in the caption; the bio link stays as it is.",
     "postedVia": ""
   },
   {
@@ -1142,31 +1142,31 @@
     "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
     "files": [
       {
-        "path": "2026-11/wk48/p01_thanks_1_pink.png",
+        "path": "2026-11/wk48/p01_thanks_1_pink_safe.png",
         "alt": "Thanksgiving week: send one thank-you. 3 people in your job search worth thanking, and what to say."
       },
       {
-        "path": "2026-11/wk48/p01_thanks_2.png",
+        "path": "2026-11/wk48/p01_thanks_2_safe.png",
         "alt": "Thank someone who told you no instead of leaving you waiting: a clear answer helps, and you appreciated it."
       },
       {
-        "path": "2026-11/wk48/p01_thanks_3.png",
+        "path": "2026-11/wk48/p01_thanks_3_safe.png",
         "alt": "Thank someone who accepted your connection request, and name one thing they shared."
       },
       {
-        "path": "2026-11/wk48/p01_thanks_4.png",
+        "path": "2026-11/wk48/p01_thanks_4_safe.png",
         "alt": "Thank someone who gave you an intro, a referral or advice, and say what came of it."
       },
       {
-        "path": "2026-11/wk48/p01_thanks_5.png",
+        "path": "2026-11/wk48/p01_thanks_5_safe.png",
         "alt": "How to write it: short, specific, and no ask. Send it before Thursday."
       },
       {
-        "path": "2026-11/wk48/p01_thanks_6_v2.png",
+        "path": "2026-11/wk48/p01_thanks_6_v2_safe.png",
         "alt": "Happy Thanksgiving. Next week: one job, one message. Paste a job link to get your 4 people at getday60.com"
       }
     ],
-    "notes": "Add each slide's alt text (Instagram app: Advanced settings, then Accessibility).\nUpload the slides in the order listed.\nNo clickable links in the caption; the bio link stays as it is.\nFB-thanks uses the same 6 slides on Thu Nov 26.",
+    "notes": "Instagram app: before Next, tap the expand button on the first photo so it shows the full 4:5.\nAlready scheduled? These are new files (Nov 16) that keep every word inside the centered square; to use them, replace every image in the scheduled post before it goes out. The old files stay in the repo.\nAdd each slide's alt text (Instagram app: Advanced settings, then Accessibility).\nUpload the slides in the order listed.\nNo clickable links in the caption; the bio link stays as it is.\nFB-thanks uses the same 6 slides on Thu Nov 26.",
     "postedVia": ""
   },
   {
@@ -1184,11 +1184,11 @@
     "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
     "files": [
       {
-        "path": "2026-11/wk48/p02_which_ink.png",
+        "path": "2026-11/wk48/p02_which_ink_safe.png",
         "alt": "Which would you answer? A asks for 30 minutes to hear about openings. B asks which problem is the team's bigger fire."
       }
     ],
-    "notes": "Add the image's alt text (Instagram app: Advanced settings, then Accessibility).\nNo clickable links in the caption; the bio link stays as it is.\nReply to A-or-B comments; FB-which uses the same image on Tue Nov 24.",
+    "notes": "Instagram app: before Next, tap the expand button on the first photo so it shows the full 4:5.\nAlready scheduled? These are new files (Nov 16) that keep every word inside the centered square; to use them, replace every image in the scheduled post before it goes out. The old files stay in the repo.\nAdd the image's alt text (Instagram app: Advanced settings, then Accessibility).\nNo clickable links in the caption; the bio link stays as it is.\nReply to A-or-B comments; FB-which uses the same image on Tue Nov 24.",
     "postedVia": ""
   },
   {
@@ -1249,11 +1249,11 @@
     "link": "https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48&utm_content=which-question",
     "files": [
       {
-        "path": "2026-11/wk48/p02_which_ink.png",
+        "path": "2026-11/wk48/p02_which_ink_safe.png",
         "alt": "Which would you answer? A asks for 30 minutes to hear about openings. B asks which problem is the team's bigger fire."
       }
     ],
-    "notes": "Add the image's alt text.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe link stays in the text, as written.\nSame image as IG-which (Mon Nov 23).",
+    "notes": "Already scheduled? These are new files (Nov 16) that keep every word inside the centered square; to use them, replace every image in the scheduled post before it goes out. The old files stay in the repo.\nAdd the image's alt text.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe link stays in the text, as written.\nSame image as IG-which (Mon Nov 23).",
     "postedVia": ""
   },
   {
@@ -1297,31 +1297,31 @@
     "link": "https://getday60.com/guides/thank-you-message-after-linkedin-connection?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48&utm_content=thank-you",
     "files": [
       {
-        "path": "2026-11/wk48/p01_thanks_1_pink.png",
+        "path": "2026-11/wk48/p01_thanks_1_pink_safe.png",
         "alt": "Thanksgiving week: send one thank-you. 3 people in your job search worth thanking, and what to say."
       },
       {
-        "path": "2026-11/wk48/p01_thanks_2.png",
+        "path": "2026-11/wk48/p01_thanks_2_safe.png",
         "alt": "Thank someone who told you no instead of leaving you waiting: a clear answer helps, and you appreciated it."
       },
       {
-        "path": "2026-11/wk48/p01_thanks_3.png",
+        "path": "2026-11/wk48/p01_thanks_3_safe.png",
         "alt": "Thank someone who accepted your connection request, and name one thing they shared."
       },
       {
-        "path": "2026-11/wk48/p01_thanks_4.png",
+        "path": "2026-11/wk48/p01_thanks_4_safe.png",
         "alt": "Thank someone who gave you an intro, a referral or advice, and say what came of it."
       },
       {
-        "path": "2026-11/wk48/p01_thanks_5.png",
+        "path": "2026-11/wk48/p01_thanks_5_safe.png",
         "alt": "How to write it: short, specific, and no ask. Send it before Thursday."
       },
       {
-        "path": "2026-11/wk48/p01_thanks_6_v2.png",
+        "path": "2026-11/wk48/p01_thanks_6_v2_safe.png",
         "alt": "Happy Thanksgiving. Next week: one job, one message. Paste a job link to get your 4 people at getday60.com"
       }
     ],
-    "notes": "Add each image's alt text.\nUpload the images in the order listed.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe link stays in the text, as written.\nSame 6 slides as IG-thanks (Sun Nov 22).\n10:00 AM on Thanksgiving Day, not the usual 6:00 PM.",
+    "notes": "Already scheduled? These are new files (Nov 16) that keep every word inside the centered square; to use them, replace every image in the scheduled post before it goes out. The old files stay in the repo.\nAdd each image's alt text.\nUpload the images in the order listed.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe link stays in the text, as written.\nSame 6 slides as IG-thanks (Sun Nov 22).\n10:00 AM on Thanksgiving Day, not the usual 6:00 PM.",
     "postedVia": ""
   },
   {
@@ -1339,11 +1339,11 @@
     "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
     "files": [
       {
-        "path": "2026-11/wk48/p05_short_list_coral.png",
+        "path": "2026-11/wk48/p05_short_list_coral_safe.png",
         "alt": "Long weekend, short list: pick one job, paste its link to see your 4 people, send the hiring manager one short note."
       }
     ],
-    "notes": "Add the image's alt text (Instagram app: Advanced settings, then Accessibility).\nNo clickable links in the caption; the bio link stays as it is.",
+    "notes": "Instagram app: before Next, tap the expand button on the first photo so it shows the full 4:5.\nAlready scheduled? These are new files (Nov 16) that keep every word inside the centered square; to use them, replace every image in the scheduled post before it goes out. The old files stay in the repo.\nAdd the image's alt text (Instagram app: Advanced settings, then Accessibility).\nNo clickable links in the caption; the bio link stays as it is.",
     "postedVia": ""
   },
   {
@@ -1426,7 +1426,7 @@
         "alt": "On Product Hunt today: paste a job link and meet the 4 people closest to the hire. Search Day60 on Product Hunt."
       }
     ],
-    "notes": "Not scheduled. Philip schedules it once the Product Hunt launch link exists.\nAdd the image's alt text (Instagram app: Advanced settings, then Accessibility).\nNo clickable links in the caption; the bio link stays as it is.",
+    "notes": "Instagram app: before Next, tap the expand button on the first photo so it shows the full 4:5.\nNot scheduled. Philip schedules it once the Product Hunt launch link exists.\nAdd the image's alt text (Instagram app: Advanced settings, then Accessibility).\nNo clickable links in the caption; the bio link stays as it is.",
     "postedVia": ""
   },
   {
