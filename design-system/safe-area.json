@@ -1,5 +1,95 @@
 {
  "files": {
+  "2026-11/wk46/p17_ext_linkedin_1_cobalt_safe.png": {
+   "sha256": "2903b85e643503aee1efc5be3845a0ff13cc62d100a3662f5732332c552534c9",
+   "scale": 0.876,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk46/p17_ext_linkedin_2_safe.png": {
+   "sha256": "d7b2a11165a6b54707d9a69403749f176abc009119de89656a52d41289b6d21a",
+   "scale": 0.918,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk46/p17_ext_linkedin_3_safe.png": {
+   "sha256": "8b43f8cf12fe07e0a5708afba867ce0250689bee6a5129a339b0314a0e7a2cd0",
+   "scale": 0.918,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk46/p17_ext_linkedin_4_safe.png": {
+   "sha256": "c25ba0efaf630a671a860be0e5664a07adfc4991ea2bab411fa7fb5caa000279",
+   "scale": 0.876,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk46/p17_ext_linkedin_5_v2_safe.png": {
+   "sha256": "16807d15c4149647e19f80835f6a8cc41b4d9c74740d64f05fcc248dceec40e5",
+   "scale": 0.918,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p01_four_people_1_ink_safe.png": {
+   "sha256": "a66da621551380bf68c974305ed66343c480d16e5280217ab7ada7325da671d1",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p01_four_people_2_safe.png": {
+   "sha256": "9c77ba8ea40057e96db02a13821af8a889e5e1d6e1c2186082b97de0ab7d35ce",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p01_four_people_3_safe.png": {
+   "sha256": "b83e06eeeb133cddd1677440c394b9b0653da584718c2f7ccc561314f4a9038d",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p01_four_people_4_safe.png": {
+   "sha256": "12fe5b4fc7041c1d22c588655f9a55eb348932c030f09d313ebadb1679a7bf28",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p01_four_people_5_safe.png": {
+   "sha256": "0d08722ef0a3d389ae3e6c718781d3e291f9c8fd51200420a2e460a2f42c2bb9",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p01_four_people_6_fb_v2_safe.png": {
+   "sha256": "6264d7e1e00206c5c72d5295927afa1417be4d8ef3f9ded49df17a67d0b0e129",
+   "scale": 0.921,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p01_four_people_6_v2_safe.png": {
+   "sha256": "1315d3c8a1d23039af78a0c7b0399757270727e82690322b8d9f1261a90191bf",
+   "scale": 0.921,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p02_resume_builder_1_lime_safe.png": {
+   "sha256": "f29f0a3dd2548525a16ceaddca4fe399295cb2adbf5a4418358be08b0b39f782",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p02_resume_builder_2_safe.png": {
+   "sha256": "a87d62d8d79fb1a0c140e0dfbd57b010361700a286fbeb1fe95c88bb2154786f",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p02_resume_builder_3_safe.png": {
+   "sha256": "740b6a3c4744e85b3822403d1223f94a2226afe666aded9132caec725ed2dd8d",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p02_resume_builder_4_safe.png": {
+   "sha256": "5b8c63e845935bea1c7c3f8ab4b4d393cb6d86bf10fb0ac766698fc4e125bbb2",
+   "scale": 0.862,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p02_resume_builder_5_safe.png": {
+   "sha256": "4b1d5512ee2b5235ee7e7b2228aba62d2cb1ac19ebd5e9f53e19fa0d2b19a49b",
+   "scale": 0.848,
+   "checked": "2026-11-17"
+  },
+  "2026-11/wk47/p02_resume_builder_6_fb_v2_safe.png": {
+   "sha256": "64f3557dee9a24e6badde639c95bb9b9ed8e322c0d689fb64111e9ac3fc53c3d",
+   "scale": 0.921,
+   "checked": "2026-11-17"
+  },
   "2026-11/wk47/p05_first_job_1_lime_safe.png": {
    "sha256": "2aa61a334a322bcb8c58e60ffff0bb419258d63242b419680616710a78983501",
    "scale": 0.862,
@@ -72,19 +162,6 @@
   }
  },
  "waived": {
-  "2026-11/wk47/p01_four_people_1_ink.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
-  "2026-11/wk47/p01_four_people_2.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
-  "2026-11/wk47/p01_four_people_3.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
-  "2026-11/wk47/p01_four_people_4.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
-  "2026-11/wk47/p01_four_people_5.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
-  "2026-11/wk47/p01_four_people_6_fb_v2.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): footer row crosses, content y 1226 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
-  "2026-11/wk47/p01_four_people_6_v2.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): footer row crosses, content y 1226 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
-  "2026-11/wk47/p02_resume_builder_1_lime.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
-  "2026-11/wk47/p02_resume_builder_2.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
-  "2026-11/wk47/p02_resume_builder_3.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
-  "2026-11/wk47/p02_resume_builder_4.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
-  "2026-11/wk47/p02_resume_builder_5.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 72 to 1310. Not in HQ's Nov 16 re-render list; HQ to decide.",
-  "2026-11/wk47/p02_resume_builder_6_fb_v2.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): footer row crosses, content y 1226 to 1290. Not in HQ's Nov 16 re-render list; HQ to decide.",
   "product-hunt/ig_launch_day.png": "rendered before the rule; measured Nov 16 (D60_SAFE_REPORT=1): header and footer rows cross, content y 84 to 1277. Not in HQ's Nov 16 re-render list; HQ to decide."
  }
 }
