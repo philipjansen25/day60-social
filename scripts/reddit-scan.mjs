@@ -147,7 +147,7 @@ async function main() {
   } else {
     const key = process.env.SERPAPI_API_KEY;
     if (!key) {
-      console.error('SERPAPI_API_KEY not set. Skipping the scan: use the fallback (search links + reply bank in reddit/YYYY-MM-DD.md).');
+      console.error('SERPAPI_API_KEY not set. Skipping the scan: use the fallback (search links in reddit/YYYY-MM-DD.md, new replies in reddit/bank.md).');
       process.exit(2);
     }
     for (const { q } of queries(readSubs())) {
