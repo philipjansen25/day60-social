@@ -1,8 +1,8 @@
 # Reddit: target subreddits and self-promotion rules
 
-Philip posts by hand from his own account, **u/Philminizer**. No other accounts, no bought votes, no DMs, no upvote asks.
+Philip posts by hand from **Philip's account**. No other accounts, no bought votes, no DMs, no upvote asks.
 
-## Account phase (u/Philminizer)
+## Account phase (Philip's account)
 Seven years old, 1 karma, 0 posts, 0 comments: a clean history with almost no karma.
 - **Phase 1 (weeks 1–2, until about 50 comment karma):** helpful comments only. **No Day60 mention or link anywhere, and no posts.** Prefer subs without a karma minimum, and fresh threads where an early, specific answer can rise.
 - **Phase 2 (after about 50 comment karma):** the 9:1 rule applies, and at most one value post a week where the verified rules allow it.

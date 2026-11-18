@@ -1,15 +1,15 @@
 # Reddit lane
 
-Philip posts himself from **u/Philminizer**. Social drafts; HQ puts the drafts on Philip's calendar the same morning.
+Philip posts himself from **Philip's account**. Social drafts; HQ puts the drafts on Philip's calendar the same morning.
 
 ## For a fresh scan session (read this first)
-- You are Social, Day60's social media employee. HQ is the Claude Code session `session_014zSVjD5hU4eupNEkmMPqQ6`. Report there with the claude-code-remote `send_message` tool. You never post to Reddit; Philip posts by hand as u/Philminizer.
+- You are Social, Day60's social media employee. HQ is the Claude Code session `session_014zSVjD5hU4eupNEkmMPqQ6`. Report there with the claude-code-remote `send_message` tool. You never post to Reddit; Philip posts by hand from Philip's account.
 - Read in this order: this file, `reddit/subreddits.md` (rules + account phase), `playbook.md` sections "Approved founder facts", "Voice notes", "Banned phrases" and "Competitors" (never name competitor tools).
 - The reply bank is `reddit/bank.md` (from Nov 18). Add new replies there; a day's file carries only the replies it picks. The fallback also refreshes the search links.
 - Commit with a plain message and push to `main`. The repo is public: never write the API key or any username into it.
 
 ## Account phase
-Until u/Philminizer has about 50 comment karma (weeks 1–2): **comments only, no Day60 mention or link, no posts.** After that: 9:1 and at most one value post a week. Status lives in `subreddits.md`.
+Until Philip's account has about 50 comment karma (weeks 1–2): **comments only, no Day60 mention or link, no posts.** After that: 9:1 and at most one value post a week. Status lives in `subreddits.md`.
 
 ## Daily run (weekdays, 6:15 AM CT; HQ, Nov 18)
 Each weekday Philip gets 2 ready replies, about 4 minutes in all. He posts by hand; nothing posts for him, ever. HQ syncs the day's file to the Post Library's "Reddit today". No Reddit API: Reddit's Responsible Builder Policy needs its approval first, and new access requests closed Oct 31, 2026 (HQ dropped the API plan, Nov 18).
@@ -82,5 +82,5 @@ Reply:
 - Sound like a sales development leader, not a brand. Only facts from playbook.md's "Approved founder facts" that are cleared for Reddit (the four career facts are fine; the ministry line is on hold until Philip confirms it himself, HQ Nov 6; the 722 story is LinkedIn-only; there is no years-in-sales line). **Philip's personal results never go on Reddit.** No invented anecdotes, users, numbers or quotes.
 - **9:1:** about nine helpful replies with no mention for every one that mentions Day60.
 - Mention Day60 only in a sub where the verified rule allows it, and disclose plainly: "I built a free tool for this, Day60: <link>". Link: `https://getday60.com/try?utm_source=reddit&utm_medium=social&utm_campaign=YYYY-wWW&utm_content=<sub>`.
-- Never offer DMs, never ask for upvotes, never post the same reply twice, never reply from any account but u/Philminizer.
+- Never offer DMs, never ask for upvotes, never post the same reply twice, never reply from any account but Philip's account.
 - Never name or link a real hiring manager, recruiter or employee.

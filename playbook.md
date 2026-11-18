@@ -128,7 +128,7 @@ LinkedIn posts go out from Philip's personal profile, posted by him.
 ### Weekly founder video (Philip films himself, 30 s)
 Second 0–1: hook spoken and on screen. 1–22: one point, one example. 22–30: CTA with on-screen text. Phone upright, window light, one take. Works for IG Reels and FB Reels (TikTok once live). LinkedIn only if it contains no personal results.
 
-### Reddit (u/Philminizer, Philip posts by hand)
+### Reddit (Philip's account, Philip posts by hand)
 Full process in `reddit/README.md`; target subs and rule status in `reddit/subreddits.md`.
 - Twice a week (Tue and Fri, 6:37 AM CT ping from HQ): 3–5 fresh threads (<48 h), helpful replies drafted in `reddit/YYYY-MM-DD.md`. At most one value post a week where rules allow.
 - **Phase 1 (weeks 1–2, until about 50 comment karma):** comments only, no Day60 mention or link, no posts. Then:
