@@ -1,19 +1,19 @@
 # Week 49 · Sun Nov 29 – Sat Dec 5, 2026 · DRAFTS IN PROGRESS
 
-**Status: LI-email, IG-email and FB-email (HQ brief, Nov 18) are proposed drafts. LI-story (reserved, not written) and LI-3touch are drafts.** The rest of the week comes after HQ's brief for week 49.
+**Status: LI-email, IG-email and FB-email (HQ brief, Nov 18) are proposed drafts. LI-3touch is a draft. LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
 
 **Product Hunt moved to Tue Jan 12, 2027 (Philip, Nov 11, on HQ's recommendation).** LI-PH, IG-PH and FB-PH (approved Nov 11) moved to `2027-01/wk02/posts.md` with their library ids unchanged (`2026-w49-LI-PH`, `2026-w49-IG-PH`, `2026-w49-FB-PH`). Philip deletes the Dec 1 versions he had scheduled (his Thursday list). Their Tue Dec 1 slots are open, except LinkedIn: LI-story moved there from week 48 (HQ, Nov 11).
 
 | Platform | Weekly cap | Week 49 so far |
 | --- | --- | --- |
-| LinkedIn | 2 Day60 posts (Tue, Thu) | LI-email (Tue Dec 1, proposed; HQ Nov 18), LI-story (Tue Dec 1, reserved; moved from week 48), LI-3touch (Thu Dec 3, proposed; moved from week 47). **Three posts, two slots: HQ to decide** (Social suggests LI-story to Tue Dec 8) |
+| LinkedIn | 2 Day60 posts (Tue, Thu) | LI-email (Tue Dec 1, proposed; HQ Nov 18), LI-3touch (Thu Dec 3, proposed; moved from week 47). Full. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
 | Instagram | 5 | IG-email (Mon Nov 30, proposed). 4 to plan |
 | Facebook | 2 | FB-email (Tue Dec 1, proposed). 1 to plan |
 
 ## LinkedIn (Philip's profile)
 
 ### LI-email · Tue Dec 1 · 8:30 AM · DRAFT · WHICH PERSON TO EMAIL, AND WHAT TO SAY (HQ brief, Nov 18)
-- Status: draft, for Philip to approve in the Post Library. **Slot clash:** LI-story (reserved, below) also holds Tue Dec 1, and Thu Dec 3 is LI-3touch's. HQ decides; Social suggests LI-story moves to Tue Dec 8, since it still waits on Phil's Nov 9 post.
+- Status: draft, for Philip to approve in the Post Library. It takes Tue Dec 1; LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).
 - Format: text only.
 - Source: HQ, Nov 18. A post going around (an Instagram repost of a Reddit post) says to stop relying on applications and email the person who posted the job, and promises a follow-up on how to write that email that never came. This post gives that part: which of the 4 people, and what to say to each (Day60's method, in week 47's IG-four wording). The original post and its author are not named or linked. It quotes one short line from it ("short, direct, slightly messy emails stand out") and none of its numbers.
 - Founder fact: the first career fact, in Phil's voice ("the method I used to land jobs at ClickUp, Deel and Google").
@@ -51,17 +51,6 @@ Guide in the first comment.
 ```
 
 Checks: hook is 30 characters. "Day60" appears once. No link in the body. One quoted line from the original (7 words), source not named. No numbers but the method's four people and the approved founder fact. Ends on a question. No em-dashes, no banned phrases, no competitor names. It says plainly that Day60 drafts the note and you rewrite it, since the original's advice is not to let AI write it.
-
-### LI-story · Tue Dec 1 · 8:30 AM (reserved) · DRAFT · RESERVED, NOT DRAFTED (moved from Tue Nov 24, HQ Nov 11)
-- **Moved (HQ, Nov 11):** from Mon Nov 23 to Tue Nov 24, then here to Tue Dec 1 when the résumé builder post (LI-resume) took Tue Nov 24. Its library id stays `2026-w48-LI-story`.
-- **What (Philip, Nov 8, via HQ):** a Day60 post that builds on Phil's own LinkedIn post of Mon Nov 9 and what he says there that Day60 did for him. It replaces week 47's LI-founder.
-- **Not drafted yet.** Social writes it only after HQ forwards Phil's Monday post, then marks it PROPOSED here and tells HQ. Philip approves the words before he posts it.
-- **Source:** only what Phil wrote in that post, in his words where possible. Nothing invented. No numbers he didn't give, no company or role names beyond what he published, and the career facts stay the four founder.ts lines.
-- **Voice:** first person, Phil, peer to peer. One honest promise, no hype. The method is the point: a few well-researched messages a day, sent by him. No competitor names. Ends on a question.
-- **LinkedIn rules:** "Day60" exactly once; Tags: Day60 page (auto); 3 hashtags at most; no link in the body.
-- First comment (Philip, by hand): https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49&utm_content=phil-story
-- **Numbers ruling (HQ, Nov 8; default until Philip says otherwise):** keep any number exactly as Phil wrote it in his own Monday post, as his own result in his own words, and add none. The exception to the no-personal-results rule covers this post and its IG/FB adaptations only. It may say what happened to him, never turn that into a promise for the reader (the site's line: "Nobody can promise you a job. We promise the reps."). Philip sees this ruling on his list and approves the words before scheduling.
-- **IG-story and FB-story** (proposed Instagram and Facebook versions of this post) moved here from week 48 with it (Nov 12: week 48's Instagram and Facebook slots are full). They stay proposals until LI-story is written, and they need open slots in this week's caps.
 
 ### LI-3touch · Thu Dec 3 · 8:30 AM (proposed) · DRAFT · MOVED FROM WEEK 47 (HQ, Nov 11)
 - Document: `2026-11/wk46/p06_three_touches_linkedin_v2.pdf` (HQ, Nov 14: slide 6 now has cream keylines on Tick and the card; slides 1 to 5 are unchanged, and the old PDF and IG4's slides stay in the repo. Source: `2026-11/wk46/build_v2.py`). It moved to week 47 when the Chrome extension post took week 46's Thursday slot, then here when Day60's LinkedIn went to two posts a week (Tue and Thu) from Nov 16.

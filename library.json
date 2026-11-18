@@ -1389,23 +1389,6 @@
     "postedVia": ""
   },
   {
-    "id": "2026-w48-LI-story",
-    "week": "2026-w49",
-    "channel": "linkedin",
-    "topic": "day60",
-    "date": "2026-12-01",
-    "time": "08:30",
-    "status": "draft",
-    "title": "Phil's own job search story",
-    "format": "text",
-    "text": "",
-    "firstComment": "https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49&utm_content=phil-story",
-    "link": "",
-    "files": [],
-    "notes": "Reserved, not drafted: Social writes it after HQ forwards Phil's Nov 9 post.\nMoved to Tue Dec 1: the résumé builder post took Tue Nov 24 (HQ, Nov 11).\nTag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.",
-    "postedVia": ""
-  },
-  {
     "id": "2026-w49-LI-email",
     "week": "2026-w49",
     "channel": "linkedin",
@@ -1419,7 +1402,7 @@
     "firstComment": "https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49&utm_content=which-person",
     "link": "",
     "files": [],
-    "notes": "Tue Dec 1 is also LI-story's reserved slot: HQ confirms the date before you schedule it.\nTag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.\nText only, no image.",
+    "notes": "Tag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.\nText only, no image.",
     "postedVia": ""
   },
   {
@@ -1484,6 +1467,23 @@
       }
     ],
     "notes": "Copy not written yet (moved from week 47).\nUpload the PDF as a document and give it a title.\nThe PDF is the v2 (HQ, Nov 14): slide 6 has cream keylines on Tick and the card. The old PDF stays in the repo.\nTag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w48-LI-story",
+    "week": "2026-w50",
+    "channel": "linkedin",
+    "topic": "day60",
+    "date": "2026-12-08",
+    "time": "08:30",
+    "status": "draft",
+    "title": "Phil's own job search story",
+    "format": "text",
+    "text": "",
+    "firstComment": "https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50&utm_content=phil-story",
+    "link": "",
+    "files": [],
+    "notes": "Reserved, not drafted: Social writes it after HQ forwards Phil's Nov 9 post.\nMoved to Tue Dec 8: LI-email took Tue Dec 1 (HQ, Nov 18).\nTag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.",
     "postedVia": ""
   },
   {
