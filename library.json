@@ -1347,6 +1347,48 @@
     "postedVia": ""
   },
   {
+    "id": "2026-w49-IG-email",
+    "week": "2026-w49",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-11-30",
+    "time": "12:00",
+    "status": "draft",
+    "title": "Email the person. But which one?",
+    "format": "carousel",
+    "text": "You've probably seen the advice: email the person who posted the job. It's good advice. But which person?\n\nEvery job has 4 people who decide if you get it, and each one needs a different note:\n1. The hiring manager: name one problem their team has\n2. Their boss: say why their team's goal is the one you want to work on\n3. Someone on the team: ask one real question about the work\n4. The recruiter: say you applied and why\n\nKeep each one short and plain, in your own words. Swipe for what to say to each.\n\nDay60 finds all 4 for one job and drafts a first note to each. You make it yours and send it. Link in bio.\n\n#day60 #jobsearch #careeradvice #networkingtips #coverletter",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-11/wk49/p01_which_person_1_ink.png",
+        "alt": "Email the person, but which one? Every job has 4 people who decide if you get it, and what to say to each."
+      },
+      {
+        "path": "2026-11/wk49/p01_which_person_2.png",
+        "alt": "Step 1: The hiring manager. Name one problem their team has, one line of proof you can help, one easy question."
+      },
+      {
+        "path": "2026-11/wk49/p01_which_person_3.png",
+        "alt": "Step 2: Their boss. Say why their team's goal is the one you want to work on, in a shorter note."
+      },
+      {
+        "path": "2026-11/wk49/p01_which_person_4.png",
+        "alt": "Step 3: Someone on the team. Ask one real question about the work, not for a favor."
+      },
+      {
+        "path": "2026-11/wk49/p01_which_person_5.png",
+        "alt": "Step 4: The recruiter. Say you applied and why: the role, one line on fit, when you're free to talk."
+      },
+      {
+        "path": "2026-11/wk49/p01_which_person_6.png",
+        "alt": "Keep each note short, plain and yours. Day60 finds all 4 for one job and drafts a first note to each. Link in bio."
+      }
+    ],
+    "notes": "Instagram app: before Next, tap the expand button on the first photo so it shows the full 4:5.\nAdd each slide's alt text (Instagram app: Advanced settings, then Accessibility).\nUpload the slides in the order listed.\nNo clickable links in the caption; the bio link stays as it is.\nFB-email uses slides 1 to 5 on Tue Dec 1, with its own slide 6.",
+    "postedVia": ""
+  },
+  {
     "id": "2026-w48-LI-story",
     "week": "2026-w49",
     "channel": "linkedin",
@@ -1361,6 +1403,65 @@
     "link": "",
     "files": [],
     "notes": "Reserved, not drafted: Social writes it after HQ forwards Phil's Nov 9 post.\nMoved to Tue Dec 1: the résumé builder post took Tue Nov 24 (HQ, Nov 11).\nTag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w49-LI-email",
+    "week": "2026-w49",
+    "channel": "linkedin",
+    "topic": "day60",
+    "date": "2026-12-01",
+    "time": "08:30",
+    "status": "draft",
+    "title": "Which person to email first",
+    "format": "text",
+    "text": "They're right about the email.\n\nThere's a post going around on how to get job offers. Its advice: stop relying on applications, catch hiring posts while they're fresh, and email the person who posted the job. Keep it plain, because \"short, direct, slightly messy emails stand out.\"\n\nI agree. But it leaves out the hard part: which person to write to, and what to say.\n\nEvery job has four people who decide whether you get it. Each one needs a different note.\n\nThe hiring manager feels the empty seat. Name one problem their team has (the posting usually tells you), add one line of proof you can help, and ask one easy question.\n\nTheir boss approved the role. Say why their team's goal is the one you want to work on, and keep it shorter.\n\nSomeone on the team knows what the job really needs. Ask one real question about the work. Not for a referral, not yet.\n\nThe recruiter runs the process. Say you applied and why: the role, one line on fit, and when you're free to talk.\n\nFour people, four short notes, each in your own words.\n\nThat's the method I used to land jobs at ClickUp, Deel and Google, and it's what we built Day60 to run: it finds the four people for one job and drafts a first note to each. You rewrite it until it sounds like you, then you send it.\n\nBeing good at the work still matters most. This just gets the right people to see it.\n\nWho do you write to first when you find a job you want?\n\nGuide in the first comment.\n\n#jobsearch #networking #hiring",
+    "firstComment": "https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49&utm_content=which-person",
+    "link": "",
+    "files": [],
+    "notes": "Tue Dec 1 is also LI-story's reserved slot: HQ confirms the date before you schedule it.\nTag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.\nText only, no image.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w49-FB-email",
+    "week": "2026-w49",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-12-01",
+    "time": "18:00",
+    "status": "draft",
+    "title": "Which person to email first",
+    "format": "carousel",
+    "text": "You may have seen the advice going around: stop relying on applications and email the person who posted the job.\n\nIt's good advice. It just leaves out which person, and what to say.\n\nEvery job has 4 people who decide if you get it:\nThe hiring manager: name one problem their team has, one line of proof, one easy question.\nTheir boss: say why their team's goal is the one you want to work on, in a shorter note.\nSomeone on the team: ask one real question about the work, not for a referral.\nThe recruiter: say you applied and why, and when you're free to talk.\n\nKeep each one short and plain. Write it the way you'd say it.\n\nHow to write the first one, to the hiring manager: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=which-person\n\nShare this with someone who's looking.\n\n#jobsearch #day60 #careeradvice",
+    "firstComment": "",
+    "link": "https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=which-person",
+    "files": [
+      {
+        "path": "2026-11/wk49/p01_which_person_1_ink.png",
+        "alt": "Email the person, but which one? Every job has 4 people who decide if you get it, and what to say to each."
+      },
+      {
+        "path": "2026-11/wk49/p01_which_person_2.png",
+        "alt": "Step 1: The hiring manager. Name one problem their team has, one line of proof you can help, one easy question."
+      },
+      {
+        "path": "2026-11/wk49/p01_which_person_3.png",
+        "alt": "Step 2: Their boss. Say why their team's goal is the one you want to work on, in a shorter note."
+      },
+      {
+        "path": "2026-11/wk49/p01_which_person_4.png",
+        "alt": "Step 3: Someone on the team. Ask one real question about the work, not for a favor."
+      },
+      {
+        "path": "2026-11/wk49/p01_which_person_5.png",
+        "alt": "Step 4: The recruiter. Say you applied and why: the role, one line on fit, when you're free to talk."
+      },
+      {
+        "path": "2026-11/wk49/p01_which_person_6_fb.png",
+        "alt": "Keep each note short, plain and yours. Day60 finds all 4 for one job and drafts a first note to each. getday60.com"
+      }
+    ],
+    "notes": "Add each image's alt text.\nUpload the images in the order listed.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe link stays in the text, as written.\nSlides 1 to 5 are IG-email's (Mon Nov 30). Slide 6 is p01_which_person_6_fb.png, with getday60.com in place of \"Link in bio\".",
     "postedVia": ""
   },
   {
