@@ -2,7 +2,7 @@
 
 **Status: LI-email and LI-3touch are approved (HQ, Nov 19, after the rewrite for the LinkedIn link rule). IG-email (HQ brief, Nov 18) is a proposed draft. FB-email is a proposed draft (cut Nov 19 and restored the same day: Philip wants Facebook 3 a week). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
 
-**Product Hunt moved to Tue Jan 12, 2027 (Philip, Nov 11, on HQ's recommendation).** LI-PH, IG-PH and FB-PH (approved Nov 11) moved to `2027-01/wk02/posts.md` with their library ids unchanged (`2026-w49-LI-PH`, `2026-w49-IG-PH`, `2026-w49-FB-PH`). Philip deletes the Dec 1 versions he had scheduled (his Thursday list). Their Tue Dec 1 slots are open, except LinkedIn: LI-story moved there from week 48 (HQ, Nov 11).
+**Product Hunt moved to Tue Jan 12, 2027 (Philip, Nov 11, on HQ's recommendation).** LI-PH, IG-PH and FB-PH (approved Nov 11) moved to `2027-01/wk02/posts.md` with their library ids unchanged (`2026-w49-LI-PH`, `2026-w49-IG-PH`, `2026-w49-FB-PH`). Philip deletes the Dec 1 versions he had scheduled (his Thursday list). Their Tue Dec 1 slots went to LI-email and FB-email (LI-story, which moved there from week 48 on Nov 11, moved on to Tue Dec 8 on Nov 18).
 
 | Platform | Weekly cap | Week 49 so far |
 | --- | --- | --- |

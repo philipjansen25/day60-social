@@ -1,6 +1,6 @@
 # Week 2 · Sun Jan 10 – Sat Jan 16, 2027 · DRAFTS IN PROGRESS
 
-**Status: IG-PH and FB-PH are approved (Philip, Nov 11, Post Library) and not scheduled. LI-PH was rewritten Nov 19 for HQ's LinkedIn rules (link in the last line, text only) and waits for HQ's approval.** They go into Buffer once the Product Hunt launch link exists. The rest of the week comes after HQ's brief for week 2.
+**Status: IG-PH and FB-PH are approved (Philip, Nov 11, Post Library) and not scheduled. LI-PH was rewritten Nov 19 for HQ's LinkedIn rules (link in the last line, text only); HQ approved its structure that day, and it stays a draft until the launch link exists.** Social puts all three into Buffer once the Product Hunt launch link exists. The rest of the week comes after HQ's brief for week 2.
 
 ## Product Hunt launch day · Tue Jan 12, 2027 (moved from Tue Dec 1 on Nov 11, on HQ's recommendation; Philip approved the kit's words on Nov 7)
 
@@ -46,8 +46,8 @@ Checks: "Day60" appears once. One link, the launch, in the last line. Founder fa
 
 ### IG-PH · Tue Jan 12 · 12:00 PM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `product-hunt/ig_launch_day_safe.png` replaces the image, a new file. FB-PH uses it too. Same words and alt text. The old file stays in the repo.
-- Status: approved in the Post Library (Philip, Nov 11). Not scheduled. Philip schedules it once the Product Hunt launch link exists. He deletes the Dec 1 version he had scheduled.
-- Image: `product-hunt/ig_launch_day.png` (1080×1350, the portrait version of gallery image 1)
+- Status: approved in the Post Library (Philip, Nov 11). Not scheduled. Social puts it into Buffer once the Product Hunt launch link exists (HQ, Nov 18). Philip deletes the Dec 1 version he had scheduled.
+- Image: `product-hunt/ig_launch_day_safe.png` (1080×1350, the portrait version of gallery image 1; replaced `product-hunt/ig_launch_day.png` on Nov 16)
 - Alt text: On Product Hunt today: paste a job link and meet the 4 people closest to the hire. Search Day60 on Product Hunt.
 - Link: bio link stays /try. No link in the caption.
 
@@ -68,8 +68,8 @@ Try one job free, no account needed. Link in bio.
 ### FB-PH · Tue Jan 12 · 6:00 PM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
 - Cut Nov 19 and restored the same day (Philip: Facebook 3 a week). It goes into Buffer once the Product Hunt launch link exists.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `product-hunt/ig_launch_day_safe.png` replaces the image, a new file. Same words and alt text. The old file stays in the repo.
-- Status: approved in the Post Library (Philip, Nov 11). Not scheduled. Philip schedules it once the Product Hunt launch link exists. He deletes the Dec 1 version he had scheduled.
-- Image: `product-hunt/ig_launch_day.png` (same as IG-PH; Facebook reuses the week's Instagram images)
+- Status: approved in the Post Library (Philip, Nov 11). Not scheduled. Social puts it into Buffer once the Product Hunt launch link exists (HQ, Nov 18). Philip deletes the Dec 1 version he had scheduled.
+- Image: `product-hunt/ig_launch_day_safe.png` (same as IG-PH; Facebook reuses the week's Instagram images)
 - Alt text: same as IG-PH.
 - Links: the Product Hunt link, plus https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2027-w02&utm_content=product-hunt
 
