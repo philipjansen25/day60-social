@@ -18,6 +18,8 @@ Philip copies the rules for r/jobs, r/jobsearchhacks, r/GetEmployed and r/salesd
 
 How to verify one: open `reddit.com/r/<sub>/about/rules` (or the sidebar on mobile) and paste the self-promotion rule word for word into the "Rule text" field, plus any weekly promo thread name.
 
+**Reply subs for the daily run (HQ, Nov 19): r/jobs, r/jobsearchhacks, r/careerguidance, r/resumes, r/recruitinghell and r/GetEmployed only**, the six in Philip's F5Bot flags. The run skips alerts from any other sub. r/sales, r/salesdevelopment, r/csMajors and r/cscareerquestions are out (F5Bot's free plan caps the flags at 150 characters); r/SideProject and r/startups were never reply subs. The table keeps every sub's rule status.
+
 | Sub | Fit for Day60's method | Day60 mention allowed? | Where | Karma / age minimum | Rule text (verbatim, with date checked) | Notes (secondary, unverified) |
 | --- | --- | --- | --- | --- | --- | --- |
 | r/jobs | High: no replies, reaching hiring managers | **No (unverified)** | n/a | _unknown_ | _pending_ | |

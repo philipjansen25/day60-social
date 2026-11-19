@@ -17,6 +17,7 @@ Source: F5Bot alert emails only. WebSearch refuses reddit.com, Reddit's API isn'
 2. **Alerts.** In Gmail, run exactly one search, `from:f5bot.com newer_than:1d`, and read only the alert emails it returns. Open no other mail. From each alert take the post's link, sub, title, snippet and time (the alert's time stands in for the post's). Never open a link. Never fetch reddit.com, old.reddit.com, oauth.reddit.com or any Reddit mirror. Never web-search for Reddit posts.
 3. **No alerts, or no post worth a reply: write nothing and stop.** No bank fallback, no feed link, no file, no commit, no message.
 4. **Pick at most 2 posts, never comments.** Each one must be:
+   - in one of the six reply subs: r/jobs, r/jobsearchhacks, r/careerguidance, r/resumes, r/recruitinghell and r/GetEmployed (skip an alert from any other sub; F5Bot may not have filtered it);
    - under about 18 hours old at run time;
    - written by a job seeker who asks something Phil can answer: reaching the hiring manager, cold email, follow-ups, referrals, no interviews or no callbacks, ghosting.
    Skip rants with no question, sales prospecting, requests for a referral at a named company, megathreads, and any post already in `reddit/days/` (grep its link's post id there). When several fit, prefer the clearest question, then the freshest post.
@@ -36,7 +37,7 @@ Source: F5Bot alert emails only. WebSearch refuses reddit.com, Reddit's API isn'
 8. **Message HQ only if the Post Library write fails** (and say why).
 
 ### F5Bot alerts (Philip signs up; HQ's Thu list, task 7, Nov 19)
-Free email alerts when a keyword appears on Reddit. Keywords match post titles and links (and comments, which we turn off). Matching ignores case and finds the letters inside longer words. Five keywords, each with the same flag string typed in F5Bot's flags field: `no-comments only-subreddit=jobs,jobsearchhacks,careerguidance,resumes,recruitinghell,csMajors,cscareerquestions,GetEmployed` (sales and salesdevelopment dropped Nov 19).
+Free email alerts when a keyword appears on Reddit. Keywords match post titles and links (and comments, which we turn off). Matching ignores case and finds the letters inside longer words. Five keywords, each with the same flag string typed in F5Bot's flags field: `no-comments only-subreddit=jobs,jobsearchhacks,careerguidance,resumes,recruitinghell,GetEmployed` (96 characters; F5Bot's free plan caps the box at 150, so sales, salesdevelopment, csMajors and cscareerquestions are out, Nov 19). Philip may fall back to `no-comments` alone, so the run never assumes F5Bot filtered by sub.
 - `hiring manager`
 - `cold email`
 - `no interviews`
