@@ -1,6 +1,6 @@
 # Reddit reply bank
 
-The one bank for the Reddit lane (from Nov 18; before that each scan file carried a copy, the last in `reddit/2026-11-17.md`). The daily run and the Tue/Fri scan add new replies here and copy the day's picks into that day's file.
+**Tone reference only from Nov 19 (HQ):** the alerts-only daily run neither copies from this bank nor adds to it; replies are written for each post. Before that, this was the one bank for the Reddit lane (from Nov 18; before that each scan file carried a copy, the last in `reddit/2026-11-17.md`). Until Nov 19, the daily run and the Tue/Fri scan added new replies here and copied the day's picks into that day's file.
 
 Every reply is method first, under 120 words, plain and a little messy, with no Day60, no links and no DMs (Phase 1). Adapt it to the post; never paste one as-is, and never post the same text twice.
 
@@ -128,6 +128,28 @@ In the message, say you applied and name the role. Then one line on the closest 
 Don't wait a week to see if the application goes anywhere. By then they might already have a shortlist.
 
 If it's quiet, follow up once about a week later with something new, then leave it.
+```
+
+### N. "Do cover letters even get read? Should I bother?" (Nov 19)
+```
+Depends who's reading. Sometimes nobody does, sometimes it's the tiebreaker. So don't spend an hour on it, but don't skip it either.
+
+Keep it short. Why this team, one thing you've done that's close to what the posting asks for, done. A few lines is fine.
+
+Then take those same few lines and send them to the hiring manager after you apply. Name the role, say you applied, one line of proof, one easy question at the end.
+
+That version has a way better shot at being read, since it goes to a person and not a pile.
+```
+
+### O. "Hiring manager said they'll 'keep me in mind'. Is that a no?" (Nov 19)
+```
+Not necessarily. A lot of the time it just means not right now.
+
+Reply once and keep it to two lines. Something like "thanks, I'd still be glad to be considered if anything opens up on the team." Then leave it for a few weeks.
+
+Set a reminder. When you check back, bring something new, like a project you finished or something their team just launched that you have a real thought on. Not "just checking in".
+
+And keep going on other roles in the meantime. One maybe shouldn't stall the whole search.
 ```
 
 ## Founder-fact check
