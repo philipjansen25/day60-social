@@ -130,27 +130,5 @@ Don't wait a week to see if the application goes anywhere. By then they might al
 If it's quiet, follow up once about a week later with something new, then leave it.
 ```
 
-### N. "Do cover letters even get read? Should I bother?" (Nov 19)
-```
-Depends who's reading. Sometimes nobody does, sometimes it's the tiebreaker. So don't spend an hour on it, but don't skip it either.
-
-Keep it short. Why this team, one thing you've done that's close to what the posting asks for, done. A few lines is fine.
-
-Then take those same few lines and send them to the hiring manager after you apply. Name the role, say you applied, one line of proof, one easy question at the end.
-
-That version has a way better shot at being read, since it goes to a person and not a pile.
-```
-
-### O. "Hiring manager said they'll 'keep me in mind'. Is that a no?" (Nov 19)
-```
-Not necessarily. A lot of the time it just means not right now.
-
-Reply once and keep it to two lines. Something like "thanks, I'd still be glad to be considered if anything opens up on the team." Then leave it for a few weeks.
-
-Set a reminder. When you check back, bring something new, like a project you finished or something their team just launched that you have a real thought on. Not "just checking in".
-
-And keep going on other roles in the meantime. One maybe shouldn't stall the whole search.
-```
-
 ## Founder-fact check
 No founder facts, personal anecdotes, results or statistics. No competitor names, no Day60 mention, no links to Day60, no usernames. Philip can add his own experience in his own words if he wants.

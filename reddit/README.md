@@ -1,8 +1,8 @@
 # Reddit lane
 
-**Back on (Philip, Nov 19, via HQ):** he looked for "Reddit today" in the Post Library and asked for it. His Nov 18 ask stands: "I want to stay active on Reddit, and I haven't been diligent in that channel. Make it easy for me." Reddit is the one channel Philip posts by hand, when he chooses. It never goes on his list and never through Buffer. (The lane was stopped from Nov 18 to 19.)
+**Stopped (Philip, Nov 18, via HQ):** "I don't want to post manually anymore." Reddit can't be automated within our rules, so the lane is closed: no scans, no daily files, no replies, no F5Bot alerts. Everything below is history.
 
-Philip posts himself from **Philip's account**. Social drafts; HQ syncs the day's file to the Post Library's "Reddit today" the same morning.
+Philip posts himself from **Philip's account**. Social drafts; HQ puts the drafts on Philip's calendar the same morning.
 
 ## For a fresh scan session (read this first)
 - You are Social, Day60's social media employee. HQ is the Claude Code session `session_014zSVjD5hU4eupNEkmMPqQ6`. Report there with the claude-code-remote `send_message` tool. You never post to Reddit; Philip posts by hand from Philip's account.
@@ -16,7 +16,7 @@ Until Philip's account has about 50 comment karma (weeks 1–2): **comments only
 ## Daily run (weekdays, 6:15 AM CT; HQ, Nov 18)
 Each weekday Philip gets 2 ready replies, about 4 minutes in all. He posts by hand; nothing posts for him, ever. HQ syncs the day's file to the Post Library's "Reddit today". No Reddit API: Reddit's Responsible Builder Policy needs its approval first, and new access requests closed Oct 31, 2026 (HQ dropped the API plan, Nov 18).
 
-**Current mode (HQ, Nov 19): alerts mode when `from:f5bot.com newer_than:1d` returns alerts, otherwise bank mode.** F5Bot was never set up, so expect bank mode. The Tue/Fri 6:37 AM scan stays off.
+**Current mode: stopped (Philip, Nov 18).** The weekday run and the Tue/Fri scan do nothing; if either fires, reply to HQ that the lane is stopped.
 
 1. `git pull`, then read this file, `subreddits.md` and `bank.md`.
 2. **Alerts mode:**
@@ -28,7 +28,7 @@ Each weekday Philip gets 2 ready replies, about 4 minutes in all. He posts by ha
 4. **Every reply:** under 120 words, method first, plain and a little messy: short sentences, no polish, no em dashes, no lists unless the post asks. No Day60, no links, no DMs, no founder facts. It has to read like a person.
 5. Write `reddit/YYYY-MM-DD.md` (CT date) like `reddit/2026-11-18.md`: the mode, the New feed link, the 2 replies and the founder-fact check. In alerts mode, head each reply with the post's title, then its link, sub and age, and "Read the thread before posting (drafted from the alert's title and snippet)". Store no snippet text, usernames or email addresses.
 6. Commit, push, and send HQ one message: the file path, the mode, and each reply's post link, sub and title (its question in bank mode).
-- **Tue and Fri (off since Nov 18; HQ re-enabled only the weekday run on Nov 19):** the 6:37 AM scan adds its threads under a "## Scan" heading in that day's file and leaves the 6:15 part as it is.
+- **Tue and Fri, until alerts run:** the 6:37 AM scan adds its threads under a "## Scan" heading in that day's file and leaves the 6:15 part as it is.
 
 ### F5Bot alerts (dropped Nov 18; never set up)
 Free email alerts when a keyword appears on Reddit. Keywords match post titles and links (and comments, which we turn off). Matching ignores case and finds the letters inside longer words. Each keyword gets the same flags, typed in F5Bot's flags field with spaces between them: `no-comments only-subreddit=jobs,jobsearchhacks,careerguidance,resumes,recruitinghell,sales,salesdevelopment,csMajors,cscareerquestions,GetEmployed`.
