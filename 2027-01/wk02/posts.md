@@ -17,7 +17,7 @@ They keep the library ids they had in week 49 (`2026-w49-LI-PH`, `2026-w49-IG-PH
 **When the launch link comes:** HQ asks Social to replace `<Product Hunt launch link>` in LI-PH's last line and FB-PH's text. Product Hunt gives the link once the launch is scheduled. Nothing with the placeholder goes into Buffer.
 
 ### LI-PH · Tue Jan 12 · 8:30 AM · DRAFT (rewritten Nov 19; approved Nov 11 before that) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
-- Status: draft again. Approved by Philip on Nov 11; rewritten Nov 19 for HQ's LinkedIn rules, so it waits for HQ's approval. Not scheduled until the Product Hunt launch link exists.
+- Status: draft. Approved by Philip on Nov 11; rewritten Nov 19 for HQ's LinkedIn rules, and HQ approved the structure that day. It stays a draft until the launch link exists; then Social sends HQ the final line.
 - **Text only from Nov 19 (HQ: no more LinkedIn images).** It used `product-hunt/01_hero.png`, which stays in the repo.
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
 - Link: the Product Hunt launch link, in the body's last line before the hashtags (HQ, Nov 19: the post's point is the launch page). A placeholder until it exists.

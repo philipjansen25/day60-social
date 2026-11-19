@@ -1395,14 +1395,14 @@
     "topic": "day60",
     "date": "2026-12-01",
     "time": "08:30",
-    "status": "draft",
+    "status": "approved",
     "title": "Which person to email first",
     "format": "text",
     "text": "They're right about the email.\n\nThere's a post going around on how to get job offers. Its advice: stop relying on applications, catch hiring posts while they're fresh, and email the person who posted the job. Keep it plain, because \"short, direct, slightly messy emails stand out.\"\n\nI agree. But it leaves out the hard part: which person to write to, and what to say.\n\nEvery job has four people who decide whether you get it. Each one needs a different note.\n\nThe hiring manager feels the empty seat. Name one problem their team has (the posting usually tells you), add one line of proof you can help, and ask one easy question.\n\nTheir boss approved the role. Say why their team's goal is the one you want to work on, and keep it shorter.\n\nSomeone on the team knows what the job really needs. Ask one real question about the work. Not for a referral, not yet.\n\nThe recruiter runs the process. Say you applied and why: the role, one line on fit, and when you're free to talk.\n\nFour people, four short notes, each in your own words.\n\nThat's the method I used to land jobs at ClickUp, Deel and Google, and it's what we built Day60 to run: it finds the four people for one job and drafts a first note to each. You rewrite it until it sounds like you, then you send it.\n\nBeing good at the work still matters most. This just gets the right people to see it.\n\nPick one job you want today and find its four people.\n\nWho will you write to first?\n\n#jobsearch #networking #hiring",
     "firstComment": "",
     "link": "",
     "files": [],
-    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: the post's point is the method, not a page (HQ, Nov 19).\nRewritten Nov 19: it ends on one next step for today, then a question. Waits for HQ's approval.",
+    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: the post's point is the method, not a page (HQ, Nov 19).\nApproved by HQ on Nov 19, with the new ending (one next step for today, then a question).",
     "postedVia": ""
   },
   {
@@ -1454,14 +1454,14 @@
     "topic": "day60",
     "date": "2026-12-03",
     "time": "08:30",
-    "status": "draft",
+    "status": "approved",
     "title": "Follow up three times, then stop",
     "format": "text",
     "text": "Three touches. Then stop.\n\nDay 0: the first note. Their problem, one line of proof, one easy ask.\nDay 2: the nudge. Two lines, with something new. Never \"just following up.\"\nDay 7: the last word. Close the loop kindly and leave the door open.\n\nThree touches is persistence. Ten is spam.\n\nAnyone who has worked in sales learns this early: following up gets replies, pestering gets you muted.\n\nDay60 caps it at three touches per person and tells you when each follow-up is due. You send every one.\n\nToday, pick one note that hasn't had a reply and write its two-line nudge.\n\nHow many follow-ups do you send before you stop?\n\n#jobsearch #networking #careeradvice",
     "firstComment": "",
     "link": "",
     "files": [],
-    "notes": "Rewritten Nov 19 as a text post from the week 46 LI3 draft. Waits for HQ's approval.\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: the post's point is the method, not a page (HQ, Nov 19).\nThe v2 PDF is no longer posted (HQ, Nov 19: no LinkedIn PDFs); it stays in the repo.",
+    "notes": "Approved by HQ on Nov 19 as written (a text post rewritten from the week 46 LI3 draft).\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: the post's point is the method, not a page (HQ, Nov 19).\nThe v2 PDF is no longer posted (HQ, Nov 19: no LinkedIn PDFs); it stays in the repo.",
     "postedVia": ""
   },
   {
@@ -1478,7 +1478,7 @@
     "firstComment": "",
     "link": "",
     "files": [],
-    "notes": "Reserved, not drafted: Social writes it after HQ forwards Phil's Nov 9 post.\nMoved to Tue Dec 8: LI-email took Tue Dec 1 (HQ, Nov 18).\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: it ends on one next step a job seeker can take today, then a question (HQ, Nov 19).",
+    "notes": "Reserved, not drafted: Social writes it after HQ forwards Phil's Nov 9 post, then sends HQ the copy.\nMoved to Tue Dec 8: LI-email took Tue Dec 1 (HQ, Nov 18).\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: it ends on one next step a job seeker can take today, then a question (HQ approved this brief change on Nov 19).",
     "postedVia": ""
   },
   {
@@ -1495,7 +1495,7 @@
     "firstComment": "",
     "link": "",
     "files": [],
-    "notes": "Not scheduled until the Product Hunt launch link exists; then it goes into Buffer for Jan 12.\nThe last line's link is a placeholder until the Product Hunt launch link exists.\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nThe launch link is the body's last line before the hashtags (HQ, Nov 19: the post's point is the launch page).\nRewritten Nov 19 (text only, link in the last line), so it waits for HQ's approval again. The hero image stays in the repo.",
+    "notes": "Not scheduled until the Product Hunt launch link exists; then it goes into Buffer for Jan 12.\nThe last line's link is a placeholder until the Product Hunt launch link exists.\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nThe launch link is the body's last line before the hashtags (HQ, Nov 19: the post's point is the launch page).\nHQ approved the structure on Nov 19. It stays a draft until the launch link exists; then Social sends HQ the final line. The hero image stays in the repo.",
     "postedVia": ""
   },
   {

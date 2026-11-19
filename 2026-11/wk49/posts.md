@@ -1,19 +1,19 @@
 # Week 49 · Sun Nov 29 – Sat Dec 5, 2026 · DRAFTS IN PROGRESS
 
-**Status: LI-email and IG-email (HQ brief, Nov 18) are proposed drafts. LI-email and LI-3touch were rewritten Nov 19 for HQ's LinkedIn link rule and wait for HQ's approval. FB-email is a proposed draft (cut Nov 19 and restored the same day: Philip wants Facebook 3 a week). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
+**Status: LI-email and LI-3touch are approved (HQ, Nov 19, after the rewrite for the LinkedIn link rule). IG-email (HQ brief, Nov 18) is a proposed draft. FB-email is a proposed draft (cut Nov 19 and restored the same day: Philip wants Facebook 3 a week). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
 
 **Product Hunt moved to Tue Jan 12, 2027 (Philip, Nov 11, on HQ's recommendation).** LI-PH, IG-PH and FB-PH (approved Nov 11) moved to `2027-01/wk02/posts.md` with their library ids unchanged (`2026-w49-LI-PH`, `2026-w49-IG-PH`, `2026-w49-FB-PH`). Philip deletes the Dec 1 versions he had scheduled (his Thursday list). Their Tue Dec 1 slots are open, except LinkedIn: LI-story moved there from week 48 (HQ, Nov 11).
 
 | Platform | Weekly cap | Week 49 so far |
 | --- | --- | --- |
-| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Social's Day60 text posts: Tue, Thu | LI-email (Tue Dec 1, proposed; HQ Nov 18), LI-3touch (Thu Dec 3, proposed, now a text post; moved from week 47). Full. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
+| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Social's Day60 text posts: Tue, Thu | LI-email (Tue Dec 1, approved), LI-3touch (Thu Dec 3, approved, now a text post; moved from week 47). Mon, Wed, Fri: HQ's lane. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
 | Instagram | 5 | IG-email (Mon Nov 30, proposed). 4 to plan |
 | Facebook | 3 (Philip, Nov 19) | FB-email (Tue Dec 1, proposed). 2 to plan |
 
 ## LinkedIn (Philip's profile)
 
-### LI-email · Tue Dec 1 · 8:30 AM · DRAFT · WHICH PERSON TO EMAIL, AND WHAT TO SAY (HQ brief, Nov 18)
-- Status: draft, for HQ's approval (Philip no longer approves posts, Nov 18). It takes Tue Dec 1; LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).
+### LI-email · Tue Dec 1 · 8:30 AM · APPROVED (HQ, Nov 19) · WHICH PERSON TO EMAIL, AND WHAT TO SAY (HQ brief, Nov 18)
+- Status: approved by HQ on Nov 19, with the new ending. It goes into Buffer at the top-up that reaches Tue Dec 1. It takes Tue Dec 1; LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).
 - Format: text only.
 - Source: HQ, Nov 18. A post going around (an Instagram repost of a Reddit post) says to stop relying on applications and email the person who posted the job, and promises a follow-up on how to write that email that never came. This post gives that part: which of the 4 people, and what to say to each (Day60's method, in week 47's IG-four wording). The original post and its author are not named or linked. It quotes one short line from it ("short, direct, slightly messy emails stand out") and none of its numbers.
 - Founder fact: the first career fact, in Phil's voice ("the method I used to land jobs at ClickUp, Deel and Google").
@@ -52,10 +52,10 @@ Who will you write to first?
 
 Checks: hook is 30 characters. "Day60" appears once. No link. One quoted line from the original (7 words), source not named. No numbers but the method's four people and the approved founder fact. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names. It says plainly that Day60 drafts the note and you rewrite it, since the original's advice is not to let AI write it.
 
-### LI-3touch · Thu Dec 3 · 8:30 AM (proposed) · DRAFT · MOVED FROM WEEK 47 (HQ, Nov 11)
+### LI-3touch · Thu Dec 3 · 8:30 AM · APPROVED (HQ, Nov 19) · MOVED FROM WEEK 47 (HQ, Nov 11)
 - Document: `2026-11/wk46/p06_three_touches_linkedin_v2.pdf` (HQ, Nov 14: slide 6 now has cream keylines on Tick and the card; slides 1 to 5 are unchanged, and the old PDF and IG4's slides stay in the repo. Source: `2026-11/wk46/build_v2.py`). It moved to week 47 when the Chrome extension post took week 46's Thursday slot, then here when Day60's LinkedIn went to two posts a week (Tue and Thu) from Nov 16.
 - **Text post from Nov 19 (HQ: no more LinkedIn PDFs).** The PDF above is no longer posted; it stays in the repo.
-- Status: draft, rewritten Nov 19 from the week 46 LI3 draft (commit 009d790), for HQ's approval.
+- Status: approved by HQ on Nov 19 as written (rewritten that day from the week 46 LI3 draft, commit 009d790). It goes into Buffer at the top-up that reaches Thu Dec 3.
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
 - Link: none (HQ, Nov 19: the post's point is the method, not a page). The old guide link is out.
 
