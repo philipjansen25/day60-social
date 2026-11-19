@@ -1385,7 +1385,7 @@
         "alt": "Keep each note short, plain and yours. Day60 finds all 4 for one job and drafts a first note to each. Link in bio."
       }
     ],
-    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nSlides go up in the listed order, each with its alt text.\nNo link in the caption; the bio link stays as it is.\nWaits for HQ's approval.",
+    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nSlides go up in the listed order, each with its alt text.\nNo link in the caption; the bio link stays as it is.\nFB-email uses slides 1 to 5 on Tue Dec 1, with its own slide 6.\nWaits for HQ's approval.",
     "postedVia": ""
   },
   {
@@ -1412,7 +1412,7 @@
     "topic": "day60",
     "date": "2026-12-01",
     "time": "18:00",
-    "status": "replaced",
+    "status": "draft",
     "title": "Which person to email first",
     "format": "carousel",
     "text": "You may have seen the advice going around: stop relying on applications and email the person who posted the job.\n\nIt's good advice. It just leaves out which person, and what to say.\n\nEvery job has 4 people who decide if you get it:\nThe hiring manager: name one problem their team has, one line of proof, one easy question.\nTheir boss: say why their team's goal is the one you want to work on, in a shorter note.\nSomeone on the team: ask one real question about the work, not for a referral.\nThe recruiter: say you applied and why, and when you're free to talk.\n\nKeep each one short and plain. Write it the way you'd say it.\n\nHow to write the first one, to the hiring manager: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=which-person\n\nShare this with someone who's looking.\n\n#jobsearch #day60 #careeradvice",
@@ -1444,7 +1444,7 @@
         "alt": "Keep each note short, plain and yours. Day60 finds all 4 for one job and drafts a first note to each. getday60.com"
       }
     ],
-    "notes": "Cut Nov 19 (HQ): Facebook is quiet until after Dec 31. Never posted. Its slide 6 file stays in the repo.",
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nImages go up in the listed order, each with its alt text.\nThe link stays in the text, as written.\nSlides 1 to 5 are IG-email's (Mon Nov 30). Slide 6 is p01_which_person_6_fb.png, with getday60.com in place of \"Link in bio\".\nCut Nov 19 and restored the same day (Philip: Facebook 3 a week). Waits for HQ's approval.",
     "postedVia": ""
   },
   {
@@ -1527,7 +1527,7 @@
     "topic": "day60",
     "date": "2027-01-12",
     "time": "18:00",
-    "status": "replaced",
+    "status": "approved",
     "title": "Product Hunt launch day",
     "format": "image",
     "text": "Day60 launched on Product Hunt today, and we'd like your honest take.\n\nPaste a job link, and it finds the four people closest to the hire, with verified work emails, and drafts a short note to each in your voice. Tick checks every draft. You send every message. It never applies for you and never logs in to your LinkedIn.\n\nTry it on one real job, then tell us where it got the people or the note wrong. You can comment on the launch here: <Product Hunt launch link>\n\nOr try one job first, free and with no account: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2027-w02&utm_content=product-hunt\n\n(The names on the image are invented.)\n\n#jobsearch #day60 #producthunt",
@@ -1539,7 +1539,7 @@
         "alt": "On Product Hunt today: paste a job link and meet the 4 people closest to the hire. Search Day60 on Product Hunt."
       }
     ],
-    "notes": "Cut Nov 19 (HQ): Facebook is quiet until after Dec 31. Approved Nov 11, never posted.",
+    "notes": "Not scheduled until the Product Hunt launch link exists; then it goes into Buffer for Jan 12.\nThe text needs the Product Hunt launch link, a placeholder until it exists.\nPublishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe link stays in the text, as written.\nCut Nov 19 and restored the same day (Philip: Facebook 3 a week).",
     "postedVia": ""
   }
 ]

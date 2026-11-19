@@ -6,7 +6,7 @@
 // or a placeholder isn't marked in the notes.
 // HQ, Nov 19 (Buffer's plan can't post a LinkedIn first comment): every LinkedIn draft/approved post dated after
 // the natively scheduled ones (through Nov 28) is text only, has no first comment and never mentions one; a link,
-// if the post's point is one, is the body's last line before the hashtags. Facebook is quiet until after Dec 31.
+// if the post's point is one, is the body's last line before the hashtags.
 // Feed safe area (HQ, Nov 16): every feed PNG still to post (an Instagram or Facebook image or carousel, draft or
 // approved, dated today or later in Chicago) must have a passing record in design-system/safe-area.json with the
 // file's SHA-256. templates/render_many.js writes that record only when every non-decorative element sits inside
@@ -66,7 +66,6 @@ function sections(file) {
 const errors = [];
 const err = (id, msg) => errors.push(`${id}: ${msg}`);
 const NATIVE_UNTIL = '2026-11-28'; // posts through this date were scheduled natively (Philip, Nov 11 to 16) and stay as they are
-const FB_QUIET_UNTIL = '2026-12-31'; // HQ, Nov 19: no Facebook posts; HQ looks again after Dec 31
 
 let lib;
 try {
@@ -147,9 +146,6 @@ for (const p of lib) {
     if (p.firstComment) err(id, 'LinkedIn first comment: Buffer\'s plan can\'t post one (HQ, Nov 19); leave firstComment empty');
     if (/first comment/i.test(p.text)) err(id, 'LinkedIn text points to a first comment (HQ, Nov 19: never)');
     if (p.format !== 'text') err(id, `LinkedIn is text only from Nov 19 (HQ), not ${p.format}`);
-  }
-  if (p.channel === 'facebook' && live && p.date > NATIVE_UNTIL && p.date <= FB_QUIET_UNTIL) {
-    err(id, `Facebook is quiet until after ${FB_QUIET_UNTIL} (HQ, Nov 19)`);
   }
 
   if (p.firstComment !== p.firstComment.trim()) err(id, 'firstComment has leading or trailing whitespace');

@@ -1,14 +1,14 @@
 # Week 49 · Sun Nov 29 – Sat Dec 5, 2026 · DRAFTS IN PROGRESS
 
-**Status: LI-email and IG-email (HQ brief, Nov 18) are proposed drafts. LI-email and LI-3touch were rewritten Nov 19 for HQ's LinkedIn link rule and wait for HQ's approval. FB-email is cut (Facebook is quiet from Nov 19, HQ). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
+**Status: LI-email and IG-email (HQ brief, Nov 18) are proposed drafts. LI-email and LI-3touch were rewritten Nov 19 for HQ's LinkedIn link rule and wait for HQ's approval. FB-email is a proposed draft (cut Nov 19 and restored the same day: Philip wants Facebook 3 a week). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
 
 **Product Hunt moved to Tue Jan 12, 2027 (Philip, Nov 11, on HQ's recommendation).** LI-PH, IG-PH and FB-PH (approved Nov 11) moved to `2027-01/wk02/posts.md` with their library ids unchanged (`2026-w49-LI-PH`, `2026-w49-IG-PH`, `2026-w49-FB-PH`). Philip deletes the Dec 1 versions he had scheduled (his Thursday list). Their Tue Dec 1 slots are open, except LinkedIn: LI-story moved there from week 48 (HQ, Nov 11).
 
 | Platform | Weekly cap | Week 49 so far |
 | --- | --- | --- |
-| LinkedIn | 2 Day60 text posts (Tue, Thu) | LI-email (Tue Dec 1, proposed; HQ Nov 18), LI-3touch (Thu Dec 3, proposed, now a text post; moved from week 47). Full. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
+| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Social's Day60 text posts: Tue, Thu | LI-email (Tue Dec 1, proposed; HQ Nov 18), LI-3touch (Thu Dec 3, proposed, now a text post; moved from week 47). Full. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
 | Instagram | 5 | IG-email (Mon Nov 30, proposed). 4 to plan |
-| Facebook | 0 (quiet from Nov 19 until after Dec 31, HQ) | FB-email cut |
+| Facebook | 3 (Philip, Nov 19) | FB-email (Tue Dec 1, proposed). 2 to plan |
 
 ## LinkedIn (Philip's profile)
 
@@ -87,7 +87,7 @@ The same idea as LI-email for the feed: you've seen "email the person who posted
 
 ### IG-email · Mon Nov 30 · 12:00 PM · DRAFT · EMAIL THE PERSON. BUT WHICH ONE? (HQ brief, Nov 18)
 - Status: draft, for HQ's approval (Philip no longer approves posts, Nov 18).
-- Carousel (6): `2026-11/wk49/p01_which_person_1_ink.png`, `p01_which_person_2.png` to `p01_which_person_6.png` (source: `2026-11/wk49/build.py`). Rendered inside the feed safe area (y 150 to 1200). (FB-email, which reused them, is cut.)
+- Carousel (6): `2026-11/wk49/p01_which_person_1_ink.png`, `p01_which_person_2.png` to `p01_which_person_6.png` (source: `2026-11/wk49/build.py`). Rendered inside the feed safe area (y 150 to 1200). FB-email uses the same slides with its own slide 6.
 - Cover: ink (the method). Grid: IG-rb-reel (cobalt), IG-onelink (mint) and IG-shortlist (coral) come before it, so any 4 in a row stay different.
 - Alt text (per slide): 1 Email the person, but which one? Every job has 4 people who decide if you get it, and what to say to each. · 2 Step 1: The hiring manager. Name one problem their team has, one line of proof you can help, one easy question. · 3 Step 2: Their boss. Say why their team's goal is the one you want to work on, in a shorter note. · 4 Step 3: Someone on the team. Ask one real question about the work, not for a favor. · 5 Step 4: The recruiter. Say you applied and why: the role, one line on fit, when you're free to talk. · 6 Keep each note short, plain and yours. Day60 finds all 4 for one job and drafts a first note to each. Link in bio.
 - Link: bio link stays /try. No link in the caption.
@@ -108,8 +108,8 @@ Day60 finds all 4 for one job and drafts a first note to each. You make it yours
 #day60 #jobsearch #careeradvice #networkingtips #coverletter
 ```
 
-### FB-email (cut) · was Tue Dec 1 · 6:00 PM · NOT SCHEDULED
-- **Cut Nov 19 (HQ):** Facebook is quiet from Nov 19 until after Dec 31. Never posted. Its slide 6 file stays in the repo.
+### FB-email · Tue Dec 1 · 6:00 PM · DRAFT · WHICH PERSON TO EMAIL, AND WHAT TO SAY (HQ brief, Nov 18)
+- Status: draft, for HQ's approval. Cut Nov 19 and restored the same day (Philip: Facebook 3 a week).
 - Carousel (6): IG-email's slides 1 to 5 and `2026-11/wk49/p01_which_person_6_fb.png` (a getday60.com sticker in place of "Link in bio"). The day after the Instagram post.
 - Alt text (per slide): 1 Email the person, but which one? Every job has 4 people who decide if you get it, and what to say to each. · 2 Step 1: The hiring manager. Name one problem their team has, one line of proof you can help, one easy question. · 3 Step 2: Their boss. Say why their team's goal is the one you want to work on, in a shorter note. · 4 Step 3: Someone on the team. Ask one real question about the work, not for a favor. · 5 Step 4: The recruiter. Say you applied and why: the role, one line on fit, when you're free to talk. · 6 Keep each note short, plain and yours. Day60 finds all 4 for one job and drafts a first note to each. getday60.com
 - Link: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=which-person

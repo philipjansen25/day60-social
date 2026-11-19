@@ -4,9 +4,9 @@
 
 | Platform | Weekly cap | Week 50 so far |
 | --- | --- | --- |
-| LinkedIn | 2 Day60 text posts (Tue, Thu) | LI-story (Tue Dec 8, reserved; moved from week 49, HQ Nov 18). Thu Dec 10 open |
+| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Social's Day60 text posts: Tue, Thu | LI-story (Tue Dec 8, reserved; moved from week 49, HQ Nov 18). Thu Dec 10 open |
 | Instagram | 5 | 5 to plan (IG-story proposed, waits on LI-story) |
-| Facebook | 0 (quiet from Nov 19 until after Dec 31, HQ) | FB-story dropped |
+| Facebook | 3 (Philip, Nov 19) | 3 to plan (FB-story proposed, waits on LI-story) |
 
 ## LinkedIn (Philip's profile)
 
@@ -19,4 +19,4 @@
 - **LinkedIn rules:** "Day60" exactly once; Tags: none (Day60 stays untagged until Buffer has the page's LinkedIn details); 3 hashtags at most. Text only.
 - **Link: none (HQ, Nov 19).** The story is the point, not a page, so it ends on one next step a job seeker can take today, then a question. The old /try link is out.
 - **Numbers ruling (HQ, Nov 8; default until Philip says otherwise):** keep any number exactly as Phil wrote it in his own Monday post, as his own result in his own words, and add none. The exception to the no-personal-results rule covers this post and its IG/FB adaptations only. It may say what happened to him, never turn that into a promise for the reader (the site's line: "Nobody can promise you a job. We promise the reps."). Philip sees this ruling on his list and approves the words before scheduling.
-- **IG-story** (FB-story is dropped: Facebook is quiet from Nov 19, HQ) (proposed Instagram and Facebook versions of this post) moved from week 48 to week 49 with it (Nov 12: week 48's Instagram and Facebook slots are full), and here with it on Nov 18. They stay proposals until LI-story is written, and they need open slots in this week's caps.
+- **IG-story and FB-story** (proposed Instagram and Facebook versions of this post) moved from week 48 to week 49 with it (Nov 12: week 48's Instagram and Facebook slots are full), and here with it on Nov 18. They stay proposals until LI-story is written, and they need open slots in this week's caps.
