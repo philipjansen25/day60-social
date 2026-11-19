@@ -42,7 +42,7 @@ Free email alerts when a keyword appears on Reddit. Keywords match post titles a
 - `cold email`
 - `no interviews`
 - `ghosted`
-- `referral`
+- `no callbacks` (or `follow up` if F5Bot refuses it). `referral` is out: F5Bot's free plan refuses it as too common (Nov 19). Referral questions can still come in through `hiring manager` and `cold email`.
 - Caveat: F5Bot relies on its own Reddit access, which may end by March 2027.
 
 ## History (retired)
