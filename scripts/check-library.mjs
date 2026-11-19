@@ -2,8 +2,11 @@
 // Checks library.json against the posts.md files. Run before every push:
 //   node scripts/check-library.mjs
 // Fails (exit 1) if a post's text differs from its posts.md code block, a listed file is
-// missing, a field is malformed, a LinkedIn draft/approved post has a link in its body, or a
-// first comment has an unmarked placeholder or stray whitespace.
+// missing, a field is malformed, a LinkedIn draft/approved post has a link anywhere but its last line,
+// or a placeholder isn't marked in the notes.
+// HQ, Nov 19 (Buffer's plan can't post a LinkedIn first comment): every LinkedIn draft/approved post dated after
+// the natively scheduled ones (through Nov 28) is text only, has no first comment and never mentions one; a link,
+// if the post's point is one, is the body's last line before the hashtags. Facebook is quiet until after Dec 31.
 // Feed safe area (HQ, Nov 16): every feed PNG still to post (an Instagram or Facebook image or carousel, draft or
 // approved, dated today or later in Chicago) must have a passing record in design-system/safe-area.json with the
 // file's SHA-256. templates/render_many.js writes that record only when every non-decorative element sits inside
@@ -62,6 +65,8 @@ function sections(file) {
 
 const errors = [];
 const err = (id, msg) => errors.push(`${id}: ${msg}`);
+const NATIVE_UNTIL = '2026-11-28'; // posts through this date were scheduled natively (Philip, Nov 11 to 16) and stay as they are
+const FB_QUIET_UNTIL = '2026-12-31'; // HQ, Nov 19: no Facebook posts; HQ looks again after Dec 31
 
 let lib;
 try {
@@ -129,14 +134,27 @@ for (const p of lib) {
     if (['image', 'carousel', 'document', 'video'].includes(p.format) && p.files.length === 0) err(id, `${p.format} post with no files`);
   }
 
-  if (p.channel === 'linkedin' && ['draft', 'approved'].includes(p.status) && /https?:\/\/|getday60\.com/.test(p.text)) {
-    err(id, 'LinkedIn body has a link (it goes in the first comment)');
+  const live = ['draft', 'approved'].includes(p.status);
+  const LINK = /https?:\/\/|getday60\.com|<[^>]*link[^>]*>/i;
+  if (p.channel === 'linkedin' && live) {
+    // a link only as the body's last line before the hashtags (HQ, Nov 19)
+    const body = p.text.split('\n');
+    while (body.length && (/^\s*$/.test(body.at(-1)) || /^(#\w+\s*)+$/.test(body.at(-1).trim()))) body.pop();
+    const at = body.map((l, i) => (LINK.test(l) ? i : -1)).filter((i) => i >= 0);
+    if (at.some((i) => i !== body.length - 1)) err(id, 'LinkedIn link is not the body\'s last line (before the hashtags)');
+  }
+  if (p.channel === 'linkedin' && live && p.date > NATIVE_UNTIL) {
+    if (p.firstComment) err(id, 'LinkedIn first comment: Buffer\'s plan can\'t post one (HQ, Nov 19); leave firstComment empty');
+    if (/first comment/i.test(p.text)) err(id, 'LinkedIn text points to a first comment (HQ, Nov 19: never)');
+    if (p.format !== 'text') err(id, `LinkedIn is text only from Nov 19 (HQ), not ${p.format}`);
+  }
+  if (p.channel === 'facebook' && live && p.date > NATIVE_UNTIL && p.date <= FB_QUIET_UNTIL) {
+    err(id, `Facebook is quiet until after ${FB_QUIET_UNTIL} (HQ, Nov 19)`);
   }
 
-  // firstComment is pasted word for word from Philip's 8 AM list (HQ, Nov 11)
   if (p.firstComment !== p.firstComment.trim()) err(id, 'firstComment has leading or trailing whitespace');
-  if (/<[^>]*>/.test(p.firstComment) && !/placeholder/i.test(p.notes)) {
-    err(id, 'firstComment has a placeholder but the notes don\'t say so');
+  if ((/<[^>]*>/.test(p.firstComment) || (live && /<[^>]*>/.test(p.text))) && !/placeholder/i.test(p.notes)) {
+    err(id, 'a placeholder in the text or first comment, but the notes don\'t say so');
   }
 }
 

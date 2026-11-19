@@ -1385,7 +1385,7 @@
         "alt": "Keep each note short, plain and yours. Day60 finds all 4 for one job and drafts a first note to each. Link in bio."
       }
     ],
-    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nSlides go up in the listed order, each with its alt text.\nNo link in the caption; the bio link stays as it is.\nFB-email uses slides 1 to 5 on Tue Dec 1, with its own slide 6.",
+    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nSlides go up in the listed order, each with its alt text.\nNo link in the caption; the bio link stays as it is.\nWaits for HQ's approval.",
     "postedVia": ""
   },
   {
@@ -1398,11 +1398,11 @@
     "status": "draft",
     "title": "Which person to email first",
     "format": "text",
-    "text": "They're right about the email.\n\nThere's a post going around on how to get job offers. Its advice: stop relying on applications, catch hiring posts while they're fresh, and email the person who posted the job. Keep it plain, because \"short, direct, slightly messy emails stand out.\"\n\nI agree. But it leaves out the hard part: which person to write to, and what to say.\n\nEvery job has four people who decide whether you get it. Each one needs a different note.\n\nThe hiring manager feels the empty seat. Name one problem their team has (the posting usually tells you), add one line of proof you can help, and ask one easy question.\n\nTheir boss approved the role. Say why their team's goal is the one you want to work on, and keep it shorter.\n\nSomeone on the team knows what the job really needs. Ask one real question about the work. Not for a referral, not yet.\n\nThe recruiter runs the process. Say you applied and why: the role, one line on fit, and when you're free to talk.\n\nFour people, four short notes, each in your own words.\n\nThat's the method I used to land jobs at ClickUp, Deel and Google, and it's what we built Day60 to run: it finds the four people for one job and drafts a first note to each. You rewrite it until it sounds like you, then you send it.\n\nBeing good at the work still matters most. This just gets the right people to see it.\n\nWho do you write to first when you find a job you want?\n\nGuide in the first comment.\n\n#jobsearch #networking #hiring",
-    "firstComment": "https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49&utm_content=which-person",
+    "text": "They're right about the email.\n\nThere's a post going around on how to get job offers. Its advice: stop relying on applications, catch hiring posts while they're fresh, and email the person who posted the job. Keep it plain, because \"short, direct, slightly messy emails stand out.\"\n\nI agree. But it leaves out the hard part: which person to write to, and what to say.\n\nEvery job has four people who decide whether you get it. Each one needs a different note.\n\nThe hiring manager feels the empty seat. Name one problem their team has (the posting usually tells you), add one line of proof you can help, and ask one easy question.\n\nTheir boss approved the role. Say why their team's goal is the one you want to work on, and keep it shorter.\n\nSomeone on the team knows what the job really needs. Ask one real question about the work. Not for a referral, not yet.\n\nThe recruiter runs the process. Say you applied and why: the role, one line on fit, and when you're free to talk.\n\nFour people, four short notes, each in your own words.\n\nThat's the method I used to land jobs at ClickUp, Deel and Google, and it's what we built Day60 to run: it finds the four people for one job and drafts a first note to each. You rewrite it until it sounds like you, then you send it.\n\nBeing good at the work still matters most. This just gets the right people to see it.\n\nPick one job you want today and find its four people.\n\nWho will you write to first?\n\n#jobsearch #networking #hiring",
+    "firstComment": "",
     "link": "",
     "files": [],
-    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile.\nBuffer posts the link as the first comment.\nDay60 stays untagged until HQ has the Day60 page's LinkedIn details for Buffer.\nText only, no image.",
+    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: the post's point is the method, not a page (HQ, Nov 19).\nRewritten Nov 19: it ends on one next step for today, then a question. Waits for HQ's approval.",
     "postedVia": ""
   },
   {
@@ -1412,7 +1412,7 @@
     "topic": "day60",
     "date": "2026-12-01",
     "time": "18:00",
-    "status": "draft",
+    "status": "replaced",
     "title": "Which person to email first",
     "format": "carousel",
     "text": "You may have seen the advice going around: stop relying on applications and email the person who posted the job.\n\nIt's good advice. It just leaves out which person, and what to say.\n\nEvery job has 4 people who decide if you get it:\nThe hiring manager: name one problem their team has, one line of proof, one easy question.\nTheir boss: say why their team's goal is the one you want to work on, in a shorter note.\nSomeone on the team: ask one real question about the work, not for a referral.\nThe recruiter: say you applied and why, and when you're free to talk.\n\nKeep each one short and plain. Write it the way you'd say it.\n\nHow to write the first one, to the hiring manager: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=which-person\n\nShare this with someone who's looking.\n\n#jobsearch #day60 #careeradvice",
@@ -1444,7 +1444,7 @@
         "alt": "Keep each note short, plain and yours. Day60 finds all 4 for one job and drafts a first note to each. getday60.com"
       }
     ],
-    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nImages go up in the listed order, each with its alt text.\nThe link stays in the text, as written.\nSlides 1 to 5 are IG-email's (Mon Nov 30). Slide 6 is p01_which_person_6_fb.png, with getday60.com in place of \"Link in bio\".",
+    "notes": "Cut Nov 19 (HQ): Facebook is quiet until after Dec 31. Never posted. Its slide 6 file stays in the repo.",
     "postedVia": ""
   },
   {
@@ -1456,17 +1456,12 @@
     "time": "08:30",
     "status": "draft",
     "title": "Follow up three times, then stop",
-    "format": "document",
-    "text": "",
-    "firstComment": "https://getday60.com/guides/follow-up-after-no-reply?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49&utm_content=three-touches",
+    "format": "text",
+    "text": "Three touches. Then stop.\n\nDay 0: the first note. Their problem, one line of proof, one easy ask.\nDay 2: the nudge. Two lines, with something new. Never \"just following up.\"\nDay 7: the last word. Close the loop kindly and leave the door open.\n\nThree touches is persistence. Ten is spam.\n\nAnyone who has worked in sales learns this early: following up gets replies, pestering gets you muted.\n\nDay60 caps it at three touches per person and tells you when each follow-up is due. You send every one.\n\nToday, pick one note that hasn't had a reply and write its two-line nudge.\n\nHow many follow-ups do you send before you stop?\n\n#jobsearch #networking #careeradvice",
+    "firstComment": "",
     "link": "",
-    "files": [
-      {
-        "path": "2026-11/wk46/p06_three_touches_linkedin_v2.pdf",
-        "alt": "3 touches. Then stop."
-      }
-    ],
-    "notes": "Copy not written yet (moved from week 47).\nPublishes through Buffer, automatically, on Philip's LinkedIn profile.\nBuffer posts the link as the first comment.\nDay60 stays untagged until HQ has the Day60 page's LinkedIn details for Buffer.\nThe PDF goes up as a LinkedIn document with its title.\nThe PDF is the v2 (HQ, Nov 14): slide 6 has cream keylines on Tick and the card. The old PDF stays in the repo.",
+    "files": [],
+    "notes": "Rewritten Nov 19 as a text post from the week 46 LI3 draft. Waits for HQ's approval.\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: the post's point is the method, not a page (HQ, Nov 19).\nThe v2 PDF is no longer posted (HQ, Nov 19: no LinkedIn PDFs); it stays in the repo.",
     "postedVia": ""
   },
   {
@@ -1480,10 +1475,10 @@
     "title": "Phil's own job search story",
     "format": "text",
     "text": "",
-    "firstComment": "https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50&utm_content=phil-story",
+    "firstComment": "",
     "link": "",
     "files": [],
-    "notes": "Reserved, not drafted: Social writes it after HQ forwards Phil's Nov 9 post.\nMoved to Tue Dec 8: LI-email took Tue Dec 1 (HQ, Nov 18).\nPublishes through Buffer, automatically, on Philip's LinkedIn profile.\nBuffer posts the link as the first comment.\nDay60 stays untagged until HQ has the Day60 page's LinkedIn details for Buffer.",
+    "notes": "Reserved, not drafted: Social writes it after HQ forwards Phil's Nov 9 post.\nMoved to Tue Dec 8: LI-email took Tue Dec 1 (HQ, Nov 18).\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: it ends on one next step a job seeker can take today, then a question (HQ, Nov 19).",
     "postedVia": ""
   },
   {
@@ -1493,19 +1488,14 @@
     "topic": "day60",
     "date": "2027-01-12",
     "time": "08:30",
-    "status": "approved",
+    "status": "draft",
     "title": "Product Hunt launch day",
-    "format": "image",
-    "text": "A sales playbook got me hired at ClickUp, Deel and Google.\n\nNot more applications. Find the few people who decide on a hire, and write each of them something worth reading.\n\nAt ClickUp I founded the sales development team, which grew from 0 to 32 reps. At Deel I wrote the Enterprise SDR Target Account Playbook. At Google I designed the Partner Lead Development Program.\n\nJob seekers mostly get told to apply to more. Most job tools make applying faster.\n\nSo I built Day60 to run that playbook one job at a time. Paste a job link, and it finds the four people closest to the hire and drafts a short note to each in your voice. You send every message.\n\nIt's on Product Hunt today. I'd rather hear what's wrong with it than collect compliments. Try it on one real job and tell me where it picked the wrong people, or where the note didn't sound like you.\n\nWhat would it need to get right before you'd trust it with your search?\n\nLink to the launch in the first comment.\n\n#producthunt #jobsearch #hiring",
-    "firstComment": "<Product Hunt launch link>",
+    "format": "text",
+    "text": "A sales playbook got me hired at ClickUp, Deel and Google.\n\nNot more applications. Find the few people who decide on a hire, and write each of them something worth reading.\n\nAt ClickUp I founded the sales development team, which grew from 0 to 32 reps. At Deel I wrote the Enterprise SDR Target Account Playbook. At Google I designed the Partner Lead Development Program.\n\nJob seekers mostly get told to apply to more. Most job tools make applying faster.\n\nSo I built Day60 to run that playbook one job at a time. Paste a job link, and it finds the four people closest to the hire and drafts a short note to each in your voice. You send every message.\n\nIt's on Product Hunt today. I'd rather hear what's wrong with it than collect compliments. Try it on one real job and tell me where it picked the wrong people, or where the note didn't sound like you.\n\nWhat would it need to get right before you'd trust it with your search?\n\nThe launch: <Product Hunt launch link>\n\n#producthunt #jobsearch #hiring",
+    "firstComment": "",
     "link": "",
-    "files": [
-      {
-        "path": "product-hunt/01_hero.png",
-        "alt": "Paste a job link. Meet the 4 people closest to the hire, each with a verified work email and a drafted note you send."
-      }
-    ],
-    "notes": "Not scheduled until the Product Hunt launch link exists; then it goes into Buffer for Jan 12.\nThe first comment is a placeholder until the Product Hunt launch link exists.\nPublishes through Buffer, automatically, on Philip's LinkedIn profile.\nBuffer posts the link as the first comment.\nDay60 stays untagged until HQ has the Day60 page's LinkedIn details for Buffer.\nThe image goes up with its alt text.",
+    "files": [],
+    "notes": "Not scheduled until the Product Hunt launch link exists; then it goes into Buffer for Jan 12.\nThe last line's link is a placeholder until the Product Hunt launch link exists.\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nThe launch link is the body's last line before the hashtags (HQ, Nov 19: the post's point is the launch page).\nRewritten Nov 19 (text only, link in the last line), so it waits for HQ's approval again. The hero image stays in the repo.",
     "postedVia": ""
   },
   {
@@ -1537,7 +1527,7 @@
     "topic": "day60",
     "date": "2027-01-12",
     "time": "18:00",
-    "status": "approved",
+    "status": "replaced",
     "title": "Product Hunt launch day",
     "format": "image",
     "text": "Day60 launched on Product Hunt today, and we'd like your honest take.\n\nPaste a job link, and it finds the four people closest to the hire, with verified work emails, and drafts a short note to each in your voice. Tick checks every draft. You send every message. It never applies for you and never logs in to your LinkedIn.\n\nTry it on one real job, then tell us where it got the people or the note wrong. You can comment on the launch here: <Product Hunt launch link>\n\nOr try one job first, free and with no account: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2027-w02&utm_content=product-hunt\n\n(The names on the image are invented.)\n\n#jobsearch #day60 #producthunt",
@@ -1549,7 +1539,7 @@
         "alt": "On Product Hunt today: paste a job link and meet the 4 people closest to the hire. Search Day60 on Product Hunt."
       }
     ],
-    "notes": "Not scheduled until the Product Hunt launch link exists; then it goes into Buffer for Jan 12.\nThe text needs the Product Hunt launch link, a placeholder until it exists.\nPublishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe link stays in the text, as written.",
+    "notes": "Cut Nov 19 (HQ): Facebook is quiet until after Dec 31. Approved Nov 11, never posted.",
     "postedVia": ""
   }
 ]

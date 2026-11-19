@@ -1,6 +1,6 @@
 # Week 2 · Sun Jan 10 – Sat Jan 16, 2027 · DRAFTS IN PROGRESS
 
-**Status: LI-PH, IG-PH and FB-PH are approved (Philip, Nov 11, Post Library) and not scheduled.** Philip schedules them once the Product Hunt launch link exists. The rest of the week comes after HQ's brief for week 2.
+**Status: IG-PH is approved (Philip, Nov 11, Post Library) and not scheduled. LI-PH was rewritten Nov 19 for HQ's LinkedIn rules (link in the last line, text only) and waits for HQ's approval. FB-PH is cut (Facebook is quiet from Nov 19, HQ).** They go into Buffer once the Product Hunt launch link exists. The rest of the week comes after HQ's brief for week 2.
 
 ## Product Hunt launch day · Tue Jan 12, 2027 (moved from Tue Dec 1 on Nov 11, on HQ's recommendation; Philip approved the kit's words on Nov 7)
 
@@ -10,18 +10,17 @@ They keep the library ids they had in week 49 (`2026-w49-LI-PH`, `2026-w49-IG-PH
 
 | Platform | Weekly cap | Week 2 so far |
 | --- | --- | --- |
-| LinkedIn | 2 Day60 posts (Tue, Thu) | LI-PH (Tue Jan 12); Thu to plan |
+| LinkedIn | 2 Day60 text posts (Tue, Thu) | LI-PH (Tue Jan 12); Thu to plan |
 | Instagram | 5 | IG-PH (Tue Jan 12); 4 to plan |
-| Facebook | 2 | FB-PH (Tue Jan 12, reuses IG-PH's image); 1 to plan |
+| Facebook | 0 (quiet from Nov 19; HQ looks again after Dec 31) | FB-PH cut |
 
-**When the launch link comes:** HQ asks Social to replace `<Product Hunt launch link>` in FB-PH's text and LI-PH's first comment. Product Hunt gives the link once Philip schedules the launch. Philip doesn't schedule or post anything that still has the placeholder.
+**When the launch link comes:** HQ asks Social to replace `<Product Hunt launch link>` in LI-PH's last line. Product Hunt gives the link once the launch is scheduled. Nothing with the placeholder goes into Buffer.
 
-### LI-PH · Tue Jan 12 · 8:30 AM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
-- Status: approved in the Post Library (Philip, Nov 11). Not scheduled. Philip schedules it once the Product Hunt launch link exists. He deletes the Dec 1 version he had scheduled.
-- Image: `product-hunt/01_hero.png` (gallery image 1)
-- Alt text: Paste a job link. Meet the 4 people closest to the hire, each with a verified work email and a drafted note you send.
-- Tags: Day60 page (auto)
-- First comment: <Product Hunt launch link>
+### LI-PH · Tue Jan 12 · 8:30 AM · DRAFT (rewritten Nov 19; approved Nov 11 before that) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
+- Status: draft again. Approved by Philip on Nov 11; rewritten Nov 19 for HQ's LinkedIn rules, so it waits for HQ's approval. Not scheduled until the Product Hunt launch link exists.
+- **Text only from Nov 19 (HQ: no more LinkedIn images).** It used `product-hunt/01_hero.png`, which stays in the repo.
+- Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
+- Link: the Product Hunt launch link, in the body's last line before the hashtags (HQ, Nov 19: the post's point is the launch page). A placeholder until it exists.
 
 ```
 A sales playbook got me hired at ClickUp, Deel and Google.
@@ -38,12 +37,12 @@ It's on Product Hunt today. I'd rather hear what's wrong with it than collect co
 
 What would it need to get right before you'd trust it with your search?
 
-Link to the launch in the first comment.
+The launch: <Product Hunt launch link>
 
 #producthunt #jobsearch #hiring
 ```
 
-Checks: "Day60" appears once. No link in the body. Founder facts are the four approved lines, nothing else; no personal results. Asks for feedback, not upvotes. No em-dashes, no banned phrases, no competitor names.
+Checks: "Day60" appears once. One link, the launch, in the last line. Founder facts are the four approved lines, nothing else; no personal results. Asks for feedback, not upvotes. No em-dashes, no banned phrases, no competitor names.
 
 ### IG-PH · Tue Jan 12 · 12:00 PM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `product-hunt/ig_launch_day_safe.png` replaces the image, a new file. FB-PH uses it too. Same words and alt text. The old file stays in the repo.
@@ -66,7 +65,8 @@ Try one job free, no account needed. Link in bio.
 #day60 #producthunt #jobsearch #jobsearchtips #careertips
 ```
 
-### FB-PH · Tue Jan 12 · 6:00 PM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
+### FB-PH (cut) · was Tue Jan 12 · 6:00 PM · NOT SCHEDULED
+- **Cut Nov 19 (HQ):** Facebook is quiet from Nov 19 until after Dec 31. Approved Nov 11, never posted. Its image stays in the repo.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `product-hunt/ig_launch_day_safe.png` replaces the image, a new file. Same words and alt text. The old file stays in the repo.
 - Status: approved in the Post Library (Philip, Nov 11). Not scheduled. Philip schedules it once the Product Hunt launch link exists. He deletes the Dec 1 version he had scheduled.
 - Image: `product-hunt/ig_launch_day.png` (same as IG-PH; Facebook reuses the week's Instagram images)
