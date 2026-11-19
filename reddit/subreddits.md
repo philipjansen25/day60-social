@@ -1,5 +1,7 @@
 # Reddit: target subreddits and self-promotion rules
 
+**Stopped (Philip, Nov 18):** the Reddit lane is closed (see `reddit/README.md`). This file is history.
+
 Philip posts by hand from **Philip's account**. No other accounts, no bought votes, no DMs, no upvote asks.
 
 ## Account phase (Philip's account)

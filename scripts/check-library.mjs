@@ -152,12 +152,8 @@ for (const p of lib) {
     if (f.path.endsWith('.png') && fs.existsSync(path.join(ROOT, f.path))) feed.set(f.path, [...(feed.get(f.path) ?? []), p.id]);
   }
 }
-const EXPAND = 'Instagram app: before Next, tap the expand button on the first photo so it shows the full 4:5.';
-for (const p of lib) {
-  if (p.channel !== 'instagram' || !['image', 'carousel'].includes(p.format)) continue;
-  if (!['draft', 'approved'].includes(p.status) || p.date < today) continue;
-  if (!(p.notes ?? '').split('\n').includes(EXPAND)) err(p.id, `notes need the expand line: "${EXPAND}"`);
-}
+// The Nov 16 expand-step check is gone (Philip, Nov 18): posts publish through Buffer, which sends the full 4:5,
+// so there is no phone-app step. The feed safe area below is what keeps every word visible.
 const safeOk = [], waived = [];
 for (const [file, ids] of feed) {
   const buf = fs.readFileSync(path.join(ROOT, file));

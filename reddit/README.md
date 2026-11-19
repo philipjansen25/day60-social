@@ -1,5 +1,7 @@
 # Reddit lane
 
+**Stopped (Philip, Nov 18, via HQ):** "I don't want to post manually anymore." Reddit can't be automated within our rules, so the lane is closed: no scans, no daily files, no replies, no F5Bot alerts. Everything below is history.
+
 Philip posts himself from **Philip's account**. Social drafts; HQ puts the drafts on Philip's calendar the same morning.
 
 ## For a fresh scan session (read this first)
@@ -14,7 +16,7 @@ Until Philip's account has about 50 comment karma (weeks 1–2): **comments only
 ## Daily run (weekdays, 6:15 AM CT; HQ, Nov 18)
 Each weekday Philip gets 2 ready replies, about 4 minutes in all. He posts by hand; nothing posts for him, ever. HQ syncs the day's file to the Post Library's "Reddit today". No Reddit API: Reddit's Responsible Builder Policy needs its approval first, and new access requests closed Oct 31, 2026 (HQ dropped the API plan, Nov 18).
 
-**Current mode: bank.** Alerts mode starts only when HQ says Philip's F5Bot alerts are on. Social then changes this line and tells HQ, and the Tue/Fri scans stop.
+**Current mode: stopped (Philip, Nov 18).** The weekday run and the Tue/Fri scan do nothing; if either fires, reply to HQ that the lane is stopped.
 
 1. `git pull`, then read this file, `subreddits.md` and `bank.md`.
 2. **Alerts mode:**
@@ -28,7 +30,7 @@ Each weekday Philip gets 2 ready replies, about 4 minutes in all. He posts by ha
 6. Commit, push, and send HQ one message: the file path, the mode, and each reply's post link, sub and title (its question in bank mode).
 - **Tue and Fri, until alerts run:** the 6:37 AM scan adds its threads under a "## Scan" heading in that day's file and leaves the 6:15 part as it is.
 
-### F5Bot alerts (Philip sets them up by hand)
+### F5Bot alerts (dropped Nov 18; never set up)
 Free email alerts when a keyword appears on Reddit. Keywords match post titles and links (and comments, which we turn off). Matching ignores case and finds the letters inside longer words. Each keyword gets the same flags, typed in F5Bot's flags field with spaces between them: `no-comments only-subreddit=jobs,jobsearchhacks,careerguidance,resumes,recruitinghell,sales,salesdevelopment,csMajors,cscareerquestions,GetEmployed`.
 - `hiring manager`
 - `cold email`: leave sales and salesdevelopment out of its list (`only-subreddit=jobs,jobsearchhacks,careerguidance,resumes,recruitinghell,csMajors,cscareerquestions,GetEmployed`), since there it's mostly prospecting
