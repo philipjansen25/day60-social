@@ -1,6 +1,6 @@
 # Week 2 · Sun Jan 10 – Sat Jan 16, 2027 · DRAFTS IN PROGRESS
 
-**Status: IG-PH and FB-PH are approved (Philip, Nov 11, Post Library) and not scheduled. LI-PH was rewritten Nov 19 for HQ's LinkedIn rules (link in the last line, text only); HQ approved its structure that day. Its hook changed the same day for HQ's new founder facts, and it stays a draft until the launch link exists.** Social puts all three into Buffer once the Product Hunt launch link exists. The rest of the week comes after HQ's brief for week 2.
+**Status: IG-PH and FB-PH are approved (Philip, Nov 11, Post Library) and not scheduled. LI-PH was rewritten Nov 19 for HQ's LinkedIn rules (link in the last line, text only); HQ approved its structure that day. Its new opening (Phil's "pile" line) is approved by HQ to keep, and it stays a draft until the launch link exists.** Social puts all three into Buffer once the Product Hunt launch link exists. The rest of the week comes after HQ's brief for week 2.
 
 ## Product Hunt launch day · Tue Jan 12, 2027 (moved from Tue Dec 1 on Nov 11, on HQ's recommendation; Philip approved the kit's words on Nov 7)
 
@@ -17,7 +17,7 @@ They keep the library ids they had in week 49 (`2026-w49-LI-PH`, `2026-w49-IG-PH
 **When the launch link comes:** HQ asks Social to replace `<Product Hunt launch link>` in LI-PH's last line and FB-PH's text. Product Hunt gives the link once the launch is scheduled. Nothing with the placeholder goes into Buffer.
 
 ### LI-PH · Tue Jan 12 · 8:30 AM · DRAFT (rewritten Nov 19; approved Nov 11 before that) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
-- Status: draft. Approved by Philip on Nov 11; rewritten Nov 19 for HQ's LinkedIn rules, and HQ approved the structure that day. The same day, the hook and the Day60 line changed for HQ's new founder facts ("got me hired at ClickUp, Deel and Google" is retired), and the hashtags now start with #jobsearch. It stays a draft until the launch link exists; then Social sends HQ the final line.
+- Status: draft. Approved by Philip on Nov 11; rewritten Nov 19 for HQ's LinkedIn rules, and HQ approved the structure that day. The same day, it got a new opening from Phil's own founder.ts line ("Your resume goes into a pile..."; HQ: keep it), the Day60 line followed, and the hashtags now start with #jobsearch. It stays a draft until the launch link exists; then Social sends HQ the final line.
 - **Text only from Nov 19 (HQ: no more LinkedIn images).** It used `product-hunt/01_hero.png`, which stays in the repo.
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
 - Link: the Product Hunt launch link, in the body's last line before the hashtags (HQ, Nov 19: the post's point is the launch page). A placeholder until it exists.

@@ -1,22 +1,22 @@
 # Week 49 · Sun Nov 29 – Sat Dec 5, 2026 · DRAFTS IN PROGRESS
 
-**Status: LI-3touch is approved (HQ, Nov 19). LI-email was approved the same day, then one line changed for HQ's new founder facts, so it waits for HQ again. LI-hiringside (Wed Dec 2) and LI-target (Fri Dec 4) are drafts for HQ in Phil's founder lane (HQ, Nov 19: Social writes all 5 LinkedIn posts). IG-email (HQ brief, Nov 18) is a proposed draft. FB-email is a proposed draft (cut Nov 19 and restored the same day: Philip wants Facebook 3 a week). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
+**Status: LI-email and LI-3touch are approved (HQ, Nov 19, after the rewrite for the LinkedIn link rule). LI-hiringside (Wed Dec 2) and LI-target (Fri Dec 4) are drafts for HQ in Phil's founder lane (HQ, Nov 19: Social writes all 5 LinkedIn posts). IG-email (HQ brief, Nov 18) is a proposed draft. FB-email is a proposed draft (cut Nov 19 and restored the same day: Philip wants Facebook 3 a week). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
 
 **Product Hunt moved to Tue Jan 12, 2027 (Philip, Nov 11, on HQ's recommendation).** LI-PH, IG-PH and FB-PH (approved Nov 11) moved to `2027-01/wk02/posts.md` with their library ids unchanged (`2026-w49-LI-PH`, `2026-w49-IG-PH`, `2026-w49-FB-PH`). Philip deletes the Dec 1 versions he had scheduled (his Thursday list). Their Tue Dec 1 slots went to LI-email and FB-email (LI-story, which moved there from week 48 on Nov 11, moved on to Tue Dec 8 on Nov 18).
 
 | Platform | Weekly cap | Week 49 so far |
 | --- | --- | --- |
-| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | Mon Nov 30: HQ's post (Post Library, HQ reviews it Nov 19). LI-email (Tue Dec 1, one line changed Nov 19, waits for HQ). LI-hiringside (Wed Dec 2, draft for HQ). LI-3touch (Thu Dec 3, approved, now a text post; moved from week 47). LI-target (Fri Dec 4, draft for HQ). Full. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
+| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | Mon Nov 30: HQ's post (Post Library, HQ reviews it Nov 19). LI-email (Tue Dec 1, approved). LI-hiringside (Wed Dec 2, draft for HQ). LI-3touch (Thu Dec 3, approved, now a text post; moved from week 47). LI-target (Fri Dec 4, draft for HQ). Full. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
 | Instagram | 5 | IG-email (Mon Nov 30, proposed). 4 to plan |
 | Facebook | 3 (Philip, Nov 19) | FB-email (Tue Dec 1, proposed). 2 to plan |
 
 ## LinkedIn (Philip's profile)
 
-### LI-email · Tue Dec 1 · 8:30 AM · DRAFT (approved Nov 19; one line changed the same day for HQ's new founder facts) · WHICH PERSON TO EMAIL, AND WHAT TO SAY (HQ brief, Nov 18)
-- Status: approved by HQ on Nov 19, with the new ending; then one line changed the same day (below), so it waits for HQ's approval again. Once approved, it goes into Buffer at the top-up that reaches Tue Dec 1. It takes Tue Dec 1; LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).
+### LI-email · Tue Dec 1 · 8:30 AM · APPROVED (HQ, Nov 19) · WHICH PERSON TO EMAIL, AND WHAT TO SAY (HQ brief, Nov 18)
+- Status: approved by HQ on Nov 19, with the new ending. It goes into Buffer at the top-up that reaches Tue Dec 1. (Its founder line was swapped and put back the same day: HQ confirmed founder.ts backs it.) It takes Tue Dec 1; LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).
 - Format: text only.
 - Source: HQ, Nov 18. A post going around (an Instagram repost of a Reddit post) says to stop relying on applications and email the person who posted the job, and promises a follow-up on how to write that email that never came. This post gives that part: which of the 4 people, and what to say to each (Day60's method, in week 47's IG-four wording). The original post and its author are not named or linked. It quotes one short line from it ("short, direct, slightly messy emails stand out") and none of its numbers.
-- Founder fact: Phil's own line from founder.ts, word for word ("I've spent my career building teams that reach the people who decide. Day60 is that playbook, rebuilt for your job search."). Changed Nov 19: HQ's new founder facts retire "the method I used to land jobs at ClickUp, Deel and Google".
+- Founder fact: "the method I used to land jobs at ClickUp, Deel and Google", backed by founder.ts's proofBar, founderLine and FAQ answer (HQ, Nov 19).
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
 - Link: none (HQ, Nov 19: a post whose point isn't a link has no link). Changed Nov 19: the guide link and the line pointing to it are out, and the post ends on a next step for today.
 
@@ -39,7 +39,7 @@ The recruiter runs the process. Say you applied and why: the role, one line on f
 
 Four people, four short notes, each in your own words.
 
-I've spent my career building teams that reach the people who decide. Day60 is that playbook, rebuilt for your job search: it finds the four people for one job and drafts a first note to each. You rewrite it until it sounds like you, then you send it.
+That's the method I used to land jobs at ClickUp, Deel and Google, and it's what we built Day60 to run: it finds the four people for one job and drafts a first note to each. You rewrite it until it sounds like you, then you send it.
 
 Being good at the work still matters most. This just gets the right people to see it.
 
@@ -50,7 +50,7 @@ Who will you write to first?
 #jobsearch #networking #hiring
 ```
 
-Checks: hook is 30 characters. "Day60" appears once. No link. One quoted line from the original (7 words), source not named. No numbers but the method's four people. The founder line is Phil's own, from founder.ts. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names. It says plainly that Day60 drafts the note and you rewrite it, since the original's advice is not to let AI write it.
+Checks: hook is 30 characters. "Day60" appears once. No link. One quoted line from the original (7 words), source not named. No numbers but the method's four people and the approved founder fact. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names. It says plainly that Day60 drafts the note and you rewrite it, since the original's advice is not to let AI write it.
 
 ### LI-hiringside · Wed Dec 2 · 8:30 AM · DRAFT · THREE THINGS FROM THE HIRING SIDE (founder lane, HQ Nov 19)
 - Status: draft, for HQ's approval.
