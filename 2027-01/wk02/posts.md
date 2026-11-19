@@ -1,6 +1,6 @@
 # Week 2 · Sun Jan 10 – Sat Jan 16, 2027 · DRAFTS IN PROGRESS
 
-**Status: IG-PH and FB-PH are approved (Philip, Nov 11, Post Library) and not scheduled. LI-PH was rewritten Nov 19 for HQ's LinkedIn rules (link in the last line, text only); HQ approved its structure that day, and it stays a draft until the launch link exists.** Social puts all three into Buffer once the Product Hunt launch link exists. The rest of the week comes after HQ's brief for week 2.
+**Status: IG-PH and FB-PH are approved (Philip, Nov 11, Post Library) and not scheduled. LI-PH was rewritten Nov 19 for HQ's LinkedIn rules (link in the last line, text only); HQ approved its structure that day. Its hook changed the same day for HQ's new founder facts, and it stays a draft until the launch link exists.** Social puts all three into Buffer once the Product Hunt launch link exists. The rest of the week comes after HQ's brief for week 2.
 
 ## Product Hunt launch day · Tue Jan 12, 2027 (moved from Tue Dec 1 on Nov 11, on HQ's recommendation; Philip approved the kit's words on Nov 7)
 
@@ -17,21 +17,22 @@ They keep the library ids they had in week 49 (`2026-w49-LI-PH`, `2026-w49-IG-PH
 **When the launch link comes:** HQ asks Social to replace `<Product Hunt launch link>` in LI-PH's last line and FB-PH's text. Product Hunt gives the link once the launch is scheduled. Nothing with the placeholder goes into Buffer.
 
 ### LI-PH · Tue Jan 12 · 8:30 AM · DRAFT (rewritten Nov 19; approved Nov 11 before that) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
-- Status: draft. Approved by Philip on Nov 11; rewritten Nov 19 for HQ's LinkedIn rules, and HQ approved the structure that day. It stays a draft until the launch link exists; then Social sends HQ the final line.
+- Status: draft. Approved by Philip on Nov 11; rewritten Nov 19 for HQ's LinkedIn rules, and HQ approved the structure that day. The same day, the hook and the Day60 line changed for HQ's new founder facts ("got me hired at ClickUp, Deel and Google" is retired), and the hashtags now start with #jobsearch. It stays a draft until the launch link exists; then Social sends HQ the final line.
 - **Text only from Nov 19 (HQ: no more LinkedIn images).** It used `product-hunt/01_hero.png`, which stays in the repo.
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
 - Link: the Product Hunt launch link, in the body's last line before the hashtags (HQ, Nov 19: the post's point is the launch page). A placeholder until it exists.
 
 ```
-A sales playbook got me hired at ClickUp, Deel and Google.
+Your resume goes into a pile.
+The person who decides never sees it.
 
-Not more applications. Find the few people who decide on a hire, and write each of them something worth reading.
-
-At ClickUp I founded the sales development team, which grew from 0 to 32 reps. At Deel I wrote the Enterprise SDR Target Account Playbook. At Google I designed the Partner Lead Development Program.
+So I stopped waiting in the pile and went to the people who decide.
 
 Job seekers mostly get told to apply to more. Most job tools make applying faster.
 
-So I built Day60 to run that playbook one job at a time. Paste a job link, and it finds the four people closest to the hire and drafts a short note to each in your voice. You send every message.
+I've spent my career building teams that do exactly that. At ClickUp I founded the sales development team, which grew from 0 to 32 reps. At Deel I wrote the Enterprise SDR Target Account Playbook. At Google I designed the Partner Lead Development Program.
+
+Day60 is that playbook, rebuilt for your job search. Paste a job link, and it finds the four people closest to the hire and drafts a short note to each in your voice. You send every message.
 
 It's on Product Hunt today. I'd rather hear what's wrong with it than collect compliments. Try it on one real job and tell me where it picked the wrong people, or where the note didn't sound like you.
 
@@ -39,10 +40,10 @@ What would it need to get right before you'd trust it with your search?
 
 The launch: <Product Hunt launch link>
 
-#producthunt #jobsearch #hiring
+#jobsearch #producthunt #hiring
 ```
 
-Checks: "Day60" appears once. One link, the launch, in the last line. Founder facts are the four approved lines, nothing else; no personal results. Asks for feedback, not upvotes. No em-dashes, no banned phrases, no competitor names.
+Checks: hook is 29 characters. "Day60" appears once. One link, the launch, in the last line. Founder facts are Phil's two founder.ts lines (the first word for word, the second plainly paraphrased) and the ClickUp, Deel and Google roles, with no numbers but the team size; no personal results. Asks for feedback, not upvotes. No em-dashes, no banned phrases, no competitor names.
 
 ### IG-PH · Tue Jan 12 · 12:00 PM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `product-hunt/ig_launch_day_safe.png` replaces the image, a new file. FB-PH uses it too. Same words and alt text. The old file stays in the repo.
