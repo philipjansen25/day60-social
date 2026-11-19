@@ -1,12 +1,12 @@
 # Week 49 · Sun Nov 29 – Sat Dec 5, 2026 · DRAFTS IN PROGRESS
 
-**Status: LI-email and LI-3touch are approved (HQ, Nov 19, after the rewrite for the LinkedIn link rule). IG-email (HQ brief, Nov 18) is a proposed draft. FB-email is a proposed draft (cut Nov 19 and restored the same day: Philip wants Facebook 3 a week). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
+**Status: LI-email and LI-3touch are approved (HQ, Nov 19, after the rewrite for the LinkedIn link rule). LI-hiringside (Wed Dec 2) and LI-target (Fri Dec 4) are drafts for HQ in Phil's founder lane (HQ, Nov 19: Social writes all 5 LinkedIn posts). IG-email (HQ brief, Nov 18) is a proposed draft. FB-email is a proposed draft (cut Nov 19 and restored the same day: Philip wants Facebook 3 a week). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
 
 **Product Hunt moved to Tue Jan 12, 2027 (Philip, Nov 11, on HQ's recommendation).** LI-PH, IG-PH and FB-PH (approved Nov 11) moved to `2027-01/wk02/posts.md` with their library ids unchanged (`2026-w49-LI-PH`, `2026-w49-IG-PH`, `2026-w49-FB-PH`). Philip deletes the Dec 1 versions he had scheduled (his Thursday list). Their Tue Dec 1 slots went to LI-email and FB-email (LI-story, which moved there from week 48 on Nov 11, moved on to Tue Dec 8 on Nov 18).
 
 | Platform | Weekly cap | Week 49 so far |
 | --- | --- | --- |
-| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Social's Day60 text posts: Tue, Thu | LI-email (Tue Dec 1, approved), LI-3touch (Thu Dec 3, approved, now a text post; moved from week 47). Mon, Wed, Fri: HQ's lane. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
+| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | Mon Nov 30: HQ's post (Post Library, HQ reviews it Nov 19). LI-email (Tue Dec 1, approved). LI-hiringside (Wed Dec 2, draft for HQ). LI-3touch (Thu Dec 3, approved, now a text post; moved from week 47). LI-target (Fri Dec 4, draft for HQ). Full. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
 | Instagram | 5 | IG-email (Mon Nov 30, proposed). 4 to plan |
 | Facebook | 3 (Philip, Nov 19) | FB-email (Tue Dec 1, proposed). 2 to plan |
 
@@ -52,6 +52,38 @@ Who will you write to first?
 
 Checks: hook is 30 characters. "Day60" appears once. No link. One quoted line from the original (7 words), source not named. No numbers but the method's four people and the approved founder fact. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names. It says plainly that Day60 drafts the note and you rewrite it, since the original's advice is not to let AI write it.
 
+### LI-hiringside · Wed Dec 2 · 8:30 AM · DRAFT · THREE THINGS FROM THE HIRING SIDE (founder lane, HQ Nov 19)
+- Status: draft, for HQ's approval.
+- Lane: Phil's founder lane (Mon, Wed, Fri; HQ, Nov 19). First person, from his sales development work.
+- Format: text only.
+- Founder fact: the second founder.ts line (ClickUp's sales development team, 0 to 32 reps), nothing else. "Put me on the hiring side of the table" is read from that line (he built the team); HQ to confirm it isn't an embellishment.
+- The three points are Phil's view, given as advice, not as events or results. No numbers but the founder fact.
+- Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
+- Link: none (the post's point is the advice, not a page).
+
+```
+I founded ClickUp's sales development team.
+It grew from 0 to 32 reps.
+
+Building a team from zero put me on the hiring side of the table. Three things I'd want every candidate to know from there.
+
+Silence is usually busy, not no. The person hiring still has their own job to do while the seat sits empty.
+
+Short gets read. A note that fits on a phone screen gets read to the end. A page gets skimmed.
+
+Easy questions get answers. "Is the team still hiring for this role?" is easier to answer than "Can we set up a call?"
+
+It's why Day60 drafts short notes to the people closest to the hire.
+
+Today, cut one message you've written until it fits on your phone screen, and end it with an easy question.
+
+If you've ever hired, what made you write back?
+
+#jobsearch #hiring #careeradvice
+```
+
+Checks: hook is 43 characters. "Day60" appears once. No link. One founder fact, as written in founder.ts. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names.
+
 ### LI-3touch · Thu Dec 3 · 8:30 AM · APPROVED (HQ, Nov 19) · MOVED FROM WEEK 47 (HQ, Nov 11)
 - Document: `2026-11/wk46/p06_three_touches_linkedin_v2.pdf` (HQ, Nov 14: slide 6 now has cream keylines on Tick and the card; slides 1 to 5 are unchanged, and the old PDF and IG4's slides stay in the repo. Source: `2026-11/wk46/build_v2.py`). It moved to week 47 when the Chrome extension post took week 46's Thursday slot, then here when Day60's LinkedIn went to two posts a week (Tue and Thu) from Nov 16.
 - **Text post from Nov 19 (HQ: no more LinkedIn PDFs).** The PDF above is no longer posted; it stays in the repo.
@@ -80,6 +112,37 @@ How many follow-ups do you send before you stop?
 ```
 
 Checks: "Day60" appears once. No link. The week 46 wording, minus "Save the carousel" and the link. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names.
+
+### LI-target · Fri Dec 4 · 8:30 AM · DRAFT · RUN YOUR SEARCH LIKE A TARGET ACCOUNT LIST (founder lane, HQ Nov 19)
+- Status: draft, for HQ's approval.
+- Lane: Phil's founder lane (Mon, Wed, Fri; HQ, Nov 19). First person, from his sales development work.
+- Format: text only.
+- Founder facts: the third founder.ts line (the Enterprise SDR Target Account Playbook at Deel), nothing else. The post describes target account selling in general, not what his Deel playbook says.
+- Stat: the approved Huntr line, word for word, with its source. "Job seekers mostly get told the opposite: apply to more" follows LI-PH's approved line.
+- Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
+- Link: none (the post's point is the method, not a page).
+
+```
+At Deel I wrote the Enterprise SDR Target Account Playbook.
+
+The idea behind any target account plan is simple. You don't chase every company. You pick a short list, learn each one well, and reach the few people there who decide.
+
+Job seekers mostly get told the opposite: apply to more.
+
+About 3 in 100 LinkedIn applications lead to an interview (Huntr, 2025).
+
+So run your search like a target account list. Fewer jobs. More homework on each. A real note to the people who decide.
+
+That's the playbook Day60 runs, one job at a time.
+
+Today, cut your list to five jobs you'd actually take, and find the hiring manager's name for one of them.
+
+How many jobs are on your list right now?
+
+#jobsearch #sales #careeradvice
+```
+
+Checks: hook is 59 characters. "Day60" appears once. No link. One founder fact, as written in founder.ts; the stat in its approved wording. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names.
 
 ## Instagram and Facebook: which person to email (HQ brief, Wed Nov 18)
 

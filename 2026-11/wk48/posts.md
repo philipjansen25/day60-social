@@ -1,10 +1,12 @@
 # Week 48 · Sun Nov 22 – Sat Nov 28, 2026 · FULL: DRAFTS WAIT FOR APPROVAL
 
+**Update (HQ, Nov 19): LinkedIn is 5 a week (Mon to Fri, 8:30 AM CT), and Thanksgiving gets a light, short LinkedIn post that doesn't sell: LI-thanks (Thu Nov 26, draft for HQ). The "no LinkedIn post on Thanksgiving" below no longer holds.**
+
 **Status: all drafts, nothing approved.** LI-resume is from HQ's Nov 11 ask; the Instagram and Facebook posts are from HQ's brief of Thu Nov 12, and Philip approves them on Friday Nov 13 with week 47. Thanksgiving is Thu Nov 26, so no LinkedIn post Thu Nov 26 or Fri Nov 27. Day60's LinkedIn posts are Tue and Thu from Nov 16 (HQ, Nov 11), so this week has one, Tue Nov 24. Buffer is paused: Philip posts approved posts by hand from `library.json`.
 
 | Platform | Weekly cap | Week 48 so far |
 | --- | --- | --- |
-| LinkedIn | 2 Day60 posts (Tue, Thu) | LI-resume (Tue Nov 24, proposed; HQ Nov 11). LI-story moved to Tue Dec 1 (week 49). No Day60 post Thu Nov 26 (Thanksgiving; HQ asked, Nov 12, and the answer is still no) |
+| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | LI-resume (Tue Nov 24, proposed; HQ Nov 11). Wed Nov 25 and Fri Nov 27: HQ's posts, in Buffer. LI-thanks (Thu Nov 26, Thanksgiving, draft for HQ; HQ Nov 19). LI-story moved to Tue Dec 8 (week 50) |
 | Instagram | 5 | IG-thanks (Sun Nov 22), IG-which (Mon Nov 23), IG-rb-reel (Tue Nov 24), IG-onelink (Wed Nov 25), IG-shortlist (Sat Nov 28), all proposed. Full. None on Thanksgiving |
 | Facebook | 2 | FB-which (Tue Nov 24, reuses IG-which's image), FB-thanks (Thu Nov 26, 10:00 AM, reuses IG-thanks's carousel), both proposed. Full |
 
@@ -38,6 +40,31 @@ Link in the first comment.
 ```
 
 Checks: hook is 47 characters. "Day60" appears once. No link in the body. No personal results or numbers: it says only that he tried it and it worked well. Ends on a question. No em-dashes, no banned phrases, no competitor names.
+
+### LI-thanks · Thu Nov 26 · 8:30 AM · DRAFT · THANKSGIVING: SEND ONE THANK-YOU TODAY (HQ, Nov 19)
+- Status: draft, for HQ's approval. HQ, Nov 19: "post as normal, with a light, short one that fits the day and doesn't sell."
+- Format: text only.
+- Same idea as FB-thanks (Facebook, 10:00 AM the same day): one thank-you, no ask.
+- Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
+- Link: none. It doesn't sell, and it ends on one next step for today, then a question.
+
+```
+Happy Thanksgiving.
+
+Thank you for reading and commenting on my Day60 posts this fall.
+
+Here's one thing for today, and it isn't an application.
+
+Think of one person who helped your search this year. Someone who answered a cold note, made an introduction, gave you ten minutes on a call, or read your résumé and told you the truth.
+
+Send them two lines today: what they did, and what came of it. No ask.
+
+Who's the first person you'll thank?
+
+#jobsearch #thanksgiving #networking
+```
+
+Checks: hook is 19 characters. "Day60" appears once, as a thank-you, not a pitch. No link, no product claim, no numbers. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names.
 
 ## Instagram and Facebook: the first action, Thanksgiving week (HQ brief, Thu Nov 12)
 

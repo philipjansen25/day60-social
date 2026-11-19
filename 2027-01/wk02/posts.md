@@ -10,7 +10,7 @@ They keep the library ids they had in week 49 (`2026-w49-LI-PH`, `2026-w49-IG-PH
 
 | Platform | Weekly cap | Week 2 so far |
 | --- | --- | --- |
-| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Social's Day60 text posts: Tue, Thu | LI-PH (Tue Jan 12); Thu to plan |
+| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | LI-PH (Tue Jan 12); Mon, Wed, Thu and Fri to plan |
 | Instagram | 5 | IG-PH (Tue Jan 12); 4 to plan |
 | Facebook | 3 (Philip, Nov 19) | FB-PH (Tue Jan 12, reuses IG-PH's image); 2 to plan |
 
