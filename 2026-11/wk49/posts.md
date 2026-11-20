@@ -7,8 +7,8 @@
 | Platform | Weekly cap | Week 49 so far |
 | --- | --- | --- |
 | LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | Mon Nov 30: HQ's post (Post Library, HQ reviews it Nov 19). LI-email (Tue Dec 1, approved). LI-hiringside (Wed Dec 2, draft for HQ). LI-3touch (Thu Dec 3, approved, now a text post; moved from week 47). LI-target (Fri Dec 4, draft for HQ). Full. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
-| Instagram | 5 | IG-email (Mon Nov 30, proposed). 4 to plan |
-| Facebook | 3 (Philip, Nov 19) | FB-email (Tue Dec 1, proposed). 2 to plan |
+| Instagram | 5 | IG-email (Mon Nov 30, proposed). 4 to plan, one a carousel teaching guide 1, how-to-find-the-hiring-manager (guide of the week; HQ, Nov 19) |
+| Facebook | 3 (Philip, Nov 19) | FB-email (Tue Dec 1, proposed). 2 to plan, one carrying guide 1 and its link (guide of the week; HQ, Nov 19) |
 
 ## LinkedIn (Philip's profile)
 

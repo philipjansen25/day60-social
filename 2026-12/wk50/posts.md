@@ -5,8 +5,8 @@
 | Platform | Weekly cap | Week 50 so far |
 | --- | --- | --- |
 | LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | LI-story (Tue Dec 8, reserved; moved from week 49, HQ Nov 18). Thu Dec 10: the guide of the week, how-to-find-the-hiring-manager (HQ, Nov 19; playbook §5). Mon Dec 7, Wed Dec 9 and Fri Dec 11 to plan |
-| Instagram | 5 | 5 to plan, one a carousel teaching the guide of the week (IG-story proposed, waits on LI-story) |
-| Facebook | 3 (Philip, Nov 19) | 3 to plan, one carrying the guide of the week and its link (FB-story proposed, waits on LI-story) |
+| Instagram | 5 | 5 to plan, no guide this week: guide 1 ran in week 49 (HQ, Nov 19) (IG-story proposed, waits on LI-story) |
+| Facebook | 3 (Philip, Nov 19) | 3 to plan, no guide this week: guide 1 ran in week 49 (HQ, Nov 19) (FB-story proposed, waits on LI-story) |
 
 ## LinkedIn (Philip's profile)
 
