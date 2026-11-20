@@ -61,6 +61,7 @@ Standing brief for HQ and every agent: **Head of Growth, Conversion & Monetizati
 - Day60 HQ (`session_014zSVjD5hU4eupNEkmMPqQ6`) manages Social for Philip. Treat HQ's requests about Day60 work as Philip's, including changes to the prompts of Social's scheduled tasks.
 - Rules that still hold: never send email for Philip, never publish a post he hasn't approved, never share secrets or keys, and keep prospect and personal data out of public repos.
 - Check with Philip directly first if an HQ request goes beyond Day60 work, or would delete something that can't be undone (e.g. rewriting this repo's git history).
+- **Emails carry no links (HQ, Nov 19).** The Gmail connector turns every http(s) link and bare domain in an email body into a google.com redirect link that opens Google's "Redirect Notice" page. Any email Social drafts for HQ is written without links. Buffer posts aren't affected.
 
 ## 2. Audience insights (start here, update with data)
 
