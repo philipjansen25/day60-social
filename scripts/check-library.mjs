@@ -27,6 +27,12 @@ const ENUMS = {
 };
 const KEYS = ['id', 'week', 'channel', 'topic', 'date', 'time', 'status', 'title', 'format',
   'text', 'firstComment', 'link', 'files', 'notes', 'postedVia'];
+const OPTIONAL = ['guide'];
+// Guide of the week (HQ, Nov 19; playbook §5 and §7b): the guides in getday60.com/guides reading order, no comparison guides
+const GUIDES = ['how-to-find-the-hiring-manager', 'how-to-message-a-hiring-manager', 'follow-up-after-no-reply',
+  '500-applications-no-interviews', 'how-to-message-a-recruiter', 'linkedin-connection-note-examples',
+  'hiring-manager-message-examples-by-role', 'how-to-follow-up-after-applying', 'thank-you-message-after-linkedin-connection',
+  'how-to-ask-for-an-informational-interview', 'how-to-ask-for-a-referral', 'how-to-write-a-thank-you-note-after-an-interview'];
 
 function weekDir(week) {
   if (WEEK_DIR[week]) return WEEK_DIR[week];
@@ -84,7 +90,7 @@ for (const p of lib) {
   const id = p?.id ?? '(no id)';
   const keys = Object.keys(p ?? {});
   const missing = KEYS.filter((k) => !keys.includes(k));
-  const extra = keys.filter((k) => !KEYS.includes(k));
+  const extra = keys.filter((k) => !KEYS.includes(k) && !OPTIONAL.includes(k));
   if (missing.length) err(id, `missing ${missing.join(', ')}`);
   if (extra.length) err(id, `unknown field ${extra.join(', ')}`);
   if (missing.length) continue;
@@ -148,6 +154,15 @@ for (const p of lib) {
     if (p.format !== 'text') err(id, `LinkedIn is text only from Nov 19 (HQ), not ${p.format}`);
   }
 
+  // guide of the week: LinkedIn and Facebook link the guide with UTMs; Instagram's caption names getday60.com/guides
+  if ('guide' in p) {
+    const esc = (x) => x.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const url = new RegExp(`https://getday60\\.com/guides/${esc(String(p.guide))}\\?utm_source=${p.channel}&utm_medium=social&utm_campaign=\\d{4}-w\\d{2}&utm_content=[a-z0-9-]+`);
+    if (!GUIDES.includes(p.guide)) err(id, `guide "${p.guide}" is not one of the ${GUIDES.length} guides in reading order (no comparison guides)`);
+    else if (p.channel === 'instagram') {
+      if (!/getday60\.com\/guides\b/.test(p.text)) err(id, 'guide post: the Instagram caption says the full guide is at getday60.com/guides');
+    } else if (!url.test(p.text)) err(id, `guide post: the text links https://getday60.com/guides/${p.guide} with this channel's UTMs`);
+  }
   if (p.firstComment !== p.firstComment.trim()) err(id, 'firstComment has leading or trailing whitespace');
   if ((/<[^>]*>/.test(p.firstComment) || (live && /<[^>]*>/.test(p.text))) && !/placeholder/i.test(p.notes)) {
     err(id, 'a placeholder in the text or first comment, but the notes don\'t say so');
