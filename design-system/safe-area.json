@@ -195,6 +195,46 @@
    "scale": 0.871,
    "checked": "2026-11-18"
   },
+  "2026-11/wk49/p02_find_hm_1_lime.png": {
+   "sha256": "9e99cde0a4e5534821eebf2d97ebc83420a95700e0a41146f4c8caef1f9b45e6",
+   "scale": 0.862,
+   "checked": "2026-11-20"
+  },
+  "2026-11/wk49/p02_find_hm_2.png": {
+   "sha256": "b1aa9d1539addd19c81ea366bffa5f8a6fb20df3b6e486ccae103012d6d5f949",
+   "scale": 0.862,
+   "checked": "2026-11-20"
+  },
+  "2026-11/wk49/p02_find_hm_3.png": {
+   "sha256": "6765ea689c457c1d2fc1db608d519a139567cb03b409944f4e916edb7421dc89",
+   "scale": 0.862,
+   "checked": "2026-11-20"
+  },
+  "2026-11/wk49/p02_find_hm_4.png": {
+   "sha256": "3400333761b771a66278f9ba645f0c73194e160d07f5fb5b103a63be2640d87c",
+   "scale": 0.862,
+   "checked": "2026-11-20"
+  },
+  "2026-11/wk49/p02_find_hm_5.png": {
+   "sha256": "df0efe2dbfd9bdb435b7855431667df9de21828474848dc49104055203b2dea3",
+   "scale": 0.862,
+   "checked": "2026-11-20"
+  },
+  "2026-11/wk49/p02_find_hm_6.png": {
+   "sha256": "ba05fb8f8ed750bccf6101fe45c3fb6ab714430b6833e71516a9ef1b016becb2",
+   "scale": 0.862,
+   "checked": "2026-11-20"
+  },
+  "2026-11/wk49/p02_find_hm_7.png": {
+   "sha256": "914ed947a33395c8a823df187aaa97eae9a5554465d7983e141ae1980db6e742",
+   "scale": 0.871,
+   "checked": "2026-11-20"
+  },
+  "2026-11/wk49/p02_find_hm_7_fb.png": {
+   "sha256": "bb661c3be78dceddc3f84f019de4fc38ec6478e645dee2003eb9540a7628fd5e",
+   "scale": 0.871,
+   "checked": "2026-11-20"
+  },
   "product-hunt/ig_launch_day_safe.png": {
    "sha256": "312dfd267f97ccc7f60fe36a9d02d63d28bddde4351fab8e97df8b1e9348cbe6",
    "scale": 0.88,

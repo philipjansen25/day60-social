@@ -2,13 +2,15 @@
 
 **Status: LI-email and LI-3touch are approved (HQ, Nov 19, after the rewrite for the LinkedIn link rule). LI-hiringside (Wed Dec 2) and LI-target (Fri Dec 4) are drafts for HQ in Phil's founder lane (HQ, Nov 19: Social writes all 5 LinkedIn posts). IG-email (HQ brief, Nov 18) is a proposed draft. FB-email is a proposed draft (cut Nov 19 and restored the same day: Philip wants Facebook 3 a week). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
 
+**Guide of the week 1 (HQ, Nov 19):** IG-findhm (Wed Dec 2) and FB-findhm (Thu Dec 3) teach how-to-find-the-hiring-manager in this week's open slots. Drafts for HQ, sent with the next top-up's drafts. LinkedIn takes the guide on Thu Dec 10 (week 50).
+
 **Product Hunt moved to Tue Jan 12, 2027 (Philip, Nov 11, on HQ's recommendation).** LI-PH, IG-PH and FB-PH (approved Nov 11) moved to `2027-01/wk02/posts.md` with their library ids unchanged (`2026-w49-LI-PH`, `2026-w49-IG-PH`, `2026-w49-FB-PH`). Philip deletes the Dec 1 versions he had scheduled (his Thursday list). Their Tue Dec 1 slots went to LI-email and FB-email (LI-story, which moved there from week 48 on Nov 11, moved on to Tue Dec 8 on Nov 18).
 
 | Platform | Weekly cap | Week 49 so far |
 | --- | --- | --- |
 | LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | Mon Nov 30: HQ's post (Post Library, HQ reviews it Nov 19). LI-email (Tue Dec 1, approved). LI-hiringside (Wed Dec 2, draft for HQ). LI-3touch (Thu Dec 3, approved, now a text post; moved from week 47). LI-target (Fri Dec 4, draft for HQ). Full. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
-| Instagram | 5 | IG-email (Mon Nov 30, proposed). 4 to plan, one a carousel teaching guide 1, how-to-find-the-hiring-manager (guide of the week; HQ, Nov 19) |
-| Facebook | 3 (Philip, Nov 19) | FB-email (Tue Dec 1, proposed). 2 to plan, one carrying guide 1 and its link (guide of the week; HQ, Nov 19) |
+| Instagram | 5 | IG-email (Mon Nov 30, proposed). IG-findhm (Wed Dec 2, draft): guide of the week 1, how-to-find-the-hiring-manager (HQ, Nov 19). 3 to plan |
+| Facebook | 3 (Philip, Nov 19) | FB-email (Tue Dec 1, proposed). FB-findhm (Thu Dec 3, draft): guide 1 and its link (HQ, Nov 19). 1 to plan |
 
 ## LinkedIn (Philip's profile)
 
@@ -193,6 +195,50 @@ Keep each one short and plain. Write it the way you'd say it.
 How to write the first one, to the hiring manager: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=which-person
 
 Share this with someone who's looking.
+
+#jobsearch #day60 #careeradvice
+```
+
+### IG-findhm · Wed Dec 2 · 12:00 PM · DRAFT · GUIDE OF THE WEEK 1: HOW TO FIND THE HIRING MANAGER (HQ, Nov 19)
+- Status: draft, for HQ's approval. Guide of the week 1 (playbook §5): `guide` is `how-to-find-the-hiring-manager` in library.json.
+- Carousel (7): `2026-11/wk49/p02_find_hm_1_lime.png`, `p02_find_hm_2.png` to `p02_find_hm_7.png` (source: `2026-11/wk49/build_guide1.py`). Rendered inside the feed safe area (y 150 to 1200). FB-findhm uses the same slides with its own slide 7.
+- Words: the guide's own text (getday60.com/guides/how-to-find-the-hiring-manager, read Nov 19) and the playbook. No numbers, no names, no example.
+- Cover: lime ("save this"). Grid: IG-onelink (mint), IG-shortlist (coral) and IG-email (ink) come before it, so any 4 in a row stay different.
+- Alt text (per slide): 1 How to find the hiring manager for a job: from the posting, the company's own pages and your own LinkedIn search. · 2 Step 1: Read the posting twice. Look for the title and team, a reports-to line, any names and the level. · 3 Step 2: Check the company's own pages. A leader who announced a launch or a new team is a strong lead. · 4 Step 3: Search LinkedIn yourself: the company's page, People, a short title keyword, then the level titles. · 5 Step 4: Confirm they still work there, their title fits the team, and their location makes sense. · 6 Not sure who leads the team? Ask the recruiter or someone on the team first. · 7 The full guide is at getday60.com/guides. Paste a job link and get your 4 people. Link in bio.
+- Link: bio link stays /try. No link in the caption; the caption says where the full guide is.
+
+```
+The posting holds more clues than most people use. Here's how to find the hiring manager for a job, every step by hand.
+
+1. Read the posting twice: once for the job, once for the people. Look for the team, a "reports to" line, any names and the level.
+2. Check the company's own pages: team pages, announcements, the blog.
+3. Search LinkedIn yourself: the company's page, then People, then a short title keyword.
+4. Confirm before you write: they still work there, and their title fits the team in the posting.
+
+Not sure which of two people leads the team? Ask the recruiter or someone on the team first.
+
+Today, pick one job you want and find its hiring manager's name. The full guide, with an example start to finish, is at getday60.com/guides.
+
+#day60 #jobsearch #jobsearchtips #careertips #networking
+```
+
+### FB-findhm · Thu Dec 3 · 6:00 PM · DRAFT · GUIDE OF THE WEEK 1: HOW TO FIND THE HIRING MANAGER (HQ, Nov 19)
+- Status: draft, for HQ's approval. Guide of the week 1 (playbook §5): `guide` is `how-to-find-the-hiring-manager` in library.json.
+- Carousel (7): IG-findhm's slides 1 to 6 and `2026-11/wk49/p02_find_hm_7_fb.png` (a getday60.com sticker in place of "Link in bio"). The day after the Instagram post.
+- Words: the guide's own text and the playbook, as IG-findhm.
+- Alt text (per slide): 1 How to find the hiring manager for a job: from the posting, the company's own pages and your own LinkedIn search. · 2 Step 1: Read the posting twice. Look for the title and team, a reports-to line, any names and the level. · 3 Step 2: Check the company's own pages. A leader who announced a launch or a new team is a strong lead. · 4 Step 3: Search LinkedIn yourself: the company's page, People, a short title keyword, then the level titles. · 5 Step 4: Confirm they still work there, their title fits the team, and their location makes sense. · 6 Not sure who leads the team? Ask the recruiter or someone on the team first. · 7 The full guide is at getday60.com/guides. Paste a job link and get your 4 people at getday60.com.
+- Link: https://getday60.com/guides/how-to-find-the-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=find-hiring-manager
+
+```
+The posting holds more clues than most people use.
+
+Read it once for the job and once for the people: the title and team, a "reports to" line, any names, and the level of the role.
+
+Then check the company's own pages for that team's leader, search LinkedIn yourself by title, and confirm the person still works there before you write.
+
+Not sure which of two people leads the team? Ask the recruiter or someone on the team first. A short question costs less than a message to the wrong person.
+
+Today, pick one job and find its hiring manager's name. The full guide, step by step: https://getday60.com/guides/how-to-find-the-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=find-hiring-manager
 
 #jobsearch #day60 #careeradvice
 ```
