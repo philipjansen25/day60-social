@@ -1,6 +1,6 @@
 # Week 49 · Sun Nov 29 – Sat Dec 5, 2026 · DRAFTS IN PROGRESS
 
-**Status: LI-email and LI-3touch are approved (HQ, Nov 19, after the rewrite for the LinkedIn link rule). LI-hiringside (Wed Dec 2) and LI-target (Fri Dec 4) are drafts for HQ in Phil's founder lane (HQ, Nov 19: Social writes all 5 LinkedIn posts). IG-email (HQ brief, Nov 18) is a proposed draft. FB-email is a proposed draft (cut Nov 19 and restored the same day: Philip wants Facebook 3 a week). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
+**Status: LI-email and LI-3touch are approved (HQ, Nov 19, after the rewrite for the LinkedIn link rule). LI-hiringside (Wed Dec 2) is approved (HQ, Nov 22, with Philip's own edit). LI-target (Fri Dec 4) is a draft for HQ in Phil's founder lane (HQ, Nov 19: Social writes all 5 LinkedIn posts). IG-email (HQ brief, Nov 18) is a proposed draft. FB-email is a proposed draft (cut Nov 19 and restored the same day: Philip wants Facebook 3 a week). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
 
 **Guide of the week 1 (HQ, Nov 19):** IG-findhm (Wed Dec 2) and FB-findhm (Thu Dec 3) teach how-to-find-the-hiring-manager in this week's open slots. Both approved by HQ (Nov 19, as written at 5848cd8); they go into Buffer at the top-up that reaches them. LinkedIn takes the guide on Thu Dec 10 (week 50).
 
@@ -8,7 +8,7 @@
 
 | Platform | Weekly cap | Week 49 so far |
 | --- | --- | --- |
-| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | Mon Nov 30: HQ's post (Post Library, HQ reviews it Nov 19). LI-email (Tue Dec 1, approved). LI-hiringside (Wed Dec 2, draft for HQ). LI-3touch (Thu Dec 3, approved, now a text post; moved from week 47). LI-target (Fri Dec 4, draft for HQ). Full. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
+| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | Mon Nov 30: HQ's post (Post Library, HQ reviews it Nov 19). LI-email (Tue Dec 1, approved). LI-hiringside (Wed Dec 2, approved Nov 22 with Philip's edit). LI-3touch (Thu Dec 3, approved, now a text post; moved from week 47). LI-target (Fri Dec 4, draft for HQ). Full. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
 | Instagram | 5 | IG-email (Mon Nov 30, proposed). IG-findhm (Wed Dec 2, approved): guide of the week 1, how-to-find-the-hiring-manager (HQ, Nov 19). 3 to plan |
 | Facebook | 3 (Philip, Nov 19) | FB-email (Tue Dec 1, proposed). FB-findhm (Thu Dec 3, approved): guide 1 and its link (HQ, Nov 19). 1 to plan |
 
@@ -54,37 +54,34 @@ Who will you write to first?
 
 Checks: hook is 30 characters. "Day60" appears once. No link. One quoted line from the original (7 words), source not named. No numbers but the method's four people and the approved founder fact. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names. It says plainly that Day60 drafts the note and you rewrite it, since the original's advice is not to let AI write it.
 
-### LI-hiringside · Wed Dec 2 · 8:30 AM · DRAFT · THREE THINGS FROM THE HIRING SIDE (founder lane, HQ Nov 19)
-- Status: draft, for HQ's approval.
+### LI-hiringside · Wed Dec 2 · 8:30 AM · APPROVED (HQ, Nov 22, with Philip's edit) · THREE THINGS FROM THE HIRING SIDE (founder lane, HQ Nov 19)
+- Status: approved by HQ on Nov 22, with Philip's own edit.
+- Source: Philip's change request on the Post Library (Nov 19), "This sounds more like me, yet, feel free to tweak a bit". HQ applied it on Nov 22 with two light tweaks ("Hiring at that pace gives you perspective." and "gets read to the end"). The text below is the Post Library's, byte for byte.
 - Lane: Phil's founder lane (Mon, Wed, Fri; HQ, Nov 19). First person, from his sales development work.
 - Format: text only.
-- Founder fact: founder.ts's ClickUp line (hired to build its sales development team; founded it and helped scale it from 0 to 32 reps), nothing else, and no ARR. "Put me on the hiring side of the table" follows from "hired ... to build that team".
-- The three points are Phil's view, given as advice, not as events or results. No numbers but the founder fact.
+- Founder fact: founder.ts's ClickUp line (founded its sales development team, 0 to 32 reps). "in 18 months" is Philip's own words in his edit, not founder.ts; no ARR.
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
 - Link: none (the post's point is the advice, not a page).
 
 ```
-I founded ClickUp's sales development team.
-It grew from 0 to 32 reps.
+I founded ClickUp's sales development team and it grew from 0 to 32 reps in 18 months.
 
-Building a team from zero put me on the hiring side of the table. Three things I'd want every candidate to know from there.
+Hiring at that pace gives you perspective. Here are three things every candidate should know:
 
-Silence is usually busy, not no. The person hiring still has their own job to do while the seat sits empty.
-
-Short gets read. A note that fits on a phone screen gets read to the end. A page gets skimmed.
-
-Easy questions get answers. "Is the team still hiring for this role?" is easier to answer than "Can we set up a call?"
+1. Silence means busy, not no. The person hiring still has their own job to do while the seat sits empty.
+2. Short gets read. A note that fits on a phone screen gets read to the end. A page gets skimmed.
+3. Easy questions get answers. "Is the team still hiring for this role?" is easier to answer than "Can we set up a call?"
 
 It's why Day60 drafts short notes to the people closest to the hire.
 
 Today, cut one message you've written until it fits on your phone screen, and end it with an easy question.
 
-If you've ever hired, what made you write back?
+If you've ever hired at this scale, what made you write back?
 
 #jobsearch #hiring #careeradvice
 ```
 
-Checks: hook is 43 characters. "Day60" appears once. No link. One founder fact, as written in founder.ts. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names.
+Checks: "Day60" appears once. No link. Ends on one next step for today, then a question. Three hashtags, #jobsearch first. No em dashes, no competitor names. The first line is Philip's and runs past 60 characters; HQ approved it as written.
 
 ### LI-3touch · Thu Dec 3 · 8:30 AM · APPROVED (HQ, Nov 19) · MOVED FROM WEEK 47 (HQ, Nov 11)
 - Document: `2026-11/wk46/p06_three_touches_linkedin_v2.pdf` (HQ, Nov 14: slide 6 now has cream keylines on Tick and the card; slides 1 to 5 are unchanged, and the old PDF and IG4's slides stay in the repo. Source: `2026-11/wk46/build_v2.py`). It moved to week 47 when the Chrome extension post took week 46's Thursday slot, then here when Day60's LinkedIn went to two posts a week (Tue and Thu) from Nov 16.
