@@ -57,6 +57,7 @@ Checks: hook is 30 characters. "Day60" appears once. No link. One quoted line fr
 ### LI-hiringside · Wed Dec 2 · 8:30 AM · APPROVED (HQ, Nov 22, with Philip's edit) · THREE THINGS FROM THE HIRING SIDE (founder lane, HQ Nov 19)
 - Status: approved by HQ on Nov 22, with Philip's own edit.
 - Source: Philip's change request on the Post Library (Nov 19), "This sounds more like me, yet, feel free to tweak a bit". HQ applied it on Nov 22 with two light tweaks ("Hiring at that pace gives you perspective." and "gets read to the end"). The text below is the Post Library's, byte for byte.
+- Change request 2026-11-19T23:47:59.434Z applied (HQ in the Post Library, Nov 22; the repo matched it the same day).
 - Lane: Phil's founder lane (Mon, Wed, Fri; HQ, Nov 19). First person, from his sales development work.
 - Format: text only.
 - Founder fact: founder.ts's ClickUp line (founded its sales development team, 0 to 32 reps). "in 18 months" is Philip's own words in his edit, not founder.ts; no ARR.
