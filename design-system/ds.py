@@ -16,6 +16,9 @@ Rules baked in:
   page() does this for every 1080x1350 page: render_many.js calls d60Safe.fit(), which shrinks the content layer
   around the center just enough to fit (scale 1 if it already fits), then d60Safe.measure(); any element still
   outside y 150 to 1200 fails the render. Design inside the square so the scale stays near 1.
+- The Instagram profile grid shows a 1080x1350 post as its centered 3:4, x 34 to 1046 (HQ, Nov 22, after Meta
+  cropped the natively scheduled posts). The same content sits inside x 34 to 1046 too: fit() shrinks for it and
+  measure() fails anything outside, so a passing render is inside x 34 to 1046 and y 150 to 1200.
 
 Render with: node templates/render_many.js <jobs.json>
 """
@@ -105,10 +108,12 @@ def foot(bottom=60, right="getday60.com", dark=False):
 
 
 # Feed safe area (HQ, Nov 16): Instagram may crop a 1080x1350 feed post to its centered 1080x1080 square.
+# The profile grid shows its centered 3:4 (HQ, Nov 22): x 34 to 1046.
 SAFE_TOP, SAFE_BOTTOM = 150, 1200
+GRID_LEFT, GRID_RIGHT = 34, 1046
 SAFE_JS = """
 window.d60Safe = (function () {
-  var TOP = %d, BOT = %d, W = 1080;
+  var TOP = %d, BOT = %d, LEFT = %d, RIGHT = %d, W = 1080;
   var root = document.querySelector('.d60-safe'), bleed = document.querySelector('.d60-bleed');
   function visual(el) {
     var tag = el.tagName.toLowerCase();
@@ -144,22 +149,28 @@ window.d60Safe = (function () {
     if (!it.length) return 1;
     var top = Math.min.apply(null, it.map(function (x) { return x.r.top; }));
     var bot = Math.max.apply(null, it.map(function (x) { return x.r.bottom; }));
-    if (top >= TOP && bot <= BOT) return 1;
-    var s = Math.min(1, (BOT - TOP) / (bot - top));
+    var left = Math.min.apply(null, it.map(function (x) { return x.r.left; }));
+    var right = Math.max.apply(null, it.map(function (x) { return x.r.right; }));
+    if (top >= TOP && bot <= BOT && left >= LEFT && right <= RIGHT) return 1;
+    var s = Math.min(1, (BOT - TOP) / (bot - top),
+      left < LEFT ? (W / 2 - LEFT) / (W / 2 - left) : 1, right > RIGHT ? (RIGHT - W / 2) / (right - W / 2) : 1);
     var ty = TOP + ((BOT - TOP) - s * (bot - top)) / 2 - s * top, tx = (W - s * W) / 2;
     root.style.transformOrigin = '0 0';
     root.style.transform = 'translate(' + tx + 'px,' + ty + 'px) scale(' + s + ')';
     return Math.round(s * 1000) / 1000;
   }
   function measure() {
-    return items().filter(function (x) { return x.r.top < TOP - 0.5 || x.r.bottom > BOT + 0.5; }).map(function (x) {
+    return items().filter(function (x) {
+      return x.r.top < TOP - 0.5 || x.r.bottom > BOT + 0.5 || x.r.left < LEFT - 0.5 || x.r.right > RIGHT + 0.5;
+    }).map(function (x) {
       return { tag: x.el.tagName.toLowerCase(), cls: x.el.getAttribute('class') || '',
-               text: (x.el.textContent || '').trim().slice(0, 40), top: Math.round(x.r.top), bottom: Math.round(x.r.bottom) };
+               text: (x.el.textContent || '').trim().slice(0, 40), top: Math.round(x.r.top), bottom: Math.round(x.r.bottom),
+               left: Math.round(x.r.left), right: Math.round(x.r.right) };
     });
   }
   return { fit: fit, measure: measure };
 })();
-""" % (SAFE_TOP, SAFE_BOTTOM)
+""" % (SAFE_TOP, SAFE_BOTTOM, GRID_LEFT, GRID_RIGHT)
 
 
 def page(body, w=1080, h=1350, bg=CREAM):

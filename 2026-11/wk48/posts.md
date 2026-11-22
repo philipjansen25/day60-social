@@ -7,7 +7,7 @@
 | Platform | Weekly cap | Week 48 so far |
 | --- | --- | --- |
 | LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | LI-resume (Tue Nov 24, proposed; HQ Nov 11). Wed Nov 25 and Fri Nov 27: HQ's posts, in Buffer. LI-thanks (Thu Nov 26, Thanksgiving, draft for HQ; HQ Nov 19). LI-story moved to Tue Dec 8 (week 50) |
-| Instagram | 5 | IG-thanks (Sun Nov 22), IG-which (Mon Nov 23), IG-rb-reel (Tue Nov 24), IG-onelink (Wed Nov 25), IG-shortlist (Sat Nov 28), all proposed. Full. None on Thanksgiving |
+| Instagram | 5 | IG-thanks (Sun Nov 22), IG-which (Mon Nov 23), IG-rb-reel (Tue Nov 24), IG-onelink (Wed Nov 25), IG-shortlist (Sat Nov 28), all proposed. Full. None on Thanksgiving. **Nov 22 (HQ):** Philip scheduled all five natively and Meta cropped them. Each is recycled as a new post ("-r2", from Dec 7, Buffer only); IG-which, IG-rb-reel, IG-onelink and IG-shortlist are replaced, and IG-email (week 49) moves up to Mon Nov 23 through Buffer |
 | Facebook | 2 | FB-which (Tue Nov 24, reuses IG-which's image), FB-thanks (Thu Nov 26, 10:00 AM, reuses IG-thanks's carousel), both proposed. Full |
 
 ## LinkedIn (Phil's profile)
@@ -73,6 +73,7 @@ HQ's brief: make the next step concrete (pick one job, paste its link, see the 4
 IG-story and FB-story (proposed adaptations of LI-story) moved to week 49 with LI-story; they stay proposals until it's written.
 
 ### IG-thanks · Sun Nov 22 · 11:00 AM · DRAFT · SEND ONE THANK-YOU THIS WEEK (HQ brief, Nov 12)
+- **Cropped by Meta on native scheduling; recycled as `2026-w48-IG-thanks-r2`** (Mon Dec 21, `2026-12/wk52/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p01_thanks_1_pink.png` on pink replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk48/p01_thanks_6_v2.png` replaces slide 6. The old file stays in the repo.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): all 6 slides as new files, `2026-11/wk48/p01_thanks_1_pink_safe.png`, `p01_thanks_2_safe.png` to `p01_thanks_5_safe.png`, `p01_thanks_6_v2_safe.png`. FB-thanks uses them too. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.
@@ -97,6 +98,7 @@ Next week, back to one job and one message. Paste a job link. Get your 4 people.
 ```
 
 ### IG-which · Mon Nov 23 · 12:00 PM · DRAFT · WHICH WOULD YOU ANSWER? (HQ brief, Nov 12)
+- **Cropped by Meta on native scheduling; recycled as `2026-w48-IG-which-r2`** (Sat Jan 2, `2026-12/wk53/posts.md`; HQ, Nov 22). It was still ahead in Meta: HQ asked Philip to delete it there, and the library marks it replaced. History only.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p02_which_ink.png` on ink replaces the image; same words. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `2026-11/wk48/p02_which_ink_safe.png`, a new file. FB-which uses it too. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.
 - Status: draft, for Philip to approve in the Post Library.
@@ -119,6 +121,7 @@ Day60 drafts a short note to each of the 4 people closest to the hire. You send 
 ```
 
 ### IG-rb-reel · Tue Nov 24 · 12:00 PM · DRAFT · THE FREE RÉSUMÉ BUILDER, AS A REEL (HQ brief, Nov 12)
+- **Cropped by Meta on native scheduling; recycled as `2026-w48-IG-rb-reel-r2`** (Thu Jan 28, `2027-01/wk04/posts.md`; HQ, Nov 22). It was still ahead in Meta: HQ asked Philip to delete it there, and the library marks it replaced. History only.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p03_resume_cover_cobalt.png` on cobalt, uploaded as the Reel's cover (1080x1920; the grid shows the middle). Source: `2026-11/build_covers.py`.
 - Ink scene fix (HQ, Nov 13: on ink, Tick, cards and stickers get a cream keyline): the video is now `2026-11/wk48/p03_resume_reel_v2.mp4`, the same scenes and timing with keylines on the ink end scene. The old video stays in the repo.
 - Status: draft, for Philip to approve in the Post Library. Same morning as LI-resume on LinkedIn.
@@ -160,6 +163,7 @@ Tell us in the comments: A or B?
 ```
 
 ### IG-onelink · Wed Nov 25 · 12:00 PM · DRAFT · ONE JOB LINK, FOUR PEOPLE, ONE MESSAGE (HQ brief, Nov 12)
+- **Cropped by Meta on native scheduling; recycled as `2026-w48-IG-onelink-r2`** (Mon Jan 18, `2027-01/wk03/posts.md`; HQ, Nov 22). It was still ahead in Meta: HQ asked Philip to delete it there, and the library marks it replaced. History only.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p04_one_link_cover_mint.png` on mint, uploaded as the Reel's cover (1080x1920; the grid shows the middle). Source: `2026-11/build_covers.py`.
 - Ink scene fix (HQ, Nov 13: on ink, Tick, cards and stickers get a cream keyline): the video is now `2026-11/wk48/p04_one_link_reel_v2.mp4`, the same scenes and timing with keylines on the ink end scene. The old video stays in the repo.
 - Status: draft, for Philip to approve in the Post Library.
@@ -206,6 +210,7 @@ Share this with someone who's looking.
 ```
 
 ### IG-shortlist · Sat Nov 28 · 10:00 AM · DRAFT · LONG WEEKEND, SHORT LIST (HQ brief, Nov 12)
+- **Cropped by Meta on native scheduling; recycled as `2026-w48-IG-shortlist-r2`** (Sat Dec 26, `2026-12/wk52/posts.md`; HQ, Nov 22). It was still ahead in Meta: HQ asked Philip to delete it there, and the library marks it replaced. History only.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p05_short_list_coral.png` on coral replaces the image; same words. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `2026-11/wk48/p05_short_list_coral_safe.png`, a new file. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.
 - Status: draft, for Philip to approve in the Post Library.

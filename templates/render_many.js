@@ -2,14 +2,15 @@
 // Usage: node templates/render_many.js jobs.json
 // jobs.json: [{"html": "/abs/in.html", "png": "/abs/out.png", "w": 1080, "h": 1350}, ...]
 //
-// Feed safe area (HQ, Nov 16): Instagram may show a 1080x1350 feed post as its centered square. On every page
-// built with design-system page() at 1080x1350, this calls d60Safe.fit() (shrinks the content layer just enough
-// to sit inside y 150 to 1200), then d60Safe.measure(). Any non-decorative element still outside fails the
-// render: no PNG is written and the run exits 1. Each PNG that passes is recorded, with its SHA-256, in
+// Feed safe area (HQ, Nov 16): Instagram may show a 1080x1350 feed post as its centered square, and its profile
+// grid shows the centered 3:4 (HQ, Nov 22). On every page built with design-system page() at 1080x1350, this calls
+// d60Safe.fit() (shrinks the content layer just enough to sit inside x 34 to 1046 and y 150 to 1200), then
+// d60Safe.measure(). Any non-decorative element still outside fails the
+// render: no PNG is written and the run exits 1. Each PNG that passes is recorded, with its SHA-256 and grid: true, in
 // design-system/safe-area.json; scripts/check-library.mjs reads that record for every feed PNG still to post.
 // D60_OUT_SUFFIX=_safe writes x.png as x_safe.png (new files beside the old ones).
 // D60_SAFE_REPORT=1 only reports: it measures each 1080x1350 page as laid out (no fit, scale 1), prints what
-// crosses y 150 to 1200, and writes no PNG and no record. Use it to check a file rendered before the rule.
+// crosses x 34 to 1046 or y 150 to 1200, and writes no PNG and no record. Use it to check a file rendered before the rule.
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
@@ -35,10 +36,10 @@ const REPORT = process.env.D60_SAFE_REPORT === '1';
       const bad = await p.evaluate(() => (window.d60Safe ? window.d60Safe.measure() : null));
       const name = path.relative(ROOT, png);
       if (bad === null) console.log(`report ${name}: not a 1080x1350 page() slide`);
-      else if (!bad.length) console.log(`report ${name}: inside y 150 to 1200 at scale 1`);
+      else if (!bad.length) console.log(`report ${name}: inside x 34 to 1046 and y 150 to 1200 at scale 1`);
       else {
         console.log(`report ${name}: CROSSES at scale 1`);
-        for (const x of bad) console.log(`  <${x.tag} class="${x.cls}"> y ${x.top} to ${x.bottom} "${x.text}"`);
+        for (const x of bad) console.log(`  <${x.tag} class="${x.cls}"> x ${x.left} to ${x.right}, y ${x.top} to ${x.bottom} "${x.text}"`);
       }
       await p.close();
       continue;
@@ -49,8 +50,8 @@ const REPORT = process.env.D60_SAFE_REPORT === '1';
       const bad = await p.evaluate(() => window.d60Safe.measure());
       if (bad.length) {
         failed++;
-        console.error(`FAIL safe area (y 150 to 1200) ${png}`);
-        for (const x of bad) console.error(`  <${x.tag} class="${x.cls}"> y ${x.top} to ${x.bottom} "${x.text}"`);
+        console.error(`FAIL safe area (x 34 to 1046, y 150 to 1200) ${png}`);
+        for (const x of bad) console.error(`  <${x.tag} class="${x.cls}"> x ${x.left} to ${x.right}, y ${x.top} to ${x.bottom} "${x.text}"`);
         await p.close();
         continue;
       }
@@ -60,7 +61,7 @@ const REPORT = process.env.D60_SAFE_REPORT === '1';
     const rel = path.relative(ROOT, png);
     if (scale !== null && !rel.startsWith('..')) {
       const sha256 = crypto.createHash('sha256').update(fs.readFileSync(png)).digest('hex');
-      rec.files[rel] = { sha256, scale, checked: new Date().toISOString().slice(0, 10) };
+      rec.files[rel] = { sha256, scale, checked: new Date().toISOString().slice(0, 10), grid: true };
     }
     console.log('ok', png, scale !== null ? `(safe area ok, scale ${scale})` : '');
   }

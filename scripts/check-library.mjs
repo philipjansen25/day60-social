@@ -11,6 +11,12 @@
 // approved, dated today or later in Chicago) must have a passing record in design-system/safe-area.json with the
 // file's SHA-256. templates/render_many.js writes that record only when every non-decorative element sits inside
 // y 150 to 1200 of the 1080x1350 canvas. A waived file is listed with its reason but doesn't fail.
+// Sizes per channel (HQ, Nov 22, after Meta Business Suite cropped the natively scheduled Instagram posts): every
+// post still to post (draft or approved, dated today or later in Chicago) is checked file by file against its
+// channel and format, by the size read from the file's own bytes (PNG and JPEG headers, a PDF's page boxes, an
+// MP4's video track), never by its name. Any mismatch fails the run. The table is SIZE_RULES below and playbook §9b.
+// The feed record must also confirm the Instagram grid's 3:4 view (key content inside x 34 to 1046: grid: true),
+// and an Instagram Reel's cover needs a record in reelCovers (key content inside the center 1080x1440, y 240 to 1680).
 import crypto from 'node:crypto';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -71,6 +77,98 @@ function sections(file) {
 
 const errors = [];
 const err = (id, msg) => errors.push(`${id}: ${msg}`);
+
+// ---- real file sizes, read from the bytes ----
+function mp4Size(b) {
+  const boxes = (s, e) => {
+    const out = [];
+    for (let i = s; i + 8 <= e;) {
+      let size = b.readUInt32BE(i), hdr = 8;
+      const type = b.toString('latin1', i + 4, i + 8);
+      if (size === 1) { size = Number(b.readBigUInt64BE(i + 8)); hdr = 16; } else if (size === 0) size = e - i;
+      if (size < hdr) break;
+      out.push({ type, s: i + hdr, e: Math.min(i + size, e) });
+      i += size;
+    }
+    return out;
+  };
+  for (const moov of boxes(0, b.length).filter((x) => x.type === 'moov')) {
+    for (const trak of boxes(moov.s, moov.e).filter((x) => x.type === 'trak')) {
+      const kids = boxes(trak.s, trak.e);
+      const mdia = kids.find((x) => x.type === 'mdia');
+      const hdlr = mdia && boxes(mdia.s, mdia.e).find((x) => x.type === 'hdlr');
+      const tkhd = kids.find((x) => x.type === 'tkhd');
+      if (!hdlr || !tkhd || b.toString('latin1', hdlr.s + 8, hdlr.s + 12) !== 'vide') continue;
+      const m = tkhd.s + (b[tkhd.s] === 1 ? 36 : 24) + 16; // the matrix, after the times, ids, layer and volume
+      let w = Math.round(b.readUInt32BE(m + 36) / 65536), h = Math.round(b.readUInt32BE(m + 40) / 65536);
+      if (b.readInt32BE(m) === 0 && b.readInt32BE(m + 4) !== 0) [w, h] = [h, w]; // rotated 90 degrees
+      return { w, h };
+    }
+  }
+  return { w: 0, h: 0 };
+}
+function mediaInfo(abs) {
+  const b = fs.readFileSync(abs);
+  if (b.length > 24 && b.readUInt32BE(0) === 0x89504e47) return { kind: 'image', w: b.readUInt32BE(16), h: b.readUInt32BE(20) };
+  if (b[0] === 0xff && b[1] === 0xd8) {
+    for (let i = 2; i + 9 < b.length;) {
+      if (b[i] !== 0xff) { i++; continue; }
+      const mk = b[i + 1];
+      if (mk === 0xff || mk === 0x01 || (mk >= 0xd0 && mk <= 0xd8)) { i += mk === 0xff ? 1 : 2; continue; }
+      if (mk >= 0xc0 && mk <= 0xcf && ![0xc4, 0xc8, 0xcc].includes(mk)) return { kind: 'image', w: b.readUInt16BE(i + 7), h: b.readUInt16BE(i + 5) };
+      i += 2 + b.readUInt16BE(i + 2);
+    }
+    return { kind: 'image', w: 0, h: 0 };
+  }
+  if (b.toString('latin1', 4, 8) === 'ftyp') return { kind: 'video', ...mp4Size(b) };
+  if (b.toString('latin1', 0, 5) === '%PDF-') {
+    const t = b.toString('latin1');
+    const pages = (t.match(/\/Type\s*\/Page(?![A-Za-z])/g) || []).length;
+    const boxes = [...t.matchAll(/\/MediaBox\s*\[\s*([-\d.]+)\s+([-\d.]+)\s+([-\d.]+)\s+([-\d.]+)\s*\]/g)]
+      .map((m) => ({ w: +m[3] - +m[1], h: +m[4] - +m[2] }));
+    return { kind: 'pdf', pages, boxes };
+  }
+  return { kind: 'unknown' };
+}
+// Per channel and format (HQ, Nov 22; playbook §9b). feed/video/cover/page: the allowed WxH of those files.
+const SIZE_RULES = {
+  instagram: { image: { feed: ['1080x1350'] }, carousel: { feed: ['1080x1350'] },
+    video: { video: ['1080x1920'], cover: ['1080x1920'], coverRequired: true } },
+  facebook: { text: {}, image: { feed: ['1080x1350'] }, carousel: { feed: ['1080x1350'] },
+    video: { video: ['1080x1920'], cover: ['1080x1920'] } },
+  linkedin: { text: {}, image: { feed: ['1080x1350', '1200x1200'] }, document: { pdf: true, page: ['1080x1350'] },
+    video: { video: ['1080x1350', '1080x1920'] } },
+};
+function checkSizes(p) {
+  const rule = SIZE_RULES[p.channel]?.[p.format];
+  if (!rule) return [`no ${p.channel} ${p.format} posts (no size rule for it)`];
+  const out = [], files = p.files ?? [];
+  const info = files.map((f) => ({ path: f.path, ...(fs.existsSync(path.join(ROOT, f.path)) ? mediaInfo(path.join(ROOT, f.path)) : { kind: 'missing' }) }));
+  const dim = (x) => `${x.w}x${x.h}`;
+  const want = (x, sizes, what) => { if (!sizes.includes(dim(x))) out.push(`${x.path} is ${dim(x)}; ${p.channel} ${what} must be ${sizes.join(' or ')}`); };
+  const kind = (x, k) => { if (x.kind !== k) { out.push(`${x.path} is ${x.kind === 'unknown' ? 'not an image, video or PDF' : `a ${x.kind}`}, expected a ${k}`); return false; } return true; };
+  if (p.format === 'text') {
+    if (files.length) out.push(`a text post lists ${files.length} file(s); a text or link post has none`);
+  } else if (p.format === 'image' || p.format === 'carousel') {
+    if (p.format === 'image' && files.length !== 1) out.push(`an image post has ${files.length} files, not 1`);
+    if (p.format === 'carousel' && (files.length < 2 || files.length > 10)) out.push(`a carousel has ${files.length} slides (2 to 10)`);
+    for (const x of info) if (kind(x, 'image')) want(x, rule.feed, p.format === 'carousel' ? 'carousel slides' : 'images');
+  } else if (p.format === 'video') {
+    const [v, ...rest] = info;
+    if (!v) out.push('a video post with no video');
+    else if (kind(v, 'video')) want(v, rule.video, 'video');
+    if (rule.coverRequired && rest.length !== 1) out.push(`a Reel lists ${rest.length} cover file(s), not 1`);
+    for (const x of rest) if (kind(x, 'image')) want(x, rule.cover, 'Reel covers');
+  } else if (p.format === 'document') {
+    const [d, ...pages] = info;
+    if (d && kind(d, 'pdf')) {
+      if (!d.pages || !d.boxes.length) out.push(`${d.path}: can't read its page size`);
+      for (const bx of d.boxes) if (Math.abs(bx.w / bx.h - 0.8) > 0.004) out.push(`${d.path} has a ${bx.w}x${bx.h} pt page; pages must be 1080x1350 (4:5)`);
+    }
+    for (const x of pages) if (kind(x, 'image')) want(x, rule.page, 'document pages');
+  }
+  return out;
+}
 const NATIVE_UNTIL = '2026-11-28'; // posts through this date were scheduled natively (Philip, Nov 11 to 16) and stay as they are
 
 let lib;
@@ -169,10 +267,30 @@ for (const p of lib) {
   }
 }
 
-// feed safe area
+// sizes per channel and format, for every post still to post
 const SAFE = path.join(ROOT, 'design-system', 'safe-area.json');
-const safe = fs.existsSync(SAFE) ? JSON.parse(fs.readFileSync(SAFE, 'utf8')) : { files: {}, waived: {} };
+const safe = fs.existsSync(SAFE) ? JSON.parse(fs.readFileSync(SAFE, 'utf8')) : { files: {}, waived: {}, reelCovers: {} };
 const today = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Chicago' }).format(new Date());
+const toPost = lib.filter((p) => ['draft', 'approved'].includes(p?.status) && typeof p?.date === 'string' && p.date >= today);
+let sizeOk = 0;
+for (const p of toPost) {
+  const bad = checkSizes(p);
+  for (const b of bad) err(p.id, `size: ${b}`);
+  // an Instagram Reel's cover: key content inside the center 1080x1440 the grid shows (HQ, Nov 22)
+  if (p.channel === 'instagram' && p.format === 'video') {
+    for (const f of (p.files ?? []).slice(1)) {
+      const abs = path.join(ROOT, f.path);
+      if (!fs.existsSync(abs)) continue;
+      const rec = safe.reelCovers?.[f.path];
+      const sha = crypto.createHash('sha256').update(fs.readFileSync(abs)).digest('hex');
+      if (!rec || rec.sha256 !== sha) { bad.push('cover'); err(p.id, `${f.path} has no passing Reel-cover record (key content inside y 240 to 1680) in design-system/safe-area.json`); }
+    }
+  }
+  if (!bad.length) sizeOk++;
+}
+const sizeLine = `sizes: ${toPost.length} post(s) still to post, ${sizeOk} at their channel's sizes`;
+
+// feed safe area
 const feed = new Map();
 for (const p of lib) {
   if (!['instagram', 'facebook'].includes(p.channel) || !['image', 'carousel'].includes(p.format)) continue;
@@ -190,7 +308,8 @@ for (const [file, ids] of feed) {
   if (h <= w) { safeOk.push(file); continue; } // square or landscape: nothing to crop
   const rec = safe.files?.[file];
   const sha = crypto.createHash('sha256').update(buf).digest('hex');
-  if (rec && rec.sha256 === sha) safeOk.push(file);
+  if (rec && rec.sha256 === sha && rec.grid) safeOk.push(file);
+  else if (rec && rec.sha256 === sha) err(ids.join(', '), `${file} has no 3:4 grid check (key content inside x 34 to 1046): render it again with templates/render_many.js`);
   else if (safe.waived?.[file]) waived.push(`${file} (${ids.join(', ')}): ${safe.waived[file]}`);
   else err(ids.join(', '), `${file} (${w}x${h}) has no passing safe-area record: render it with templates/render_many.js (content inside y 150 to 1200)`);
 }
@@ -201,9 +320,10 @@ if (waived.length) {
 }
 
 if (errors.length) {
+  console.error(sizeLine);
   console.error(safeLine);
   console.error(`library.json: ${errors.length} problem(s)`);
   for (const e of errors) console.error(`  ${e}`);
   process.exit(1);
 }
-console.log(`library.json OK: ${lib.length} posts, text matches posts.md, every file exists; ${safeLine}.`);
+console.log(`library.json OK: ${lib.length} posts, text matches posts.md, every file exists; ${sizeLine}; ${safeLine}.`);

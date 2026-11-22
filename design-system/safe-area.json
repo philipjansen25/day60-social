@@ -1,54 +1,207 @@
 {
  "files": {
+  "2026-11/wk46/p06_three_touches_1_safe.png": {
+   "sha256": "c6a5842526b411e45a2d327f605fafb0543b0fbe5d9db65b5f42c6c684e08666",
+   "scale": 0.876,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
+  },
+  "2026-11/wk46/p06_three_touches_2_safe.png": {
+   "sha256": "7b677cb0ef242e20d93963ed96b01a153ed5a638cbaa3a35adefc0d945dc4326",
+   "scale": 0.876,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p06_three_touches_3_safe.png": {
+   "sha256": "ece7f3f8ca5783230df056a7dc73f8cd517c1d2e534937ca5345c9a1de781fd3",
+   "scale": 0.876,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p06_three_touches_4_safe.png": {
+   "sha256": "fb80786dcff4f904a9602379cf48e5f15ca1c016fe2bea4a76833fb332663231",
+   "scale": 0.876,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p06_three_touches_5_safe.png": {
+   "sha256": "170b2a4c4c0cb50ffb0c35c22296edf82785f6a093c328e4a3e6c2086810ad75",
+   "scale": 0.876,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p06_three_touches_6_safe.png": {
+   "sha256": "a85226f3da9dd9fcbefda25ad6ee222f0d6636f80e2776274fa144d29591aaa4",
+   "scale": 0.918,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
+  },
+  "2026-11/wk46/p14_ext_steps_1_mint_safe.png": {
+   "sha256": "c4f2c39062d20a345951201ab820185578f666649f62ea69b1dd08e2b37384d5",
+   "scale": 0.876,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
+  },
+  "2026-11/wk46/p14_ext_steps_2_safe.png": {
+   "sha256": "b52d51a5ead162e9c55e785e63cac210b1111633d33fe77e3c7558473fa824a4",
+   "scale": 0.879,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p14_ext_steps_3_safe.png": {
+   "sha256": "f42fec70ce24ed7d675b9ab21b38740aadf199a7901945053106f370cf6eda47",
+   "scale": 0.879,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p14_ext_steps_4_safe.png": {
+   "sha256": "9dc87ed63a1f1130d877ec30f4827a5aee30c4394f5719bd0106e47e49931c82",
+   "scale": 0.879,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p14_ext_steps_5_safe.png": {
+   "sha256": "0cf9857c8535b79ad7ddda51ef1550389aaa16e84fd887826ed5e9e8ef20ee2b",
+   "scale": 0.876,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p14_ext_steps_6_v2_safe.png": {
+   "sha256": "bbdf698308b9479de33ae61ce48e6b499c65f557655a0d4e48bd90af9cd8d755",
+   "scale": 0.918,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
+  },
+  "2026-11/wk46/p15_checker_1_safe.png": {
+   "sha256": "1c913a341920073648749b10034dd2141abad7f48ea31f5e2e3fb3a2562e1a06",
+   "scale": 0.876,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
+  },
+  "2026-11/wk46/p15_checker_2_safe.png": {
+   "sha256": "d751fdcf259858c71cadc6148023c273ac574d1c3a315d3b7b8145b4c2a3b54d",
+   "scale": 0.978,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p15_checker_3_safe.png": {
+   "sha256": "368b00c196d7eb21b6c900443b2f60dd7a3f18bc3fcde984da1e0b03c18b8e0b",
+   "scale": 0.879,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p15_checker_4_safe.png": {
+   "sha256": "eaa4fa8490c64fba6ae71ba0e4d133bb808b94b5cd54cd2c1bef5ff77b7c7f75",
+   "scale": 0.909,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p15_checker_5_safe.png": {
+   "sha256": "804d8ac436b800158eec7c854ba86ccc3c7eb36efed49d2f4e2be98eba40b8ce",
+   "scale": 0.879,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p15_checker_6_safe.png": {
+   "sha256": "46d1e878ad97e6e9c3b9a3a72ff0c0a07414603c67a3124b348c86c1f111c601",
+   "scale": 0.909,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk46/p15_checker_7_safe.png": {
+   "sha256": "a74e0a57983d507ac4899527d5a1e2014ea07737f660fda8f0080d6602f954fe",
+   "scale": 0.918,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
+  },
   "2026-11/wk46/p17_ext_linkedin_1_cobalt_safe.png": {
    "sha256": "2903b85e643503aee1efc5be3845a0ff13cc62d100a3662f5732332c552534c9",
    "scale": 0.876,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   },
   "2026-11/wk46/p17_ext_linkedin_2_safe.png": {
    "sha256": "d7b2a11165a6b54707d9a69403749f176abc009119de89656a52d41289b6d21a",
    "scale": 0.918,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk46/p17_ext_linkedin_3_safe.png": {
    "sha256": "8b43f8cf12fe07e0a5708afba867ce0250689bee6a5129a339b0314a0e7a2cd0",
    "scale": 0.918,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk46/p17_ext_linkedin_4_safe.png": {
    "sha256": "c25ba0efaf630a671a860be0e5664a07adfc4991ea2bab411fa7fb5caa000279",
    "scale": 0.876,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk46/p17_ext_linkedin_5_v2_safe.png": {
    "sha256": "16807d15c4149647e19f80835f6a8cc41b4d9c74740d64f05fcc248dceec40e5",
    "scale": 0.918,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   },
   "2026-11/wk47/p01_four_people_1_ink_safe.png": {
    "sha256": "a66da621551380bf68c974305ed66343c480d16e5280217ab7ada7325da671d1",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   },
   "2026-11/wk47/p01_four_people_2_safe.png": {
    "sha256": "9c77ba8ea40057e96db02a13821af8a889e5e1d6e1c2186082b97de0ab7d35ce",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk47/p01_four_people_3_safe.png": {
    "sha256": "b83e06eeeb133cddd1677440c394b9b0653da584718c2f7ccc561314f4a9038d",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk47/p01_four_people_4_safe.png": {
    "sha256": "12fe5b4fc7041c1d22c588655f9a55eb348932c030f09d313ebadb1679a7bf28",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk47/p01_four_people_5_safe.png": {
    "sha256": "0d08722ef0a3d389ae3e6c718781d3e291f9c8fd51200420a2e460a2f42c2bb9",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk47/p01_four_people_6_fb_v2_safe.png": {
    "sha256": "6264d7e1e00206c5c72d5295927afa1417be4d8ef3f9ded49df17a67d0b0e129",
@@ -58,188 +211,307 @@
   "2026-11/wk47/p01_four_people_6_v2_safe.png": {
    "sha256": "1315d3c8a1d23039af78a0c7b0399757270727e82690322b8d9f1261a90191bf",
    "scale": 0.921,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   },
   "2026-11/wk47/p02_resume_builder_1_lime_safe.png": {
    "sha256": "f29f0a3dd2548525a16ceaddca4fe399295cb2adbf5a4418358be08b0b39f782",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   },
   "2026-11/wk47/p02_resume_builder_2_safe.png": {
    "sha256": "a87d62d8d79fb1a0c140e0dfbd57b010361700a286fbeb1fe95c88bb2154786f",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk47/p02_resume_builder_3_safe.png": {
    "sha256": "740b6a3c4744e85b3822403d1223f94a2226afe666aded9132caec725ed2dd8d",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk47/p02_resume_builder_4_safe.png": {
    "sha256": "5b8c63e845935bea1c7c3f8ab4b4d393cb6d86bf10fb0ac766698fc4e125bbb2",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk47/p02_resume_builder_5_safe.png": {
    "sha256": "4b1d5512ee2b5235ee7e7b2228aba62d2cb1ac19ebd5e9f53e19fa0d2b19a49b",
    "scale": 0.848,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk47/p02_resume_builder_6_fb_v2_safe.png": {
    "sha256": "64f3557dee9a24e6badde639c95bb9b9ed8e322c0d689fb64111e9ac3fc53c3d",
    "scale": 0.921,
    "checked": "2026-11-17"
   },
+  "2026-11/wk47/p02_resume_builder_6_v2_safe.png": {
+   "sha256": "92ce41a5cf0c4173cf288f69e8da88eb7f3ca20c18760a8efe387d33fd6baa92",
+   "scale": 0.921,
+   "checked": "2026-11-22",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
+  },
   "2026-11/wk47/p05_first_job_1_lime_safe.png": {
    "sha256": "2aa61a334a322bcb8c58e60ffff0bb419258d63242b419680616710a78983501",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   },
   "2026-11/wk47/p05_first_job_2_safe.png": {
    "sha256": "7b516b3feba36b69b863c030185305e177d88f060065bd200cfda5eac47b5c44",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk47/p05_first_job_3_safe.png": {
    "sha256": "f4502553b89409df91a1ea81b9cd2ae839ff6d2c9c12a66bd36fe6acad3e00c3",
    "scale": 0.848,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk47/p05_first_job_4_safe.png": {
    "sha256": "ca5e23cd723b9c48edc8e7a184d9e2e72d457851f0a7038b185cde4b0e6b76c1",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk47/p05_first_job_5_safe.png": {
    "sha256": "917da9380d82583c1d07092f1d2e36c55c455a9e69ac0a1e35729afba816bdd2",
    "scale": 0.848,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk47/p05_first_job_6_v2_safe.png": {
    "sha256": "8c0c1bfc46e293dde831094481ed435c9f977bee5bb22079734f4807d6bd426f",
    "scale": 0.871,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk48/p01_thanks_1_pink_safe.png": {
    "sha256": "8162cbbd3ff2fe8af137028f8f9340495d554c1632f9d280fd0b95e8c0260d57",
    "scale": 0.862,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk48/p01_thanks_2_safe.png": {
    "sha256": "67417306864e7b76b15cbc1845687305232077276e4512685e17d7d28cf2e50d",
    "scale": 0.848,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk48/p01_thanks_3_safe.png": {
    "sha256": "e0e3fcb2270956537e8d13cdc1391553afba5e6ef57d95a8c3acd726668b4f24",
    "scale": 0.848,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk48/p01_thanks_4_safe.png": {
    "sha256": "4e934010ebe4d7dbdc562922110842697866196fc9bfae27b1b06fd8f2b45e4f",
    "scale": 0.848,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk48/p01_thanks_5_safe.png": {
    "sha256": "9af71f2372bd01f96fe883861ba13589ea0686046c9c6ce053ba29688f8f4ea3",
    "scale": 0.871,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk48/p01_thanks_6_v2_safe.png": {
    "sha256": "9771c110a60c499d0cf433f4166b926293d5feb9280ddf1c86cc532c89d1ddc1",
    "scale": 0.871,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk48/p02_which_ink_safe.png": {
    "sha256": "cab717455764be8d5f2608c6d16697baad54a9a15fd1c42f39b626ed2ed2fa71",
    "scale": 0.875,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   },
   "2026-11/wk48/p05_short_list_coral_safe.png": {
    "sha256": "be3a366d63b9b3c40e8af52d2797109548dee52b7c44cd002e5b08ed48450409",
    "scale": 0.848,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p01_which_person_1_ink.png": {
    "sha256": "cd13ffee2fc6839e409d3e4d5da617a756c6800ab6d8375551a7daa6dc7939fc",
    "scale": 0.862,
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   },
   "2026-11/wk49/p01_which_person_2.png": {
    "sha256": "213be6eb7e795e3666cc28d15d3124c2707f6823c936c2fb8b61a56c3d45f500",
    "scale": 0.862,
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p01_which_person_3.png": {
    "sha256": "5ce2d6aa893a95f61a430fe7f7b1ae4f07832883d3f1702d9372d8cc5164f3e0",
    "scale": 0.862,
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p01_which_person_4.png": {
    "sha256": "66457e56d92185c775ff066336e51541c03ddfff61a6498685366524e36df8e7",
    "scale": 0.862,
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p01_which_person_5.png": {
    "sha256": "058db1991a32d3783ec76b9003ad4c1ae7f342b836dff7332976e17af2ac7190",
    "scale": 0.862,
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p01_which_person_6.png": {
    "sha256": "39cd8551f2e351b21e28c50ff4b634e63e74483036ddfba4c01eac9a93ef60e6",
    "scale": 0.871,
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p01_which_person_6_fb.png": {
    "sha256": "95c2935253fccb78057f46f95fe144c41493203a033a97bf8ab3fd025b7f00d1",
    "scale": 0.871,
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p02_find_hm_1_lime.png": {
    "sha256": "9e99cde0a4e5534821eebf2d97ebc83420a95700e0a41146f4c8caef1f9b45e6",
    "scale": 0.862,
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   },
   "2026-11/wk49/p02_find_hm_2.png": {
    "sha256": "b1aa9d1539addd19c81ea366bffa5f8a6fb20df3b6e486ccae103012d6d5f949",
    "scale": 0.862,
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p02_find_hm_3.png": {
    "sha256": "6765ea689c457c1d2fc1db608d519a139567cb03b409944f4e916edb7421dc89",
    "scale": 0.862,
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p02_find_hm_4.png": {
    "sha256": "3400333761b771a66278f9ba645f0c73194e160d07f5fb5b103a63be2640d87c",
    "scale": 0.862,
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p02_find_hm_5.png": {
    "sha256": "df0efe2dbfd9bdb435b7855431667df9de21828474848dc49104055203b2dea3",
    "scale": 0.862,
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p02_find_hm_6.png": {
    "sha256": "ba05fb8f8ed750bccf6101fe45c3fb6ab714430b6833e71516a9ef1b016becb2",
    "scale": 0.862,
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p02_find_hm_7.png": {
    "sha256": "914ed947a33395c8a823df187aaa97eae9a5554465d7983e141ae1980db6e742",
    "scale": 0.871,
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
   "2026-11/wk49/p02_find_hm_7_fb.png": {
    "sha256": "bb661c3be78dceddc3f84f019de4fc38ec6478e645dee2003eb9540a7628fd5e",
    "scale": 0.871,
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "grid": true,
+   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-12/wk52/p01_thanks_1_pink_holiday.png": {
+   "sha256": "d00706ab37e65f344ca0432d5dd44732f877a5b29ef709ba880543e8840ccb82",
+   "scale": 0.862,
+   "checked": "2026-11-22",
+   "grid": true
+  },
+  "2026-12/wk52/p01_thanks_5_holiday.png": {
+   "sha256": "911f844d5a40c1aeab1ea6b0599cf589c62f00cd2eacff944735c4439180b2ae",
+   "scale": 0.871,
+   "checked": "2026-11-22",
+   "grid": true
+  },
+  "2026-12/wk52/p01_thanks_6_holiday.png": {
+   "sha256": "3c7749a121654a352961a2e27cfb97342fe81cf980c74c97655b203a65c13476",
+   "scale": 0.871,
+   "checked": "2026-11-22",
+   "grid": true
   },
   "product-hunt/ig_launch_day_safe.png": {
    "sha256": "312dfd267f97ccc7f60fe36a9d02d63d28bddde4351fab8e97df8b1e9348cbe6",
    "scale": 0.88,
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "grid": true,
+   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   }
  },
- "waived": {}
+ "waived": {},
+ "reelCovers": {
+  "2027-01/wk03/p04_one_link_cover_mint_grid.png": {
+   "sha256": "005d2c07e5cb84fde4d279a163fa7b37bc6df77036627324d60adc99bc55d037",
+   "checked": "2026-11-22",
+   "note": "By eye: label, headline, Tick and the Day60 footer inside y 240 to 1680; only background art outside"
+  },
+  "2027-01/wk03/p03_one_job_cover_coral_grid.png": {
+   "sha256": "10f9d7d1a6b159d3e314d5f04018ef9e89d934ad69cb25027d56c22ef3f719b6",
+   "checked": "2026-11-22",
+   "note": "By eye: label, headline, Tick and the Day60 footer inside y 240 to 1680; only background art outside"
+  },
+  "2027-01/wk04/p04_red_pen_cover_mint_grid.png": {
+   "sha256": "967c3335186952c4cd6542cc52210b0e1ae5c8856df4673e706807b246d7bb7c",
+   "checked": "2026-11-22",
+   "note": "By eye: label, headline, Tick and the Day60 footer inside y 240 to 1680; only background art outside"
+  },
+  "2027-01/wk04/p03_resume_cover_cobalt_grid.png": {
+   "sha256": "b94063a1b801f6cb87280a1d0afab8b76a8e330c3f10ea6a63db6381d3b4fc38",
+   "checked": "2026-11-22",
+   "note": "By eye: label, headline, Tick and the Day60 footer inside y 240 to 1680; only background art outside"
+  }
+ }
 }
