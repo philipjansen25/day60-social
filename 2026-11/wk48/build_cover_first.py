@@ -12,6 +12,8 @@ REELS = [
     ("2027-01/wk03/p04_one_link_cover_mint_grid.png", "2026-11/wk48/p04_one_link_reel_v2.mp4", "2026-11/wk48/p04_one_link_reel_v3_cover.mp4"),
     # Facebook cut of the One Link Reel (HQ, Nov 23): end sticker "getday60.com".
     ("2027-01/wk03/p04_one_link_cover_mint_grid.png", "2026-11/wk48/p04_one_link_reel_fb.mp4", "2026-11/wk48/p04_one_link_reel_fb_cover.mp4"),
+    # Facebook cut of the One Job Reel (Social, Nov 23, for HQ): end sticker "getday60.com".
+    ("2027-01/wk03/p03_one_job_cover_coral_grid.png", "2026-11/wk47/p03_one_job_reel_fb.mp4", "2026-11/wk47/p03_one_job_reel_fb_cover.mp4"),
 ]
 for cover, video, out in REELS:
     if os.path.exists(out):  # never re-encode a file library.json already uses

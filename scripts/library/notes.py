@@ -322,3 +322,21 @@ NOTES["2026-w46-IG6-r2"] = NOTES["2026-w46-IG6-r2"] + ["In Buffer: scheduled Nov
 NOTES["2026-w49-IG-email"] = NOTES["2026-w49-IG-email"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b043514433e6368c8a73713), Fri Nov 27, 9:43 PM CT. Nothing for Philip to do."]
 NOTES["2026-w46-IG7-r2"] = NOTES["2026-w46-IG7-r2"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b04351c0d00264c1a39c154), Sun Nov 29, 8:17 PM CT. Nothing for Philip to do."]
 NOTES["2026-w48-FB-onelink"] = NOTES["2026-w48-FB-onelink"] + ["Video swapped Nov 23 to the Facebook cut (end sticker getday60.com, HQ approved): p04_one_link_reel_fb_cover.mp4, thumbnailOffset 500."]
+
+# Nov 23: drafts for HQ (Social). Humor posts say so first (playbook §4).
+HUMOR = "humor"
+_WAIT = "Draft: waits for HQ's approval. Nothing goes into Buffer before it."
+NOTES["2026-w48-FB-onejob"] = ["Publishes through Buffer, automatically, as the Day60 Facebook Page, as a Reel (1080x1920).",
+    "The video's first second is the cover (cover-first video); Buffer's thumbnailOffset 500 picks it.",
+    "Facebook cut: the end sticker reads getday60.com, not \"Link in bio\".",
+    "Ends with the try link (HQ, Nov 22).", _WAIT]
+NOTES["2026-w48-IG-thanksgiving"] = [HUMOR] + BUF_IG_ONE + [
+    "Thanksgiving card. If approved, it takes Thu Nov 26 and IG6-r2 moves to the next open Instagram day.", _WAIT]
+NOTES["2026-w48-FB-blackfriday"] = [HUMOR, "Publishes through Buffer, automatically, as the Day60 Facebook Page, as a text post.",
+    "The link stays in the text, as written.", _WAIT]
+NOTES["2026-w49-FB-shortlist"] = BUF_FB_ONE + ["IG-shortlist-r2's art (Instagram Sat Nov 28), with a Facebook caption.", _WAIT]
+NOTES["2026-w49-LI-monday"] = BUF_LI2 + ["Sunday lane, plan your week (Philip, Nov 22). The first Sunday LinkedIn post.", _WAIT]
+NOTES["2026-w49-LI-glossary"] = [HUMOR] + BUF_LI2 + ["Founder lane (Mon).", _WAIT]
+NOTES["2026-w49-IG-breaking"] = [HUMOR] + BUF_IG_ONE + ["FB-breaking reuses this card on Tue Dec 1.", _WAIT]
+NOTES["2026-w49-FB-breaking"] = [HUMOR] + BUF_FB_ONE + ["IG-breaking's card (Instagram Mon Nov 30), with a Facebook caption.", _WAIT]
+

@@ -246,3 +246,142 @@ Today, pick one job and find its hiring manager's name. The full guide, step by 
 
 #jobsearch #day60 #careeradvice
 ```
+
+## Drafts for HQ, Mon Nov 23 (Social): Sun Nov 29 to Tue Dec 1
+
+Five drafts for HQ's approval before Wednesday Nov 25's run, three of them humor (playbook §4). Times from `scripts/pick_time.py`.
+
+### LI-monday · Sun Nov 29 · 9:06 PM · DRAFT · MONDAY PLAN: ONE JOB, ONE PERSON, ONE NOTE (Sunday lane)
+- Status: draft, for HQ's approval.
+- Lane: the Sunday lane, "plan your week" (Philip, Nov 22; playbook §4). The first Sunday LinkedIn post.
+- Format: text only.
+- Founder facts: none beyond "I built Day60".
+- Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
+- Link: the try link, the body's last line before the hashtags.
+
+```
+Monday plan: one job, one person, one note by 10 AM.
+
+Most Mondays go to the inbox. New alerts, old applications, a dozen open tabs. By lunch, nothing has gone to a person.
+
+Try this before 10 AM tomorrow:
+
+1. Pick one job you'd say yes to. Just one.
+2. Find the hiring manager. The posting, the team page or the company's own site usually points to them.
+3. Write three lines: one problem their team has, one line of proof you can help, one easy question.
+
+Then send it. That's the whole morning.
+
+Getting one note to the person who decides is the step I built Day60 around.
+
+Which job will you start with tomorrow?
+
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49-LI-monday
+
+#jobsearch #careeradvice #networking
+```
+
+Checks: hook is 52 characters. "Day60" appears once. The link is the body's last line. Ends on one next step for Monday morning, then a question. No em-dashes, no banned phrases.
+
+### FB-shortlist · Sun Nov 29 · 9:34 AM · DRAFT · LONG WEEKEND, SHORT LIST (Facebook)
+- Status: draft, for HQ's approval. The send-this-to-someone format (playbook §4).
+- Image: IG-shortlist-r2's approved art, `2026-11/wk48/p05_short_list_coral_safe.png` (1080x1350). It has no "Link in bio". Instagram posts it Sat Nov 28, 9:24 PM, so they never share a day.
+- Alt text: Long weekend, short list: pick one job, paste its link to see your 4 people, send the hiring manager one short note.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-shortlist`
+
+```
+Long weekend. Short list.
+
+Looking for work, or know someone who is? Here's the whole plan for today:
+
+1. Pick one job you'd say yes to.
+2. Paste its link and see the 4 people closest to the hire.
+3. Send the hiring manager one short note.
+
+Three steps, then back to the leftovers. Monday starts with one message already sent.
+
+Share this with someone who's looking.
+
+Find the 4 people for one job:
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-shortlist
+
+#jobsearch #day60 #careeradvice
+```
+
+### LI-glossary · Mon Nov 30 · 5:26 PM · DRAFT · A SHORT GLOSSARY OF JOB POSTING LANGUAGE (humor, founder lane)
+- Status: draft, for HQ's approval. Humor (playbook §4): a deadpan text post. The joke is on job-posting language and long hiring processes, never the person looking.
+- Lane: Phil's founder lane (Mon). His view, given as advice; no events and no founder facts beyond "I built Day60".
+- Format: text only.
+- Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
+- Link: the try link, the body's last line before the hashtags.
+
+```
+A short glossary of job posting language.
+
+"Entry level": three to five years of experience.
+"Fast-paced": you'll start yesterday.
+"Wears many hats": several jobs, one salary.
+"Competitive salary": they'll tell you in round four.
+"We'll keep your résumé on file": the file is very large.
+
+Job postings read a lot like bad cold emails. Written for everyone, so they land with no one.
+
+The useful part: you don't have to decode the posting. Ask the person who wrote it.
+
+Find the hiring manager and send three lines: one problem you think their team has, one line of proof, one question about the role. Their answer tells you more than the posting will.
+
+I built Day60 to make that note easy to write.
+
+Which phrase would you add?
+
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49-LI-glossary
+
+#jobsearch #hiring #careeradvice
+```
+
+Checks: hook is 41 characters. "Day60" appears once. The link is the body's last line. Ends on one next step, then a question. No em-dashes, no banned phrases.
+
+### IG-breaking · Mon Nov 30 · 8:27 PM · DRAFT · BREAKING: HIRING MANAGER ANSWERS COLD EMAIL (humor)
+- Status: draft, for HQ's approval. Humor (playbook §4): the "breaking news" card with Tick. The joke is on long first messages; the point is the three-line note.
+- Image: `2026-11/wk49/p02_breaking_lime.png` (1080x1350, lime; source `2026-11/wk49/build_humor.py`). Safe area passes. No "Link in bio" on the image, so FB-breaking reuses it.
+- Ground: lime. The grid before it: ink (Fri), coral (Sat), cobalt (Sun), so any 4 in a row stay different.
+- If HQ approves the Thanksgiving card, IG6-r2 moves to the next open Instagram day: Tue Dec 1 if this post takes Monday.
+- Alt text: Breaking news: hiring manager answers cold email. It was three lines long and ended with one easy question.
+- Link: the bio link stays /try. No link in the caption.
+
+```
+Breaking: hiring manager answers cold email.
+
+Sources say the email was three lines long. It named one problem the team has, gave one line of proof, and ended with one question that took ten seconds to answer.
+
+No attachments. No "I hope this finds you well." No request for 30 minutes.
+
+Investigators found nothing unusual. Just a short note to the right person.
+
+Today: cut your next first message to three lines before you send it.
+
+Day60 drafts a short first note to each of the 4 people closest to the hire. You send it. Link in bio.
+
+#day60 #jobsearch #careeradvice #networkingtips #coverletter
+```
+
+### FB-breaking · Tue Dec 1 · 7:34 AM · DRAFT · BREAKING: HIRING MANAGER ANSWERS COLD EMAIL (humor, Facebook)
+- Status: draft, for HQ's approval. Humor (playbook §4). IG-breaking's card, the day after Instagram posts it.
+- Image: `2026-11/wk49/p02_breaking_lime.png` (1080x1350).
+- Alt text: Breaking news: hiring manager answers cold email. It was three lines long and ended with one easy question.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-breaking`
+
+```
+Breaking news from the job search: a hiring manager answered a cold email.
+
+It was three lines long. One problem their team has. One line of proof. One easy question at the end.
+
+No attachments, no life story, no request for 30 minutes of their week.
+
+If you're looking, or helping someone who is, that's the whole format. Short enough to read on a phone between meetings.
+
+Today: cut your next first message to three lines.
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-breaking
+
+#jobsearch #day60 #careeradvice
+```

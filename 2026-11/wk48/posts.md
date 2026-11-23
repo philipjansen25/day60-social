@@ -350,3 +350,74 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 
 #jobsearch #day60 #jobsearchtips
 ```
+
+## Drafts for HQ, Mon Nov 23 (Social): Facebook this week and the Thanksgiving card
+
+Three drafts for HQ's approval before Wednesday Nov 25's run. Times from `scripts/pick_time.py`. Nothing goes into Buffer until HQ says yes.
+
+### FB-onejob · Wed Nov 25 · 9:36 AM · DRAFT · START WITH ONE JOB (Facebook Reel)
+- Status: draft, for HQ's approval. A Reel (HQ approves each Reel, playbook §5).
+- Words: IG-onejob-r2's approved caption (`2027-01/wk03/posts.md`), adapted for Facebook: "Link in bio" out, the try link on its own last line before the hashtags (HQ, Nov 22).
+- Reel: `2026-11/wk47/p03_one_job_reel_fb_cover.mp4` (1080x1920: the cover held for 1 second, then the One Job Reel with its end sticker reading "getday60.com" in place of "Link in bio"; source `2026-11/wk47/build_first.py onejob_fb`, then `2026-11/wk48/build_cover_first.py`) · Cover: `2027-01/wk03/p03_one_job_cover_coral_grid.png` (1080x1920). In Buffer: a Facebook Reel through jsDelivr at a fixed commit, thumbnailOffset 500.
+- Alt text (cover): Don't start with 50 jobs. Start with one: paste its link into Day60 and meet the 4 people closest to the hire.
+- Day: Wednesday. IG-onejob-r2 runs Thu Jan 21, so they never share a day. Wednesday's Instagram post is IG-onelink-r2, a different piece.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-onejob`
+
+```
+You don't need 50 jobs to start. You need one.
+
+1. Pick a job you'd say yes to tomorrow.
+2. Find it on the company's own careers page. Saw it on LinkedIn? Look for the same job on their site.
+3. Paste that one link into Day60 and see the 4 people closest to the hire.
+
+Then send one message. Day60 drafts it in your voice, and you send it.
+
+Today: do step 1, and only step 1.
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-onejob
+
+#jobsearch #day60 #jobhunting
+```
+
+### IG-thanksgiving · Thu Nov 26 · 8:11 AM · DRAFT · PASS THE STUFFING (humor, Thanksgiving card)
+- Status: draft, for HQ's approval. Humor (playbook §4): a one-line seasonal card. The joke is on long first messages, and the point is the method's easy last question.
+- If HQ approves it, it takes Thursday and IG6-r2 (in Buffer, Thu 9:11 AM) moves with edit_post to the next open Instagram day.
+- Image: `2026-11/wk48/p06_pass_the_stuffing_pink.png` (1080x1350, pink; source `2026-11/wk49/build_humor.py`). Safe area passes. The lime highlight is the one lime element.
+- Ground: pink. The grid around it: mint (Wed), ink (Fri), coral (Sat), cobalt (Sun), so any 4 in a row stay different.
+- Alt text: "Pass the stuffing?" The easiest question anyone will answer this week. End your next note with a question that easy.
+- Thanksgiving (HQ, Nov 19): light, short, doesn't sell. No "Link in bio" line.
+- Link: the bio link stays /try. No link in the caption.
+
+```
+"Pass the stuffing?"
+
+The easiest question anyone will answer this week. One line. No calendar invite.
+
+Your first note to a hiring manager can end the same way. "Where do new customers get stuck most: setup or training?" gets answered between bites. "Do you have 30 minutes to chat?" waits until Monday.
+
+Happy Thanksgiving from Day60.
+
+Today: read the last line of the next message you'll send. Could they answer it in one line?
+
+#day60 #jobsearch #careeradvice #networkingtips #coverletter
+```
+
+### FB-blackfriday · Fri Nov 27 · 7:57 AM · DRAFT · BLACK FRIDAY DEAL (humor, text post)
+- Status: draft, for HQ's approval. Humor (playbook §4): a deadpan text post. The joke is on the application pile, never the person applying.
+- Format: text only, so no new Facebook art (playbook §5: Facebook reuses Instagram art).
+- Day: Friday. Instagram that day is IG-email, a different piece.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-blackfriday`
+
+```
+Black Friday deal: send 200 applications, get 200 automated replies. Free shipping on the silence.
+
+There's a better use of the long weekend.
+
+Pick one job you'd say yes to. Find the person who'd be your boss. Send them three lines: one problem their team has, one line of proof you can help, one easy question.
+
+One short note to the right person. No cart, no checkout, no portal.
+
+Today: pick the one job before the leftovers run out.
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-blackfriday
+
+#jobsearch #day60 #jobhunting
+```

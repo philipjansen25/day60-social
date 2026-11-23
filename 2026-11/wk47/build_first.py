@@ -54,19 +54,21 @@ def oj_tips(k):
            f'<div style="position:absolute;right:80px;top:1400px">{tick("running", 250)}</div>'))
 
 
-def oj_end():
+def oj_end(end_sticker="Link in bio"):
     return rpage(
         f'<div class="d" style="position:absolute;left:72px;right:72px;top:240px;font-size:132px;color:{CREAM}">One job.<br>Four people.<br>'
         f'<span class="fill" style="color:{INK}">One message.</span></div>'
         + f'<div style="position:absolute;left:76px;top:900px;width:900px;font-size:50px;font-weight:600;line-height:1.3;color:{CREAM}">'
           f'Paste a job link. Get your 4 people. You send every message.</div>'
-        + sticker("Link in bio", LIME, 72, 1130, 34)
+        + sticker(end_sticker, LIME, 72, 1130, 34)
         + spark(900, 160, 70, LIME)
         + f'<div style="position:absolute;right:80px;top:1240px">{tick("running", 330)}</div>', bg=INK)
 
 
 ONEJOB = [("oj_hook", oj_hook(), 2.8), ("oj_t1", oj_tips(1), 2.8), ("oj_t2", oj_tips(2), 3.2),
           ("oj_t3", oj_tips(3), 3.2), ("oj_end", oj_end(), 3.4)]
+# Facebook cut (Social, Nov 23, for HQ's approval): end sticker "getday60.com" in place of "Link in bio". No new copy.
+ONEJOB_FB = ONEJOB[:-1] + [("oj_end", oj_end("getday60.com"), 3.4)]
 
 # ---------- IG-redpen: Your first message, cut to 3 lines ----------
 LINES = [("Hi Maya,", None),
@@ -227,13 +229,15 @@ def fj_slides():
 
 
 if __name__ == "__main__":
-    # Modes: onejob, redpen, firstjob. Any other argument is a slide name to render alone (e.g. p05_first_job_6_v2).
+    # Modes: onejob, onejob_fb, redpen, firstjob. Any other argument is a slide name to render alone (e.g. p05_first_job_6_v2).
     # The _v2 reels (HQ, Nov 13) only change the ink end scene; the old mp4s stay on disk.
     args = set(sys.argv[1:])
     names = {a for a in args if a.startswith("p0")}
     want = (args - names) or ({"firstjob"} if names else {"onejob", "redpen", "firstjob"})
     if "onejob" in want:
         make_reel(ONEJOB, os.path.join(WK, "p03_one_job_reel_v2.mp4"), os.path.join(TMP, "onejob"))
+    if "onejob_fb" in want:
+        make_reel(ONEJOB_FB, os.path.join(WK, "p03_one_job_reel_fb.mp4"), os.path.join(TMP, "onejob_fb"))
     if "redpen" in want:
         make_reel(REDPEN, os.path.join(WK, "p04_red_pen_reel_v2.mp4"), os.path.join(TMP, "redpen"))
     if "firstjob" in want:
