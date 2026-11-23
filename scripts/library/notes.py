@@ -341,3 +341,13 @@ NOTES["2026-w49-IG-breaking"] = [HUMOR] + BUF_IG_ONE + ["FB-breaking reuses this
 NOTES["2026-w49-FB-breaking"] = [HUMOR] + BUF_FB_ONE + ["IG-breaking's card (Instagram Mon Nov 30), with a Facebook caption.", _WAIT]
 
 NOTES["2026-w46-IG6-r2"] = [x for x in NOTES["2026-w46-IG6-r2"] if "unless HQ approves the Thanksgiving" not in x]
+
+# Nov 23: the 8 approved drafts, created in Buffer by Social
+NOTES["2026-w48-FB-onejob"] = NOTES["2026-w48-FB-onejob"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0437cb7e433fe9cacc5242), Wed Nov 25, 9:36 AM CT. Nothing for Philip to do."]
+NOTES["2026-w48-IG-thanksgiving"] = NOTES["2026-w48-IG-thanksgiving"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0437cf7e433fe9cacc5360), Thu Nov 26, 8:11 AM CT. Nothing for Philip to do."]
+NOTES["2026-w48-FB-blackfriday"] = NOTES["2026-w48-FB-blackfriday"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0437d2433e6368c8a85bce), Fri Nov 27, 7:57 AM CT. Nothing for Philip to do."]
+NOTES["2026-w49-FB-shortlist"] = NOTES["2026-w49-FB-shortlist"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0437d666ef504f45531a11), Sun Nov 29, 9:34 AM CT. Nothing for Philip to do."]
+NOTES["2026-w49-LI-monday"] = NOTES["2026-w49-LI-monday"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0437de433e6368c8a8610c), Sun Nov 29, 9:06 PM CT. Nothing for Philip to do."]
+NOTES["2026-w49-LI-glossary"] = NOTES["2026-w49-LI-glossary"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0437e2e94d538757bcf4f5), Mon Nov 30, 5:26 PM CT. Nothing for Philip to do."]
+NOTES["2026-w49-IG-breaking"] = NOTES["2026-w49-IG-breaking"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0437e666ef504f455320c9), Mon Nov 30, 8:27 PM CT. Nothing for Philip to do."]
+NOTES["2026-w49-FB-breaking"] = NOTES["2026-w49-FB-breaking"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0437eb66ef504f455322a7), Tue Dec 1, 7:34 AM CT. Nothing for Philip to do."]

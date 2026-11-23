@@ -258,6 +258,7 @@ Five drafts for HQ's approval before Wednesday Nov 25's run, three of them humor
 - Founder facts: none beyond "I built Day60".
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
 - Link: the try link, the body's last line before the hashtags.
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b0437de433e6368c8a8610c`), Sun Nov 29, 9:06 PM CT, as a text post. Nothing for Philip to do.
 
 ```
 Monday plan: one job, one person, one note by 10 AM.
@@ -288,6 +289,7 @@ Checks: hook is 52 characters. "Day60" appears once. The link is the body's last
 - Image: IG-shortlist-r2's approved art, `2026-11/wk48/p05_short_list_coral_safe.png` (1080x1350). It has no "Link in bio". Instagram posts it Sat Nov 28, 9:24 PM, so they never share a day.
 - Alt text: Long weekend, short list: pick one job, paste its link to see your 4 people, send the hiring manager one short note.
 - Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-shortlist`
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b0437d666ef504f45531a11`), Sun Nov 29, 9:34 AM CT, with its alt text. Nothing for Philip to do.
 
 ```
 Long weekend. Short list.
@@ -314,6 +316,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 - Format: text only.
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
 - Link: the try link, the body's last line before the hashtags.
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b0437e2e94d538757bcf4f5`), Mon Nov 30, 5:26 PM CT, as a text post. Nothing for Philip to do.
 
 ```
 A short glossary of job posting language.
@@ -349,6 +352,7 @@ Checks: hook is 41 characters. "Day60" appears once. The link is the body's last
 - If HQ approves the Thanksgiving card, IG6-r2 moves to the next open Instagram day: Tue Dec 1 if this post takes Monday.
 - Alt text: Breaking news: hiring manager answers cold email. It was three lines long and ended with one easy question.
 - Link: the bio link stays /try. No link in the caption.
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b0437e666ef504f455320c9`), Mon Nov 30, 8:27 PM CT, at 1080x1350 with its alt text. Nothing for Philip to do.
 
 ```
 Breaking: hiring manager answers cold email.
@@ -371,6 +375,7 @@ Day60 drafts a short first note to each of the 4 people closest to the hire. You
 - Image: `2026-11/wk49/p02_breaking_lime.png` (1080x1350).
 - Alt text: Breaking news: hiring manager answers cold email. It was three lines long and ended with one easy question.
 - Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-breaking`
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b0437eb66ef504f455322a7`), Tue Dec 1, 7:34 AM CT, with its alt text. Nothing for Philip to do.
 
 ```
 Breaking news from the job search: a hiring manager answered a cold email.

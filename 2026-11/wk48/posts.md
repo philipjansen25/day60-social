@@ -362,6 +362,7 @@ Three drafts for HQ's approval before Wednesday Nov 25's run. Times from `script
 - Alt text (cover): Don't start with 50 jobs. Start with one: paste its link into Day60 and meet the 4 people closest to the hire.
 - Day: Wednesday. IG-onejob-r2 runs Thu Jan 21, so they never share a day. Wednesday's Instagram post is IG-onelink-r2, a different piece.
 - Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-onejob`
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b0437cb7e433fe9cacc5242`), Wed Nov 25, 9:36 AM CT, as a Facebook Reel with thumbnailOffset 500 (the cover). Nothing for Philip to do.
 
 ```
 You don't need 50 jobs to start. You need one.
@@ -386,6 +387,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 - Alt text: "Pass the stuffing?" The easiest question anyone will answer this week. End your next note with a question that easy.
 - Thanksgiving (HQ, Nov 19): light, short, doesn't sell. No "Link in bio" line.
 - Link: the bio link stays /try. No link in the caption.
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b0437cf7e433fe9cacc5360`), Thu Nov 26, 8:11 AM CT, at 1080x1350 with its alt text. Nothing for Philip to do.
 
 ```
 "Pass the stuffing?"
@@ -406,6 +408,7 @@ Today: read the last line of the next message you'll send. Could they answer it 
 - Format: text only, so no new Facebook art (playbook §5: Facebook reuses Instagram art).
 - Day: Friday. Instagram that day is IG-email, a different piece.
 - Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-blackfriday`
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b0437d2433e6368c8a85bce`), Fri Nov 27, 7:57 AM CT, as a text post. Nothing for Philip to do.
 
 ```
 Black Friday deal: send 200 applications, get 200 automated replies. Free shipping on the silence.
