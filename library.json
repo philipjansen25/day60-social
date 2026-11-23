@@ -1353,7 +1353,7 @@
     "topic": "day60",
     "date": "2026-11-25",
     "time": "09:36",
-    "status": "draft",
+    "status": "approved",
     "title": "Start with one job",
     "format": "video",
     "text": "You don't need 50 jobs to start. You need one.\n\n1. Pick a job you'd say yes to tomorrow.\n2. Find it on the company's own careers page. Saw it on LinkedIn? Look for the same job on their site.\n3. Paste that one link into Day60 and see the 4 people closest to the hire.\n\nThen send one message. Day60 drafts it in your voice, and you send it.\n\nToday: do step 1, and only step 1.\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-onejob\n\n#jobsearch #day60 #jobhunting",
@@ -1369,7 +1369,7 @@
         "alt": "Don't start with 50 jobs. Start with one: paste its link into Day60 and meet the 4 people closest to the hire."
       }
     ],
-    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page, as a Reel (1080x1920).\nThe video's first second is the cover (cover-first video); Buffer's thumbnailOffset 500 picks it.\nFacebook cut: the end sticker reads getday60.com, not \"Link in bio\".\nEnds with the try link (HQ, Nov 22).\nDraft: waits for HQ's approval. Nothing goes into Buffer before it.",
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page, as a Reel (1080x1920).\nThe video's first second is the cover (cover-first video); Buffer's thumbnailOffset 500 picks it.\nFacebook cut: the end sticker reads getday60.com, not \"Link in bio\".\nEnds with the try link (HQ, Nov 22).\nApproved by HQ (Nov 23).",
     "postedVia": ""
   },
   {
@@ -1431,7 +1431,7 @@
     "topic": "day60",
     "date": "2026-11-26",
     "time": "08:11",
-    "status": "draft",
+    "status": "approved",
     "title": "Pass the stuffing",
     "format": "image",
     "text": "\"Pass the stuffing?\"\n\nThe easiest question anyone will answer this week. One line. No calendar invite.\n\nYour first note to a hiring manager can end the same way. \"Where do new customers get stuck most: setup or training?\" gets answered between bites. \"Do you have 30 minutes to chat?\" waits until Monday.\n\nHappy Thanksgiving from Day60.\n\nToday: read the last line of the next message you'll send. Could they answer it in one line?\n\n#day60 #jobsearch #careeradvice #networkingtips #coverletter",
@@ -1443,54 +1443,8 @@
         "alt": "\"Pass the stuffing?\" The easiest question anyone will answer this week. End your next note with a question that easy."
       }
     ],
-    "notes": "humor\nPublishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nThe image goes up with its alt text.\nNo link in the caption; the bio link stays as it is.\nThanksgiving card. If approved, it takes Thu Nov 26 and IG6-r2 moves to the next open Instagram day.\nDraft: waits for HQ's approval. Nothing goes into Buffer before it.",
+    "notes": "humor\nPublishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nThe image goes up with its alt text.\nNo link in the caption; the bio link stays as it is.\nThanksgiving card. If approved, it takes Thu Nov 26 and IG6-r2 moves to the next open Instagram day.\nApproved by HQ (Nov 23).",
     "postedVia": ""
-  },
-  {
-    "id": "2026-w46-IG6-r2",
-    "week": "2026-w53",
-    "channel": "instagram",
-    "topic": "day60",
-    "date": "2026-11-26",
-    "time": "09:11",
-    "status": "approved",
-    "title": "Would Tick let you send it",
-    "format": "carousel",
-    "text": "Would Tick let you send it?\n\nOne cold email, run through Day60's free message checker.\n\nFirst draft: 7 things to fix. It opened with \"I\", the subject line ran 12 words, there was no clear question, it had two em dashes, and it said \"I wanted to reach out\" and \"passionate\".\n\nThe rewrite: one line about their team, one line of proof, one clear question. All 13 rules pass.\n\nPick what you're sending (a cold email, a LinkedIn connection note, or the message after they accept), paste your draft, and Tick tells you what to fix and why. Tick checks the rules, not the facts, so make sure every detail is true.\n\n(The sender, recipient and company are invented.)\n\nToday: paste the next message you're about to send. Free, no sign-up: getday60.com/message-checker\n\n#day60 #jobsearch #careeradvice #networkingtips #coverletter",
-    "firstComment": "",
-    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
-    "files": [
-      {
-        "path": "2026-11/wk46/p15_checker_1_safe.png",
-        "alt": "One cold email through Day60's free message checker, before and after."
-      },
-      {
-        "path": "2026-11/wk46/p15_checker_2_safe.png",
-        "alt": "Step 1: Pick what you're sending: a cold email, a LinkedIn connection note or a message after they accept."
-      },
-      {
-        "path": "2026-11/wk46/p15_checker_3_safe.png",
-        "alt": "Step 2: Paste your draft. The example is a long first email that opens \"I hope this email finds you well!\""
-      },
-      {
-        "path": "2026-11/wk46/p15_checker_4_safe.png",
-        "alt": "The verdict: 7 to fix, 6 passed. Each fix says why, like a short subject line and not starting with \"I\"."
-      },
-      {
-        "path": "2026-11/wk46/p15_checker_5_safe.png",
-        "alt": "Step 3: Fix it. Check again. The example rewrite is shorter and ends with one clear question."
-      },
-      {
-        "path": "2026-11/wk46/p15_checker_6_safe.png",
-        "alt": "All 13 rules pass. Same ask, easier to answer."
-      },
-      {
-        "path": "2026-11/wk46/p15_checker_7_safe.png",
-        "alt": "Check it before you send it. Free at getday60.com/message-checker"
-      }
-    ],
-    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nSlides go up in the listed order, each with its alt text.\nNo link in the caption; the bio link stays as it is.\nRecycled from 2026-w46-IG6 (HQ, Nov 22): the original was cropped to a square when it was scheduled in the Instagram app. Same images at Instagram's size; the caption is lightly refreshed.\nMoved up from Mon Dec 28 to Thu Nov 26, 9:11 AM, unless HQ approves the Thanksgiving humor card for that slot by Wed Nov 25's run; then it keeps a later date (HQ, Nov 22).\nApproved: it keeps the original's approval (HQ, Nov 22).\nIn Buffer: scheduled Nov 23 by Social (Buffer post 6b04350b7e433fe9cacb0420), Thu Nov 26, 9:11 AM CT. If HQ approves the Thanksgiving card for Thursday, Social moves this post to the next open Instagram day. Nothing for Philip to do.",
-    "postedVia": "buffer"
   },
   {
     "id": "2026-w48-FB-thanks",
@@ -1558,14 +1512,14 @@
     "topic": "day60",
     "date": "2026-11-27",
     "time": "07:57",
-    "status": "draft",
+    "status": "approved",
     "title": "Black Friday deal",
     "format": "text",
     "text": "Black Friday deal: send 200 applications, get 200 automated replies. Free shipping on the silence.\n\nThere's a better use of the long weekend.\n\nPick one job you'd say yes to. Find the person who'd be your boss. Send them three lines: one problem their team has, one line of proof you can help, one easy question.\n\nOne short note to the right person. No cart, no checkout, no portal.\n\nToday: pick the one job before the leftovers run out.\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-blackfriday\n\n#jobsearch #day60 #jobhunting",
     "firstComment": "",
     "link": "`https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-blackfriday`",
     "files": [],
-    "notes": "humor\nPublishes through Buffer, automatically, as the Day60 Facebook Page, as a text post.\nThe link stays in the text, as written.\nDraft: waits for HQ's approval. Nothing goes into Buffer before it.",
+    "notes": "humor\nPublishes through Buffer, automatically, as the Day60 Facebook Page, as a text post.\nThe link stays in the text, as written.\nApproved by HQ (Nov 23).",
     "postedVia": ""
   },
   {
@@ -1687,7 +1641,7 @@
     "topic": "day60",
     "date": "2026-11-29",
     "time": "09:34",
-    "status": "draft",
+    "status": "approved",
     "title": "Long weekend, short list",
     "format": "image",
     "text": "Long weekend. Short list.\n\nLooking for work, or know someone who is? Here's the whole plan for today:\n\n1. Pick one job you'd say yes to.\n2. Paste its link and see the 4 people closest to the hire.\n3. Send the hiring manager one short note.\n\nThree steps, then back to the leftovers. Monday starts with one message already sent.\n\nShare this with someone who's looking.\n\nFind the 4 people for one job:\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-shortlist\n\n#jobsearch #day60 #careeradvice",
@@ -1699,7 +1653,7 @@
         "alt": "Long weekend, short list: pick one job, paste its link to see your 4 people, send the hiring manager one short note."
       }
     ],
-    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe link stays in the text, as written.\nIG-shortlist-r2's art (Instagram Sat Nov 28), with a Facebook caption.\nDraft: waits for HQ's approval. Nothing goes into Buffer before it.",
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe link stays in the text, as written.\nIG-shortlist-r2's art (Instagram Sat Nov 28), with a Facebook caption.\nApproved by HQ (Nov 23).",
     "postedVia": ""
   },
   {
@@ -1747,14 +1701,14 @@
     "topic": "day60",
     "date": "2026-11-29",
     "time": "21:06",
-    "status": "draft",
+    "status": "approved",
     "title": "Monday plan: one note by 10",
     "format": "text",
     "text": "Monday plan: one job, one person, one note by 10 AM.\n\nMost Mondays go to the inbox. New alerts, old applications, a dozen open tabs. By lunch, nothing has gone to a person.\n\nTry this before 10 AM tomorrow:\n\n1. Pick one job you'd say yes to. Just one.\n2. Find the hiring manager. The posting, the team page or the company's own site usually points to them.\n3. Write three lines: one problem their team has, one line of proof you can help, one easy question.\n\nThen send it. That's the whole morning.\n\nGetting one note to the person who decides is the step I built Day60 around.\n\nWhich job will you start with tomorrow?\n\nhttps://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49-LI-monday\n\n#jobsearch #careeradvice #networking",
     "firstComment": "",
     "link": "",
     "files": [],
-    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nSunday lane, plan your week (Philip, Nov 22). The first Sunday LinkedIn post.\nDraft: waits for HQ's approval. Nothing goes into Buffer before it.",
+    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nSunday lane, plan your week (Philip, Nov 22). The first Sunday LinkedIn post.\nApproved by HQ (Nov 23).",
     "postedVia": ""
   },
   {
@@ -1764,14 +1718,14 @@
     "topic": "day60",
     "date": "2026-11-30",
     "time": "17:26",
-    "status": "draft",
+    "status": "approved",
     "title": "Job posting glossary",
     "format": "text",
     "text": "A short glossary of job posting language.\n\n\"Entry level\": three to five years of experience.\n\"Fast-paced\": you'll start yesterday.\n\"Wears many hats\": several jobs, one salary.\n\"Competitive salary\": they'll tell you in round four.\n\"We'll keep your résumé on file\": the file is very large.\n\nJob postings read a lot like bad cold emails. Written for everyone, so they land with no one.\n\nThe useful part: you don't have to decode the posting. Ask the person who wrote it.\n\nFind the hiring manager and send three lines: one problem you think their team has, one line of proof, one question about the role. Their answer tells you more than the posting will.\n\nI built Day60 to make that note easy to write.\n\nWhich phrase would you add?\n\nhttps://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49-LI-glossary\n\n#jobsearch #hiring #careeradvice",
     "firstComment": "",
     "link": "",
     "files": [],
-    "notes": "humor\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nFounder lane (Mon).\nDraft: waits for HQ's approval. Nothing goes into Buffer before it.",
+    "notes": "humor\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nFounder lane (Mon).\nApproved by HQ (Nov 23).",
     "postedVia": ""
   },
   {
@@ -1781,7 +1735,7 @@
     "topic": "day60",
     "date": "2026-11-30",
     "time": "20:27",
-    "status": "draft",
+    "status": "approved",
     "title": "Hiring manager answers cold email",
     "format": "image",
     "text": "Breaking: hiring manager answers cold email.\n\nSources say the email was three lines long. It named one problem the team has, gave one line of proof, and ended with one question that took ten seconds to answer.\n\nNo attachments. No \"I hope this finds you well.\" No request for 30 minutes.\n\nInvestigators found nothing unusual. Just a short note to the right person.\n\nToday: cut your next first message to three lines before you send it.\n\nDay60 drafts a short first note to each of the 4 people closest to the hire. You send it. Link in bio.\n\n#day60 #jobsearch #careeradvice #networkingtips #coverletter",
@@ -1793,7 +1747,7 @@
         "alt": "Breaking news: hiring manager answers cold email. It was three lines long and ended with one easy question."
       }
     ],
-    "notes": "humor\nPublishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nThe image goes up with its alt text.\nNo link in the caption; the bio link stays as it is.\nFB-breaking reuses this card on Tue Dec 1.\nDraft: waits for HQ's approval. Nothing goes into Buffer before it.",
+    "notes": "humor\nPublishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nThe image goes up with its alt text.\nNo link in the caption; the bio link stays as it is.\nFB-breaking reuses this card on Tue Dec 1.\nApproved by HQ (Nov 23).",
     "postedVia": ""
   },
   {
@@ -1803,7 +1757,7 @@
     "topic": "day60",
     "date": "2026-12-01",
     "time": "07:34",
-    "status": "draft",
+    "status": "approved",
     "title": "Hiring manager answers cold email",
     "format": "image",
     "text": "Breaking news from the job search: a hiring manager answered a cold email.\n\nIt was three lines long. One problem their team has. One line of proof. One easy question at the end.\n\nNo attachments, no life story, no request for 30 minutes of their week.\n\nIf you're looking, or helping someone who is, that's the whole format. Short enough to read on a phone between meetings.\n\nToday: cut your next first message to three lines.\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-breaking\n\n#jobsearch #day60 #careeradvice",
@@ -1815,7 +1769,7 @@
         "alt": "Breaking news: hiring manager answers cold email. It was three lines long and ended with one easy question."
       }
     ],
-    "notes": "humor\nPublishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe link stays in the text, as written.\nIG-breaking's card (Instagram Mon Nov 30), with a Facebook caption.\nDraft: waits for HQ's approval. Nothing goes into Buffer before it.",
+    "notes": "humor\nPublishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe link stays in the text, as written.\nIG-breaking's card (Instagram Mon Nov 30), with a Facebook caption.\nApproved by HQ (Nov 23).",
     "postedVia": ""
   },
   {
@@ -1834,6 +1788,52 @@
     "files": [],
     "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: the post's point is the method, not a page (HQ, Nov 19).\nApproved by HQ on Nov 19, with the new ending (one next step for today, then a question).",
     "postedVia": ""
+  },
+  {
+    "id": "2026-w46-IG6-r2",
+    "week": "2026-w53",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-12-01",
+    "time": "19:26",
+    "status": "approved",
+    "title": "Would Tick let you send it",
+    "format": "carousel",
+    "text": "Would Tick let you send it?\n\nOne cold email, run through Day60's free message checker.\n\nFirst draft: 7 things to fix. It opened with \"I\", the subject line ran 12 words, there was no clear question, it had two em dashes, and it said \"I wanted to reach out\" and \"passionate\".\n\nThe rewrite: one line about their team, one line of proof, one clear question. All 13 rules pass.\n\nPick what you're sending (a cold email, a LinkedIn connection note, or the message after they accept), paste your draft, and Tick tells you what to fix and why. Tick checks the rules, not the facts, so make sure every detail is true.\n\n(The sender, recipient and company are invented.)\n\nToday: paste the next message you're about to send. Free, no sign-up: getday60.com/message-checker\n\n#day60 #jobsearch #careeradvice #networkingtips #coverletter",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-11/wk46/p15_checker_1_safe.png",
+        "alt": "One cold email through Day60's free message checker, before and after."
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_2_safe.png",
+        "alt": "Step 1: Pick what you're sending: a cold email, a LinkedIn connection note or a message after they accept."
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_3_safe.png",
+        "alt": "Step 2: Paste your draft. The example is a long first email that opens \"I hope this email finds you well!\""
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_4_safe.png",
+        "alt": "The verdict: 7 to fix, 6 passed. Each fix says why, like a short subject line and not starting with \"I\"."
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_5_safe.png",
+        "alt": "Step 3: Fix it. Check again. The example rewrite is shorter and ends with one clear question."
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_6_safe.png",
+        "alt": "All 13 rules pass. Same ask, easier to answer."
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_7_safe.png",
+        "alt": "Check it before you send it. Free at getday60.com/message-checker"
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nSlides go up in the listed order, each with its alt text.\nNo link in the caption; the bio link stays as it is.\nRecycled from 2026-w46-IG6 (HQ, Nov 22): the original was cropped to a square when it was scheduled in the Instagram app. Same images at Instagram's size; the caption is lightly refreshed.\nApproved: it keeps the original's approval (HQ, Nov 22).\nMoved again (HQ, Nov 23): the Thanksgiving card took Thu Nov 26, so this goes out Tue Dec 1, 7:26 PM.\nIn Buffer: scheduled Nov 23 by Social (Buffer post 6b04350b7e433fe9cacb0420), Tue Dec 1, 7:26 PM CT. Nothing for Philip to do.",
+    "postedVia": "buffer"
   },
   {
     "id": "2026-w49-IG-findhm",

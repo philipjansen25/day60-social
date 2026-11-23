@@ -59,7 +59,7 @@ out(WK, "p02_breaking_lime", cover_page(
       f'Hiring manager answers cold email.</div>'
     + f'<div class="card" style="position:absolute;left:72px;top:640px;width:620px;padding:34px 38px;'
       f'font-size:40px;font-weight:600;line-height:1.3">It was three lines long and ended with one easy question.</div>'
-    + at(60, 700, tick("thinking", 290), right=True)
+    + at(60, 700, tick("celebrating", 290), right=True)
     + spark(900, 110, 60, INK) + spark(990, 220, 34, WHITE)
     + foot_g(g), g))
 

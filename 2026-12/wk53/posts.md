@@ -10,7 +10,8 @@
 
 ## Instagram
 
-### IG6-r2 · Thu Nov 26 · 9:11 AM · APPROVED (recycled, HQ Nov 22) · WOULD TICK LET YOU SEND IT
+### IG6-r2 · Tue Dec 1 · 7:26 PM · APPROVED (recycled, HQ Nov 22) · WOULD TICK LET YOU SEND IT
+- **Moved again (HQ, Nov 23):** HQ approved the Thanksgiving card for Thu Nov 26, so this post goes out Tue Dec 1, 7:26 PM (pick_time.py).
 - **Moved up (Nov 22):** from Mon Dec 28 to Thu Nov 26, 9:11 AM, unless HQ approves the Thanksgiving humor card for that slot by Wednesday Nov 25's run; then it keeps a later date (HQ, Nov 22). It goes to fill week 48's Instagram days (Instagram is 7 a week from Nov 23; Philip, Nov 22). It stays filed here, library id `2026-w46-IG6-r2`. Cream: the only cream in week 48's seven.
 - **Recycled (HQ, Nov 22):** a new copy of `2026-w46-IG6` (Would Tick let you send it, 2026-11/wk46), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w46-IG6-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
@@ -19,7 +20,7 @@
 - Alt text (per slide): 1 "One cold email through Day60's free message checker, before and after." · 2 "Step 1: Pick what you're sending: a cold email, a LinkedIn connection note or a message after they accept." · 3 Step 2: Paste your draft. The example is a long first email that opens "I hope this email finds you well!" · 4 The verdict: 7 to fix, 6 passed. Each fix says why, like a short subject line and not starting with "I". · 5 "Step 3: Fix it. Check again. The example rewrite is shorter and ends with one clear question." · 6 "All 13 rules pass. Same ask, easier to answer." · 7 "Check it before you send it. Free at getday60.com/message-checker"
 - Ground: cream. The week's other Instagram slots are still to plan; with them, any 4 in a row stay different and cream stays at most one in five.
 - Link: the bio link stays /try. No link in the caption.
-- In Buffer: scheduled Nov 23 by Social (Buffer post `6b04350b7e433fe9cacb0420`), Thu Nov 26, 9:11 AM CT, at 1080x1350 with its alt text. If HQ approves the Thanksgiving card for Thursday, Social moves this post to the next open Instagram day with edit_post. Nothing for Philip to do.
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b04350b7e433fe9cacb0420`), at 1080x1350 with its alt text; moved the same day with edit_post from Thu Nov 26, 9:11 AM to Tue Dec 1, 7:26 PM CT. Nothing for Philip to do.
 
 ```
 Would Tick let you send it?

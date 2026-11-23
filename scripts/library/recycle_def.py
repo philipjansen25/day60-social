@@ -214,7 +214,7 @@ for _r in R:
     if _r["orig"] in THIS_WEEK:
         _r.update(week="2026-w48", dir="2026-11/wk48", **THIS_WEEK[_r["orig"]])
 # Moved up to fill week 48 and Sun Nov 29 (Social, Nov 22; HQ can say no)
-MOVED = {"2026-w46-IG6": dict(date="2026-11-26", time="09:11", day="Thu Nov 26", t="9:11 AM", was="Mon Dec 28"),
+MOVED = {"2026-w46-IG6": dict(date="2026-12-01", time="19:26", day="Tue Dec 1", t="7:26 PM", was="Mon Dec 28"),
           "2026-w46-IG7": dict(date="2026-11-29", time="20:17", day="Sun Nov 29", t="8:17 PM", was="Mon Jan 4")}
 for _r in R:
     if _r["orig"] in MOVED:
