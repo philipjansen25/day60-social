@@ -212,7 +212,7 @@ def rb():
 
 
 # ---------- IG-onelink: One job link. Four people. One message. ----------
-def onelink():
+def onelink(end_sticker="Link in bio"):
     def big(text, top=190):
         return f'<div class="d" style="position:absolute;left:72px;right:72px;top:{top}px;font-size:130px">{text}</div>'
 
@@ -253,7 +253,7 @@ def onelink():
           f'Day60 never logs in to LinkedIn and never sends anything for you.</div>'
         + f'<div class="d" style="position:absolute;left:72px;top:960px;width:900px;font-size:66px;color:{CREAM}">'
           f'Paste a job link. Get your 4 people.</div>'
-        + sticker("Link in bio", LIME, 72, 1170, 34)
+        + sticker(end_sticker, LIME, 72, 1170, 34)
         + f'<div style="position:absolute;right:80px;top:1260px">{tick("running", 300)}</div>'
         + spark(910, 170, 64, LIME), bg=INK)
     return [("ol_paste0", paste(False), 1.4), ("ol_paste1", paste(True), 2.2),
@@ -272,7 +272,7 @@ def still(slides, names=()):
 
 
 if __name__ == "__main__":
-    # Modes: thanks, which, rb, onelink, shortlist. Any other argument is a slide name to render alone.
+    # Modes: thanks, which, rb, onelink, onelink_fb, shortlist. Any other argument is a slide name to render alone.
     # The _v2 reels (HQ, Nov 13) only change the ink end scene; the old mp4s stay on disk.
     args = set(sys.argv[1:])
     names = {a for a in args if a.startswith("p0")}
@@ -282,4 +282,6 @@ if __name__ == "__main__":
     if "shortlist" in want: still(shortlist(), names)
     if "rb" in want: make_reel(rb(), os.path.join(WK, "p03_resume_reel_v2.mp4"), os.path.join(TMP, "rb"))
     if "onelink" in want: make_reel(onelink(), os.path.join(WK, "p04_one_link_reel_v2.mp4"), os.path.join(TMP, "onelink"))
+    # Facebook cut (HQ, Nov 23): same Reel, end sticker reads "getday60.com" instead of "Link in bio". No new copy.
+    if "onelink_fb" in want: make_reel(onelink("getday60.com"), os.path.join(WK, "p04_one_link_reel_fb.mp4"), os.path.join(TMP, "onelink_fb"))
     print("tmp:", TMP)

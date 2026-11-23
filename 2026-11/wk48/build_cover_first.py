@@ -5,13 +5,17 @@ So each Reel gets a new file: 1 s of the cover still (the _grid cover, key conte
 center 1080x1440), then the v2 video unchanged. In Buffer, thumbnailOffset 500 picks the cover.
 The v2 videos stay in the repo. Run from the repo root: python3 2026-11/wk48/build_cover_first.py
 """
-import subprocess
+import os, subprocess
 
 REELS = [
     ("2027-01/wk04/p03_resume_cover_cobalt_grid.png", "2026-11/wk48/p03_resume_reel_v2.mp4", "2026-11/wk48/p03_resume_reel_v3_cover.mp4"),
     ("2027-01/wk03/p04_one_link_cover_mint_grid.png", "2026-11/wk48/p04_one_link_reel_v2.mp4", "2026-11/wk48/p04_one_link_reel_v3_cover.mp4"),
+    # Facebook cut of the One Link Reel (HQ, Nov 23): end sticker "getday60.com".
+    ("2027-01/wk03/p04_one_link_cover_mint_grid.png", "2026-11/wk48/p04_one_link_reel_fb.mp4", "2026-11/wk48/p04_one_link_reel_fb_cover.mp4"),
 ]
 for cover, video, out in REELS:
+    if os.path.exists(out):  # never re-encode a file library.json already uses
+        continue
     subprocess.run([
         "ffmpeg", "-v", "error", "-y",
         "-loop", "1", "-framerate", "30", "-t", "1", "-i", cover,
