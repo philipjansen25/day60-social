@@ -155,6 +155,7 @@ The same idea as LI-email for the feed: you've seen "email the person who posted
 - Cover: ink (the method). Grid: IG-onelink-r2 (mint, Wed), IG6-r2 (cream, Thu) before it and IG-shortlist-r2 (coral, Sat) after it, so any 4 in a row stay different.
 - Alt text (per slide): 1 Email the person, but which one? Every job has 4 people who decide if you get it, and what to say to each. · 2 Step 1: The hiring manager. Name one problem their team has, one line of proof you can help, one easy question. · 3 Step 2: Their boss. Say why their team's goal is the one you want to work on, in a shorter note. · 4 Step 3: Someone on the team. Ask one real question about the work, not for a favor. · 5 Step 4: The recruiter. Say you applied and why: the role, one line on fit, when you're free to talk. · 6 Keep each note short, plain and yours. Day60 finds all 4 for one job and drafts a first note to each. Link in bio.
 - Link: bio link stays /try. No link in the caption.
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b043514433e6368c8a73713`), Fri Nov 27, 9:43 PM CT, at 1080x1350 with its alt text. Nothing for Philip to do.
 
 ```
 You've probably seen the advice: email the person who posted the job. It's good advice. But which person?

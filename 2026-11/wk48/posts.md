@@ -331,11 +331,12 @@ Paste a job link. Get your 4 people. Link in bio.
 ### FB-onelink · Sat Nov 28 · 10:54 PM · APPROVED (HQ, Nov 22) · ONE LINK, FOUR PEOPLE (Nov 22)
 - Status: approved (HQ, Nov 22). New Nov 22: IG-onelink's approved words and Reel, adapted for Facebook as it goes to 7 posts a week (Philip, Nov 22). It ends on a next step for today and the try link (HQ, Nov 22).
 - Day: Saturday, so it isn't the same day as IG-onelink-r2 (Wed). (Social first sent HQ Wed 9:54 AM; HQ accepted Sat 10:54 PM.)
-- Reel: `2026-11/wk48/p04_one_link_reel_v3_cover.mp4` (1080x1920: the cover held for 1 second, then the approved video) · Cover: `2027-01/wk03/p04_one_link_cover_mint_grid.png` (1080x1920). In Buffer: a Facebook Reel, the video through jsDelivr at a fixed commit, `thumbnailOffset` 500.
+- Reel: `2026-11/wk48/p04_one_link_reel_fb_cover.mp4` (1080x1920: the cover held for 1 second, then the approved video; Facebook cut, end sticker "getday60.com" in place of "Link in bio", HQ Nov 23) · Cover: `2027-01/wk03/p04_one_link_cover_mint_grid.png` (1080x1920). In Buffer: a Facebook Reel, the video through jsDelivr at a fixed commit, `thumbnailOffset` 500.
 - Alt text (cover): One job link. Four people. One message. You send it; Day60 never sends anything for you.
 - Hashtags: #jobsearch #day60 and one more.
 - Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-onelink`, on its own line after the next step.
 - In Buffer: scheduled Nov 23 by Social (Buffer post `6b0430c3433e6368c8a53c50`), Sat Nov 28, 10:54 PM CT, as a Facebook Reel with thumbnailOffset 500 (the cover). Nothing for Philip to do.
+- Video swapped Nov 23 by Social (HQ approved the Facebook cut): Buffer now holds `p04_one_link_reel_fb_cover.mp4` at commit 6ad300b, thumbnailOffset 500, read back with get_post.
 
 ```
 One job link. Four people. One message.

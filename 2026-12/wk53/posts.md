@@ -19,6 +19,7 @@
 - Alt text (per slide): 1 "One cold email through Day60's free message checker, before and after." · 2 "Step 1: Pick what you're sending: a cold email, a LinkedIn connection note or a message after they accept." · 3 Step 2: Paste your draft. The example is a long first email that opens "I hope this email finds you well!" · 4 The verdict: 7 to fix, 6 passed. Each fix says why, like a short subject line and not starting with "I". · 5 "Step 3: Fix it. Check again. The example rewrite is shorter and ends with one clear question." · 6 "All 13 rules pass. Same ask, easier to answer." · 7 "Check it before you send it. Free at getday60.com/message-checker"
 - Ground: cream. The week's other Instagram slots are still to plan; with them, any 4 in a row stay different and cream stays at most one in five.
 - Link: the bio link stays /try. No link in the caption.
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b04350b7e433fe9cacb0420`), Thu Nov 26, 9:11 AM CT, at 1080x1350 with its alt text. If HQ approves the Thanksgiving card for Thursday, Social moves this post to the next open Instagram day with edit_post. Nothing for Philip to do.
 
 ```
 Would Tick let you send it?

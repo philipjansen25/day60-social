@@ -445,7 +445,7 @@ def _which_person(pid, last):
 SPECS += [
     entry(W49, "LI-email", channel="linkedin", date="2026-12-01", time="16:12", status="approved",  # HQ, Nov 19 (line swapped and restored the same day)
           title="Which person to email first", format="text"),
-    entry(W49, "IG-email", channel="instagram", date="2026-11-27", time="21:43", status="approved",  # moved up (HQ, Nov 22); Post Library approval, Nov 19
+    entry(W49, "IG-email", channel="instagram", date="2026-11-27", time="21:43", status="approved", postedVia="buffer",  # moved up (HQ, Nov 22); Post Library approval, Nov 19
           title="Email the person. But which one?", format="carousel",
           files=_which_person("IG-email", "p01_which_person_6.png")),
     entry(W49, "FB-email", channel="facebook", date="2026-11-23", time="20:04", status="approved", postedVia="buffer",  # cut Nov 19, restored the same day
@@ -489,6 +489,7 @@ SPECS += [
 # grid), a lightly refreshed caption, Buffer only. The originals stay as history: posted (native), or replaced if still ahead.
 from recycle_def import R as _R, SWAP as _SWAP, THANKS as _THANKS, THIS_WEEK as _TW  # noqa: E402
 _by = {e["id"]: e for e in SPECS}
+_BUF_NOV23 = {"2026-w46-IG6", "2026-w46-IG7"}  # created in Buffer by Social, Nov 23 (HQ brief)
 _AHEAD = {"2026-w48-IG-which", "2026-w48-IG-rb-reel", "2026-w48-IG-onelink", "2026-w48-IG-shortlist"}
 for r in _R:
     o = _by[r["orig"]]
@@ -501,7 +502,7 @@ for r in _R:
         fs.append({"path": p, "alt": a})
     e = entry(r["week"], r["pid"], id=r["orig"] + "-r2", channel="instagram", date=r["date"], time=r["time"],
               status=r["status"], title=r["title"], format=o["format"], files=fs,
-              postedVia="buffer" if _TW.get(r["orig"], {}).get("buffer") else "")
+              postedVia="buffer" if (_TW.get(r["orig"], {}).get("buffer") or r["orig"] in _BUF_NOV23) else "")
     assert e["text"] == r["cap"], r["pid"]
     sec = section(r["week"], r["pid"])
     if o["format"] == "carousel":
@@ -518,7 +519,7 @@ for r in _R:
 _fo = section("2026-w48", "FB-onelink")
 SPECS.append(entry("2026-w48", "FB-onelink", channel="facebook", date="2026-11-28", time="22:54", status="approved", postedVia="buffer",
                    title="One link, four people", format="video",
-                   files=[{"path": "2026-11/wk48/p04_one_link_reel_v3_cover.mp4", "alt": ""},
+                   files=[{"path": "2026-11/wk48/p04_one_link_reel_fb_cover.mp4", "alt": ""},
                           {"path": "2027-01/wk03/p04_one_link_cover_mint_grid.png", "alt": bullet(_fo, "Alt text (cover):")}]))
 
 from notes import NOTES  # noqa: E402

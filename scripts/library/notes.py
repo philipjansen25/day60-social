@@ -316,3 +316,9 @@ for _k in ("2026-w48-LI-resume", "2026-w48-FB-which", "2026-w48-FB-thanks"):
 NOTES["2026-w49-FB-email"] = NOTES["2026-w49-FB-email"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0430b40d00264c1a37d888), Mon Nov 23, 8:04 PM CT. Nothing for Philip to do."]
 NOTES["2026-w48-LI-thanks"] = NOTES["2026-w48-LI-thanks"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0430bb6b6de502825b7bee), Thu Nov 26, 2:39 PM CT. Nothing for Philip to do."]
 NOTES["2026-w48-FB-onelink"] = NOTES["2026-w48-FB-onelink"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0430c3433e6368c8a53c50), Sat Nov 28, 10:54 PM CT, thumbnailOffset 500. Nothing for Philip to do."]
+
+# Nov 23: created or changed in Buffer by the new Social session (HQ brief, Nov 23)
+NOTES["2026-w46-IG6-r2"] = NOTES["2026-w46-IG6-r2"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b04350b7e433fe9cacb0420), Thu Nov 26, 9:11 AM CT. If HQ approves the Thanksgiving card for Thursday, Social moves this post to the next open Instagram day. Nothing for Philip to do."]
+NOTES["2026-w49-IG-email"] = NOTES["2026-w49-IG-email"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b043514433e6368c8a73713), Fri Nov 27, 9:43 PM CT. Nothing for Philip to do."]
+NOTES["2026-w46-IG7-r2"] = NOTES["2026-w46-IG7-r2"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b04351c0d00264c1a39c154), Sun Nov 29, 8:17 PM CT. Nothing for Philip to do."]
+NOTES["2026-w48-FB-onelink"] = NOTES["2026-w48-FB-onelink"] + ["Video swapped Nov 23 to the Facebook cut (end sticker getday60.com, HQ approved): p04_one_link_reel_fb_cover.mp4, thumbnailOffset 500."]

@@ -19,6 +19,7 @@
 - Alt text (per slide): 1 "Found the job on LinkedIn? Take it to Day60 with two new buttons." · 2 Step 1: On a LinkedIn job, press "Find it with Day60". Day60 looks for the same job on the company's careers page. · 3 Step 2: On a LinkedIn profile, press "Add to a job in Day60", then pick the job and their role. · 4 "What it never does: read LinkedIn pages, fill in forms, apply or send messages. You send every message." · 5 "Free in the Chrome Web Store: getday60.com/chrome-extension"
 - Ground: cobalt. The week's other Instagram slots are still to plan; with them, any 4 in a row stay different and cream stays at most one in five.
 - Link: the bio link stays /try. No link in the caption.
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b04351c0d00264c1a39c154`), Sun Nov 29, 8:17 PM CT, at 1080x1350 with its alt text. Nothing for Philip to do.
 
 ```
 Found the job on LinkedIn? Day60 for Chrome has a button for that.
