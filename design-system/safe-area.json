@@ -360,6 +360,12 @@
    "grid": true,
    "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
+  "2026-11/wk48/p06_pass_the_stuffing_pink.png": {
+   "sha256": "068a827add4c94027dfeaf31cb03c83bb05a601d6e14944decb48a254fc55b13",
+   "scale": 0.862,
+   "checked": "2026-11-23",
+   "grid": true
+  },
   "2026-11/wk49/p01_which_person_1_ink.png": {
    "sha256": "cd13ffee2fc6839e409d3e4d5da617a756c6800ab6d8375551a7daa6dc7939fc",
    "scale": 0.862,
@@ -408,6 +414,12 @@
    "checked": "2026-11-18",
    "grid": true,
    "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+  },
+  "2026-11/wk49/p02_breaking_lime.png": {
+   "sha256": "9cc2d22c5694b111678e310b84d46ade070cee53a6544407fd9f9fb62c496a07",
+   "scale": 0.862,
+   "checked": "2026-11-23",
+   "grid": true
   },
   "2026-11/wk49/p02_find_hm_1_lime.png": {
    "sha256": "9e99cde0a4e5534821eebf2d97ebc83420a95700e0a41146f4c8caef1f9b45e6",
