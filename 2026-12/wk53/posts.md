@@ -1,17 +1,17 @@
 # Week 53 · Sun Dec 27, 2026 – Sat Jan 2, 2027 · DRAFTS IN PROGRESS
 
-**Status: IG6-r2 is a recycled Instagram post (HQ, Nov 22), approved, proposed to move up to Thu Nov 26 (Nov 22; HQ can say no). IG-which-r2 moved to week 48 (Mon Nov 23, HQ Nov 22).** The rest of the week comes after HQ's brief for week 53.
+**Status: IG6-r2 is a recycled Instagram post (HQ, Nov 22), approved, moved up to Thu Nov 26 unless the Thanksgiving humor card takes that slot (HQ, Nov 22). IG-which-r2 moved to week 48 (Mon Nov 23, HQ Nov 22).** The rest of the week comes after HQ's brief for week 53.
 
 | Platform | Weekly cap | Week 53 so far |
 | --- | --- | --- |
 | LinkedIn | 5 (Mon to Fri, 8:30 AM CT) | 5 to plan |
-| Instagram | 7 | IG6-r2 (approved, recycled; proposed to move up to Thu Nov 26). IG-which-r2 moved to Mon Nov 23 (week 48). 7 to plan |
+| Instagram | 7 | IG6-r2 (approved, recycled; moved up to Thu Nov 26 unless the humor card takes that slot). IG-which-r2 moved to Mon Nov 23 (week 48). 7 to plan |
 | Facebook | 3 | 3 to plan |
 
 ## Instagram
 
 ### IG6-r2 · Thu Nov 26 · 9:11 AM · APPROVED (recycled, HQ Nov 22) · WOULD TICK LET YOU SEND IT
-- **Moved up (Nov 22, HQ can say no):** from Mon Dec 28 to Thu Nov 26, 9:11 AM, to fill week 48's Instagram days (Instagram is 7 a week from Nov 23; Philip, Nov 22). It stays filed here, library id `2026-w46-IG6-r2`. Cream: the only cream in week 48's seven.
+- **Moved up (Nov 22):** from Mon Dec 28 to Thu Nov 26, 9:11 AM, unless HQ approves the Thanksgiving humor card for that slot by Wednesday Nov 25's run; then it keeps a later date (HQ, Nov 22). It goes to fill week 48's Instagram days (Instagram is 7 a week from Nov 23; Philip, Nov 22). It stays filed here, library id `2026-w46-IG6-r2`. Cream: the only cream in week 48's seven.
 - **Recycled (HQ, Nov 22):** a new copy of `2026-w46-IG6` (Would Tick let you send it, 2026-11/wk46), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w46-IG6-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.

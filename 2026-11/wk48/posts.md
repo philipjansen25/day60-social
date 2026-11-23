@@ -1,6 +1,6 @@
 # Week 48 · Sun Nov 22 – Sat Nov 28, 2026 · FULL: DRAFTS WAIT FOR APPROVAL
 
-**Update (Nov 22, night): week 48 runs at the new cadence (Philip, Nov 22: LinkedIn 6 a week Sun to Fri, Instagram 7, Facebook 7, every post through Buffer at a random minute inside its window, playbook §5).** The four Instagram posts still ahead go out this week through Buffer with their original captions, filed at the end of this file as "-r2" (HQ, Nov 22, 17:52Z). LI-resume (Tue), FB-which (Tue) and FB-thanks (Thu) were scheduled natively on Nov 16 (Post Library log), so they stay out of Buffer at their set times. LI-thanks moves to 2:39 PM and ends with the try link (HQ, Nov 22: every Day60 post on LinkedIn and Facebook ends with it). FB-onelink is new, for HQ.
+**Update (Nov 22, night): week 48 runs at the new cadence (Philip, Nov 22: LinkedIn 6 a week Sun to Fri, Instagram 7, Facebook 7, every post through Buffer at a random minute inside its window, playbook §5).** The four Instagram posts still ahead go out this week through Buffer with their original captions, filed at the end of this file as "-r2" (HQ, Nov 22, 17:52Z). LI-resume (Tue), FB-which (Tue) and FB-thanks (Thu) were scheduled natively on Nov 16 (Post Library log), so they stay out of Buffer at their set times. LI-thanks moves to 2:39 PM and stays link-free (HQ, Nov 22: a thank-you post shouldn't sell). FB-email, LI-thanks and FB-onelink are approved (HQ, Nov 22). HQ has asked Philip to delete the three natively scheduled posts (Nov 23); once he has, LI-resume and FB-which go through Buffer at new times with the try link, and FB-thanks without one.
 
 **Update (HQ, Nov 19): LinkedIn is 5 a week (Mon to Fri, 8:30 AM CT), and Thanksgiving gets a light, short LinkedIn post that doesn't sell: LI-thanks (Thu Nov 26, draft for HQ). The "no LinkedIn post on Thanksgiving" below no longer holds.**
 
@@ -8,9 +8,9 @@
 
 | Platform | Weekly cap | Week 48 so far |
 | --- | --- | --- |
-| LinkedIn | 6 (Sun to Fri; Philip, Nov 22). This week Mon to Fri; the first Sunday post is Sun Nov 29 | Mon Nov 23: HQ's own post (8:30 AM, scheduled natively). LI-resume (Tue Nov 24, 8:30 AM, scheduled natively). Wed Nov 25, 5:26 PM and Fri Nov 27, 4:42 PM: HQ's own posts, in Buffer. LI-thanks (Thu Nov 26, 2:39 PM, with the try link). LI-story moved to Tue Dec 8 (week 50) |
-| Instagram | 7 (Philip, Nov 22) | IG-thanks (Sun Nov 22, posted natively). IG-which-r2 (Mon, 8:37 PM), IG-rb-reel-r2 (Tue, 3:31 PM, Reel) and IG-onelink-r2 (Wed, 12:54 PM, Reel): in Buffer. IG6-r2 (Thu, 9:11 AM) and IG-email (Fri, 9:43 PM): moved here Nov 22, HQ can say no. IG-shortlist-r2 (Sat, 9:24 PM): HQ creates it in Buffer. The four originals were cropped to a square in the Instagram app and are replaced |
-| Facebook | 7, daily from Mon Nov 23 (Philip, Nov 22) | FB-email (Mon, 8:04 PM, moved up from Tue Dec 1, with the try link). FB-which (Tue, 6:00 PM) and FB-thanks (Thu, 10:00 AM): scheduled natively. Wed and Fri: new posts, drafted for HQ. FB-onelink (Sat, 10:54 PM, new, for HQ) |
+| LinkedIn | 6 (Sun to Fri; Philip, Nov 22). This week Mon to Fri; the first Sunday post is Sun Nov 29 | Mon Nov 23: HQ's own post (8:30 AM, scheduled natively). LI-resume (Tue Nov 24, 8:30 AM, scheduled natively). Wed Nov 25, 5:26 PM and Fri Nov 27, 4:42 PM: HQ's own posts, in Buffer. LI-thanks (Thu Nov 26, 2:39 PM, approved, link-free). LI-story moved to Tue Dec 8 (week 50) |
+| Instagram | 7 (Philip, Nov 22) | IG-thanks (Sun Nov 22, posted natively). IG-which-r2 (Mon, 8:37 PM), IG-rb-reel-r2 (Tue, 3:31 PM, Reel) and IG-onelink-r2 (Wed, 12:54 PM, Reel): in Buffer. Thu: the Thanksgiving humor card if HQ approves it by Wednesday's run, otherwise IG6-r2 at 9:11 AM. IG-email (Fri, 9:43 PM): moved here (approved, HQ Nov 22). IG-shortlist-r2 (Sat, 9:24 PM): in Buffer. The four originals were cropped to a square in the Instagram app and are replaced |
+| Facebook | 7, daily from Mon Nov 23 (Philip, Nov 22) | FB-email (Mon, 8:04 PM, moved up from Tue Dec 1, with the try link, approved by HQ, Nov 22). FB-which (Tue, 6:00 PM) and FB-thanks (Thu, 10:00 AM): scheduled natively. Wed and Fri: new posts, drafted for HQ. FB-onelink (Sat, 10:54 PM, approved by HQ, Nov 22) |
 
 ## LinkedIn (Phil's profile)
 
@@ -44,13 +44,12 @@ Link in the first comment.
 
 Checks: hook is 47 characters. "Day60" appears once. No link in the body. No personal results or numbers: it says only that he tried it and it worked well. Ends on a question. No em-dashes, no banned phrases, no competitor names.
 
-### LI-thanks · Thu Nov 26 · 2:39 PM · DRAFT · THANKSGIVING: SEND ONE THANK-YOU TODAY (HQ, Nov 19)
-- Status: draft, for HQ's approval. HQ, Nov 19: "post as normal, with a light, short one that fits the day and doesn't sell."
+### LI-thanks · Thu Nov 26 · 2:39 PM · APPROVED (HQ, Nov 22) · THANKSGIVING: SEND ONE THANK-YOU TODAY (HQ, Nov 19)
+- Status: approved (HQ, Nov 22, link-free; Philip approved it in the Post Library on Nov 19). HQ, Nov 19: "post as normal, with a light, short one that fits the day and doesn't sell."
 - Format: text only.
 - Same idea as FB-thanks (Facebook, 10:00 AM the same day): one thank-you, no ask.
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
-- Link: the try link, on its own last line before the hashtags (HQ, Nov 22: every Day60 post on LinkedIn ends with it). It still doesn't sell: one next step for today, a question, then the link. HQ may drop the link on this one.
-- Approval: Philip approved it in the Post Library on Nov 19 (log). The link line was added Nov 22, so HQ confirms it.
+- Link: none (HQ, Nov 22: "a thank-you post shouldn't sell"), the one exception to the try link rule. It ends on one next step for today, then a question.
 
 ```
 Happy Thanksgiving.
@@ -64,8 +63,6 @@ Think of one person who helped your search this year. Someone who answered a col
 Send them two lines today: what they did, and what came of it. No ask.
 
 Who's the first person you'll thank?
-
-https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48-LI-thanks
 
 #jobsearch #thanksgiving #networking
 ```
@@ -310,7 +307,7 @@ Paste a job link. Get your 4 people. Link in bio.
 ### IG-shortlist-r2 · Sat Nov 28 · 9:24 PM · APPROVED (recycled, HQ Nov 22) · LONG WEEKEND, SHORT LIST
 - **Recycled (HQ, Nov 22):** a new copy of `2026-w48-IG-shortlist` (above), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w48-IG-shortlist-r2`. It goes out this week with its original caption, word for word (HQ, Nov 22, 17:52Z: it was approved and never went out).
 - Status: approved. The recycled copy keeps the original's approval (HQ, Nov 22).
-- In Buffer: HQ creates it from Social's post details (Nov 22), for Sat Nov 28, 9:24 PM CT, at 1080x1350 with its alt text. Nothing for Philip to do.
+- In Buffer: scheduled Nov 22 by HQ from Social's post details (Buffer post `6b03c361c72676f5e986eb98`), Sat Nov 28, 9:24 PM CT, at 1080x1350 with its alt text. Nothing for Philip to do.
 - Image: `2026-11/wk48/p05_short_list_coral_safe.png`. 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).
 - Alt text: Long weekend, short list: pick one job, paste its link to see your 4 people, send the hiring manager one short note.
 - Ground: coral. This week's Instagram grounds, Mon to Sun: ink, cobalt, mint, cream, ink, coral, cobalt (after lime on Nov 21 and pink on Nov 22), so any 4 in a row differ and cream is 1 in 7.
@@ -330,9 +327,9 @@ Paste a job link. Get your 4 people. Link in bio.
 #day60 #jobhunting #jobsearch #newjob #careeradvice
 ```
 
-### FB-onelink · Sat Nov 28 · 10:54 PM · DRAFT · ONE LINK, FOUR PEOPLE (Nov 22)
-- Status: draft, for HQ's approval. New Nov 22: IG-onelink's approved words and Reel, adapted for Facebook as it goes to 7 posts a week (Philip, Nov 22). It ends on a next step for today and the try link (HQ, Nov 22).
-- Day: Saturday, so it isn't the same day as IG-onelink-r2 (Wed). (Social first sent HQ Wed 9:54 AM; Sat 10:54 PM keeps the Facebook rule.)
+### FB-onelink · Sat Nov 28 · 10:54 PM · APPROVED (HQ, Nov 22) · ONE LINK, FOUR PEOPLE (Nov 22)
+- Status: approved (HQ, Nov 22). New Nov 22: IG-onelink's approved words and Reel, adapted for Facebook as it goes to 7 posts a week (Philip, Nov 22). It ends on a next step for today and the try link (HQ, Nov 22).
+- Day: Saturday, so it isn't the same day as IG-onelink-r2 (Wed). (Social first sent HQ Wed 9:54 AM; HQ accepted Sat 10:54 PM.)
 - Reel: `2026-11/wk48/p04_one_link_reel_v3_cover.mp4` (1080x1920: the cover held for 1 second, then the approved video) · Cover: `2027-01/wk03/p04_one_link_cover_mint_grid.png` (1080x1920). In Buffer: a Facebook Reel, the video through jsDelivr at a fixed commit, `thumbnailOffset` 500.
 - Alt text (cover): One job link. Four people. One message. You send it; Day60 never sends anything for you.
 - Hashtags: #jobsearch #day60 and one more.

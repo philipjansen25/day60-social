@@ -16,7 +16,7 @@ They keep the library ids they had in week 49 (`2026-w49-LI-PH`, `2026-w49-IG-PH
 
 **When the launch link comes:** HQ asks Social to replace `<Product Hunt launch link>` in LI-PH's last line and FB-PH's text. Product Hunt gives the link once the launch is scheduled. Nothing with the placeholder goes into Buffer.
 
-### LI-PH · Tue Jan 12 · 5:59 PM · DRAFT (rewritten Nov 19; approved Nov 11 before that) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
+### LI-PH · Tue Jan 12 · 8:21 AM · DRAFT (rewritten Nov 19; approved Nov 11 before that) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
 - Status: draft. Approved by Philip on Nov 11; rewritten Nov 19 for HQ's LinkedIn rules, and HQ approved the structure that day. The same day, it got a new opening from Phil's own founder.ts line ("Your resume goes into a pile..."; HQ: keep it), the Day60 line followed, and the hashtags now start with #jobsearch. It stays a draft until the launch link exists; then Social sends HQ the final line.
 - **Text only from Nov 19 (HQ: no more LinkedIn images).** It used `product-hunt/01_hero.png`, which stays in the repo.
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
@@ -45,7 +45,7 @@ The launch: <Product Hunt launch link>
 
 Checks: hook is 29 characters. "Day60" appears once. One link, the launch, in the last line. Founder facts are Phil's two founder.ts lines (the first word for word, the second plainly paraphrased) and the ClickUp, Deel and Google roles, with no numbers but the team size; no personal results. Asks for feedback, not upvotes. No em-dashes, no banned phrases, no competitor names.
 
-### IG-PH · Tue Jan 12 · 4:54 PM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
+### IG-PH · Tue Jan 12 · 7:53 AM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `product-hunt/ig_launch_day_safe.png` replaces the image, a new file. FB-PH uses it too. Same words and alt text. The old file stays in the repo.
 - Status: approved in the Post Library (Philip, Nov 11). Not scheduled. Social puts it into Buffer once the Product Hunt launch link exists (HQ, Nov 18). Philip deletes the Dec 1 version he had scheduled.
 - Image: `product-hunt/ig_launch_day_safe.png` (1080×1350, the portrait version of gallery image 1; replaced `product-hunt/ig_launch_day.png` on Nov 16)

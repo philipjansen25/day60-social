@@ -11,7 +11,7 @@
 ## Instagram
 
 ### IG7-r2 · Sun Nov 29 · 8:17 PM · APPROVED (recycled, HQ Nov 22) · EXTENSION LINKEDIN STEPS CAROUSEL
-- **Moved up (Nov 22, HQ can say no):** from Mon Jan 4 to Sun Nov 29, 8:17 PM, so Instagram has a post that Sunday (7 a week from Nov 23; Philip, Nov 22). It stays filed here, library id `2026-w46-IG7-r2`.
+- **Moved up (approved, HQ Nov 22):** from Mon Jan 4 to Sun Nov 29, 8:17 PM, so Instagram has a post that Sunday (7 a week from Nov 23; Philip, Nov 22). It stays filed here, library id `2026-w46-IG7-r2`.
 - **Recycled (HQ, Nov 22):** a new copy of `2026-w46-IG7` (Extension LinkedIn steps carousel, 2026-11/wk46), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w46-IG7-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.

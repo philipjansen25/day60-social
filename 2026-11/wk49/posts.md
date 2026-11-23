@@ -1,6 +1,6 @@
 # Week 49 · Sun Nov 29 – Sat Dec 5, 2026 · DRAFTS IN PROGRESS
 
-**Status: LI-email and LI-3touch are approved (HQ, Nov 19, after the rewrite for the LinkedIn link rule). LI-hiringside (Wed Dec 2) is approved (HQ, Nov 22, with Philip's own edit). LI-target (Fri Dec 4) is a draft for HQ in Phil's founder lane (HQ, Nov 19: Social writes all 5 LinkedIn posts). IG-email (HQ brief, Nov 18) is approved (Post Library, Nov 19); moved up to Mon Nov 23 (HQ, Nov 22), then to Fri Nov 27, 9:43 PM (Nov 22, HQ can say no), since Monday's Instagram slot went to IG-which-r2. FB-email (Philip approved it in the Post Library on Nov 19, log) moved up to Mon Nov 23, 8:04 PM, to start Facebook's daily posts, and ends with the try link (HQ, Nov 22). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
+**Status: LI-email and LI-3touch are approved (HQ, Nov 19, after the rewrite for the LinkedIn link rule). LI-hiringside (Wed Dec 2) is approved (HQ, Nov 22, with Philip's own edit). LI-target (Fri Dec 4) is a draft for HQ in Phil's founder lane (HQ, Nov 19: Social writes all 5 LinkedIn posts). IG-email (HQ brief, Nov 18) is approved (Post Library, Nov 19); moved up to Mon Nov 23 (HQ, Nov 22), then to Fri Nov 27, 9:43 PM (approved, HQ Nov 22), since Monday's Instagram slot went to IG-which-r2. FB-email (approved, HQ Nov 22) moved up to Mon Nov 23, 8:04 PM, to start Facebook's daily posts, and ends with the try link (HQ, Nov 22). LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).** The rest of the week comes after HQ's brief for week 49.
 
 **Guide of the week 1 (HQ, Nov 19):** IG-findhm (Wed Dec 2) and FB-findhm (Thu Dec 3) teach how-to-find-the-hiring-manager in this week's open slots. Both approved by HQ (Nov 19, as written at 5848cd8); they go into Buffer at the top-up that reaches them. LinkedIn takes the guide on Thu Dec 10 (week 50).
 
@@ -9,7 +9,7 @@
 | Platform | Weekly cap | Week 49 so far |
 | --- | --- | --- |
 | LinkedIn | 6 (Sun to Fri, at random times inside the windows; Philip, Nov 22). Sun: plan your week. Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | Sun Nov 29: the first Sunday post, drafted for HQ. Mon Nov 30: HQ's post (Post Library, HQ reviews it Nov 19). LI-email (Tue Dec 1, approved). LI-hiringside (Wed Dec 2, approved Nov 22 with Philip's edit). LI-3touch (Thu Dec 3, approved, now a text post; moved from week 47). LI-target (Fri Dec 4, draft for HQ). Full. LI-story moved to Tue Dec 8 (week 50; HQ, Nov 18) |
-| Instagram | 7 (Philip, Nov 22) | IG7-r2 (Sun Nov 29, 8:17 PM, moved up from Jan 4, HQ can say no). IG-email moved to Fri Nov 27 (week 48). IG-findhm (Wed Dec 2, approved): guide of the week 1, how-to-find-the-hiring-manager (HQ, Nov 19). 5 to plan, on grounds that keep any 4 in a row different |
+| Instagram | 7 (Philip, Nov 22) | IG7-r2 (Sun Nov 29, 8:17 PM, moved up from Jan 4, approved by HQ Nov 22). IG-email moved to Fri Nov 27 (week 48). IG-findhm (Wed Dec 2, approved): guide of the week 1, how-to-find-the-hiring-manager (HQ, Nov 19). 5 to plan, on grounds that keep any 4 in a row different |
 | Facebook | 7, daily (Philip, Nov 22) | Sun Nov 29: a new post, drafted for HQ. FB-email moved up to Mon Nov 23 (week 48). FB-findhm (Thu Dec 3, approved): guide 1 and its link (HQ, Nov 19). 5 to plan |
 
 ## LinkedIn (Philip's profile)
@@ -149,7 +149,7 @@ Checks: hook is 59 characters. "Day60" appears once. No link. One founder fact, 
 The same idea as LI-email for the feed: you've seen "email the person who posted the job"; here's which person, and what to say. Neither post quotes the original or names it.
 
 ### IG-email · Fri Nov 27 · 9:43 PM · APPROVED (Post Library, Nov 19) · MOVED UP FROM MON NOV 30 (HQ, Nov 22), THEN TO FRI NOV 27 (Nov 22) · EMAIL THE PERSON. BUT WHICH ONE? (HQ brief, Nov 18)
-- **Moved up (HQ, Nov 22):** from Mon Nov 30 to Mon Nov 23, through Buffer: week 48's Instagram slots lost the posts Philip had scheduled in the Instagram app (they were cropped to a square). **Then to Fri Nov 27, 9:43 PM (Nov 22, HQ can say no):** Instagram is one post a day, and Monday went to IG-which-r2, which HQ had Social schedule first. It stays filed here, library id `2026-w49-IG-email`.
+- **Moved up (HQ, Nov 22):** from Mon Nov 30 to Mon Nov 23, through Buffer: week 48's Instagram slots lost the posts Philip had scheduled in the Instagram app (they were cropped to a square). **Then to Fri Nov 27, 9:43 PM (approved, HQ Nov 22):** Instagram is one post a day, and Monday went to IG-which-r2, which HQ had Social schedule first. It stays filed here, library id `2026-w49-IG-email`.
 - Status: approved in the Post Library on Nov 19. Its words and slides haven't changed since.
 - Carousel (6): `2026-11/wk49/p01_which_person_1_ink.png`, `p01_which_person_2.png` to `p01_which_person_6.png` (source: `2026-11/wk49/build.py`). Rendered inside the feed safe area (y 150 to 1200). FB-email uses the same slides with its own slide 6.
 - Cover: ink (the method). Grid: IG-onelink-r2 (mint, Wed), IG6-r2 (cream, Thu) before it and IG-shortlist-r2 (coral, Sat) after it, so any 4 in a row stay different.
@@ -172,8 +172,8 @@ Day60 finds all 4 for one job and drafts a first note to each. You make it yours
 #day60 #jobsearch #careeradvice #networkingtips #coverletter
 ```
 
-### FB-email · Mon Nov 23 · 8:04 PM · DRAFT · WHICH PERSON TO EMAIL, AND WHAT TO SAY (HQ brief, Nov 18)
-- Status: Philip approved it in the Post Library on Nov 19 (log); cut Nov 19 and restored the same day. **Moved up to Mon Nov 23, 8:04 PM (Nov 22)** to start Facebook's daily posts. The try link was added Nov 22 (HQ: every Day60 post on Facebook ends with it), so HQ confirms the new last lines; it keeps the guide link too.
+### FB-email · Mon Nov 23 · 8:04 PM · APPROVED (HQ, Nov 22) · WHICH PERSON TO EMAIL, AND WHAT TO SAY (HQ brief, Nov 18)
+- Status: approved (HQ, Nov 22, with both links; Philip approved it in the Post Library on Nov 19). Cut Nov 19 and restored the same day. **Moved up to Mon Nov 23, 8:04 PM (Nov 22)** to start Facebook's daily posts. The try link was added Nov 22 (HQ: every Day60 post on Facebook ends with it); it keeps the guide link too.
 - Carousel (6): IG-email's slides 1 to 5 and `2026-11/wk49/p01_which_person_6_fb.png` (a getday60.com sticker in place of "Link in bio"). Four days before the Instagram post (IG-email, Fri Nov 27).
 - Alt text (per slide): 1 Email the person, but which one? Every job has 4 people who decide if you get it, and what to say to each. · 2 Step 1: The hiring manager. Name one problem their team has, one line of proof you can help, one easy question. · 3 Step 2: Their boss. Say why their team's goal is the one you want to work on, in a shorter note. · 4 Step 3: Someone on the team. Ask one real question about the work, not for a favor. · 5 Step 4: The recruiter. Say you applied and why: the role, one line on fit, when you're free to talk. · 6 Keep each note short, plain and yours. Day60 finds all 4 for one job and drafts a first note to each. getday60.com
 - Link: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=which-person
