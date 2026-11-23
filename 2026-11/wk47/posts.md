@@ -49,7 +49,7 @@ Besides the recruiter, who have you reached out to about a job?
 Checks: hook is 38 characters. "Day60" appears once. No link in the body. No personal results, no founder facts beyond "I built Day60". Ends on a question. No em-dashes, no banned phrases, no competitor names.
 
 ### IG-four · Tue Nov 17 · 12:00 PM · APPROVED (Philip, Nov 11, Post Library) · REPLACES IG-PH
-- **Cropped by Meta on native scheduling; recycled as `2026-w47-IG-four-r2`** (Mon Dec 7, `2026-12/wk50/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w47-IG-four-r2`** (Mon Dec 7, `2026-12/wk50/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk47/p01_four_people_1_ink.png` on ink replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk47/p01_four_people_6_v2.png` replaces slide 6. The old file stays in the repo.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): all 6 slides as new files, `2026-11/wk47/p01_four_people_1_ink_safe.png`, `p01_four_people_2_safe.png` to `p01_four_people_5_safe.png`, `p01_four_people_6_v2_safe.png`. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.
@@ -101,7 +101,7 @@ Philip, Nov 11 (via HQ): "I just used the resume builder tool with my own resume
 **Facts:** only what HQ's brief and the live page (getday60.com/resume-builder, read Nov 11) say: free, no account; a job link (not LinkedIn) or the posting itself; a résumé as a PDF, a Word file or text, plus optional notes; it rewrites the résumé for that one job, using only what the résumé and the notes show, and never adds a skill, number or title the résumé doesn't have; "What this job wants" (keywords and the 3 problems the role solves), "Keywords you can't claim yet" and "Make it stronger" questions; read every line, then a Word file; Day60 keeps none of it.
 
 ### IG-resume · Sun Nov 15 · 11:00 AM · DRAFT · RÉSUMÉ BUILDER (HQ, Nov 11)
-- **Cropped by Meta on native scheduling; recycled as `2026-w47-IG-resume-r2`** (Thu Jan 7, `2027-01/wk01/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w47-IG-resume-r2`** (Thu Jan 7, `2027-01/wk01/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk47/p02_resume_builder_1_lime.png` on lime replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk47/p02_resume_builder_6_v2.png` replaces slide 6. The old file stays in the repo.
 - Status: draft, for Philip to approve in the Post Library.
@@ -153,7 +153,7 @@ Share this with someone who's applying this week.
 HQ's brief: the problem now is after sign-up, not reach. People start a sprint but don't add a job or send a message, so these three make the next step concrete: pick one job, paste its link, see the 4 people, send one message. They fill Instagram's three open slots (Wed 12:00 PM, Thu 7:00 PM, Sat 10:00 AM), on days whose Facebook post has a different idea (FB-four is Wed, FB-resume is Fri). No price, no "free sprint", no founding-sprint copy, no Product Hunt. Built from design tokens (`2026-11/wk47/build_first.py`); Northpine and its people are invented and labeled "Illustrative example". The carousel images carry no "Link in bio", so Facebook can reuse them later.
 
 ### IG-onejob · Wed Nov 18 · 12:00 PM · DRAFT · START WITH ONE JOB (HQ brief, Nov 12)
-- **Cropped by Meta on native scheduling; recycled as `2026-w47-IG-onejob-r2`** (Thu Jan 21, `2027-01/wk03/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w47-IG-onejob-r2`** (Thu Jan 21, `2027-01/wk03/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk47/p03_one_job_cover_coral.png` on coral, uploaded as the Reel's cover (1080x1920; the grid shows the middle). Source: `2026-11/build_covers.py`.
 - Ink scene fix (HQ, Nov 13: on ink, Tick, cards and stickers get a cream keyline): the video is now `2026-11/wk47/p03_one_job_reel_v2.mp4`, the same scenes and timing with keylines on the ink end scene. The old video stays in the repo.
 - Status: draft, for Philip to approve in the Post Library.
@@ -176,7 +176,7 @@ Paste a job link. Get your 4 people. Link in bio.
 ```
 
 ### IG-redpen · Thu Nov 19 · 7:00 PM · DRAFT · YOUR FIRST MESSAGE, CUT TO 3 LINES (HQ brief, Nov 12)
-- **Cropped by Meta on native scheduling; recycled as `2026-w47-IG-redpen-r2`** (Mon Jan 25, `2027-01/wk04/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w47-IG-redpen-r2`** (Mon Jan 25, `2027-01/wk04/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk47/p04_red_pen_cover_mint.png` on mint, uploaded as the Reel's cover (1080x1920; the grid shows the middle). Source: `2026-11/build_covers.py`.
 - Ink scene fix (HQ, Nov 13: on ink, Tick, cards and stickers get a cream keyline): the video is now `2026-11/wk47/p04_red_pen_reel_v2.mp4`, the same scenes and timing with keylines on the ink end scene. The old video stays in the repo.
 - Status: draft, for Philip to approve in the Post Library.
@@ -200,7 +200,7 @@ Day60 drafts a short note to each of the 4 people closest to the hire, and Tick 
 ```
 
 ### IG-firstjob · Sat Nov 21 · 10:00 AM · DRAFT · ONE JOB, FOUR PEOPLE, ONE MESSAGE (HQ brief, Nov 12)
-- **Cropped by Meta on native scheduling; recycled as `2026-w47-IG-firstjob-r2`** (Thu Dec 17, `2026-12/wk51/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w47-IG-firstjob-r2`** (Thu Dec 17, `2026-12/wk51/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk47/p05_first_job_1_lime.png` on lime replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk47/p05_first_job_6_v2.png` replaces slide 6. The old file stays in the repo.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): all 6 slides as new files, `2026-11/wk47/p05_first_job_1_lime_safe.png`, `p05_first_job_2_safe.png` to `p05_first_job_5_safe.png`, `p05_first_job_6_v2_safe.png`. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.

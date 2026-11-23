@@ -1,17 +1,18 @@
 # Week 53 · Sun Dec 27, 2026 – Sat Jan 2, 2027 · DRAFTS IN PROGRESS
 
-**Status: IG6-r2, IG-which-r2 are recycled Instagram posts (HQ, Nov 22), approved.** The rest of the week comes after HQ's brief for week 53.
+**Status: IG6-r2 is a recycled Instagram post (HQ, Nov 22), approved, proposed to move up to Thu Nov 26 (Nov 22; HQ can say no). IG-which-r2 moved to week 48 (Mon Nov 23, HQ Nov 22).** The rest of the week comes after HQ's brief for week 53.
 
 | Platform | Weekly cap | Week 53 so far |
 | --- | --- | --- |
 | LinkedIn | 5 (Mon to Fri, 8:30 AM CT) | 5 to plan |
-| Instagram | 5 | IG6-r2 (Mon Dec 28, approved). IG-which-r2 (Sat Jan 2, approved): recycled (HQ, Nov 22). 3 to plan |
+| Instagram | 7 | IG6-r2 (approved, recycled; proposed to move up to Thu Nov 26). IG-which-r2 moved to Mon Nov 23 (week 48). 7 to plan |
 | Facebook | 3 | 3 to plan |
 
 ## Instagram
 
-### IG6-r2 · Mon Dec 28 · 12:00 PM · APPROVED (recycled, HQ Nov 22) · WOULD TICK LET YOU SEND IT
-- **Recycled (HQ, Nov 22):** a new copy of `2026-w46-IG6` (Would Tick let you send it, 2026-11/wk46), which Meta cropped when it was scheduled natively. Library id: `2026-w46-IG6-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
+### IG6-r2 · Thu Nov 26 · 9:11 AM · APPROVED (recycled, HQ Nov 22) · WOULD TICK LET YOU SEND IT
+- **Moved up (Nov 22, HQ can say no):** from Mon Dec 28 to Thu Nov 26, 9:11 AM, to fill week 48's Instagram days (Instagram is 7 a week from Nov 23; Philip, Nov 22). It stays filed here, library id `2026-w46-IG6-r2`. Cream: the only cream in week 48's seven.
+- **Recycled (HQ, Nov 22):** a new copy of `2026-w46-IG6` (Would Tick let you send it, 2026-11/wk46), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w46-IG6-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.
 - Carousel (7): `2026-11/wk46/p15_checker_1_safe.png`, `2026-11/wk46/p15_checker_2_safe.png`, `2026-11/wk46/p15_checker_3_safe.png`, `2026-11/wk46/p15_checker_4_safe.png`, `2026-11/wk46/p15_checker_5_safe.png`, `2026-11/wk46/p15_checker_6_safe.png`, `2026-11/wk46/p15_checker_7_safe.png`. Each 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).
@@ -33,29 +34,6 @@ Pick what you're sending (a cold email, a LinkedIn connection note, or the messa
 (The sender, recipient and company are invented.)
 
 Today: paste the next message you're about to send. Free, no sign-up: getday60.com/message-checker
-
-#day60 #jobsearch #careeradvice #networkingtips #coverletter
-```
-
-### IG-which-r2 · Sat Jan 2 · 10:00 AM · APPROVED (recycled, HQ Nov 22) · WHICH WOULD YOU ANSWER?
-- **Recycled (HQ, Nov 22):** a new copy of `2026-w48-IG-which` (Which would you answer?, 2026-11/wk48), which Meta cropped when it was scheduled natively. Library id: `2026-w48-IG-which-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
-- Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
-- Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.
-- Image: `2026-11/wk48/p02_which_ink_safe.png`. Each 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).
-- Alt text: Which would you answer? A asks for 30 minutes to hear about openings. B asks which problem is the team's bigger fire.
-- Ground: ink. The week's other Instagram slots are still to plan; with them, any 4 in a row stay different and cream stays at most one in five.
-- Link: the bio link stays /try. No link in the caption.
-
-```
-A or B: which would you answer? Tell us in the comments.
-
-Both are the last line of a first message to a hiring manager.
-
-A asks a stranger for 30 minutes of their week. B asks something they can answer in one line, and it shows you already understand the job.
-
-Day60 drafts a short note to each of the 4 people closest to the hire. You send every message. Link in bio.
-
-Today: reread the last line of your next message and make it a question that's easy to answer.
 
 #day60 #jobsearch #careeradvice #networkingtips #coverletter
 ```

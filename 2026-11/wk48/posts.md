@@ -1,18 +1,21 @@
 # Week 48 · Sun Nov 22 – Sat Nov 28, 2026 · FULL: DRAFTS WAIT FOR APPROVAL
 
+**Update (Nov 22, night): week 48 runs at the new cadence (Philip, Nov 22: LinkedIn 6 a week Sun to Fri, Instagram 7, Facebook 7, every post through Buffer at a random minute inside its window, playbook §5).** The four Instagram posts still ahead go out this week through Buffer with their original captions, filed at the end of this file as "-r2" (HQ, Nov 22, 17:52Z). LI-resume (Tue), FB-which (Tue) and FB-thanks (Thu) were scheduled natively on Nov 16 (Post Library log), so they stay out of Buffer at their set times. LI-thanks moves to 2:39 PM and ends with the try link (HQ, Nov 22: every Day60 post on LinkedIn and Facebook ends with it). FB-onelink is new, for HQ.
+
 **Update (HQ, Nov 19): LinkedIn is 5 a week (Mon to Fri, 8:30 AM CT), and Thanksgiving gets a light, short LinkedIn post that doesn't sell: LI-thanks (Thu Nov 26, draft for HQ). The "no LinkedIn post on Thanksgiving" below no longer holds.**
 
 **Status: all drafts, nothing approved.** LI-resume is from HQ's Nov 11 ask; the Instagram and Facebook posts are from HQ's brief of Thu Nov 12, and Philip approves them on Friday Nov 13 with week 47. Thanksgiving is Thu Nov 26, so no LinkedIn post Thu Nov 26 or Fri Nov 27. Day60's LinkedIn posts are Tue and Thu from Nov 16 (HQ, Nov 11), so this week has one, Tue Nov 24. Buffer is paused: Philip posts approved posts by hand from `library.json`.
 
 | Platform | Weekly cap | Week 48 so far |
 | --- | --- | --- |
-| LinkedIn | 5 (Mon to Fri, 8:30 AM CT; Philip, Nov 19). Mon, Wed, Fri: Phil's founder lane, or an HQ post from the Post Library. Tue, Thu: the Day60 method and product (HQ, Nov 19) | LI-resume (Tue Nov 24, proposed; HQ Nov 11). Wed Nov 25 and Fri Nov 27: HQ's posts, in Buffer. LI-thanks (Thu Nov 26, Thanksgiving, draft for HQ; HQ Nov 19). LI-story moved to Tue Dec 8 (week 50) |
-| Instagram | 5 | IG-thanks (Sun Nov 22), IG-which (Mon Nov 23), IG-rb-reel (Tue Nov 24), IG-onelink (Wed Nov 25), IG-shortlist (Sat Nov 28), all proposed. Full. None on Thanksgiving. **Nov 22 (HQ):** Philip scheduled all five natively and Meta cropped them. Each is recycled as a new post ("-r2", from Dec 7, Buffer only); IG-which, IG-rb-reel, IG-onelink and IG-shortlist are replaced, and IG-email (week 49) moves up to Mon Nov 23 through Buffer |
-| Facebook | 2 | FB-which (Tue Nov 24, reuses IG-which's image), FB-thanks (Thu Nov 26, 10:00 AM, reuses IG-thanks's carousel), both proposed. Full |
+| LinkedIn | 6 (Sun to Fri; Philip, Nov 22). This week Mon to Fri; the first Sunday post is Sun Nov 29 | Mon Nov 23: HQ's own post (8:30 AM, scheduled natively). LI-resume (Tue Nov 24, 8:30 AM, scheduled natively). Wed Nov 25, 5:26 PM and Fri Nov 27, 4:42 PM: HQ's own posts, in Buffer. LI-thanks (Thu Nov 26, 2:39 PM, with the try link). LI-story moved to Tue Dec 8 (week 50) |
+| Instagram | 7 (Philip, Nov 22) | IG-thanks (Sun Nov 22, posted natively). IG-which-r2 (Mon, 8:37 PM), IG-rb-reel-r2 (Tue, 3:31 PM, Reel) and IG-onelink-r2 (Wed, 12:54 PM, Reel): in Buffer. IG6-r2 (Thu, 9:11 AM) and IG-email (Fri, 9:43 PM): moved here Nov 22, HQ can say no. IG-shortlist-r2 (Sat, 9:24 PM): HQ creates it in Buffer. The four originals were cropped to a square in the Instagram app and are replaced |
+| Facebook | 7, daily from Mon Nov 23 (Philip, Nov 22) | FB-email (Mon, 8:04 PM, moved up from Tue Dec 1, with the try link). FB-which (Tue, 6:00 PM) and FB-thanks (Thu, 10:00 AM): scheduled natively. Wed and Fri: new posts, drafted for HQ. FB-onelink (Sat, 10:54 PM, new, for HQ) |
 
 ## LinkedIn (Phil's profile)
 
 ### LI-resume · Tue Nov 24 · 8:30 AM · DRAFT · RÉSUMÉ BUILDER, PHIL'S OWN TRY (HQ, Nov 11)
+- **Scheduled natively on Nov 16 (Post Library log):** it stays out of Buffer, at the time set then, so it doesn't go out twice.
 - Status: draft, for Philip to approve in the Post Library. It takes LI-story's slot; LI-story moved to Tue Dec 1 (`2026-11/wk49/posts.md`).
 - Format: text only (field note).
 - Source: Philip, Nov 11 (via HQ): he used the free résumé builder on his own résumé and a real job posting, and it worked very well. No detail of his résumé or that job, and no numbers. Facts as in week 47's "Résumé builder" section.
@@ -41,12 +44,13 @@ Link in the first comment.
 
 Checks: hook is 47 characters. "Day60" appears once. No link in the body. No personal results or numbers: it says only that he tried it and it worked well. Ends on a question. No em-dashes, no banned phrases, no competitor names.
 
-### LI-thanks · Thu Nov 26 · 8:30 AM · DRAFT · THANKSGIVING: SEND ONE THANK-YOU TODAY (HQ, Nov 19)
+### LI-thanks · Thu Nov 26 · 2:39 PM · DRAFT · THANKSGIVING: SEND ONE THANK-YOU TODAY (HQ, Nov 19)
 - Status: draft, for HQ's approval. HQ, Nov 19: "post as normal, with a light, short one that fits the day and doesn't sell."
 - Format: text only.
 - Same idea as FB-thanks (Facebook, 10:00 AM the same day): one thank-you, no ask.
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
-- Link: none. It doesn't sell, and it ends on one next step for today, then a question.
+- Link: the try link, on its own last line before the hashtags (HQ, Nov 22: every Day60 post on LinkedIn ends with it). It still doesn't sell: one next step for today, a question, then the link. HQ may drop the link on this one.
+- Approval: Philip approved it in the Post Library on Nov 19 (log). The link line was added Nov 22, so HQ confirms it.
 
 ```
 Happy Thanksgiving.
@@ -61,6 +65,8 @@ Send them two lines today: what they did, and what came of it. No ask.
 
 Who's the first person you'll thank?
 
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48-LI-thanks
+
 #jobsearch #thanksgiving #networking
 ```
 
@@ -73,7 +79,7 @@ HQ's brief: make the next step concrete (pick one job, paste its link, see the 4
 IG-story and FB-story (proposed adaptations of LI-story) moved to week 49 with LI-story; they stay proposals until it's written.
 
 ### IG-thanks · Sun Nov 22 · 11:00 AM · DRAFT · SEND ONE THANK-YOU THIS WEEK (HQ brief, Nov 12)
-- **Cropped by Meta on native scheduling; recycled as `2026-w48-IG-thanks-r2`** (Mon Dec 21, `2026-12/wk52/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w48-IG-thanks-r2`** (Mon Dec 21, `2026-12/wk52/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p01_thanks_1_pink.png` on pink replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk48/p01_thanks_6_v2.png` replaces slide 6. The old file stays in the repo.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): all 6 slides as new files, `2026-11/wk48/p01_thanks_1_pink_safe.png`, `p01_thanks_2_safe.png` to `p01_thanks_5_safe.png`, `p01_thanks_6_v2_safe.png`. FB-thanks uses them too. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.
@@ -98,7 +104,7 @@ Next week, back to one job and one message. Paste a job link. Get your 4 people.
 ```
 
 ### IG-which · Mon Nov 23 · 12:00 PM · DRAFT · WHICH WOULD YOU ANSWER? (HQ brief, Nov 12)
-- **Cropped by Meta on native scheduling; recycled as `2026-w48-IG-which-r2`** (Sat Jan 2, `2026-12/wk53/posts.md`; HQ, Nov 22). It was still ahead in Meta: HQ asked Philip to delete it there, and the library marks it replaced. History only.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w48-IG-which-r2`** (Mon Nov 23, at the end of this file; HQ, Nov 22). It was still ahead in the Instagram app: HQ asked Philip to delete it there, and the library marks it replaced. It goes out this week through Buffer instead. History only.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p02_which_ink.png` on ink replaces the image; same words. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `2026-11/wk48/p02_which_ink_safe.png`, a new file. FB-which uses it too. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.
 - Status: draft, for Philip to approve in the Post Library.
@@ -121,7 +127,7 @@ Day60 drafts a short note to each of the 4 people closest to the hire. You send 
 ```
 
 ### IG-rb-reel · Tue Nov 24 · 12:00 PM · DRAFT · THE FREE RÉSUMÉ BUILDER, AS A REEL (HQ brief, Nov 12)
-- **Cropped by Meta on native scheduling; recycled as `2026-w48-IG-rb-reel-r2`** (Thu Jan 28, `2027-01/wk04/posts.md`; HQ, Nov 22). It was still ahead in Meta: HQ asked Philip to delete it there, and the library marks it replaced. History only.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w48-IG-rb-reel-r2`** (Tue Nov 24, at the end of this file; HQ, Nov 22). It was still ahead in the Instagram app: HQ asked Philip to delete it there, and the library marks it replaced. It goes out this week through Buffer instead. History only.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p03_resume_cover_cobalt.png` on cobalt, uploaded as the Reel's cover (1080x1920; the grid shows the middle). Source: `2026-11/build_covers.py`.
 - Ink scene fix (HQ, Nov 13: on ink, Tick, cards and stickers get a cream keyline): the video is now `2026-11/wk48/p03_resume_reel_v2.mp4`, the same scenes and timing with keylines on the ink end scene. The old video stays in the repo.
 - Status: draft, for Philip to approve in the Post Library. Same morning as LI-resume on LinkedIn.
@@ -140,6 +146,7 @@ No account, and nothing you add is kept. It's at getday60.com/resume-builder, or
 ```
 
 ### FB-which · Tue Nov 24 · 6:00 PM · DRAFT · WHICH WOULD YOU ANSWER? (HQ brief, Nov 12)
+- **Scheduled natively on Nov 16 (Post Library log):** it stays out of Buffer, at the time set then, so it doesn't go out twice.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p02_which_ink.png` on ink replaces the image; same words. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): IG-which's new file, `2026-11/wk48/p02_which_ink_safe.png`. Same words, grounds and alt text. The old files stay in the repo; if this post is already scheduled, Philip decides whether to swap them.
 - Status: draft, for Philip to approve in the Post Library.
@@ -163,7 +170,7 @@ Tell us in the comments: A or B?
 ```
 
 ### IG-onelink · Wed Nov 25 · 12:00 PM · DRAFT · ONE JOB LINK, FOUR PEOPLE, ONE MESSAGE (HQ brief, Nov 12)
-- **Cropped by Meta on native scheduling; recycled as `2026-w48-IG-onelink-r2`** (Mon Jan 18, `2027-01/wk03/posts.md`; HQ, Nov 22). It was still ahead in Meta: HQ asked Philip to delete it there, and the library marks it replaced. History only.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w48-IG-onelink-r2`** (Wed Nov 25, at the end of this file; HQ, Nov 22). It was still ahead in the Instagram app: HQ asked Philip to delete it there, and the library marks it replaced. It goes out this week through Buffer instead. History only.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p04_one_link_cover_mint.png` on mint, uploaded as the Reel's cover (1080x1920; the grid shows the middle). Source: `2026-11/build_covers.py`.
 - Ink scene fix (HQ, Nov 13: on ink, Tick, cards and stickers get a cream keyline): the video is now `2026-11/wk48/p04_one_link_reel_v2.mp4`, the same scenes and timing with keylines on the ink end scene. The old video stays in the repo.
 - Status: draft, for Philip to approve in the Post Library.
@@ -184,6 +191,7 @@ Paste a job link. Get your 4 people. Link in bio.
 ```
 
 ### FB-thanks · Thu Nov 26 · 10:00 AM · DRAFT · THANKSGIVING: SEND ONE THANK-YOU (HQ brief, Nov 12)
+- **Scheduled natively on Nov 16 (Post Library log):** it stays out of Buffer, at the time set then, so it doesn't go out twice.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p01_thanks_1_pink.png` on pink replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk48/p01_thanks_6_v2.png` replaces slide 6. The old file stays in the repo.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): IG-thanks's 6 new files, `2026-11/wk48/p01_thanks_1_pink_safe.png`, `p01_thanks_2_safe.png` to `p01_thanks_5_safe.png`, `p01_thanks_6_v2_safe.png`. Same words, grounds and alt text. The old files stay in the repo; if this post is already scheduled, Philip decides whether to swap them.
@@ -210,7 +218,7 @@ Share this with someone who's looking.
 ```
 
 ### IG-shortlist · Sat Nov 28 · 10:00 AM · DRAFT · LONG WEEKEND, SHORT LIST (HQ brief, Nov 12)
-- **Cropped by Meta on native scheduling; recycled as `2026-w48-IG-shortlist-r2`** (Sat Dec 26, `2026-12/wk52/posts.md`; HQ, Nov 22). It was still ahead in Meta: HQ asked Philip to delete it there, and the library marks it replaced. History only.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w48-IG-shortlist-r2`** (Sat Nov 28, at the end of this file; HQ, Nov 22). It was still ahead in the Instagram app: HQ asked Philip to delete it there, and the library marks it replaced. It goes out this week through Buffer instead. History only.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p05_short_list_coral.png` on coral replaces the image; same words. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `2026-11/wk48/p05_short_list_coral_safe.png`, a new file. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.
 - Status: draft, for Philip to approve in the Post Library.
@@ -230,4 +238,115 @@ Then back to the leftovers.
 Paste a job link. Get your 4 people. Link in bio.
 
 #day60 #jobhunting #jobsearch #newjob #careeradvice
+```
+
+## This week through Buffer: the four recycled Instagram posts and Facebook (Nov 22)
+
+The four Instagram posts still ahead were cropped to a square when Philip scheduled them in the Instagram app (Nov 11 to 16). They go out this week instead, through Buffer at full size, with their original captions (HQ, Nov 22, 17:52Z), at times picked inside the windows in playbook §5. Each keeps its own library id with "-r2"; the originals above stay as history.
+
+### IG-which-r2 · Mon Nov 23 · 8:37 PM · APPROVED (recycled, HQ Nov 22) · WHICH WOULD YOU ANSWER?
+- **Recycled (HQ, Nov 22):** a new copy of `2026-w48-IG-which` (above), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w48-IG-which-r2`. It goes out this week with its original caption, word for word (HQ, Nov 22, 17:52Z: it was approved and never went out).
+- Status: approved. The recycled copy keeps the original's approval (HQ, Nov 22).
+- In Buffer: scheduled Nov 22 (Buffer post `6b032f49846b0ee907a87d0d`), Mon Nov 23, 8:37 PM CT, at 1080x1350 with its alt text. Nothing for Philip to do.
+- Image: `2026-11/wk48/p02_which_ink_safe.png`. 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).
+- Alt text: Which would you answer? A asks for 30 minutes to hear about openings. B asks which problem is the team's bigger fire.
+- Ground: ink. This week's Instagram grounds, Mon to Sun: ink, cobalt, mint, cream, ink, coral, cobalt (after lime on Nov 21 and pink on Nov 22), so any 4 in a row differ and cream is 1 in 7.
+- Link: the bio link stays /try. No link in the caption.
+
+```
+Which would you answer, A or B? Tell us in the comments.
+
+Both are the last line of a first message to a hiring manager.
+
+A asks a stranger for 30 minutes of their week. B asks something they can answer in one line, and it shows you already understand the job.
+
+End your first message with a question that's easy to answer.
+
+Day60 drafts a short note to each of the 4 people closest to the hire. You send every message. Link in bio.
+
+#day60 #jobsearch #careeradvice #networkingtips #coverletter
+```
+
+### IG-rb-reel-r2 · Tue Nov 24 · 3:31 PM · APPROVED (recycled, HQ Nov 22) · THE RÉSUMÉ BUILDER, AS A REEL
+- **Recycled (HQ, Nov 22):** a new copy of `2026-w48-IG-rb-reel` (above), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w48-IG-rb-reel-r2`. It goes out this week with its original caption, word for word (HQ, Nov 22, 17:52Z: it was approved and never went out).
+- Status: approved. The recycled copy keeps the original's approval (HQ, Nov 22).
+- In Buffer: scheduled Nov 22 as an Instagram Reel, shared to the feed (Buffer post `6b03a412846b0ee907d772a9`), Tue Nov 24, 3:31 PM CT. The video goes in through jsDelivr at a fixed commit, and `thumbnailOffset` 500 picks the cover from the first second. Nothing for Philip to do.
+- Reel: `2026-11/wk48/p03_resume_reel_v3_cover.mp4` (1080x1920: the cover held for 1 second, then the approved video; source `2026-11/wk48/build_cover_first.py`) · Cover: `2027-01/wk04/p03_resume_cover_cobalt_grid.png` (1080x1920, key content inside the center 1080x1440; source `2027-01/build_reel_covers_grid.py`)
+- Alt text (cover): Tailor your résumé to one job, with no account: the free résumé builder in 4 steps. getday60.com/resume-builder
+- Ground: cobalt. This week's Instagram grounds, Mon to Sun: ink, cobalt, mint, cream, ink, coral, cobalt (after lime on Nov 21 and pink on Nov 22), so any 4 in a row differ and cream is 1 in 7.
+- Link: the bio link stays /try. No link in the caption.
+
+```
+Before you message anyone about a job, make your résumé read like it was written for that job.
+
+The free résumé builder rewrites your résumé for one job using only what's already true. No new skills, numbers or titles. It shows what the job wants, the keywords you can't claim yet, and questions that can make it stronger. You read every line, then download a Word file.
+
+No account, and nothing you add is kept. It's at getday60.com/resume-builder, or tap the link in bio and choose Free tools.
+
+#day60 #jobhunting #jobsearch #newjob #careeradvice
+```
+
+### IG-onelink-r2 · Wed Nov 25 · 12:54 PM · APPROVED (recycled, HQ Nov 22) · ONE LINK, FOUR PEOPLE
+- **Recycled (HQ, Nov 22):** a new copy of `2026-w48-IG-onelink` (above), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w48-IG-onelink-r2`. It goes out this week with its original caption, word for word (HQ, Nov 22, 17:52Z: it was approved and never went out).
+- Status: approved. The recycled copy keeps the original's approval (HQ, Nov 22).
+- In Buffer: scheduled Nov 22 as an Instagram Reel, shared to the feed (Buffer post `6b03a42f846b0ee907d77d70`), Wed Nov 25, 12:54 PM CT. The video goes in through jsDelivr at a fixed commit, and `thumbnailOffset` 500 picks the cover from the first second. Nothing for Philip to do.
+- Reel: `2026-11/wk48/p04_one_link_reel_v3_cover.mp4` (1080x1920: the cover held for 1 second, then the approved video; source `2026-11/wk48/build_cover_first.py`) · Cover: `2027-01/wk03/p04_one_link_cover_mint_grid.png` (1080x1920, key content inside the center 1080x1440; source `2027-01/build_reel_covers_grid.py`)
+- Alt text (cover): One job link. Four people. One message. You send it; Day60 never sends anything for you.
+- Ground: mint. This week's Instagram grounds, Mon to Sun: ink, cobalt, mint, cream, ink, coral, cobalt (after lime on Nov 21 and pink on Nov 22), so any 4 in a row differ and cream is 1 in 7.
+- Link: the bio link stays /try. No link in the caption.
+
+```
+One job link. Four people. One message.
+
+Paste a job link, and Day60 finds the 4 people closest to the hire: the hiring manager, their boss, someone on the team who knows the work, and the recruiter. Each comes with a verified work email and a short note in your voice, and Tick checks every draft.
+
+Then you send it. Day60 never logs in to LinkedIn and never sends anything for you.
+
+Paste a job link. Get your 4 people. Link in bio.
+
+#day60 #jobsearch #jobsearchtips #careertips #networking
+```
+
+### IG-shortlist-r2 · Sat Nov 28 · 9:24 PM · APPROVED (recycled, HQ Nov 22) · LONG WEEKEND, SHORT LIST
+- **Recycled (HQ, Nov 22):** a new copy of `2026-w48-IG-shortlist` (above), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w48-IG-shortlist-r2`. It goes out this week with its original caption, word for word (HQ, Nov 22, 17:52Z: it was approved and never went out).
+- Status: approved. The recycled copy keeps the original's approval (HQ, Nov 22).
+- In Buffer: HQ creates it from Social's post details (Nov 22), for Sat Nov 28, 9:24 PM CT, at 1080x1350 with its alt text. Nothing for Philip to do.
+- Image: `2026-11/wk48/p05_short_list_coral_safe.png`. 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).
+- Alt text: Long weekend, short list: pick one job, paste its link to see your 4 people, send the hiring manager one short note.
+- Ground: coral. This week's Instagram grounds, Mon to Sun: ink, cobalt, mint, cream, ink, coral, cobalt (after lime on Nov 21 and pink on Nov 22), so any 4 in a row differ and cream is 1 in 7.
+- Link: the bio link stays /try. No link in the caption.
+
+```
+Long weekend. Short list.
+
+1. Pick one job you'd say yes to.
+2. Paste its link and see your 4 people.
+3. Send the hiring manager one short note.
+
+Then back to the leftovers.
+
+Paste a job link. Get your 4 people. Link in bio.
+
+#day60 #jobhunting #jobsearch #newjob #careeradvice
+```
+
+### FB-onelink · Sat Nov 28 · 10:54 PM · DRAFT · ONE LINK, FOUR PEOPLE (Nov 22)
+- Status: draft, for HQ's approval. New Nov 22: IG-onelink's approved words and Reel, adapted for Facebook as it goes to 7 posts a week (Philip, Nov 22). It ends on a next step for today and the try link (HQ, Nov 22).
+- Day: Saturday, so it isn't the same day as IG-onelink-r2 (Wed). (Social first sent HQ Wed 9:54 AM; Sat 10:54 PM keeps the Facebook rule.)
+- Reel: `2026-11/wk48/p04_one_link_reel_v3_cover.mp4` (1080x1920: the cover held for 1 second, then the approved video) · Cover: `2027-01/wk03/p04_one_link_cover_mint_grid.png` (1080x1920). In Buffer: a Facebook Reel, the video through jsDelivr at a fixed commit, `thumbnailOffset` 500.
+- Alt text (cover): One job link. Four people. One message. You send it; Day60 never sends anything for you.
+- Hashtags: #jobsearch #day60 and one more.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-onelink`, on its own line after the next step.
+
+```
+One job link. Four people. One message.
+
+Paste a job link, and Day60 finds the 4 people closest to the hire: the hiring manager, their boss, someone on the team who knows the work, and the recruiter. Each comes with a verified work email and a short note in your voice, and Tick checks every draft.
+
+Then you send it. Day60 never logs in to LinkedIn and never sends anything for you.
+
+Today: pick one job you'd say yes to and paste its link.
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-onelink
+
+#jobsearch #day60 #jobsearchtips
 ```

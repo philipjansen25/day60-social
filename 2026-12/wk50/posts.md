@@ -10,7 +10,7 @@
 
 ## LinkedIn (Philip's profile)
 
-### LI-story · Tue Dec 8 · 8:30 AM (reserved) · DRAFT · RESERVED, NOT DRAFTED (moved from Tue Dec 1, HQ Nov 18)
+### LI-story · Tue Dec 8 · 3:16 PM (reserved) · DRAFT · RESERVED, NOT DRAFTED (moved from Tue Dec 1, HQ Nov 18)
 - **Moved (HQ, Nov 11):** from Mon Nov 23 to Tue Nov 24, then to Tue Dec 1 when the résumé builder post (LI-resume) took Tue Nov 24. **Moved again (HQ, Nov 18):** here to Tue Dec 8, when LI-email took Tue Dec 1 (`2026-11/wk49/posts.md`). Its library id stays `2026-w48-LI-story`.
 - **What (Philip, Nov 8, via HQ):** a Day60 post that builds on Phil's own LinkedIn post of Mon Nov 9 and what he says there that Day60 did for him. It replaces week 47's LI-founder.
 - **Not drafted yet.** Social writes it only after HQ forwards Phil's Monday post, then marks it PROPOSED here and tells HQ. Philip approves the words before he posts it.
@@ -23,8 +23,8 @@
 
 ## Instagram
 
-### IG-four-r2 · Mon Dec 7 · 12:00 PM · APPROVED (recycled, HQ Nov 22) · EVERY JOB HAS 4 PEOPLE
-- **Recycled (HQ, Nov 22):** a new copy of `2026-w47-IG-four` (Every job has 4 people, 2026-11/wk47), which Meta cropped when it was scheduled natively. Library id: `2026-w47-IG-four-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
+### IG-four-r2 · Mon Dec 7 · 6:58 PM · APPROVED (recycled, HQ Nov 22) · EVERY JOB HAS 4 PEOPLE
+- **Recycled (HQ, Nov 22):** a new copy of `2026-w47-IG-four` (Every job has 4 people, 2026-11/wk47), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w47-IG-four-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.
 - Carousel (6): `2026-11/wk47/p01_four_people_1_ink_safe.png`, `2026-11/wk47/p01_four_people_2_safe.png`, `2026-11/wk47/p01_four_people_3_safe.png`, `2026-11/wk47/p01_four_people_4_safe.png`, `2026-11/wk47/p01_four_people_5_safe.png`, `2026-11/wk47/p01_four_people_6_v2_safe.png`. Each 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).
@@ -46,8 +46,8 @@ Today: pick one job and find its hiring manager.
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### IG5-r2 · Thu Dec 10 · 7:00 PM · APPROVED (recycled, HQ Nov 22) · THE EXTENSION IN THREE STEPS
-- **Recycled (HQ, Nov 22):** a new copy of `2026-w46-IG5` (The extension in three steps, 2026-11/wk46), which Meta cropped when it was scheduled natively. Library id: `2026-w46-IG5-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
+### IG5-r2 · Thu Dec 10 · 7:04 AM · APPROVED (recycled, HQ Nov 22) · THE EXTENSION IN THREE STEPS
+- **Recycled (HQ, Nov 22):** a new copy of `2026-w46-IG5` (The extension in three steps, 2026-11/wk46), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w46-IG5-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.
 - Carousel (6): `2026-11/wk46/p14_ext_steps_1_mint_safe.png`, `2026-11/wk46/p14_ext_steps_2_safe.png`, `2026-11/wk46/p14_ext_steps_3_safe.png`, `2026-11/wk46/p14_ext_steps_4_safe.png`, `2026-11/wk46/p14_ext_steps_5_safe.png`, `2026-11/wk46/p14_ext_steps_6_v2_safe.png`. Each 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).

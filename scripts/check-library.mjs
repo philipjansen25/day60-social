@@ -274,6 +274,8 @@ const today = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Chicago' }).
 const toPost = lib.filter((p) => ['draft', 'approved'].includes(p?.status) && typeof p?.date === 'string' && p.date >= today);
 let sizeOk = 0;
 for (const p of toPost) {
+  // a random minute inside the window, never a multiple of 5 (Philip, Nov 22; playbook §5), except posts Philip scheduled natively
+  if (p.postedVia !== 'native' && Number(p.time.slice(3)) % 5 === 0) err(p.id, `time ${p.time}: the minute is a multiple of 5; pick one with scripts/pick_time.py (playbook §5)`);
   const bad = checkSizes(p);
   for (const b of bad) err(p.id, `size: ${b}`);
   // an Instagram Reel's cover: key content inside the center 1080x1440 the grid shows (HQ, Nov 22)

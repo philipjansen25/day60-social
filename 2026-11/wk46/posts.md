@@ -160,7 +160,7 @@ Try one job free, no account: link in bio.
 ```
 
 ### IG4 · Thu Nov 12 · 7:00 PM · APPROVED (Philip, Nov 6)
-- **Cropped by Meta on native scheduling; recycled as `2026-w46-IG4-r2`** (Mon Dec 14, `2026-12/wk51/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w46-IG4-r2`** (Mon Dec 14, `2026-12/wk51/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
 - Carousel: `p06_three_touches_1.png` … `p06_three_touches_6.png`
 - Alt text (per slide): 1 3 touches. Then stop. The follow-up rhythm that's persistent, not pushy. · 2 Day 0, the first note: their problem, one line of proof, one easy ask. · 3 Day 2, the nudge: two lines that add something new. Never "just following up." · 4 Day 7, the last word: close the loop kindly and leave the door open. · 5 Then stop. Three touches is persistence; ten is spam. Day60 keeps it to 3 per person. · 6 Four people, three touches, you send every one. Try one job free at getday60.com/try
 
@@ -177,7 +177,7 @@ Save this for your next follow-up. Link in bio to try one job free.
 ```
 
 ### IG6 · Fri Nov 13 · 12:00 PM · APPROVED (Philip, Nov 5) · SITE PICK: MESSAGE CHECKER
-- **Cropped by Meta on native scheduling; recycled as `2026-w46-IG6-r2`** (Mon Dec 28, `2026-12/wk53/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w46-IG6-r2`** (Mon Dec 28, `2026-12/wk53/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
 - Carousel: `p15_checker_1–7.png` (built by `build_picks.py`). Slides 2, 4 and 6 are real crops of getday60.com/message-checker, shot Nov 5: the choice cards and Tick's checklist. The draft is set in our own card because the site's message box edges are faint.
 - Both drafts are invented (sender "Sam", recipient "Dana", company "Northpine"), and the slides say so. The live checker really scored them 7 to fix / 6 passed, then All 13 rules pass.
 - Link (bio stays /try; this goes in the caption as text): https://getday60.com/message-checker?utm_source=instagram&utm_medium=social&utm_campaign=2026-w46&utm_content=message-checker
@@ -204,7 +204,7 @@ Free, no sign-up: getday60.com/message-checker
 ```
 
 ### IG5 · Sat Nov 14 · 10:00 AM · APPROVED (Philip, Nov 5) · EXTENSION CAROUSEL
-- **Cropped by Meta on native scheduling; recycled as `2026-w46-IG5-r2`** (Thu Dec 10, `2026-12/wk50/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w46-IG5-r2`** (Thu Dec 10, `2026-12/wk50/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk46/p14_ext_steps_1_mint.png` on mint replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk46/p14_ext_steps_6_v2.png` replaces slide 6; its second headline line is now a lime block with ink text, not lime text. The old file stays in the repo.
 - Carousel: `p14_ext_steps_1.png` … `p14_ext_steps_6.png`, the same 6 slides as FB3. Was draft IG5-fallback; it replaces the planned screen-recording Reel and the old p10 + wk1/p11 fallback.
@@ -294,7 +294,7 @@ FB3-new, IG5-fallback, IG6 and FB6 were approved on Nov 5, and LI3-new on Nov 6.
 | IG7 | **APPROVED (Philip, Nov 11, Post Library)** · old slot Tue Nov 10 | 12:00 PM | Instagram | Carousel (5) | p17_ext_linkedin_1–5.png | v1.1.0 LinkedIn steps. Philip scheduled it himself on Nov 11; its new date is his |
 
 ### IG7 · Tue Nov 10 · 12:00 PM · APPROVED (Philip, Nov 11, Post Library) · EXTENSION 1.1.0: THE LINKEDIN STEPS
-- **Cropped by Meta on native scheduling; recycled as `2026-w46-IG7-r2`** (Mon Jan 4, `2027-01/wk01/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
+- **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w46-IG7-r2`** (Mon Jan 4, `2027-01/wk01/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk46/p17_ext_linkedin_1_cobalt.png` on cobalt replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk46/p17_ext_linkedin_5_v2.png` replaces slide 5; its second headline line is now a lime block with ink text, not lime text. LI3-new keeps the old slide 5 (live). The old file stays in the repo.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): all 5 slides as new files, `2026-11/wk46/p17_ext_linkedin_1_cobalt_safe.png`, `p17_ext_linkedin_2_safe.png` to `p17_ext_linkedin_4_safe.png`, `p17_ext_linkedin_5_v2_safe.png`. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.

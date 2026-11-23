@@ -10,8 +10,9 @@
 
 ## Instagram
 
-### IG7-r2 · Mon Jan 4 · 12:00 PM · APPROVED (recycled, HQ Nov 22) · EXTENSION LINKEDIN STEPS CAROUSEL
-- **Recycled (HQ, Nov 22):** a new copy of `2026-w46-IG7` (Extension LinkedIn steps carousel, 2026-11/wk46), which Meta cropped when it was scheduled natively. Library id: `2026-w46-IG7-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
+### IG7-r2 · Sun Nov 29 · 8:17 PM · APPROVED (recycled, HQ Nov 22) · EXTENSION LINKEDIN STEPS CAROUSEL
+- **Moved up (Nov 22, HQ can say no):** from Mon Jan 4 to Sun Nov 29, 8:17 PM, so Instagram has a post that Sunday (7 a week from Nov 23; Philip, Nov 22). It stays filed here, library id `2026-w46-IG7-r2`.
+- **Recycled (HQ, Nov 22):** a new copy of `2026-w46-IG7` (Extension LinkedIn steps carousel, 2026-11/wk46), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w46-IG7-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.
 - Carousel (5): `2026-11/wk46/p17_ext_linkedin_1_cobalt_safe.png`, `2026-11/wk46/p17_ext_linkedin_2_safe.png`, `2026-11/wk46/p17_ext_linkedin_3_safe.png`, `2026-11/wk46/p17_ext_linkedin_4_safe.png`, `2026-11/wk46/p17_ext_linkedin_5_v2_safe.png`. Each 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).
@@ -35,8 +36,8 @@ Today: open one job you saved on LinkedIn and press the button.
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### IG-resume-r2 · Thu Jan 7 · 7:00 PM · APPROVED (recycled, HQ Nov 22) · ONE RÉSUMÉ, TAILORED TO ONE JOB
-- **Recycled (HQ, Nov 22):** a new copy of `2026-w47-IG-resume` (One résumé, tailored to one job, 2026-11/wk47), which Meta cropped when it was scheduled natively. Library id: `2026-w47-IG-resume-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
+### IG-resume-r2 · Thu Jan 7 · 9:32 AM · APPROVED (recycled, HQ Nov 22) · ONE RÉSUMÉ, TAILORED TO ONE JOB
+- **Recycled (HQ, Nov 22):** a new copy of `2026-w47-IG-resume` (One résumé, tailored to one job, 2026-11/wk47), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w47-IG-resume-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.
 - Carousel (6): `2026-11/wk47/p02_resume_builder_1_lime_safe.png`, `2026-11/wk47/p02_resume_builder_2_safe.png`, `2026-11/wk47/p02_resume_builder_3_safe.png`, `2026-11/wk47/p02_resume_builder_4_safe.png`, `2026-11/wk47/p02_resume_builder_5_safe.png`, `2026-11/wk47/p02_resume_builder_6_v2_safe.png`. Each 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).

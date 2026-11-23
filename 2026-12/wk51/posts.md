@@ -10,8 +10,8 @@
 
 ## Instagram
 
-### IG4-r2 · Mon Dec 14 · 12:00 PM · APPROVED (recycled, HQ Nov 22) · THREE TOUCHES, THEN STOP
-- **Recycled (HQ, Nov 22):** a new copy of `2026-w46-IG4` (Three touches, then stop, 2026-11/wk46), which Meta cropped when it was scheduled natively. Library id: `2026-w46-IG4-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
+### IG4-r2 · Mon Dec 14 · 8:21 PM · APPROVED (recycled, HQ Nov 22) · THREE TOUCHES, THEN STOP
+- **Recycled (HQ, Nov 22):** a new copy of `2026-w46-IG4` (Three touches, then stop, 2026-11/wk46), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w46-IG4-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.
 - Carousel (6): `2026-11/wk46/p06_three_touches_1_safe.png`, `2026-11/wk46/p06_three_touches_2_safe.png`, `2026-11/wk46/p06_three_touches_3_safe.png`, `2026-11/wk46/p06_three_touches_4_safe.png`, `2026-11/wk46/p06_three_touches_5_safe.png`, `2026-11/wk46/p06_three_touches_6_safe.png`. Each 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).
@@ -31,8 +31,8 @@ Today: find one message that got no reply and send the two-line nudge. Save this
 #day60 #jobsearch #careeradvice #networkingtips #coverletter
 ```
 
-### IG-firstjob-r2 · Thu Dec 17 · 7:00 PM · APPROVED (recycled, HQ Nov 22) · YOUR FIRST JOB, STEP BY STEP
-- **Recycled (HQ, Nov 22):** a new copy of `2026-w47-IG-firstjob` (Your first job, step by step, 2026-11/wk47), which Meta cropped when it was scheduled natively. Library id: `2026-w47-IG-firstjob-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
+### IG-firstjob-r2 · Thu Dec 17 · 7:23 AM · APPROVED (recycled, HQ Nov 22) · YOUR FIRST JOB, STEP BY STEP
+- **Recycled (HQ, Nov 22):** a new copy of `2026-w47-IG-firstjob` (Your first job, step by step, 2026-11/wk47), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w47-IG-firstjob-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.
 - Carousel (6): `2026-11/wk47/p05_first_job_1_lime_safe.png`, `2026-11/wk47/p05_first_job_2_safe.png`, `2026-11/wk47/p05_first_job_3_safe.png`, `2026-11/wk47/p05_first_job_4_safe.png`, `2026-11/wk47/p05_first_job_5_safe.png`, `2026-11/wk47/p05_first_job_6_v2_safe.png`. Each 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).
