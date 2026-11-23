@@ -50,6 +50,7 @@ Checks: hook is 47 characters. "Day60" appears once. No link in the body. No per
 - Same idea as FB-thanks (Facebook, 10:00 AM the same day): one thank-you, no ask.
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
 - Link: none (HQ, Nov 22: "a thank-you post shouldn't sell"), the one exception to the try link rule. It ends on one next step for today, then a question.
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b0430bb6b6de502825b7bee`), Thu Nov 26, 2:39 PM CT, as a text post, link-free. Nothing for Philip to do.
 
 ```
 Happy Thanksgiving.
@@ -334,6 +335,7 @@ Paste a job link. Get your 4 people. Link in bio.
 - Alt text (cover): One job link. Four people. One message. You send it; Day60 never sends anything for you.
 - Hashtags: #jobsearch #day60 and one more.
 - Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-onelink`, on its own line after the next step.
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b0430c3433e6368c8a53c50`), Sat Nov 28, 10:54 PM CT, as a Facebook Reel with thumbnailOffset 500 (the cover). Nothing for Philip to do.
 
 ```
 One job link. Four people. One message.

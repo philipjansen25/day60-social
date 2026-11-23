@@ -177,6 +177,7 @@ Day60 finds all 4 for one job and drafts a first note to each. You make it yours
 - Carousel (6): IG-email's slides 1 to 5 and `2026-11/wk49/p01_which_person_6_fb.png` (a getday60.com sticker in place of "Link in bio"). Four days before the Instagram post (IG-email, Fri Nov 27).
 - Alt text (per slide): 1 Email the person, but which one? Every job has 4 people who decide if you get it, and what to say to each. · 2 Step 1: The hiring manager. Name one problem their team has, one line of proof you can help, one easy question. · 3 Step 2: Their boss. Say why their team's goal is the one you want to work on, in a shorter note. · 4 Step 3: Someone on the team. Ask one real question about the work, not for a favor. · 5 Step 4: The recruiter. Say you applied and why: the role, one line on fit, when you're free to talk. · 6 Keep each note short, plain and yours. Day60 finds all 4 for one job and drafts a first note to each. getday60.com
 - Link: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=which-person
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b0430b40d00264c1a37d888`), Mon Nov 23, 8:04 PM CT, as a 6-image Facebook post at 1080x1350 with alt text on each image; both links in the text. Nothing for Philip to do.
 
 ```
 You may have seen the advice going around: stop relying on applications and email the person who posted the job.
