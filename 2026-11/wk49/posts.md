@@ -402,8 +402,8 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 
 Light humor, HQ's three facts only, no named source, no percentage. The card: `2026-11/wk49/p03_ats_coral.png` (1080x1350, coral; source `2026-11/wk49/build_humor.py`; safe area passes; Tick pointing, not frowning). LinkedIn's version is in `2026-12/wk50/posts.md` (Mon Dec 7).
 
-### FB-ats · Mon Nov 30 · 7:08 PM · DRAFT · THE ROBOT DIDN'T REJECT YOU (Facebook)
-- Status: draft, for HQ's approval. Fills Facebook's open Mon Nov 30.
+### FB-ats · Mon Nov 30 · 7:08 PM · APPROVED (HQ, Nov 24) · THE ROBOT DIDN'T REJECT YOU (Facebook)
+- Status: approved (HQ, Nov 24), as written; goes into Buffer with Wednesday's run. Fills Facebook's open Mon Nov 30.
 - Image: `2026-11/wk49/p03_ats_coral.png`. Instagram posts the same card Thu Dec 3, so they never share a day.
 - Alt text: The robot didn't reject you. Most ATS store applications for people to search. Find the hiring manager, send a short note.
 - Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-ats`
@@ -425,8 +425,8 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #jobhunting
 ```
 
-### IG-ats · Thu Dec 3 · 9:44 AM · DRAFT · THE ROBOT DIDN'T REJECT YOU (Instagram)
-- Status: draft, for HQ's approval.
+### IG-ats · Thu Dec 3 · 9:44 AM · APPROVED (HQ, Nov 24) · THE ROBOT DIDN'T REJECT YOU (Instagram)
+- Status: approved (HQ, Nov 24), as written; goes into Buffer with Wednesday's run.
 - Image: `2026-11/wk49/p03_ats_coral.png`.
 - Ground: coral. The grid before it: lime (Mon), cream (Tue), lime (Wed).
 - Alt text: The robot didn't reject you. Most ATS store applications for people to search. Find the hiring manager, send a short note.

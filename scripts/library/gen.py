@@ -555,12 +555,12 @@ SPECS += [
 
 # HQ idea, Nov 24: "The ATS didn't reject you" (drafts for HQ)
 SPECS += [
-    entry("2026-w50", "LI-ats", channel="linkedin", date="2026-12-07", time="11:17", status="draft",
+    entry("2026-w50", "LI-ats", channel="linkedin", date="2026-12-07", time="11:17", status="approved",
           title="The ATS probably didn't reject you", format="text"),
-    entry(W49, "FB-ats", channel="facebook", date="2026-11-30", time="19:08", status="draft",
+    entry(W49, "FB-ats", channel="facebook", date="2026-11-30", time="19:08", status="approved",
           title="The robot didn't reject you", format="image",
           files=_one(W49, "FB-ats", "2026-11/wk49/p03_ats_coral.png")),
-    entry(W49, "IG-ats", channel="instagram", date="2026-12-03", time="09:44", status="draft",
+    entry(W49, "IG-ats", channel="instagram", date="2026-12-03", time="09:44", status="approved",
           title="The robot didn't reject you", format="image",
           files=_one(W49, "IG-ats", "2026-11/wk49/p03_ats_coral.png")),
 ]

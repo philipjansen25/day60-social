@@ -11,8 +11,8 @@
 ## LinkedIn (Philip's profile)
 
 
-### LI-ats · Mon Dec 7 · 11:17 AM · DRAFT · THE ATS PROBABLY DIDN'T REJECT YOU (HQ idea, Nov 24)
-- Status: draft, for HQ's approval. HQ's idea (Nov 24): a myth-busting post for a general audience. Light humor (the "robot rejected me" image).
+### LI-ats · Mon Dec 7 · 11:17 AM · APPROVED (HQ, Nov 24) · THE ATS PROBABLY DIDN'T REJECT YOU (HQ idea, Nov 24)
+- Status: approved (HQ, Nov 24), as written; goes into Buffer with Wednesday's run. HQ's idea (Nov 24): a myth-busting post for a general audience. Light humor (the "robot rejected me" image).
 - Lane: Phil's founder lane (Mon), as his view. If HQ has an H post for Mon Dec 7, this moves to the next open LinkedIn day.
 - Facts: only HQ's three (Nov 24): most ATS store and organize applications and recruiters search them by keyword; knockout questions on the form can screen someone out, not the résumé's layout; "ATS-friendly" and "beat the ATS" are mostly sales language. No outside source named, no percentage.
 - Format: text only. Time inside 8 AM to 12:59 PM CT (Philip, Nov 24).
