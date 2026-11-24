@@ -262,6 +262,12 @@
    "grid": true,
    "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   },
+  "2026-11/wk47/p02_resume_builder_6_v3.png": {
+   "sha256": "e70239ff0f472a16995f5a0e2d663fb57e2bcfe4f84f0c3d4de8bdce5fcea07f",
+   "scale": 0.923,
+   "checked": "2026-11-24",
+   "grid": true
+  },
   "2026-11/wk47/p05_first_job_1_lime_safe.png": {
    "sha256": "2aa61a334a322bcb8c58e60ffff0bb419258d63242b419680616710a78983501",
    "scale": 0.862,

@@ -117,11 +117,11 @@ Today: open one job you saved on LinkedIn and press the button.
 
 #day60 #jobsearch #jobsearchtips #careertips #networking"""),
  dict(orig="2026-w47-IG-resume", pid="IG-resume-r2", week="2027-w01", dir="2027-01/wk01", date="2027-01-07", time="09:32", day="Thu Jan 7", t="9:32 AM",
-      title="One résumé, tailored to one job", ground="lime", status="approved", cap="""One résumé, tailored to one job.
+      title="One résumé, tailored to one job", ground="lime", status="draft", cap="""One résumé, tailored to one job.
 
 Swipe to see Day60's free résumé builder at work on an invented résumé and job. Add the job and your résumé (a PDF, a Word file or the text), and it rewrites the résumé for that one job, using only what your résumé and your notes show. Keywords you can't claim yet get their own list.
 
-Read every line, then download a Word file. No account needed, and nothing you add is kept.
+Read every line, then give your email and get a Word file. No account needed, and it doesn't store your résumé.
 
 It's at getday60.com/resume-builder, or tap the link in bio and choose Free tools.
 
@@ -186,6 +186,9 @@ SWAP.update({"2026-11/wk46/p15_checker_%d.png" % k: "2026-11/wk46/p15_checker_%d
 SWAP.update({"2026-11/wk47/p02_resume_builder_%d.png" % k: "2026-11/wk47/p02_resume_builder_%d_safe.png" % k for k in range(2, 6)})
 # IG-thanks-r2: three slides lose their Thanksgiving words (2026-12/wk52/build_thanks_r2.py)
 THANKS = {
+ # HQ fix Nov 23 (night), #967 email step: IG-resume-r2's last slide (not a thanks slide; same path swap)
+ "2026-11/wk47/p02_resume_builder_6_v2_safe.png": ("2026-11/wk47/p02_resume_builder_6_v3.png",
+     "Read every line, add your email, get a Word file. Free, no account, résumé not stored: getday60.com/resume-builder"),
  "2026-11/wk48/p01_thanks_1_pink_safe.png": ("2026-12/wk52/p01_thanks_1_pink_holiday.png",
      "Holiday week: send one thank-you. 3 people in your job search worth thanking, and what to say."),
  "2026-11/wk48/p01_thanks_5_safe.png": ("2026-12/wk52/p01_thanks_5_holiday.png",

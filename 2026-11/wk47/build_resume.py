@@ -145,12 +145,13 @@ out("p02_resume_builder_5",
     + foot(bottom=40, right=URL))
 
 # 6. CTA (dark). _fb is the same slide without "Link in bio", for FB-resume only (HQ, Nov 12).
-def cta(name, link_in_bio):
+def cta(name, link_in_bio, email_fix=False):
     out(name,
         INK_KEYLINES + f'<div class="d" style="position:absolute;left:72px;top:150px;width:936px;font-size:112px;color:{CREAM}">'
-        f'Read every line.<br><span class="fill" style="color:{INK}">Get a Word file.</span></div>'
+        + (f'Read every line.<br><span class="fill" style="color:{INK}">Get a Word file.</span></div>' if not email_fix else
+           f'<span style="font-size:96px">Read every line.</span><br><span class="fill" style="color:{INK};font-size:88px">Add your email,<br>get a Word file.</span></div>')
         + f'<div style="position:absolute;left:76px;top:600px;width:620px;font-size:44px;font-weight:600;line-height:1.3;color:{CREAM}">'
-          f'Free. No account. Nothing you add is kept.</div>'
+          + ('Free. No account. Nothing you add is kept.' if not email_fix else "Free. No account. Your résumé isn't stored.") + '</div>'
         + sticker(URL, LIME, 72, 860, 30)
         + (sticker("Link in bio", WHITE, 72, 960, 30) if link_in_bio else "")
         + f'<div style="position:absolute;right:60px;top:700px">{tick("celebrating", 300)}</div>'
@@ -161,6 +162,8 @@ def cta(name, link_in_bio):
 # v2 (HQ, Nov 13): cream keylines on ink. The old p02_resume_builder_6(.png/_fb.png) stay on disk.
 cta("p02_resume_builder_6_v2", True)
 cta("p02_resume_builder_6_fb_v2", False)
+# v3 (HQ fix Nov 23 (night), #967 email step): the builder asks for an email before the Word file and doesn't store the résumé.
+cta("p02_resume_builder_6_v3", True, email_fix=True)
 
 if __name__ == "__main__":
     # optional: slide names to render, e.g. p02_resume_builder_6_fb (default: all)

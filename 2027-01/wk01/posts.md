@@ -37,12 +37,13 @@ Today: open one job you saved on LinkedIn and press the button.
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### IG-resume-r2 · Thu Jan 7 · 9:32 AM · APPROVED (recycled, HQ Nov 22) · ONE RÉSUMÉ, TAILORED TO ONE JOB
+### IG-resume-r2 · Thu Jan 7 · 9:32 AM · DRAFT (HQ fix Nov 23, #967 email step: needs HQ's yes) · ONE RÉSUMÉ, TAILORED TO ONE JOB
 - **Recycled (HQ, Nov 22):** a new copy of `2026-w47-IG-resume` (One résumé, tailored to one job, 2026-11/wk47), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w47-IG-resume-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
+- **HQ fix Nov 23 (night), #967 email step:** the builder asks for an email before the Word file and doesn't store the résumé. Caption line and slide 6 changed (slide 6 is now `2026-11/wk47/p02_resume_builder_6_v3.png`: "Read every line. Add your email, get a Word file." / "Free. No account. Your résumé isn't stored."). Back to draft until HQ approves; nothing in Buffer.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.
-- Carousel (6): `2026-11/wk47/p02_resume_builder_1_lime_safe.png`, `2026-11/wk47/p02_resume_builder_2_safe.png`, `2026-11/wk47/p02_resume_builder_3_safe.png`, `2026-11/wk47/p02_resume_builder_4_safe.png`, `2026-11/wk47/p02_resume_builder_5_safe.png`, `2026-11/wk47/p02_resume_builder_6_v2_safe.png`. Each 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).
-- Alt text (per slide): 1 "One résumé, tailored to one job: how the free résumé builder works." · 2 "Step 1: Add the job (a link to the posting, not LinkedIn, or the posting itself), then your résumé." · 3 "Step 2: See what the job wants: its keywords and the 3 problems the role solves." · 4 "Step 3: Tailored, with only what's true. Your lines are reworded for the job, with no new skill, number or title." · 5 "Step 4: Know the gap before they do. Keywords you can't claim yet stay off your résumé." · 6 "Read every line, then get a Word file. Free, no account, nothing you add is kept: getday60.com/resume-builder"
+- Carousel (6): `2026-11/wk47/p02_resume_builder_1_lime_safe.png`, `2026-11/wk47/p02_resume_builder_2_safe.png`, `2026-11/wk47/p02_resume_builder_3_safe.png`, `2026-11/wk47/p02_resume_builder_4_safe.png`, `2026-11/wk47/p02_resume_builder_5_safe.png`, `2026-11/wk47/p02_resume_builder_6_v3.png`. Each 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).
+- Alt text (per slide): 1 "One résumé, tailored to one job: how the free résumé builder works." · 2 "Step 1: Add the job (a link to the posting, not LinkedIn, or the posting itself), then your résumé." · 3 "Step 2: See what the job wants: its keywords and the 3 problems the role solves." · 4 "Step 3: Tailored, with only what's true. Your lines are reworded for the job, with no new skill, number or title." · 5 "Step 4: Know the gap before they do. Keywords you can't claim yet stay off your résumé." · 6 "Read every line, add your email, get a Word file. Free, no account, résumé not stored: getday60.com/resume-builder"
 - Ground: lime. The week's other Instagram slots are still to plan; with them, any 4 in a row stay different and cream stays at most one in five.
 - Link: the bio link stays /try. No link in the caption.
 
@@ -51,7 +52,7 @@ One résumé, tailored to one job.
 
 Swipe to see Day60's free résumé builder at work on an invented résumé and job. Add the job and your résumé (a PDF, a Word file or the text), and it rewrites the résumé for that one job, using only what your résumé and your notes show. Keywords you can't claim yet get their own list.
 
-Read every line, then download a Word file. No account needed, and nothing you add is kept.
+Read every line, then give your email and get a Word file. No account needed, and it doesn't store your résumé.
 
 It's at getday60.com/resume-builder, or tap the link in bio and choose Free tools.
 
