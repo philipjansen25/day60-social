@@ -21,6 +21,7 @@
 - Source: Philip, Nov 11 (via HQ): he used the free résumé builder on his own résumé and a real job posting, and it worked very well. No detail of his résumé or that job, and no numbers. Facts as in week 47's "Résumé builder" section.
 - Tags: Day60 page (auto)
 - First comment: none (Buffer can't post one). Was: the résumé builder link.
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b04dc07f0d7b1e0de9b78d8`), Tue Nov 24, 3:07 PM CT, as a text post. Nothing for Philip to do.
 - Link: `https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48-LI-resume`, the body's last line.
 
 ```
@@ -200,6 +201,7 @@ Paste a job link. Get your 4 people. Link in bio.
 - Alt text: same as IG-thanks.
 - Time: 10:00 AM on Thanksgiving Day, not the usual 6:00 PM, so it isn't up against dinner. The guide link fits slide 3 (thanking a new connection).
 - Link: https://getday60.com/guides/thank-you-message-after-linkedin-connection?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48&utm_content=thank-you
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b04dc0f9a4bd32ca3decd11`), Thu Nov 26, 10:23 AM CT, 6 slides with alt text. Nothing for Philip to do.
 
 ```
 Happy Thanksgiving from Day60.
