@@ -351,3 +351,17 @@ NOTES["2026-w49-LI-monday"] = NOTES["2026-w49-LI-monday"] + ["In Buffer: schedul
 NOTES["2026-w49-LI-glossary"] = NOTES["2026-w49-LI-glossary"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0437e2e94d538757bcf4f5), Mon Nov 30, 5:26 PM CT. Nothing for Philip to do."]
 NOTES["2026-w49-IG-breaking"] = NOTES["2026-w49-IG-breaking"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0437e666ef504f455320c9), Mon Nov 30, 8:27 PM CT. Nothing for Philip to do."]
 NOTES["2026-w49-FB-breaking"] = NOTES["2026-w49-FB-breaking"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b0437eb66ef504f455322a7), Tue Dec 1, 7:34 AM CT. Nothing for Philip to do."]
+
+# HQ, Nov 23: Philip deleted his native copies; both go out through Buffer (Social)
+for _k in ("2026-w48-LI-resume", "2026-w48-FB-thanks"):
+    NOTES[_k] = [x for x in NOTES[_k] if not x.startswith("Scheduled natively on Nov 16")
+                 and not x.startswith("Post the first comment yourself") and not x.startswith("Tag the Day60 page")
+                 and not x.startswith("Post as the Day60 Facebook Page in Meta") and not x.startswith("Already scheduled?")
+                 and not x.startswith("No link in the body")]
+NOTES["2026-w48-LI-resume"] = BUF_LI2 + [x for x in NOTES["2026-w48-LI-resume"]] + [
+    "Back through Buffer (HQ, Nov 23): Philip deleted his native copy. Ends with the try link; no first comment."]
+NOTES["2026-w48-FB-thanks"] = BUF_FB + [x for x in NOTES["2026-w48-FB-thanks"]] + [
+    "Back through Buffer (HQ, Nov 23): Philip deleted his native copy. No try link; the guide link stays.",
+    "Slide 5 says \"Send it today.\" (Thanksgiving Day), not \"Send it before Thursday.\"."]
+NOTES["2026-w48-FB-thanks"] = BUF_FB + ["Same 6 slides as IG-thanks (Sun Nov 22), with slide 5 saying \"Send it today.\" for Thanksgiving Day.",
+    "Back through Buffer (HQ, Nov 23): Philip deleted his native copy. Thu Nov 26, 10:23 AM. No try link; the guide link stays."]

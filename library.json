@@ -1256,23 +1256,6 @@
     "postedVia": "buffer"
   },
   {
-    "id": "2026-w48-LI-resume",
-    "week": "2026-w48",
-    "channel": "linkedin",
-    "topic": "day60",
-    "date": "2026-11-24",
-    "time": "08:30",
-    "status": "draft",
-    "title": "I tailored my own résumé",
-    "format": "text",
-    "text": "I ran my own résumé through our résumé builder.\n\nOne real job posting. One résumé. That was the whole input.\n\nIn sales you don't send the same pitch to every account. You read what that buyer needs and lead with the part of your story that answers it.\n\nA résumé works the same way. It's tempting to send one version everywhere and hope the right lines get noticed.\n\nThe builder reads the posting first and shows what the job wants: the keywords, and the three problems the role solves. Then it tailors your résumé to that one job, using only what your résumé and your notes show. It never adds a skill, a number or a title you don't have. Keywords you can't claim yet get their own list, so you see the gap instead of papering over it.\n\nIt worked well on mine. It's free on the Day60 site, needs no account, keeps none of what you add, and gives you back a Word file.\n\nWhat's the one line on your résumé you'd rewrite for every job?\n\nLink in the first comment.\n\n#jobsearch #careeradvice #hiring",
-    "firstComment": "https://getday60.com/resume-builder?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48&utm_content=resume-builder",
-    "link": "",
-    "files": [],
-    "notes": "Scheduled natively on Nov 16 (Post Library log): it stays out of Buffer, at the time set then, so it doesn't go out twice.\nTag the Day60 page: where the text says \"Day60\", type @Day60 and pick the company page (linkedin.com/company/144030699).\nPost the first comment yourself right after the post goes live.\nNo link in the body.\nText only, no image.",
-    "postedVia": "native"
-  },
-  {
     "id": "2026-w48-IG-rb-reel",
     "week": "2026-w48",
     "channel": "instagram",
@@ -1297,6 +1280,23 @@
     ],
     "notes": "Cropped to a square when scheduled in the Instagram app; recycled as 2026-w48-IG-rb-reel-r2.\nStill ahead in the Instagram app on Nov 22: HQ asked Philip to delete it there. Replaced: don't post it; the -r2 copy goes out this week through Buffer.",
     "postedVia": "native"
+  },
+  {
+    "id": "2026-w48-LI-resume",
+    "week": "2026-w48",
+    "channel": "linkedin",
+    "topic": "day60",
+    "date": "2026-11-24",
+    "time": "15:07",
+    "status": "approved",
+    "title": "I tailored my own résumé",
+    "format": "text",
+    "text": "I ran my own résumé through our résumé builder.\n\nOne real job posting. One résumé. That was the whole input.\n\nIn sales you don't send the same pitch to every account. You read what that buyer needs and lead with the part of your story that answers it.\n\nA résumé works the same way. It's tempting to send one version everywhere and hope the right lines get noticed.\n\nThe builder reads the posting first and shows what the job wants: the keywords, and the three problems the role solves. Then it tailors your résumé to that one job, using only what your résumé and your notes show. It never adds a skill, a number or a title you don't have. Keywords you can't claim yet get their own list, so you see the gap instead of papering over it.\n\nIt worked well on mine. It's free on the Day60 site, needs no account, keeps none of what you add, and gives you back a Word file.\n\nWhat's the one line on your résumé you'd rewrite for every job?\n\nhttps://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48-LI-resume\n\n#jobsearch #careeradvice #hiring",
+    "firstComment": "",
+    "link": "",
+    "files": [],
+    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nText only, no image.\nBack through Buffer (HQ, Nov 23): Philip deleted his native copy. Ends with the try link; no first comment.",
+    "postedVia": "buffer"
   },
   {
     "id": "2026-w48-IG-rb-reel-r2",
@@ -1452,8 +1452,8 @@
     "channel": "facebook",
     "topic": "day60",
     "date": "2026-11-26",
-    "time": "10:00",
-    "status": "draft",
+    "time": "10:23",
+    "status": "approved",
     "title": "Thanksgiving: send one thank-you",
     "format": "carousel",
     "text": "Happy Thanksgiving from Day60.\n\nIf you or someone you love is looking for work this year, here's one small thing worth doing today: send one thank-you.\n\nTo someone who told you no instead of leaving you waiting. To someone who accepted your connection request. To someone who made an intro or gave you advice.\n\nKeep it short, name one specific thing, and ask for nothing. The slides show what to say to each.\n\nMore on thanking a new connection: https://getday60.com/guides/thank-you-message-after-linkedin-connection?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48&utm_content=thank-you\n\nShare this with someone who's looking.\n\n#jobsearch #day60 #careeradvice",
@@ -1477,16 +1477,16 @@
         "alt": "Thank someone who gave you an intro, a referral or advice, and say what came of it."
       },
       {
-        "path": "2026-11/wk48/p01_thanks_5_safe.png",
-        "alt": "How to write it: short, specific, and no ask. Send it before Thursday."
+        "path": "2026-11/wk48/p01_thanks_5_today.png",
+        "alt": "How to write it: short, specific, and no ask. Send it today."
       },
       {
         "path": "2026-11/wk48/p01_thanks_6_v2_safe.png",
         "alt": "Happy Thanksgiving. Next week: one job, one message. Paste a job link to get your 4 people at getday60.com"
       }
     ],
-    "notes": "Scheduled natively on Nov 16 (Post Library log): it stays out of Buffer, at the time set then, so it doesn't go out twice.\nAlready scheduled? These are new files (Nov 16) that keep every word inside the centered square; to use them, replace every image in the scheduled post before it goes out. The old files stay in the repo.\nAdd each image's alt text.\nUpload the images in the order listed.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe link stays in the text, as written.\nSame 6 slides as IG-thanks (Sun Nov 22).\n10:00 AM on Thanksgiving Day, not the usual 6:00 PM.",
-    "postedVia": "native"
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nImages go up in the listed order, each with its alt text.\nThe link stays in the text, as written.\nSame 6 slides as IG-thanks (Sun Nov 22), with slide 5 saying \"Send it today.\" for Thanksgiving Day.\nBack through Buffer (HQ, Nov 23): Philip deleted his native copy. Thu Nov 26, 10:23 AM. No try link; the guide link stays.",
+    "postedVia": "buffer"
   },
   {
     "id": "2026-w48-LI-thanks",

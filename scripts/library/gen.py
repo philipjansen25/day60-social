@@ -553,6 +553,15 @@ SPECS += [
           files=_one(W49, "FB-breaking", "2026-11/wk49/p02_breaking_lime.png")),
 ]
 
+# HQ, Nov 23: Philip deleted his native copies of LI-resume and FB-thanks; both go out through Buffer.
+for _e in SPECS:
+    if _e["id"] == "2026-w48-LI-resume":
+        _e.update(time="15:07", status="approved", postedVia="buffer", firstComment="")
+    elif _e["id"] == "2026-w48-FB-thanks":
+        _e.update(time="10:23", status="approved", postedVia="buffer")
+        _e["files"] = [dict(f, path="2026-11/wk48/p01_thanks_5_today.png", alt=f["alt"].replace("Send it before Thursday.", "Send it today."))
+                       if f["path"].endswith("p01_thanks_5_safe.png") else f for f in _e["files"]]
+
 from notes import NOTES  # noqa: E402
 _missing = [e["id"] for e in SPECS if e["id"] not in NOTES]
 assert not _missing, _missing

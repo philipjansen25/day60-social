@@ -14,13 +14,14 @@
 
 ## LinkedIn (Phil's profile)
 
-### LI-resume · Tue Nov 24 · 8:30 AM · DRAFT · RÉSUMÉ BUILDER, PHIL'S OWN TRY (HQ, Nov 11)
-- **Scheduled natively on Nov 16 (Post Library log):** it stays out of Buffer, at the time set then, so it doesn't go out twice.
-- Status: draft, for Philip to approve in the Post Library. It takes LI-story's slot; LI-story moved to Tue Dec 1 (`2026-11/wk49/posts.md`).
+### LI-resume · Tue Nov 24 · 3:07 PM · APPROVED (HQ, Nov 23) · RÉSUMÉ BUILDER, PHIL'S OWN TRY (HQ, Nov 11)
+- **Back through Buffer (HQ, Nov 23):** Philip deleted the copy he scheduled natively on Nov 16, so it goes out through Buffer the same day at 3:07 PM (pick_time.py). The first-comment line is replaced by the try link as the body's last line (HQ, Nov 22; Buffer can't post a first comment).
+- Status: approved (HQ, Nov 23; Philip had scheduled it himself). It takes LI-story's slot; LI-story moved to Tue Dec 1 (`2026-11/wk49/posts.md`).
 - Format: text only (field note).
 - Source: Philip, Nov 11 (via HQ): he used the free résumé builder on his own résumé and a real job posting, and it worked very well. No detail of his résumé or that job, and no numbers. Facts as in week 47's "Résumé builder" section.
 - Tags: Day60 page (auto)
-- First comment: https://getday60.com/resume-builder?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48&utm_content=resume-builder
+- First comment: none (Buffer can't post one). Was: the résumé builder link.
+- Link: `https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48-LI-resume`, the body's last line.
 
 ```
 I ran my own résumé through our résumé builder.
@@ -37,7 +38,7 @@ It worked well on mine. It's free on the Day60 site, needs no account, keeps non
 
 What's the one line on your résumé you'd rewrite for every job?
 
-Link in the first comment.
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48-LI-resume
 
 #jobsearch #careeradvice #hiring
 ```
@@ -188,8 +189,9 @@ Paste a job link. Get your 4 people. Link in bio.
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### FB-thanks · Thu Nov 26 · 10:00 AM · DRAFT · THANKSGIVING: SEND ONE THANK-YOU (HQ brief, Nov 12)
-- **Scheduled natively on Nov 16 (Post Library log):** it stays out of Buffer, at the time set then, so it doesn't go out twice.
+### FB-thanks · Thu Nov 26 · 10:23 AM · APPROVED (HQ, Nov 23) · THANKSGIVING: SEND ONE THANK-YOU (HQ brief, Nov 12)
+- **Back through Buffer (HQ, Nov 23):** Philip deleted the copy he scheduled natively on Nov 16, so it goes out through Buffer on Thanksgiving at 10:23 AM (pick_time.py). No try link (a thank-you post shouldn't sell); the guide link stays as written.
+- Slide 5 for Thanksgiving Day (Social, Nov 23): `2026-11/wk48/p01_thanks_5_today.png` says "Send it today." in place of "Send it before Thursday.", which would read wrong on Thursday. Source: `2026-11/wk48/build_thanks_today.py`. The other five slides are IG-thanks's safe files.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p01_thanks_1_pink.png` on pink replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk48/p01_thanks_6_v2.png` replaces slide 6. The old file stays in the repo.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): IG-thanks's 6 new files, `2026-11/wk48/p01_thanks_1_pink_safe.png`, `p01_thanks_2_safe.png` to `p01_thanks_5_safe.png`, `p01_thanks_6_v2_safe.png`. Same words, grounds and alt text. The old files stay in the repo; if this post is already scheduled, Philip decides whether to swap them.
