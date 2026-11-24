@@ -280,7 +280,7 @@ BACKFILL = [
           title="I tailored my own résumé", format="text"),
     # week 48
     # Moved to Tue Dec 8 (week 50) when LI-email took Tue Dec 1 (HQ, Nov 18).
-    entry("2026-w50", "LI-story", id="2026-w48-LI-story", channel="linkedin", date="2026-12-08", time="15:16", status="draft",
+    entry("2026-w50", "LI-story", id="2026-w48-LI-story", channel="linkedin", date="2026-12-08", time="12:07", status="draft",
           title="Phil's own job search story", format="text",  # no link (HQ, Nov 19)
           notes="Reserved, not drafted: Social writes it after HQ forwards Phil's Nov 9 post. Moved to Tue Dec 8: LI-email took Tue Dec 1. "
                 + LI_TAG),
@@ -299,7 +299,7 @@ BACKFILL = [
           files=[{"path": "product-hunt/ig_launch_day.png", "alt": ph_alt}],
           notes=FB_BASE + " The text also needs the Product Hunt launch link, a placeholder until it exists. Draft."),
     # A text post from Nov 19 (HQ: no more LinkedIn PDFs, no link). The v2 PDF stays in the repo.
-    entry(W49, "LI-3touch", channel="linkedin", date="2026-12-03", time="17:44", status="approved",  # HQ, Nov 19
+    entry(W49, "LI-3touch", channel="linkedin", date="2026-12-03", time="12:54", status="approved",  # HQ, Nov 19
           title="Follow up three times, then stop", format="text",
           notes="Copy not written yet (moved from week 47). " + LI_TAG + " Upload the PDF as a document and give it a title."),
 ]
@@ -443,7 +443,7 @@ def _which_person(pid, last):
 
 
 SPECS += [
-    entry(W49, "LI-email", channel="linkedin", date="2026-12-01", time="16:12", status="approved",  # HQ, Nov 19 (line swapped and restored the same day)
+    entry(W49, "LI-email", channel="linkedin", date="2026-12-01", time="08:46", status="approved",  # HQ, Nov 19 (line swapped and restored the same day)
           title="Which person to email first", format="text"),
     entry(W49, "IG-email", channel="instagram", date="2026-11-27", time="21:43", status="approved", postedVia="buffer",  # moved up (HQ, Nov 22); Post Library approval, Nov 19
           title="Email the person. But which one?", format="carousel",
@@ -455,11 +455,11 @@ SPECS += [
 
 # HQ, Nov 19: Social writes all 5 LinkedIn posts. Mon, Wed, Fri are Phil's founder lane; Thanksgiving gets a light post.
 SPECS += [
-    entry(W48, "LI-thanks", channel="linkedin", date="2026-11-26", time="14:39", status="approved", postedVia="buffer",
+    entry(W48, "LI-thanks", channel="linkedin", date="2026-11-26", time="09:47", status="approved", postedVia="buffer",
           title="Thanksgiving: one thank-you today", format="text"),
-    entry(W49, "LI-hiringside", channel="linkedin", date="2026-12-02", time="16:09", status="approved",
+    entry(W49, "LI-hiringside", channel="linkedin", date="2026-12-02", time="11:36", status="approved",
           title="Three things from the hiring side", format="text"),
-    entry(W49, "LI-target", channel="linkedin", date="2026-12-04", time="14:26", status="draft",
+    entry(W49, "LI-target", channel="linkedin", date="2026-12-04", time="09:07", status="draft",
           title="Run your search like target accounts", format="text"),
 ]
 
@@ -541,9 +541,9 @@ SPECS += [
     entry(W49, "FB-shortlist", channel="facebook", date="2026-11-29", time="09:34", status="approved", postedVia="buffer",
           title="Long weekend, short list", format="image",
           files=_one(W49, "FB-shortlist", "2026-11/wk48/p05_short_list_coral_safe.png")),
-    entry(W49, "LI-monday", channel="linkedin", date="2026-11-29", time="21:06", status="approved", postedVia="buffer",
+    entry(W49, "LI-monday", channel="linkedin", date="2026-11-29", time="11:52", status="approved", postedVia="buffer",
           title="Monday plan: one note by 10", format="text"),
-    entry(W49, "LI-glossary", channel="linkedin", date="2026-11-30", time="17:26", status="approved", postedVia="buffer",
+    entry(W49, "LI-glossary", channel="linkedin", date="2026-11-30", time="09:13", status="approved", postedVia="buffer",
           title="Job posting glossary", format="text"),
     entry(W49, "IG-breaking", channel="instagram", date="2026-11-30", time="20:27", status="approved", postedVia="buffer",
           title="Hiring manager answers cold email", format="image",
@@ -556,7 +556,7 @@ SPECS += [
 # HQ, Nov 23: Philip deleted his native copies of LI-resume and FB-thanks; both go out through Buffer.
 for _e in SPECS:
     if _e["id"] == "2026-w48-LI-resume":
-        _e.update(time="15:07", status="approved", postedVia="buffer", firstComment="")
+        _e.update(time="12:43", status="approved", postedVia="buffer", firstComment="")
     elif _e["id"] == "2026-w48-FB-which":
         _e.update(time="08:36", status="approved", postedVia="buffer")
     elif _e["id"] == "2026-w48-FB-thanks":

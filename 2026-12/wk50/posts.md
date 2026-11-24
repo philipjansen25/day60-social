@@ -10,7 +10,8 @@
 
 ## LinkedIn (Philip's profile)
 
-### LI-story · Tue Dec 8 · 3:16 PM (reserved) · DRAFT · RESERVED, NOT DRAFTED (moved from Tue Dec 1, HQ Nov 18)
+### LI-story · Tue Dec 8 · 12:07 PM (reserved) · DRAFT · RESERVED, NOT DRAFTED (moved from Tue Dec 1, HQ Nov 18)
+- **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 3:16 PM to 12:07 PM CT (pick_time.py).
 - **Moved (HQ, Nov 11):** from Mon Nov 23 to Tue Nov 24, then to Tue Dec 1 when the résumé builder post (LI-resume) took Tue Nov 24. **Moved again (HQ, Nov 18):** here to Tue Dec 8, when LI-email took Tue Dec 1 (`2026-11/wk49/posts.md`). Its library id stays `2026-w48-LI-story`.
 - **What (Philip, Nov 8, via HQ):** a Day60 post that builds on Phil's own LinkedIn post of Mon Nov 9 and what he says there that Day60 did for him. It replaces week 47's LI-founder.
 - **Not drafted yet.** Social writes it only after HQ forwards Phil's Monday post, then marks it PROPOSED here and tells HQ. Philip approves the words before he posts it.

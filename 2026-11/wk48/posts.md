@@ -14,7 +14,8 @@
 
 ## LinkedIn (Phil's profile)
 
-### LI-resume · Tue Nov 24 · 3:07 PM · APPROVED (HQ, Nov 23) · RÉSUMÉ BUILDER, PHIL'S OWN TRY (HQ, Nov 11)
+### LI-resume · Tue Nov 24 · 12:43 PM · APPROVED (HQ, Nov 23) · RÉSUMÉ BUILDER, PHIL'S OWN TRY (HQ, Nov 11)
+- **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 3:07 PM to 12:43 PM CT (HQ moved the Buffer post the same day).
 - **Back through Buffer (HQ, Nov 23):** Philip deleted the copy he scheduled natively on Nov 16, so it goes out through Buffer the same day at 3:07 PM (pick_time.py). The first-comment line is replaced by the try link as the body's last line (HQ, Nov 22; Buffer can't post a first comment).
 - Status: approved (HQ, Nov 23; Philip had scheduled it himself). It takes LI-story's slot; LI-story moved to Tue Dec 1 (`2026-11/wk49/posts.md`).
 - Format: text only (field note).
@@ -47,7 +48,8 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 
 Checks: hook is 47 characters. "Day60" appears once. No link in the body. No personal results or numbers: it says only that he tried it and it worked well. Ends on a question. No em-dashes, no banned phrases, no competitor names.
 
-### LI-thanks · Thu Nov 26 · 2:39 PM · APPROVED (HQ, Nov 22) · THANKSGIVING: SEND ONE THANK-YOU TODAY (HQ, Nov 19)
+### LI-thanks · Thu Nov 26 · 9:47 AM · APPROVED (HQ, Nov 22) · THANKSGIVING: SEND ONE THANK-YOU TODAY (HQ, Nov 19)
+- **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 2:39 PM to 9:47 AM CT (HQ moved the Buffer post the same day).
 - Status: approved (HQ, Nov 22, link-free; Philip approved it in the Post Library on Nov 19). HQ, Nov 19: "post as normal, with a light, short one that fits the day and doesn't sell."
 - Format: text only.
 - Same idea as FB-thanks (Facebook, 10:00 AM the same day): one thank-you, no ask.

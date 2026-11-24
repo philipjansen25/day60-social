@@ -15,6 +15,10 @@ Fixed ids you'll need:
 
 **The library generator is now in the repo.** It was in the old session's scratchpad until today. Where a routine prompt says "scratchpad gen.py", it means `python3 scripts/library/gen.py`. That script imports `notes.py` and `recycle_def.py` from the same folder and writes `library.json` at the repo root. Run `node scripts/check-library.mjs` after it. As committed, it reproduces today's `library.json` byte for byte.
 
+## 0. New since the handoff (Social, Tue Nov 24)
+
+- **LinkedIn window (Philip, Tue Nov 24, 2026, 12:15 PM CT, via HQ), his words: "All LinkedIn posts should go out between 8am-1pm".** Every LinkedIn post, Day60 and H alike, goes out between 8:00 AM and 12:59 PM CT, at a random minute that isn't a multiple of 5. Cadence unchanged (6 a week, Sun to Fri); Instagram and Facebook keep their windows. `scripts/pick_time.py` and playbook §5 have it. HQ moved the six LinkedIn posts in Buffer on Nov 24; their repo times match. The table below shows the old times.
+
 ## 1. Open work, exact state
 
 ### 1a. Buffer right now (9 scheduled, all checked with list_posts on Nov 23)

@@ -14,7 +14,8 @@
 
 ## LinkedIn (Philip's profile)
 
-### LI-email · Tue Dec 1 · 4:12 PM · APPROVED (HQ, Nov 19) · WHICH PERSON TO EMAIL, AND WHAT TO SAY (HQ brief, Nov 18)
+### LI-email · Tue Dec 1 · 8:46 AM · APPROVED (HQ, Nov 19) · WHICH PERSON TO EMAIL, AND WHAT TO SAY (HQ brief, Nov 18)
+- **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 4:12 PM to 8:46 AM CT (pick_time.py).
 - Status: approved by HQ on Nov 19, with the new ending. It goes into Buffer at the top-up that reaches Tue Dec 1. (Its founder line was swapped and put back the same day: HQ confirmed founder.ts backs it.) It takes Tue Dec 1; LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).
 - Format: text only.
 - Source: HQ, Nov 18. A post going around (an Instagram repost of a Reddit post) says to stop relying on applications and email the person who posted the job, and promises a follow-up on how to write that email that never came. This post gives that part: which of the 4 people, and what to say to each (Day60's method, in week 47's IG-four wording). The original post and its author are not named or linked. It quotes one short line from it ("short, direct, slightly messy emails stand out") and none of its numbers.
@@ -54,7 +55,8 @@ Who will you write to first?
 
 Checks: hook is 30 characters. "Day60" appears once. No link. One quoted line from the original (7 words), source not named. No numbers but the method's four people and the approved founder fact. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names. It says plainly that Day60 drafts the note and you rewrite it, since the original's advice is not to let AI write it.
 
-### LI-hiringside · Wed Dec 2 · 4:09 PM · APPROVED (HQ, Nov 22, with Philip's edit) · THREE THINGS FROM THE HIRING SIDE (founder lane, HQ Nov 19)
+### LI-hiringside · Wed Dec 2 · 11:36 AM · APPROVED (HQ, Nov 22, with Philip's edit) · THREE THINGS FROM THE HIRING SIDE (founder lane, HQ Nov 19)
+- **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 4:09 PM to 11:36 AM CT (pick_time.py).
 - Status: approved by HQ on Nov 22, with Philip's own edit.
 - Source: Philip's change request on the Post Library (Nov 19), "This sounds more like me, yet, feel free to tweak a bit". HQ applied it on Nov 22 with two light tweaks ("Hiring at that pace gives you perspective." and "gets read to the end"). The text below is the Post Library's, byte for byte.
 - Change request 2026-11-19T23:47:59.434Z applied (HQ in the Post Library, Nov 22; the repo matched it the same day).
@@ -84,7 +86,8 @@ If you've ever hired at this scale, what made you write back?
 
 Checks: "Day60" appears once. No link. Ends on one next step for today, then a question. Three hashtags, #jobsearch first. No em dashes, no competitor names. The first line is Philip's and runs past 60 characters; HQ approved it as written.
 
-### LI-3touch · Thu Dec 3 · 5:44 PM · APPROVED (HQ, Nov 19) · MOVED FROM WEEK 47 (HQ, Nov 11)
+### LI-3touch · Thu Dec 3 · 12:54 PM · APPROVED (HQ, Nov 19) · MOVED FROM WEEK 47 (HQ, Nov 11)
+- **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 5:44 PM to 12:54 PM CT (pick_time.py).
 - Document: `2026-11/wk46/p06_three_touches_linkedin_v2.pdf` (HQ, Nov 14: slide 6 now has cream keylines on Tick and the card; slides 1 to 5 are unchanged, and the old PDF and IG4's slides stay in the repo. Source: `2026-11/wk46/build_v2.py`). It moved to week 47 when the Chrome extension post took week 46's Thursday slot, then here when Day60's LinkedIn went to two posts a week (Tue and Thu) from Nov 16.
 - **Text post from Nov 19 (HQ: no more LinkedIn PDFs).** The PDF above is no longer posted; it stays in the repo.
 - Status: approved by HQ on Nov 19 as written (rewritten that day from the week 46 LI3 draft, commit 009d790). It goes into Buffer at the top-up that reaches Thu Dec 3.
@@ -113,7 +116,8 @@ How many follow-ups do you send before you stop?
 
 Checks: "Day60" appears once. No link. The week 46 wording, minus "Save the carousel" and the link. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names.
 
-### LI-target · Fri Dec 4 · 2:26 PM · DRAFT · RUN YOUR SEARCH LIKE A TARGET ACCOUNT LIST (founder lane, HQ Nov 19)
+### LI-target · Fri Dec 4 · 9:07 AM · DRAFT · RUN YOUR SEARCH LIKE A TARGET ACCOUNT LIST (founder lane, HQ Nov 19)
+- **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 2:26 PM to 9:07 AM CT (pick_time.py).
 - Status: draft, for HQ's approval.
 - Lane: Phil's founder lane (Mon, Wed, Fri; HQ, Nov 19). First person, from his sales development work.
 - Format: text only.
@@ -251,7 +255,8 @@ Today, pick one job and find its hiring manager's name. The full guide, step by 
 
 Five drafts for HQ's approval before Wednesday Nov 25's run, three of them humor (playbook §4). Times from `scripts/pick_time.py`.
 
-### LI-monday · Sun Nov 29 · 9:06 PM · APPROVED (HQ, Nov 23) · MONDAY PLAN: ONE JOB, ONE PERSON, ONE NOTE (Sunday lane)
+### LI-monday · Sun Nov 29 · 11:52 AM · APPROVED (HQ, Nov 23) · MONDAY PLAN: ONE JOB, ONE PERSON, ONE NOTE (Sunday lane)
+- **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 9:06 PM to 11:52 AM CT (HQ moved the Buffer post the same day).
 - Status: approved (HQ, Nov 23).
 - Lane: the Sunday lane, "plan your week" (Philip, Nov 22; playbook §4). The first Sunday LinkedIn post.
 - Format: text only.
@@ -310,7 +315,8 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #careeradvice
 ```
 
-### LI-glossary · Mon Nov 30 · 5:26 PM · APPROVED (HQ, Nov 23) · A SHORT GLOSSARY OF JOB POSTING LANGUAGE (humor, founder lane)
+### LI-glossary · Mon Nov 30 · 9:13 AM · APPROVED (HQ, Nov 23) · A SHORT GLOSSARY OF JOB POSTING LANGUAGE (humor, founder lane)
+- **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 5:26 PM to 9:13 AM CT (HQ moved the Buffer post the same day).
 - Status: approved (HQ, Nov 23). Humor (playbook §4): a deadpan text post. The joke is on job-posting language and long hiring processes, never the person looking.
 - Lane: Phil's founder lane (Mon). His view, given as advice; no events and no founder facts beyond "I built Day60".
 - Format: text only.

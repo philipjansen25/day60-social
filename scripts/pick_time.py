@@ -15,7 +15,8 @@ import datetime, hashlib, json, os, random, sys
 H = lambda h, m=0: h * 60 + m
 # weekday(): Mon=0 .. Sun=6; [start, end) in minutes after midnight, Central Time
 WINDOWS = {
-    "linkedin":  {6: (H(21), H(23)), 0: (H(17), H(19)), 1: (H(15), H(18)), 2: (H(15), H(18)), 3: (H(13), H(18)), 4: (H(13), H(17))},
+    # Philip, Tue Nov 24, 2026 (via HQ): "All LinkedIn posts should go out between 8am-1pm". Latest 12:59 PM CT, every day.
+    "linkedin":  {d: (H(8), H(13)) for d in (6, 0, 1, 2, 3, 4)},
     "instagram": {6: (H(20), H(23)), 0: (H(18), H(21)), 1: (H(15), H(20)), 2: (H(12), H(19)), 3: (H(7), H(10)), 4: (H(21), H(23)), 5: (H(20), H(23))},
     "facebook":  {6: (H(8), H(11)), 0: (H(19), H(23)), 1: (H(7), H(9)), 2: (H(8), H(10)), 3: (H(8), H(11)), 4: (H(6), H(9)), 5: (H(21), H(23))},
 }
