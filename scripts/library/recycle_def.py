@@ -219,5 +219,5 @@ MOVED = {"2026-w46-IG6": dict(date="2026-12-01", time="19:26", day="Tue Dec 1", 
 for _r in R:
     if _r["orig"] in MOVED:
         _r.update({k: v for k, v in MOVED[_r["orig"]].items() if k != "was"})
-SWAP.update({"2026-11/wk48/p03_resume_reel_v2.mp4": "2026-11/wk48/p03_resume_reel_v3_cover.mp4",
+SWAP.update({"2026-11/wk48/p03_resume_reel_v2.mp4": "2026-11/wk48/p03_resume_reel_v4_cover.mp4",
              "2026-11/wk48/p04_one_link_reel_v2.mp4": "2026-11/wk48/p04_one_link_reel_v3_cover.mp4"})

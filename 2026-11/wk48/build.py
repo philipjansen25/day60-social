@@ -151,7 +151,7 @@ def pair(before, after):
             f'<div style="font-size:38px;font-weight:700;line-height:1.28"><span class="fill">{after}</span></div></div></div>')
 
 
-def rb():
+def rb(end_fix=False):
     im = Image.open(os.path.join(ROOT, "2026-11", "wk47", "site", "resume_builder_form.png")).convert("RGB")
     im = im.crop((8, 8, im.width - 8, 930))
     buf = io.BytesIO(); im.save(buf, "PNG")
@@ -201,9 +201,10 @@ def rb():
           f'<div style="font-size:26px;font-weight:600;margin-top:12px">Example question</div></div>')
     end = rpage(
         f'<div class="d" style="position:absolute;left:72px;right:72px;top:260px;font-size:140px;color:{CREAM}">'
-        f'Read every line.<br><span class="fill" style="color:{INK}">Get a Word file.</span></div>'
+        + (f'Read every line.<br><span class="fill" style="color:{INK}">Get a Word file.</span></div>' if not end_fix else
+           f'<span style="font-size:110px">Read every line.</span><br><span class="fill" style="color:{INK};font-size:96px">Add your email,<br>get a Word file.</span></div>')
         + f'<div style="position:absolute;left:76px;top:760px;width:900px;font-size:50px;font-weight:600;line-height:1.3;color:{CREAM}">'
-          f'Free. No account. Nothing you add is kept.</div>'
+          + ('Free. No account. Nothing you add is kept.' if not end_fix else "Free. No account. Your résumé isn't stored.") + '</div>'
         + sticker(RB_URL, LIME, 72, 1000, 32) + sticker("Link in bio", WHITE, 72, 1110, 32)
         + f'<div style="position:absolute;right:80px;top:1240px">{tick("celebrating", 300)}</div>'
         + spark(910, 170, 64, LIME), bg=INK)
@@ -281,6 +282,8 @@ if __name__ == "__main__":
     if "which" in want: still(which(), names)
     if "shortlist" in want: still(shortlist(), names)
     if "rb" in want: make_reel(rb(), os.path.join(WK, "p03_resume_reel_v2.mp4"), os.path.join(TMP, "rb"))
+    # HQ fix Nov 23 (night), #967 email step: the end scene says "Add your email, get a Word file." and "Your résumé isn't stored."
+    if "rb_fix" in want: make_reel(rb(end_fix=True), os.path.join(WK, "p03_resume_reel_v4.mp4"), os.path.join(TMP, "rb_fix"))
     if "onelink" in want: make_reel(onelink(), os.path.join(WK, "p04_one_link_reel_v2.mp4"), os.path.join(TMP, "onelink"))
     # Facebook cut (HQ, Nov 23): same Reel, end sticker reads "getday60.com" instead of "Link in bio". No new copy.
     if "onelink_fb" in want: make_reel(onelink("getday60.com"), os.path.join(WK, "p04_one_link_reel_fb.mp4"), os.path.join(TMP, "onelink_fb"))
