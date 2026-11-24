@@ -154,6 +154,7 @@ No account, and nothing you add is kept. It's at getday60.com/resume-builder, or
 - Image: IG-which's image, `2026-11/wk48/p02_which.png` (Facebook reuses the week's Instagram art, the day after the Instagram post).
 - Alt text: same as IG-which.
 - Link: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48&utm_content=which-question
+- In Buffer: scheduled Nov 23 by Social (Buffer post `6b04dda2bc151fa8ad0e2603`), Tue Nov 24, 8:36 AM CT, with its alt text. Nothing for Philip to do.
 
 ```
 If you were the hiring manager, which of these would you answer: A or B?

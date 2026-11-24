@@ -370,3 +370,4 @@ NOTES["2026-w48-FB-thanks"] = NOTES["2026-w48-FB-thanks"] + ["In Buffer: schedul
 NOTES["2026-w48-LI-resume"] = NOTES["2026-w48-LI-resume"] + ["HQ fix Nov 23: #967 email step. The Buffer post was edited to match."]
 NOTES["2026-w48-FB-which"] = BUF_FB_ONE + ["Same image as IG-which-r2 (Instagram Mon Nov 23).",
     "Back through Buffer (HQ, Nov 23): Philip deleted his native copy. Tue Nov 24, 8:36 AM. Ends with the try link; the guide link stays."]
+NOTES["2026-w48-FB-which"] = NOTES["2026-w48-FB-which"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b04dda2bc151fa8ad0e2603), Tue Nov 24, 8:36 AM CT. Nothing for Philip to do."]
