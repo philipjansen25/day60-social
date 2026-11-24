@@ -371,3 +371,4 @@ NOTES["2026-w48-LI-resume"] = NOTES["2026-w48-LI-resume"] + ["HQ fix Nov 23: #96
 NOTES["2026-w48-FB-which"] = BUF_FB_ONE + ["Same image as IG-which-r2 (Instagram Mon Nov 23).",
     "Back through Buffer (HQ, Nov 23): Philip deleted his native copy. Tue Nov 24, 8:36 AM. Ends with the try link; the guide link stays."]
 NOTES["2026-w48-FB-which"] = NOTES["2026-w48-FB-which"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b04dda2bc151fa8ad0e2603), Tue Nov 24, 8:36 AM CT. Nothing for Philip to do."]
+NOTES["2026-w48-IG-rb-reel-r2"] = NOTES["2026-w48-IG-rb-reel-r2"] + ["HQ fix Nov 23 (night): #967 email step, caption replaced and the Buffer post edited. The video's end scene still says \"Nothing you add is kept\"; HQ decides on a re-render."]

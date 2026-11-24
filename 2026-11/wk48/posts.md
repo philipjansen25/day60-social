@@ -278,6 +278,7 @@ Day60 drafts a short note to each of the 4 people closest to the hire. You send 
 - **Recycled (HQ, Nov 22):** a new copy of `2026-w48-IG-rb-reel` (above), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w48-IG-rb-reel-r2`. It goes out this week with its original caption, word for word (HQ, Nov 22, 17:52Z: it was approved and never went out).
 - Status: approved. The recycled copy keeps the original's approval (HQ, Nov 22).
 - In Buffer: scheduled Nov 22 as an Instagram Reel, shared to the feed (Buffer post `6b03a412846b0ee907d772a9`), Tue Nov 24, 3:31 PM CT. The video goes in through jsDelivr at a fixed commit, and `thumbnailOffset` 500 picks the cover from the first second. Nothing for Philip to do.
+- HQ fix Nov 23 (night): #967 email step. Caption replaced: the builder now asks for an email before the Word file, and it doesn't store your résumé. Buffer post edited the same night. The video's end scene still says "Nothing you add is kept" (reported to HQ; no re-render without HQ).
 - Reel: `2026-11/wk48/p03_resume_reel_v3_cover.mp4` (1080x1920: the cover held for 1 second, then the approved video; source `2026-11/wk48/build_cover_first.py`) · Cover: `2027-01/wk04/p03_resume_cover_cobalt_grid.png` (1080x1920, key content inside the center 1080x1440; source `2027-01/build_reel_covers_grid.py`)
 - Alt text (cover): Tailor your résumé to one job, with no account: the free résumé builder in 4 steps. getday60.com/resume-builder
 - Ground: cobalt. This week's Instagram grounds, Mon to Sun: ink, cobalt, mint, cream, ink, coral, cobalt (after lime on Nov 21 and pink on Nov 22), so any 4 in a row differ and cream is 1 in 7.
@@ -286,9 +287,9 @@ Day60 drafts a short note to each of the 4 people closest to the hire. You send 
 ```
 Before you message anyone about a job, make your résumé read like it was written for that job.
 
-The free résumé builder rewrites your résumé for one job using only what's already true. No new skills, numbers or titles. It shows what the job wants, the keywords you can't claim yet, and questions that can make it stronger. You read every line, then download a Word file.
+The free résumé builder rewrites your résumé for one job using only what's already true. No new skills, numbers or titles. It shows what the job wants, the keywords you can't claim yet, and questions that can make it stronger. You read every line, then give your email and get a Word file.
 
-No account, and nothing you add is kept. It's at getday60.com/resume-builder, or tap the link in bio and choose Free tools.
+No account needed, and it doesn't store your résumé. It's at getday60.com/resume-builder, or tap the link in bio and choose Free tools.
 
 #day60 #jobhunting #jobsearch #newjob #careeradvice
 ```
