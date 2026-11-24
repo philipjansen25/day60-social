@@ -10,6 +10,39 @@
 
 ## LinkedIn (Philip's profile)
 
+
+### LI-ats · Mon Dec 7 · 11:17 AM · DRAFT · THE ATS PROBABLY DIDN'T REJECT YOU (HQ idea, Nov 24)
+- Status: draft, for HQ's approval. HQ's idea (Nov 24): a myth-busting post for a general audience. Light humor (the "robot rejected me" image).
+- Lane: Phil's founder lane (Mon), as his view. If HQ has an H post for Mon Dec 7, this moves to the next open LinkedIn day.
+- Facts: only HQ's three (Nov 24): most ATS store and organize applications and recruiters search them by keyword; knockout questions on the form can screen someone out, not the résumé's layout; "ATS-friendly" and "beat the ATS" are mostly sales language. No outside source named, no percentage.
+- Format: text only. Time inside 8 AM to 12:59 PM CT (Philip, Nov 24).
+- Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
+- Link: the try link, the body's last line before the hashtags.
+
+```
+The ATS probably didn't reject you.
+
+The story goes like this: a robot read your résumé, frowned at the font, and tossed it before any human saw it.
+
+Most applicant tracking systems don't work that way. They store and organize applications, and recruiters search them by keyword when they're ready to look.
+
+What can screen you out early is the form itself: knockout questions about work authorization, location or years of experience. That's the form, not your layout.
+
+"ATS-friendly" and "beat the ATS" are mostly sales language. What helps is simpler: use the posting's own words where they're true for you, and make sure a person knows you applied.
+
+So if no one has replied, the likely reason isn't a robot. No person has looked yet.
+
+That part you can change. Find the hiring manager and send three lines: one problem their team has, one line of proof, one easy question. I built Day60 to find the 4 people closest to the hire, so that note has somewhere to go.
+
+What's the strangest "beat the ATS" tip you've been given?
+
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50-LI-ats
+
+#jobsearch #hiring #careeradvice
+```
+
+Checks: hook is 35 characters. "Day60" appears once. The link is the body's last line. No em-dashes, no banned phrases, no percentage, no named source.
+
 ### LI-story · Tue Dec 8 · 12:07 PM (reserved) · DRAFT · RESERVED, NOT DRAFTED (moved from Tue Dec 1, HQ Nov 18)
 - **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 3:16 PM to 12:07 PM CT (pick_time.py).
 - **Moved (HQ, Nov 11):** from Mon Nov 23 to Tue Nov 24, then to Tue Dec 1 when the résumé builder post (LI-resume) took Tue Nov 24. **Moved again (HQ, Nov 18):** here to Tue Dec 8, when LI-email took Tue Dec 1 (`2026-11/wk49/posts.md`). Its library id stays `2026-w48-LI-story`.

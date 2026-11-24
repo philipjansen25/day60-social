@@ -397,3 +397,53 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 
 #jobsearch #day60 #careeradvice
 ```
+
+## Drafts for HQ, Tue Nov 24 (Social): "The ATS didn't reject you" (HQ idea, Nov 24)
+
+Light humor, HQ's three facts only, no named source, no percentage. The card: `2026-11/wk49/p03_ats_coral.png` (1080x1350, coral; source `2026-11/wk49/build_humor.py`; safe area passes; Tick pointing, not frowning). LinkedIn's version is in `2026-12/wk50/posts.md` (Mon Dec 7).
+
+### FB-ats · Mon Nov 30 · 7:08 PM · DRAFT · THE ROBOT DIDN'T REJECT YOU (Facebook)
+- Status: draft, for HQ's approval. Fills Facebook's open Mon Nov 30.
+- Image: `2026-11/wk49/p03_ats_coral.png`. Instagram posts the same card Thu Dec 3, so they never share a day.
+- Alt text: The robot didn't reject you. Most ATS store applications for people to search. Find the hiring manager, send a short note.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-ats`
+
+```
+The robot didn't reject you.
+
+If you or someone you know is applying and hearing nothing, it's easy to picture software reading the résumé and throwing it out.
+
+Most applicant tracking systems don't do that. They store applications, and recruiters search them by keyword when they're ready. What can screen someone out early is the form: questions about work authorization, location or years of experience.
+
+So silence usually means no person has looked yet. That's the part you can change: find the hiring manager and send a short note. Day60 finds the 4 people closest to the hire.
+
+Share this with someone who's looking.
+
+Today: pick one job you applied to and find the hiring manager's name.
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-ats
+
+#jobsearch #day60 #jobhunting
+```
+
+### IG-ats · Thu Dec 3 · 9:44 AM · DRAFT · THE ROBOT DIDN'T REJECT YOU (Instagram)
+- Status: draft, for HQ's approval.
+- Image: `2026-11/wk49/p03_ats_coral.png`.
+- Ground: coral. The grid before it: lime (Mon), cream (Tue), lime (Wed).
+- Alt text: The robot didn't reject you. Most ATS store applications for people to search. Find the hiring manager, send a short note.
+- Link: the bio link stays /try. No link in the caption.
+
+```
+The robot didn't reject you.
+
+Most applicant tracking systems don't read your résumé and say no on their own. They store applications, and recruiters search them by keyword when they're ready to look.
+
+What can screen you out early is the form: questions about work authorization, location or years of experience. Not your font.
+
+"Beat the ATS" is mostly sales language. What helps: the posting's own words, where they're true for you, and a person who knows you applied.
+
+Today: pick one job you applied to and find the hiring manager's name.
+
+Day60 finds the 4 people closest to the hire and drafts a short note to each. You send it. Link in bio.
+
+#day60 #jobsearch #jobsearchtips #careertips #networking
+```

@@ -63,6 +63,21 @@ out(WK, "p02_breaking_lime", cover_page(
     + spark(900, 110, 60, INK) + spark(990, 220, 34, WHITE)
     + foot_g(g), g))
 
+# IG-ats / FB-ats · coral (HQ idea, Nov 24: "The ATS didn't reject you"). Light humor; no outside source, no percentage.
+g = "coral"
+out(WK, "p03_ats_coral", cover_page(
+    stk("Myth check", WHITE, 72, 72, 30)
+    + f'<div class="d" style="position:absolute;left:72px;right:72px;top:200px;font-size:122px">'
+      f'The robot didn\'t reject you.</div>'
+    + f'<div style="position:absolute;left:74px;top:590px;width:600px;font-size:42px;font-weight:700;line-height:1.24">'
+      f'Most applicant tracking systems store applications. People search them. Usually, no one has looked yet.</div>'
+    + f'<div class="card" style="position:absolute;left:72px;top:900px;width:600px;padding:32px 38px;'
+      f'font-size:40px;font-weight:700;line-height:1.28">Find the hiring manager. '
+      f'<span class="fill" style="color:{INK}">Send a short note.</span></div>'
+    + at(60, 640, tick("pointing", 290), right=True)
+    + spark(900, 110, 60, WHITE) + spark(990, 220, 34, INK)
+    + foot_g(g), g))
+
 if __name__ == "__main__":
     only = sys.argv[1:]
     if only:

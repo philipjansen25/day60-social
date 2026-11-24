@@ -375,3 +375,10 @@ NOTES["2026-w48-IG-rb-reel-r2"] = NOTES["2026-w48-IG-rb-reel-r2"] + ["HQ fix Nov
 NOTES["2026-w47-IG-resume-r2"] = [x for x in NOTES["2026-w47-IG-resume-r2"] if not x.startswith("Approved")] + [
     "HQ fix Nov 23 (night), #967 email step: caption line and slide 6 changed. Draft until HQ approves; nothing in Buffer."]
 NOTES["2026-w47-IG-resume-r2"] = [x.replace("Draft until HQ approves; nothing in Buffer.", "Approved by HQ (Nov 23, night); it goes into Buffer with the run that reaches Jan 7.") for x in NOTES["2026-w47-IG-resume-r2"]]
+
+# Nov 24: HQ idea "The ATS didn't reject you" (drafts for HQ; light humor)
+_ATS = ["humor (light)", "HQ idea (Nov 24); HQ's three facts only, no named source, no percentage.", "Draft: waits for HQ's approval."]
+NOTES["2026-w50-LI-ats"] = BUF_LI2 + _ATS + ["Inside 8 AM to 12:59 PM CT (Philip, Nov 24)."]
+NOTES["2026-w49-FB-ats"] = BUF_FB_ONE + _ATS
+NOTES["2026-w49-IG-ats"] = BUF_IG_ONE + _ATS
+

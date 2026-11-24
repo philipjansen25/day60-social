@@ -489,6 +489,12 @@
    "grid": true,
    "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
   },
+  "2026-11/wk49/p03_ats_coral.png": {
+   "sha256": "7e60e525a870219db1bbae0681940edf5873d4e3d52f32c96c4804555f38bc72",
+   "scale": 0.862,
+   "checked": "2026-11-24",
+   "grid": true
+  },
   "2026-12/wk52/p01_thanks_1_pink_holiday.png": {
    "sha256": "d00706ab37e65f344ca0432d5dd44732f877a5b29ef709ba880543e8840ccb82",
    "scale": 0.862,
