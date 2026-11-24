@@ -37,9 +37,9 @@ Today: open one job you saved on LinkedIn and press the button.
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### IG-resume-r2 · Thu Jan 7 · 9:32 AM · DRAFT (HQ fix Nov 23, #967 email step: needs HQ's yes) · ONE RÉSUMÉ, TAILORED TO ONE JOB
+### IG-resume-r2 · Thu Jan 7 · 9:32 AM · APPROVED (HQ fix Nov 23, #967 email step; approved by HQ Nov 23) · ONE RÉSUMÉ, TAILORED TO ONE JOB
 - **Recycled (HQ, Nov 22):** a new copy of `2026-w47-IG-resume` (One résumé, tailored to one job, 2026-11/wk47), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w47-IG-resume-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
-- **HQ fix Nov 23 (night), #967 email step:** the builder asks for an email before the Word file and doesn't store the résumé. Caption line and slide 6 changed (slide 6 is now `2026-11/wk47/p02_resume_builder_6_v3.png`: "Read every line. Add your email, get a Word file." / "Free. No account. Your résumé isn't stored."). Back to draft until HQ approves; nothing in Buffer.
+- **HQ fix Nov 23 (night), #967 email step:** the builder asks for an email before the Word file and doesn't store the résumé. Caption line and slide 6 changed (slide 6 is now `2026-11/wk47/p02_resume_builder_6_v3.png`: "Read every line. Add your email, get a Word file." / "Free. No account. Your résumé isn't stored."). Approved by HQ (Nov 23, night) as written; it goes into Buffer with the run that reaches Jan 7.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.
 - Carousel (6): `2026-11/wk47/p02_resume_builder_1_lime_safe.png`, `2026-11/wk47/p02_resume_builder_2_safe.png`, `2026-11/wk47/p02_resume_builder_3_safe.png`, `2026-11/wk47/p02_resume_builder_4_safe.png`, `2026-11/wk47/p02_resume_builder_5_safe.png`, `2026-11/wk47/p02_resume_builder_6_v3.png`. Each 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).

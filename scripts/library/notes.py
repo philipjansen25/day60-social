@@ -374,3 +374,4 @@ NOTES["2026-w48-FB-which"] = NOTES["2026-w48-FB-which"] + ["In Buffer: scheduled
 NOTES["2026-w48-IG-rb-reel-r2"] = NOTES["2026-w48-IG-rb-reel-r2"] + ["HQ fix Nov 23 (night): #967 email step, caption replaced and the Buffer post edited. The video's end scene still says \"Nothing you add is kept\"; HQ decides on a re-render."]
 NOTES["2026-w47-IG-resume-r2"] = [x for x in NOTES["2026-w47-IG-resume-r2"] if not x.startswith("Approved")] + [
     "HQ fix Nov 23 (night), #967 email step: caption line and slide 6 changed. Draft until HQ approves; nothing in Buffer."]
+NOTES["2026-w47-IG-resume-r2"] = [x.replace("Draft until HQ approves; nothing in Buffer.", "Approved by HQ (Nov 23, night); it goes into Buffer with the run that reaches Jan 7.") for x in NOTES["2026-w47-IG-resume-r2"]]

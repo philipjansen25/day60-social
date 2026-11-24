@@ -117,7 +117,7 @@ Today: open one job you saved on LinkedIn and press the button.
 
 #day60 #jobsearch #jobsearchtips #careertips #networking"""),
  dict(orig="2026-w47-IG-resume", pid="IG-resume-r2", week="2027-w01", dir="2027-01/wk01", date="2027-01-07", time="09:32", day="Thu Jan 7", t="9:32 AM",
-      title="One résumé, tailored to one job", ground="lime", status="draft", cap="""One résumé, tailored to one job.
+      title="One résumé, tailored to one job", ground="lime", status="approved", cap="""One résumé, tailored to one job.
 
 Swipe to see Day60's free résumé builder at work on an invented résumé and job. Add the job and your résumé (a PDF, a Word file or the text), and it rewrites the résumé for that one job, using only what your résumé and your notes show. Keywords you can't claim yet get their own list.
 
