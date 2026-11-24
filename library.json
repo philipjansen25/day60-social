@@ -1256,6 +1256,28 @@
     "postedVia": "buffer"
   },
   {
+    "id": "2026-w48-FB-which",
+    "week": "2026-w48",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-11-24",
+    "time": "08:36",
+    "status": "approved",
+    "title": "Which last line would you answer?",
+    "format": "image",
+    "text": "If you were the hiring manager, which of these would you answer: A or B?\n\nA: \"Would you have 30 minutes this week to tell me about opportunities on your team?\"\nB: \"Is onboarding or renewals the bigger fire on your team right now?\"\n\nA asks a stranger for half an hour. B takes one line to answer, and it shows the person writing already understands the job.\n\nIf someone you know is sending messages and hearing nothing, the last line is a good place to start. How to write the whole message: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48&utm_content=which-question\n\nTell us in the comments: A or B?\n\nFind the 4 people for one job:\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-which\n\n#jobsearch #day60 #careeradvice",
+    "firstComment": "",
+    "link": "https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48&utm_content=which-question",
+    "files": [
+      {
+        "path": "2026-11/wk48/p02_which_ink_safe.png",
+        "alt": "Which would you answer? A asks for 30 minutes to hear about openings. B asks which problem is the team's bigger fire."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe link stays in the text, as written.\nSame image as IG-which-r2 (Instagram Mon Nov 23).\nBack through Buffer (HQ, Nov 23): Philip deleted his native copy. Tue Nov 24, 8:36 AM. Ends with the try link; the guide link stays.",
+    "postedVia": "buffer"
+  },
+  {
     "id": "2026-w48-IG-rb-reel",
     "week": "2026-w48",
     "channel": "instagram",
@@ -1323,28 +1345,6 @@
     ],
     "notes": "Publishes through Buffer, automatically, on Instagram as a Reel (1080x1920), shared to the feed.\nThe video's first second is the cover (cover-first video); Buffer's thumbnailOffset 500 picks it.\nNo link in the caption; the bio link stays as it is.\nRecycled from 2026-w48-IG-rb-reel (HQ, Nov 22): the original was cropped to a square when it was scheduled in the Instagram app. Same files at Instagram's size, with the original caption word for word (HQ, Nov 22: it was approved and never went out).\nScheduled in Buffer on Nov 22 (Buffer post 6b03a412846b0ee907d772a9).\nApproved: it keeps the original's approval (HQ, Nov 22).",
     "postedVia": "buffer"
-  },
-  {
-    "id": "2026-w48-FB-which",
-    "week": "2026-w48",
-    "channel": "facebook",
-    "topic": "day60",
-    "date": "2026-11-24",
-    "time": "18:00",
-    "status": "draft",
-    "title": "Which last line would you answer?",
-    "format": "image",
-    "text": "If you were the hiring manager, which of these would you answer: A or B?\n\nA: \"Would you have 30 minutes this week to tell me about opportunities on your team?\"\nB: \"Is onboarding or renewals the bigger fire on your team right now?\"\n\nA asks a stranger for half an hour. B takes one line to answer, and it shows the person writing already understands the job.\n\nIf someone you know is sending messages and hearing nothing, the last line is a good place to start. How to write the whole message: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48&utm_content=which-question\n\nTell us in the comments: A or B?\n\n#jobsearch #day60 #careeradvice",
-    "firstComment": "",
-    "link": "https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48&utm_content=which-question",
-    "files": [
-      {
-        "path": "2026-11/wk48/p02_which_ink_safe.png",
-        "alt": "Which would you answer? A asks for 30 minutes to hear about openings. B asks which problem is the team's bigger fire."
-      }
-    ],
-    "notes": "Scheduled natively on Nov 16 (Post Library log): it stays out of Buffer, at the time set then, so it doesn't go out twice.\nAlready scheduled? These are new files (Nov 16) that keep every word inside the centered square; to use them, replace every image in the scheduled post before it goes out. The old files stay in the repo.\nAdd the image's alt text.\nPost as the Day60 Facebook Page in Meta Business Suite.\nThe link stays in the text, as written.\nSame image as IG-which (Mon Nov 23).",
-    "postedVia": "native"
   },
   {
     "id": "2026-w48-FB-onejob",

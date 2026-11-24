@@ -146,8 +146,8 @@ No account, and nothing you add is kept. It's at getday60.com/resume-builder, or
 #day60 #jobhunting #jobsearch #newjob #careeradvice
 ```
 
-### FB-which · Tue Nov 24 · 6:00 PM · DRAFT · WHICH WOULD YOU ANSWER? (HQ brief, Nov 12)
-- **Scheduled natively on Nov 16 (Post Library log):** it stays out of Buffer, at the time set then, so it doesn't go out twice.
+### FB-which · Tue Nov 24 · 8:36 AM · APPROVED (HQ, Nov 23) · WHICH WOULD YOU ANSWER? (HQ brief, Nov 12)
+- **Back through Buffer (HQ, Nov 23):** Philip deleted the copy he scheduled natively on Nov 16, so it goes out through Buffer the same day at 8:36 AM (pick_time.py; 6 PM is outside Tuesday's Facebook window). The try link is added on its own last line before the hashtags (HQ, Nov 22); the guide link stays. Image: `2026-11/wk48/p02_which_ink_safe.png`.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p02_which_ink.png` on ink replaces the image; same words. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): IG-which's new file, `2026-11/wk48/p02_which_ink_safe.png`. Same words, grounds and alt text. The old files stay in the repo; if this post is already scheduled, Philip decides whether to swap them.
 - Status: draft, for Philip to approve in the Post Library.
@@ -166,6 +166,9 @@ A asks a stranger for half an hour. B takes one line to answer, and it shows the
 If someone you know is sending messages and hearing nothing, the last line is a good place to start. How to write the whole message: https://getday60.com/guides/how-to-message-a-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48&utm_content=which-question
 
 Tell us in the comments: A or B?
+
+Find the 4 people for one job:
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w48-FB-which
 
 #jobsearch #day60 #careeradvice
 ```

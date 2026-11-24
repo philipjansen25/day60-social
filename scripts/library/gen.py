@@ -557,6 +557,8 @@ SPECS += [
 for _e in SPECS:
     if _e["id"] == "2026-w48-LI-resume":
         _e.update(time="15:07", status="approved", postedVia="buffer", firstComment="")
+    elif _e["id"] == "2026-w48-FB-which":
+        _e.update(time="08:36", status="approved", postedVia="buffer")
     elif _e["id"] == "2026-w48-FB-thanks":
         _e.update(time="10:23", status="approved", postedVia="buffer")
         _e["files"] = [dict(f, path="2026-11/wk48/p01_thanks_5_today.png", alt=f["alt"].replace("Send it before Thursday.", "Send it today."))
