@@ -18,7 +18,7 @@ Philip copies the rules for r/jobs, r/jobsearchhacks, r/GetEmployed and r/salesd
 
 How to verify one: open `reddit.com/r/<sub>/about/rules` (or the sidebar on mobile) and paste the self-promotion rule word for word into the "Rule text" field, plus any weekly promo thread name.
 
-**Reply subs for the daily run (HQ, Nov 19): r/jobs, r/jobsearchhacks, r/careerguidance, r/resumes, r/recruitinghell and r/GetEmployed only**, the six in Philip's F5Bot flags. The run skips alerts from any other sub. r/sales, r/salesdevelopment, r/csMajors and r/cscareerquestions are out (F5Bot's free plan caps the flags at 150 characters); r/SideProject and r/startups were never reply subs. The table keeps every sub's rule status.
+**Reply subs for the daily run (HQ, Nov 19; two added Tue Nov 24, Philip said yes at 1:20 PM CT): r/jobs, r/jobsearchhacks, r/careerguidance, r/resumes, r/recruitinghell, r/GetEmployed, r/EngineeringResumes and r/cscareerquestions only**, the eight in Philip's F5Bot flags. The run skips alerts from any other sub. r/sales, r/salesdevelopment and r/csMajors are out (F5Bot's free plan caps the flags at 150 characters); r/SideProject and r/startups were never reply subs. Replies in r/EngineeringResumes (mostly résumé reviews): specific, honest feedback from the post's excerpt only, never as if the attached résumé had been seen. The table keeps every sub's rule status.
 
 | Sub | Fit for Day60's method | Day60 mention allowed? | Where | Karma / age minimum | Rule text (verbatim, with date checked) | Notes (secondary, unverified) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -31,6 +31,7 @@ How to verify one: open `reddit.com/r/<sub>/about/rules` (or the sidebar on mobi
 | r/salesdevelopment | High: Philip's home turf | **No (unverified)** | n/a | _unknown_ | _pending_ | |
 | r/csMajors | Medium: new grads, cold outreach questions | **No (unverified)** | n/a | _unknown_ | _pending_ | |
 | r/cscareerquestions | Medium | **No (unverified)** | n/a | _unknown_ | _pending_ | Known to be strict on promotion; verify before any mention. |
+| r/EngineeringResumes | High: tech resumes, tech focus | **No (unverified)** | n/a | _unknown_ | _pending_ | Reply sub from Nov 24 (Philip). Mostly résumé reviews: feedback from the excerpt only. |
 | r/GetEmployed | High | **No (unverified)** | n/a | _unknown_ | _pending_ | |
 | r/SideProject | Low for replies, good for one value post | **No (unverified)** | n/a | _unknown_ | _pending_ | Secondary sources: sharing projects for feedback is the sub's purpose; may have a weekly share thread. Verify. |
 | r/startups | Low for replies, possible founder value post | **No (unverified)** | n/a | _unknown_ | _pending_ | Secondary sources: promotion only in a recurring "Share Your Startup" thread (monthly or quarterly, sources disagree); posts often carry "(I will not promote)". Strict removal. Verify. |
