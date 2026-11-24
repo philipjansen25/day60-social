@@ -22,6 +22,7 @@
 - Tags: Day60 page (auto)
 - First comment: none (Buffer can't post one). Was: the résumé builder link.
 - In Buffer: scheduled Nov 23 by Social (Buffer post `6b04dc07f0d7b1e0de9b78d8`), Tue Nov 24, 3:07 PM CT, as a text post. Nothing for Philip to do.
+- HQ fix Nov 23: #967 email step. Since Nov 21 the free builders ask for an email before the Word file and Day60 keeps it, so "keeps none of what you add" became "doesn't store your résumé. Give your email and you get a Word file." Buffer post edited the same day.
 - Link: `https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48-LI-resume`, the body's last line.
 
 ```
@@ -35,7 +36,7 @@ A résumé works the same way. It's tempting to send one version everywhere and 
 
 The builder reads the posting first and shows what the job wants: the keywords, and the three problems the role solves. Then it tailors your résumé to that one job, using only what your résumé and your notes show. It never adds a skill, a number or a title you don't have. Keywords you can't claim yet get their own list, so you see the gap instead of papering over it.
 
-It worked well on mine. It's free on the Day60 site, needs no account, keeps none of what you add, and gives you back a Word file.
+It worked well on mine. It's free on the Day60 site, needs no account and doesn't store your résumé. Give your email and you get a Word file.
 
 What's the one line on your résumé you'd rewrite for every job?
 

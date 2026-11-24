@@ -367,3 +367,4 @@ NOTES["2026-w48-FB-thanks"] = BUF_FB + ["Same 6 slides as IG-thanks (Sun Nov 22)
     "Back through Buffer (HQ, Nov 23): Philip deleted his native copy. Thu Nov 26, 10:23 AM. No try link; the guide link stays."]
 NOTES["2026-w48-LI-resume"] = NOTES["2026-w48-LI-resume"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b04dc07f0d7b1e0de9b78d8), Tue Nov 24, 3:07 PM CT. Nothing for Philip to do."]
 NOTES["2026-w48-FB-thanks"] = NOTES["2026-w48-FB-thanks"] + ["In Buffer: scheduled Nov 23 by Social (Buffer post 6b04dc0f9a4bd32ca3decd11), Thu Nov 26, 10:23 AM CT. Nothing for Philip to do."]
+NOTES["2026-w48-LI-resume"] = NOTES["2026-w48-LI-resume"] + ["HQ fix Nov 23: #967 email step. The Buffer post was edited to match."]
