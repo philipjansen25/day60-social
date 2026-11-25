@@ -1804,12 +1804,12 @@
     "status": "approved",
     "title": "Which person to email first",
     "format": "text",
-    "text": "They're right about the email.\n\nThere's a post going around on how to get job offers. Its advice: stop relying on applications, catch hiring posts while they're fresh, and email the person who posted the job. Keep it plain, because \"short, direct, slightly messy emails stand out.\"\n\nI agree. But it leaves out the hard part: which person to write to, and what to say.\n\nEvery job has four people who decide whether you get it. Each one needs a different note.\n\nThe hiring manager feels the empty seat. Name one problem their team has (the posting usually tells you), add one line of proof you can help, and ask one easy question.\n\nTheir boss approved the role. Say why their team's goal is the one you want to work on, and keep it shorter.\n\nSomeone on the team knows what the job really needs. Ask one real question about the work. Not for a referral, not yet.\n\nThe recruiter runs the process. Say you applied and why: the role, one line on fit, and when you're free to talk.\n\nFour people, four short notes, each in your own words.\n\nThat's the method I used to land jobs at ClickUp, Deel and Google, and it's what we built Day60 to run: it finds the four people for one job and drafts a first note to each. You rewrite it until it sounds like you, then you send it.\n\nBeing good at the work still matters most. This just gets the right people to see it.\n\nPick one job you want today and find its four people.\n\nWho will you write to first?\n\n#jobsearch #networking #hiring",
+    "text": "They're right about the email.\n\nThere's a post going around on how to get job offers. Its advice: stop relying on applications, catch hiring posts while they're fresh, and email the person who posted the job. Keep it plain, because \"short, direct, slightly messy emails stand out.\"\n\nI agree. But it leaves out the hard part: which person to write to, and what to say.\n\nEvery job has four people who decide whether you get it. Each one needs a different note.\n\nThe hiring manager feels the empty seat. Name one problem their team has (the posting usually tells you), add one line of proof you can help, and ask one easy question.\n\nTheir boss approved the role. Say why their team's goal is the one you want to work on, and keep it shorter.\n\nSomeone on the team knows what the job really needs. Ask one real question about the work. Not for a referral, not yet.\n\nThe recruiter runs the process. Say you applied and why: the role, one line on fit, and when you're free to talk.\n\nFour people, four short notes, each in your own words.\n\nThat's the method I used to land jobs at ClickUp, Deel and Google, and it's what we built Day60 to run: it finds the four people for one job and drafts a first note to each. You rewrite it until it sounds like you, then you send it.\n\nBeing good at the work still matters most. This just gets the right people to see it.\n\nPick one job you want today and find its four people.\n\nWho will you write to first?\n\nhttps://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49-LI-email\n\n#jobsearch #networking #hiring",
     "firstComment": "",
     "link": "",
     "files": [],
     "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: the post's point is the method, not a page (HQ, Nov 19).\nApproved by HQ on Nov 19, with the new ending (one next step for today, then a question).",
-    "postedVia": ""
+    "postedVia": "buffer"
   },
   {
     "id": "2026-w46-IG6-r2",
@@ -1931,7 +1931,7 @@
     "status": "approved",
     "title": "How to find the hiring manager",
     "format": "carousel",
-    "text": "The posting holds more clues than most people use.\n\nRead it once for the job and once for the people: the title and team, a \"reports to\" line, any names, and the level of the role.\n\nThen check the company's own pages for that team's leader, search LinkedIn yourself by title, and confirm the person still works there before you write.\n\nNot sure which of two people leads the team? Ask the recruiter or someone on the team first. A short question costs less than a message to the wrong person.\n\nToday, pick one job and find its hiring manager's name. The full guide, step by step: https://getday60.com/guides/how-to-find-the-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=find-hiring-manager\n\n#jobsearch #day60 #careeradvice",
+    "text": "The posting holds more clues than most people use.\n\nRead it once for the job and once for the people: the title and team, a \"reports to\" line, any names, and the level of the role.\n\nThen check the company's own pages for that team's leader, search LinkedIn yourself by title, and confirm the person still works there before you write.\n\nNot sure which of two people leads the team? Ask the recruiter or someone on the team first. A short question costs less than a message to the wrong person.\n\nToday, pick one job and find its hiring manager's name. The full guide, step by step: https://getday60.com/guides/how-to-find-the-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=find-hiring-manager\n\nFind the 4 people for one job:\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-findhm\n\n#jobsearch #day60 #careeradvice",
     "firstComment": "",
     "link": "https://getday60.com/guides/how-to-find-the-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=find-hiring-manager",
     "files": [
@@ -1965,7 +1965,7 @@
       }
     ],
     "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nImages go up in the listed order, each with its alt text.\nThe link stays in the text, as written.\nGuide of the week 1 (HQ, Nov 19): how-to-find-the-hiring-manager, linked with UTMs.\nSlides 1 to 6 are IG-findhm's (Wed Dec 2). Slide 7 is p02_find_hm_7_fb.png, with getday60.com in place of \"Link in bio\".\nApproved by HQ (Nov 19). It goes into Buffer at the top-up that reaches it.",
-    "postedVia": "",
+    "postedVia": "buffer",
     "guide": "how-to-find-the-hiring-manager"
   },
   {
@@ -2000,12 +2000,12 @@
     "status": "approved",
     "title": "Follow up three times, then stop",
     "format": "text",
-    "text": "Three touches. Then stop.\n\nDay 0: the first note. Their problem, one line of proof, one easy ask.\nDay 2: the nudge. Two lines, with something new. Never \"just following up.\"\nDay 7: the last word. Close the loop kindly and leave the door open.\n\nThree touches is persistence. Ten is spam.\n\nAnyone who has worked in sales learns this early: following up gets replies, pestering gets you muted.\n\nDay60 caps it at three touches per person and tells you when each follow-up is due. You send every one.\n\nToday, pick one note that hasn't had a reply and write its two-line nudge.\n\nHow many follow-ups do you send before you stop?\n\n#jobsearch #networking #careeradvice",
+    "text": "Three touches. Then stop.\n\nDay 0: the first note. Their problem, one line of proof, one easy ask.\nDay 2: the nudge. Two lines, with something new. Never \"just following up.\"\nDay 7: the last word. Close the loop kindly and leave the door open.\n\nThree touches is persistence. Ten is spam.\n\nAnyone who has worked in sales learns this early: following up gets replies, pestering gets you muted.\n\nDay60 caps it at three touches per person and tells you when each follow-up is due. You send every one.\n\nToday, pick one note that hasn't had a reply and write its two-line nudge.\n\nHow many follow-ups do you send before you stop?\n\nhttps://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49-LI-3touch\n\n#jobsearch #networking #careeradvice",
     "firstComment": "",
     "link": "",
     "files": [],
     "notes": "Approved by HQ on Nov 19 as written (a text post rewritten from the week 46 LI3 draft).\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: the post's point is the method, not a page (HQ, Nov 19).\nThe v2 PDF is no longer posted (HQ, Nov 19: no LinkedIn PDFs); it stays in the repo.",
-    "postedVia": ""
+    "postedVia": "buffer"
   },
   {
     "id": "2026-w49-LI-target",

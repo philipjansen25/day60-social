@@ -15,6 +15,7 @@
 ## LinkedIn (Philip's profile)
 
 ### LI-email · Tue Dec 1 · 8:46 AM · APPROVED (HQ, Nov 19) · WHICH PERSON TO EMAIL, AND WHAT TO SAY (HQ brief, Nov 18)
+- In Buffer: scheduled Nov 25 by Social (Buffer post `6b075f5c07071a6067319dfc`), Tue Dec 1, 8:46 AM CT, as a text post, with the try link HQ approved Nov 25. Nothing for Philip to do.
 - **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 4:12 PM to 8:46 AM CT (pick_time.py).
 - Status: approved by HQ on Nov 19, with the new ending. It goes into Buffer at the top-up that reaches Tue Dec 1. (Its founder line was swapped and put back the same day: HQ confirmed founder.ts backs it.) It takes Tue Dec 1; LI-story moved to Tue Dec 8 (`2026-12/wk50/posts.md`, HQ Nov 18).
 - Format: text only.
@@ -50,10 +51,12 @@ Pick one job you want today and find its four people.
 
 Who will you write to first?
 
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49-LI-email
+
 #jobsearch #networking #hiring
 ```
 
-Checks: hook is 30 characters. "Day60" appears once. No link. One quoted line from the original (7 words), source not named. No numbers but the method's four people and the approved founder fact. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names. It says plainly that Day60 drafts the note and you rewrite it, since the original's advice is not to let AI write it.
+Checks: hook is 30 characters. "Day60" appears once. Ends with the try link (HQ approved, Nov 25, for the Nov 22 link rule). One quoted line from the original (7 words), source not named. No numbers but the method's four people and the approved founder fact. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names. It says plainly that Day60 drafts the note and you rewrite it, since the original's advice is not to let AI write it.
 
 ### LI-hiringside · Wed Dec 2 · 11:36 AM · APPROVED (HQ, Nov 22, with Philip's edit) · THREE THINGS FROM THE HIRING SIDE (founder lane, HQ Nov 19)
 - **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 4:09 PM to 11:36 AM CT (pick_time.py).
@@ -87,6 +90,7 @@ If you've ever hired at this scale, what made you write back?
 Checks: "Day60" appears once. No link. Ends on one next step for today, then a question. Three hashtags, #jobsearch first. No em dashes, no competitor names. The first line is Philip's and runs past 60 characters; HQ approved it as written.
 
 ### LI-3touch · Thu Dec 3 · 12:54 PM · APPROVED (HQ, Nov 19) · MOVED FROM WEEK 47 (HQ, Nov 11)
+- In Buffer: scheduled Nov 25 by Social (Buffer post `6b075f60b8e2338b8569eaf3`), Thu Dec 3, 12:54 PM CT, as a text post, with the try link HQ approved Nov 25. Nothing for Philip to do.
 - **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 5:44 PM to 12:54 PM CT (pick_time.py).
 - Document: `2026-11/wk46/p06_three_touches_linkedin_v2.pdf` (HQ, Nov 14: slide 6 now has cream keylines on Tick and the card; slides 1 to 5 are unchanged, and the old PDF and IG4's slides stay in the repo. Source: `2026-11/wk46/build_v2.py`). It moved to week 47 when the Chrome extension post took week 46's Thursday slot, then here when Day60's LinkedIn went to two posts a week (Tue and Thu) from Nov 16.
 - **Text post from Nov 19 (HQ: no more LinkedIn PDFs).** The PDF above is no longer posted; it stays in the repo.
@@ -111,10 +115,12 @@ Today, pick one note that hasn't had a reply and write its two-line nudge.
 
 How many follow-ups do you send before you stop?
 
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49-LI-3touch
+
 #jobsearch #networking #careeradvice
 ```
 
-Checks: "Day60" appears once. No link. The week 46 wording, minus "Save the carousel" and the link. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names.
+Checks: "Day60" appears once. Ends with the try link (HQ approved, Nov 25, for the Nov 22 link rule). The week 46 wording, minus "Save the carousel" and the link. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names.
 
 ### LI-target · Fri Dec 4 · 9:07 AM · DRAFT · RUN YOUR SEARCH LIKE A TARGET ACCOUNT LIST (founder lane, HQ Nov 19)
 - **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 2:26 PM to 9:07 AM CT (pick_time.py).
@@ -232,6 +238,7 @@ Today, pick one job you want and find its hiring manager's name. The full guide,
 ```
 
 ### FB-findhm · Thu Dec 3 · 8:31 AM · APPROVED (HQ, Nov 19) · GUIDE OF THE WEEK 1: HOW TO FIND THE HIRING MANAGER (HQ, Nov 19)
+- In Buffer: scheduled Nov 25 by Social (Buffer post `6b075f6b9f6dda31cc9fdc93`), Thu Dec 3, 8:31 AM CT, as a 7-image post with alt text on each, with the try link HQ approved Nov 25. Nothing for Philip to do.
 - Status: approved by HQ (Nov 19, as written at 5848cd8). It goes into Buffer at the top-up that reaches it. Guide of the week 1 (playbook §5): `guide` is `how-to-find-the-hiring-manager` in library.json.
 - Carousel (7): IG-findhm's slides 1 to 6 and `2026-11/wk49/p02_find_hm_7_fb.png` (a getday60.com sticker in place of "Link in bio"). The day after the Instagram post.
 - Words: the guide's own text and the playbook, as IG-findhm.
@@ -248,6 +255,9 @@ Then check the company's own pages for that team's leader, search LinkedIn yours
 Not sure which of two people leads the team? Ask the recruiter or someone on the team first. A short question costs less than a message to the wrong person.
 
 Today, pick one job and find its hiring manager's name. The full guide, step by step: https://getday60.com/guides/how-to-find-the-hiring-manager?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49&utm_content=find-hiring-manager
+
+Find the 4 people for one job:
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-findhm
 
 #jobsearch #day60 #careeradvice
 ```

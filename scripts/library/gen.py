@@ -577,7 +577,7 @@ for _e in SPECS:
                        if f["path"].endswith("p01_thanks_5_safe.png") else f for f in _e["files"]]
 
 # Buffer top-up Wed Nov 25 (Social): scheduled in Buffer.
-_BUF_NOV25 = {"2026-w49-FB-ats", "2026-w49-IG-findhm", "2026-w49-IG-ats"}
+_BUF_NOV25 = {"2026-w49-FB-ats", "2026-w49-IG-findhm", "2026-w49-IG-ats", "2026-w49-LI-email", "2026-w49-LI-3touch", "2026-w49-FB-findhm"}
 for _e in SPECS:
     if _e["id"] in _BUF_NOV25:
         _e.update(postedVia="buffer")
