@@ -576,6 +576,12 @@ for _e in SPECS:
         _e["files"] = [dict(f, path="2026-11/wk48/p01_thanks_5_today.png", alt=f["alt"].replace("Send it before Thursday.", "Send it today."))
                        if f["path"].endswith("p01_thanks_5_safe.png") else f for f in _e["files"]]
 
+# Buffer top-up Wed Nov 25 (Social): scheduled in Buffer.
+_BUF_NOV25 = {"2026-w49-FB-ats", "2026-w49-IG-findhm", "2026-w49-IG-ats"}
+for _e in SPECS:
+    if _e["id"] in _BUF_NOV25:
+        _e.update(postedVia="buffer")
+
 from notes import NOTES  # noqa: E402
 _missing = [e["id"] for e in SPECS if e["id"] not in NOTES]
 assert not _missing, _missing

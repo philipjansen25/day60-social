@@ -208,6 +208,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 ```
 
 ### IG-findhm · Wed Dec 2 · 3:27 PM · APPROVED (HQ, Nov 19) · GUIDE OF THE WEEK 1: HOW TO FIND THE HIRING MANAGER (HQ, Nov 19)
+- In Buffer: scheduled Nov 25 by Social (Buffer post `6b075ec207071a6067315bd5`), Wed Dec 2, 3:27 PM CT, as a 7-image carousel at 1080x1350 with alt text on each slide. Nothing for Philip to do.
 - Status: approved by HQ (Nov 19, as written at 5848cd8). It goes into Buffer at the top-up that reaches it. Guide of the week 1 (playbook §5): `guide` is `how-to-find-the-hiring-manager` in library.json.
 - Carousel (7): `2026-11/wk49/p02_find_hm_1_lime.png`, `p02_find_hm_2.png` to `p02_find_hm_7.png` (source: `2026-11/wk49/build_guide1.py`). Rendered inside the feed safe area (y 150 to 1200). FB-findhm uses the same slides with its own slide 7.
 - Words: the guide's own text (getday60.com/guides/how-to-find-the-hiring-manager, read Nov 19) and the playbook. No numbers, no names, no example.
@@ -403,6 +404,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 Light humor, HQ's three facts only, no named source, no percentage. The card: `2026-11/wk49/p03_ats_coral.png` (1080x1350, coral; source `2026-11/wk49/build_humor.py`; safe area passes; Tick pointing, not frowning). LinkedIn's version is in `2026-12/wk50/posts.md` (Mon Dec 7).
 
 ### FB-ats · Mon Nov 30 · 7:08 PM · APPROVED (HQ, Nov 24) · THE ROBOT DIDN'T REJECT YOU (Facebook)
+- In Buffer: scheduled Nov 25 by Social (Buffer post `6b075eb9b96dd8d351681872`), Mon Nov 30, 7:08 PM CT, at 1080x1350 with its alt text; try link checked. Nothing for Philip to do.
 - Status: approved (HQ, Nov 24), as written; goes into Buffer with Wednesday's run. Fills Facebook's open Mon Nov 30.
 - Image: `2026-11/wk49/p03_ats_coral.png`. Instagram posts the same card Thu Dec 3, so they never share a day.
 - Alt text: The robot didn't reject you. Most ATS store applications for people to search. Find the hiring manager, send a short note.
@@ -426,6 +428,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 ```
 
 ### IG-ats · Thu Dec 3 · 9:44 AM · APPROVED (HQ, Nov 24) · THE ROBOT DIDN'T REJECT YOU (Instagram)
+- In Buffer: scheduled Nov 25 by Social (Buffer post `6b075ec69f6dda31cc9f8f41`), Thu Dec 3, 9:44 AM CT, at 1080x1350 with its alt text. Nothing for Philip to do.
 - Status: approved (HQ, Nov 24), as written; goes into Buffer with Wednesday's run.
 - Image: `2026-11/wk49/p03_ats_coral.png`.
 - Ground: coral. The grid before it: lime (Mon), cream (Tue), lime (Wed).
