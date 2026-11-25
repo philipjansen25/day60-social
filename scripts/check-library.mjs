@@ -276,6 +276,8 @@ let sizeOk = 0;
 for (const p of toPost) {
   // a random minute inside the window, never a multiple of 5 (Philip, Nov 22; playbook §5), except posts Philip scheduled natively
   if (p.postedVia !== 'native' && Number(p.time.slice(3)) % 5 === 0) err(p.id, `time ${p.time}: the minute is a multiple of 5; pick one with scripts/pick_time.py (playbook §5)`);
+  // "resume", never the accented spelling (Philip, Nov 25)
+  if (/r[ée]sum[ée]/i.test(JSON.stringify(p)) && /[éÉ]/.test(JSON.stringify(p).match(/r[ée]sum[ée]/gi)?.join('') ?? '')) err(p.id, 'accented "resume" spelling: write "resume" (Philip, Nov 25)');
   const bad = checkSizes(p);
   for (const b of bad) err(p.id, `size: ${b}`);
   // an Instagram Reel's cover: key content inside the center 1080x1440 the grid shows (HQ, Nov 22)

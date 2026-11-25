@@ -216,39 +216,34 @@
    "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   },
   "2026-11/wk47/p02_resume_builder_1_lime_safe.png": {
-   "sha256": "f29f0a3dd2548525a16ceaddca4fe399295cb2adbf5a4418358be08b0b39f782",
+   "sha256": "baa719422897e1b6879cce985b40168898a8ff0996024dfffa26a00fd5231263",
    "scale": 0.862,
-   "checked": "2026-11-17",
-   "grid": true,
-   "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
+   "checked": "2026-11-25",
+   "grid": true
   },
   "2026-11/wk47/p02_resume_builder_2_safe.png": {
-   "sha256": "a87d62d8d79fb1a0c140e0dfbd57b010361700a286fbeb1fe95c88bb2154786f",
+   "sha256": "773bee6d6659dfdf93bbf682be4f10c8b3bd755b8e001aa910f39d4b2b9e7f1c",
    "scale": 0.862,
-   "checked": "2026-11-17",
-   "grid": true,
-   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+   "checked": "2026-11-25",
+   "grid": true
   },
   "2026-11/wk47/p02_resume_builder_3_safe.png": {
-   "sha256": "740b6a3c4744e85b3822403d1223f94a2226afe666aded9132caec725ed2dd8d",
+   "sha256": "ddecf62b74a35e2a9b160bf22f6ca9445e0156241085d74dccb1c641b7f5bf62",
    "scale": 0.862,
-   "checked": "2026-11-17",
-   "grid": true,
-   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+   "checked": "2026-11-25",
+   "grid": true
   },
   "2026-11/wk47/p02_resume_builder_4_safe.png": {
-   "sha256": "5b8c63e845935bea1c7c3f8ab4b4d393cb6d86bf10fb0ac766698fc4e125bbb2",
+   "sha256": "b499f28a0f4494b1250e32d65181d0af66a4453df37f0d7786ba88d781fffcbc",
    "scale": 0.862,
-   "checked": "2026-11-17",
-   "grid": true,
-   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+   "checked": "2026-11-25",
+   "grid": true
   },
   "2026-11/wk47/p02_resume_builder_5_safe.png": {
-   "sha256": "4b1d5512ee2b5235ee7e7b2228aba62d2cb1ac19ebd5e9f53e19fa0d2b19a49b",
+   "sha256": "5b509ea0bc0ae722cc6c345624febe926b1112b8539b0853fd94e68d335ca9b6",
    "scale": 0.848,
-   "checked": "2026-11-17",
-   "grid": true,
-   "gridCheck": "2026-11-22, pixels: nothing outside x 34 to 1046, y 150 to 1200"
+   "checked": "2026-11-25",
+   "grid": true
   },
   "2026-11/wk47/p02_resume_builder_6_fb_v2_safe.png": {
    "sha256": "64f3557dee9a24e6badde639c95bb9b9ed8e322c0d689fb64111e9ac3fc53c3d",
@@ -263,9 +258,9 @@
    "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
   },
   "2026-11/wk47/p02_resume_builder_6_v3.png": {
-   "sha256": "e70239ff0f472a16995f5a0e2d663fb57e2bcfe4f84f0c3d4de8bdce5fcea07f",
+   "sha256": "8324e255e7a2458664cdac080ef1b591f176e4b705ea2bec97494009ada6050f",
    "scale": 0.923,
-   "checked": "2026-11-24",
+   "checked": "2026-11-25",
    "grid": true
   },
   "2026-11/wk47/p05_first_job_1_lime_safe.png": {

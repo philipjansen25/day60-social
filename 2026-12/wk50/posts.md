@@ -14,7 +14,7 @@
 ### LI-ats · Mon Dec 7 · 11:17 AM · APPROVED (HQ, Nov 24) · THE ATS PROBABLY DIDN'T REJECT YOU (HQ idea, Nov 24)
 - Status: approved (HQ, Nov 24), as written; goes into Buffer with Wednesday's run. HQ's idea (Nov 24): a myth-busting post for a general audience. Light humor (the "robot rejected me" image).
 - Lane: Phil's founder lane (Mon), as his view. If HQ has an H post for Mon Dec 7, this moves to the next open LinkedIn day.
-- Facts: only HQ's three (Nov 24): most ATS store and organize applications and recruiters search them by keyword; knockout questions on the form can screen someone out, not the résumé's layout; "ATS-friendly" and "beat the ATS" are mostly sales language. No outside source named, no percentage.
+- Facts: only HQ's three (Nov 24): most ATS store and organize applications and recruiters search them by keyword; knockout questions on the form can screen someone out, not the resume's layout; "ATS-friendly" and "beat the ATS" are mostly sales language. No outside source named, no percentage.
 - Format: text only. Time inside 8 AM to 12:59 PM CT (Philip, Nov 24).
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
 - Link: the try link, the body's last line before the hashtags.
@@ -22,7 +22,7 @@
 ```
 The ATS probably didn't reject you.
 
-The story goes like this: a robot read your résumé, frowned at the font, and tossed it before any human saw it.
+The story goes like this: a robot read your resume, frowned at the font, and tossed it before any human saw it.
 
 Most applicant tracking systems don't work that way. They store and organize applications, and recruiters search them by keyword when they're ready to look.
 
@@ -45,7 +45,7 @@ Checks: hook is 35 characters. "Day60" appears once. The link is the body's last
 
 ### LI-story · Tue Dec 8 · 12:07 PM (reserved) · DRAFT · RESERVED, NOT DRAFTED (moved from Tue Dec 1, HQ Nov 18)
 - **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 3:16 PM to 12:07 PM CT (pick_time.py).
-- **Moved (HQ, Nov 11):** from Mon Nov 23 to Tue Nov 24, then to Tue Dec 1 when the résumé builder post (LI-resume) took Tue Nov 24. **Moved again (HQ, Nov 18):** here to Tue Dec 8, when LI-email took Tue Dec 1 (`2026-11/wk49/posts.md`). Its library id stays `2026-w48-LI-story`.
+- **Moved (HQ, Nov 11):** from Mon Nov 23 to Tue Nov 24, then to Tue Dec 1 when the resume builder post (LI-resume) took Tue Nov 24. **Moved again (HQ, Nov 18):** here to Tue Dec 8, when LI-email took Tue Dec 1 (`2026-11/wk49/posts.md`). Its library id stays `2026-w48-LI-story`.
 - **What (Philip, Nov 8, via HQ):** a Day60 post that builds on Phil's own LinkedIn post of Mon Nov 9 and what he says there that Day60 did for him. It replaces week 47's LI-founder.
 - **Not drafted yet.** Social writes it only after HQ forwards Phil's Monday post, then marks it PROPOSED here and tells HQ. Philip approves the words before he posts it.
 - **Source:** only what Phil wrote in that post, in his words where possible. Nothing invented. No numbers he didn't give, no company or role names beyond what he published, and the career facts stay the four founder.ts lines.

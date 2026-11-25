@@ -14,7 +14,7 @@ REELS = [
     ("2027-01/wk03/p04_one_link_cover_mint_grid.png", "2026-11/wk48/p04_one_link_reel_fb.mp4", "2026-11/wk48/p04_one_link_reel_fb_cover.mp4"),
     # Facebook cut of the One Job Reel (Social, Nov 23, for HQ): end sticker "getday60.com".
     ("2027-01/wk03/p03_one_job_cover_coral_grid.png", "2026-11/wk47/p03_one_job_reel_fb.mp4", "2026-11/wk47/p03_one_job_reel_fb_cover.mp4"),
-    # HQ fix Nov 23 (night), #967 email step: the résumé Reel with its fixed end scene.
+    # HQ fix Nov 23 (night), #967 email step: the resume Reel with its fixed end scene.
     ("2027-01/wk04/p03_resume_cover_cobalt_grid.png", "2026-11/wk48/p03_resume_reel_v4.mp4", "2026-11/wk48/p03_resume_reel_v4_cover.mp4"),
 ]
 for cover, video, out in REELS:

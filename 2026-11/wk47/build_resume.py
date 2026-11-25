@@ -1,13 +1,13 @@
-"""Week 47 résumé builder carousel (HQ, Nov 11: Philip wants the free résumé builder promoted).
+"""Week 47 resume builder carousel (HQ, Nov 11: Philip wants the free resume builder promoted).
 
-p02_resume_builder_1-6.png  1080x1350  "One résumé. Tailored to one job."
+p02_resume_builder_1-6.png  1080x1350  "One resume. Tailored to one job."
 Used by IG-resume (Sun Nov 15) and FB-resume (Fri Nov 20). Drafts, not approved.
 p02_resume_builder_6_fb.png is slide 6 without the "Link in bio" sticker; FB-resume uses it in place of slide 6.
 
 Slide 2 is a real crop of getday60.com/resume-builder (site/resume_builder_form.png, shot by
 site/cap_resume_builder.js with an invented job link typed in, nothing submitted). Slides 3-5 are
 rebuilt from tokens: the results screen needs a real submission, so they show the labels HQ gave
-("What this job wants", "Keywords you can't claim yet", "Make it stronger") on an invented résumé
+("What this job wants", "Keywords you can't claim yet", "Make it stronger") on an invented resume
 and job (Northpine, Customer Success Manager), labeled "Illustrative example".
 
 Run from repo root: python3 2026-11/wk47/build_resume.py [slide names to render, default all]
@@ -64,21 +64,21 @@ FOOT = foot(right=URL)
 out("p02_resume_builder_1",
     sticker("Save this", WHITE, 72, 72)
     + f'<div class="d" style="position:absolute;left:72px;top:200px;width:936px;font-size:118px">'
-      f'One résumé. Tailored to one job.</div>'
+      f'One resume. Tailored to one job.</div>'
     + f'<div style="position:absolute;left:76px;top:690px;width:560px;font-size:44px;font-weight:700;line-height:1.2">'
-      f'How the free résumé builder works, on an invented résumé and job.</div>'
+      f'How the free resume builder works, on an invented resume and job.</div>'
     + f'<div style="position:absolute;right:60px;top:660px">{tick("thinking", 320)}</div>'
     + spark(870, 110, 70, WHITE)
     + FOOT, bg=LIME)
 
-# 2. add the job and the résumé: live crop of the form
+# 2. add the job and the resume: live crop of the form
 im = Image.open(os.path.join(WK, "site", "resume_builder_form.png")).convert("RGB")
 im = im.crop((8, 8, im.width - 8, 930))  # drop the site card's own border and the next label
 buf = io.BytesIO(); im.save(buf, "PNG")
 src = "data:image/png;base64," + base64.b64encode(buf.getvalue()).decode()
 W2 = 520
 out("p02_resume_builder_2",
-    step("01", 2, "Add the job and your résumé.")
+    step("01", 2, "Add the job and your resume.")
     + f'<div class="card" style="position:absolute;left:72px;top:470px;width:{W2}px;padding:0;overflow:hidden">'
       f'<img src="{src}" style="display:block;width:{W2}px"></div>'
     + sticker(EX, PINK, 636, 470, 24)
@@ -111,7 +111,7 @@ out("p02_resume_builder_3",
 # 4. tailored, only what's true
 def pair(top, before, after):
     return (f'<div class="card" style="position:absolute;left:72px;top:{top}px;width:936px;padding:0;overflow:hidden">'
-            f'<div class="muted" style="padding:20px 34px;border-bottom:4px solid {INK}">{lbl("From the résumé", 20)}'
+            f'<div class="muted" style="padding:20px 34px;border-bottom:4px solid {INK}">{lbl("From the resume", 20)}'
             f'<div style="font-size:31px;font-weight:500;line-height:1.25">{before}</div></div>'
             f'<div style="padding:20px 34px">{lbl("For this job", 20)}'
             f'<div style="font-size:33px;font-weight:700;line-height:1.25"><span class="fill">{after}</span></div></div></div>')
@@ -125,7 +125,7 @@ out("p02_resume_builder_4",
     + pair(780, "Ran 60 small-business accounts, renewals included.",
            "Managed renewals for 60 small-business accounts.")
     + f'<div style="position:absolute;left:72px;top:1068px;width:740px;font-size:36px;font-weight:700;line-height:1.25">'
-      f'No new skill, number or title. Only what the résumé and your notes show.</div>'
+      f'No new skill, number or title. Only what the resume and your notes show.</div>'
     + f'<div style="position:absolute;right:64px;top:1052px">{tick("pointing", 136)}</div>'
     + FOOT)
 
@@ -136,7 +136,7 @@ out("p02_resume_builder_5",
     + f'<div class="card" style="position:absolute;left:72px;top:530px;width:936px;padding:36px 44px">'
       f'<div class="d" style="font-size:46px;margin-bottom:24px">Keywords you can\'t claim yet</div>'
       + chip("Account health scores", WHITE, x=True) + chip("Quarterly business reviews", WHITE, x=True)
-      + f'<div style="font-size:32px;font-weight:500;line-height:1.3;margin-top:8px">In the posting, not in the résumé, so they stay off it.</div></div>'
+      + f'<div style="font-size:32px;font-weight:500;line-height:1.3;margin-top:8px">In the posting, not in the resume, so they stay off it.</div></div>'
     + f'<div class="card" style="position:absolute;left:72px;top:900px;width:700px;padding:32px 40px;background:{MINT}">'
       f'<div class="d" style="font-size:42px;margin-bottom:14px">Make it stronger</div>'
       f'<div style="font-size:34px;font-weight:700;line-height:1.25">Have you tracked which accounts might not renew?</div>'
@@ -151,7 +151,7 @@ def cta(name, link_in_bio, email_fix=False):
         + (f'Read every line.<br><span class="fill" style="color:{INK}">Get a Word file.</span></div>' if not email_fix else
            f'<span style="font-size:96px">Read every line.</span><br><span class="fill" style="color:{INK};font-size:88px">Add your email,<br>get a Word file.</span></div>')
         + f'<div style="position:absolute;left:76px;top:600px;width:620px;font-size:44px;font-weight:600;line-height:1.3;color:{CREAM}">'
-          + ('Free. No account. Nothing you add is kept.' if not email_fix else "Free. No account. Your résumé isn't stored.") + '</div>'
+          + ('Free. No account. Nothing you add is kept.' if not email_fix else "Free. No account. Your resume isn't stored.") + '</div>'
         + sticker(URL, LIME, 72, 860, 30)
         + (sticker("Link in bio", WHITE, 72, 960, 30) if link_in_bio else "")
         + f'<div style="position:absolute;right:60px;top:700px">{tick("celebrating", 300)}</div>'
@@ -162,7 +162,7 @@ def cta(name, link_in_bio, email_fix=False):
 # v2 (HQ, Nov 13): cream keylines on ink. The old p02_resume_builder_6(.png/_fb.png) stay on disk.
 cta("p02_resume_builder_6_v2", True)
 cta("p02_resume_builder_6_fb_v2", False)
-# v3 (HQ fix Nov 23 (night), #967 email step): the builder asks for an email before the Word file and doesn't store the résumé.
+# v3 (HQ fix Nov 23 (night), #967 email step): the builder asks for an email before the Word file and doesn't store the resume.
 cta("p02_resume_builder_6_v3", True, email_fix=True)
 
 if __name__ == "__main__":

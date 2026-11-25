@@ -2,12 +2,12 @@
 
 p01_thanks_1-6.png       IG-thanks     Sun Nov 22  (FB-thanks reuses it, Thu Nov 26)  "Send one thank-you this week."
 p02_which.png            IG-which      Mon Nov 23  (FB-which reuses it, Tue Nov 24)   "Which would you answer?"
-p03_resume_reel.mp4      IG-rb-reel    Tue Nov 24  the free résumé builder, as a Reel
+p03_resume_reel.mp4      IG-rb-reel    Tue Nov 24  the free resume builder, as a Reel
 p04_one_link_reel.mp4    IG-onelink    Wed Nov 25  "One job link. Four people. One message."
 p05_short_list.png       IG-shortlist  Sat Nov 28  "Long weekend. Short list."
 
 Token-built (design-system/ds.py + reel.py). Invented company and people (Northpine), labeled
-"Illustrative example". Images Facebook reuses carry no "Link in bio". The résumé Reel's form scene is
+"Illustrative example". Images Facebook reuses carry no "Link in bio". The resume Reel's form scene is
 the real crop from week 47 (2026-11/wk47/site/resume_builder_form.png).
 
 Run from repo root: python3 2026-11/wk48/build.py [thanks|which|rb|onelink|shortlist ...]
@@ -133,7 +133,7 @@ def shortlist():
         + spark(940, 96, 64) + foot(bottom=40)))]
 
 
-# ---------- IG-rb-reel: the free résumé builder ----------
+# ---------- IG-rb-reel: the free resume builder ----------
 RB_URL = "getday60.com/resume-builder"
 
 
@@ -145,7 +145,7 @@ def chip(text, bg=MINT, x=False):
 
 def pair(before, after):
     return (f'<div class="card" style="padding:0;overflow:hidden;margin-bottom:44px">'
-            f'<div class="muted" style="padding:24px 36px;border-bottom:4px solid {INK}">{lbl("From the résumé", 22)}'
+            f'<div class="muted" style="padding:24px 36px;border-bottom:4px solid {INK}">{lbl("From the resume", 22)}'
             f'<div style="font-size:36px;font-weight:500;line-height:1.28">{before}</div></div>'
             f'<div style="padding:24px 36px">{lbl("For this job", 22)}'
             f'<div style="font-size:38px;font-weight:700;line-height:1.28"><span class="fill">{after}</span></div></div></div>')
@@ -158,13 +158,13 @@ def rb(end_fix=False):
     src = "data:image/png;base64," + base64.b64encode(buf.getvalue()).decode()
     ex = sticker(EXAMPLE, PINK, 72, 420, 24)
     hook = rpage(
-        sticker("Free résumé builder", WHITE, 72, 150)
-        + f'<div class="d" style="position:absolute;left:72px;right:72px;top:300px;font-size:150px">Tailor your résumé to one job.</div>'
+        sticker("Free resume builder", WHITE, 72, 150)
+        + f'<div class="d" style="position:absolute;left:72px;right:72px;top:300px;font-size:150px">Tailor your resume to one job.</div>'
         + f'<div class="d" style="position:absolute;left:72px;right:72px;top:960px;font-size:120px"><span class="fill">No account.</span></div>'
         + f'<div style="position:absolute;right:80px;top:1200px">{tick("thinking", 320)}</div>'
         + spark(900, 210, 70, PINK), bg=CREAM)
     form = rpage(
-        step_head("01", "Add the job and your résumé.", 190, 76)
+        step_head("01", "Add the job and your resume.", 190, 76)
         + ex
         + f'<div class="card" style="position:absolute;left:72px;top:520px;width:640px;padding:0;overflow:hidden">'
           f'<img src="{src}" style="display:block;width:640px"></div>'
@@ -194,7 +194,7 @@ def rb(end_fix=False):
         + f'<div class="card" style="position:absolute;left:72px;right:72px;top:520px;padding:38px 44px">'
           f'<div class="d" style="font-size:50px;margin-bottom:26px">Keywords you can\'t claim yet</div>'
           + chip("Account health scores", WHITE, True) + chip("Quarterly business reviews", WHITE, True)
-          + f'<div style="font-size:36px;font-weight:500;line-height:1.3;margin-top:8px">In the posting, not in the résumé, so they stay off it.</div></div>'
+          + f'<div style="font-size:36px;font-weight:500;line-height:1.3;margin-top:8px">In the posting, not in the resume, so they stay off it.</div></div>'
         + f'<div class="card" style="position:absolute;left:72px;right:72px;top:960px;padding:36px 44px;background:{MINT}">'
           f'<div class="d" style="font-size:48px;margin-bottom:14px">Make it stronger</div>'
           f'<div style="font-size:38px;font-weight:700;line-height:1.25">Have you tracked which accounts might not renew?</div>'
@@ -204,7 +204,7 @@ def rb(end_fix=False):
         + (f'Read every line.<br><span class="fill" style="color:{INK}">Get a Word file.</span></div>' if not end_fix else
            f'<span style="font-size:110px">Read every line.</span><br><span class="fill" style="color:{INK};font-size:96px">Add your email,<br>get a Word file.</span></div>')
         + f'<div style="position:absolute;left:76px;top:760px;width:900px;font-size:50px;font-weight:600;line-height:1.3;color:{CREAM}">'
-          + ('Free. No account. Nothing you add is kept.' if not end_fix else "Free. No account. Your résumé isn't stored.") + '</div>'
+          + ('Free. No account. Nothing you add is kept.' if not end_fix else "Free. No account. Your resume isn't stored.") + '</div>'
         + sticker(RB_URL, LIME, 72, 1000, 32) + sticker("Link in bio", WHITE, 72, 1110, 32)
         + f'<div style="position:absolute;right:80px;top:1240px">{tick("celebrating", 300)}</div>'
         + spark(910, 170, 64, LIME), bg=INK)
@@ -282,7 +282,7 @@ if __name__ == "__main__":
     if "which" in want: still(which(), names)
     if "shortlist" in want: still(shortlist(), names)
     if "rb" in want: make_reel(rb(), os.path.join(WK, "p03_resume_reel_v2.mp4"), os.path.join(TMP, "rb"))
-    # HQ fix Nov 23 (night), #967 email step: the end scene says "Add your email, get a Word file." and "Your résumé isn't stored."
+    # HQ fix Nov 23 (night), #967 email step: the end scene says "Add your email, get a Word file." and "Your resume isn't stored."
     if "rb_fix" in want: make_reel(rb(end_fix=True), os.path.join(WK, "p03_resume_reel_v4.mp4"), os.path.join(TMP, "rb_fix"))
     if "onelink" in want: make_reel(onelink(), os.path.join(WK, "p04_one_link_reel_v2.mp4"), os.path.join(TMP, "onelink"))
     # Facebook cut (HQ, Nov 23): same Reel, end sticker reads "getday60.com" instead of "Link in bio". No new copy.

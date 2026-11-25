@@ -7,7 +7,7 @@
 **LI1 moved to Tue Nov 17, 8:30 AM CT (HQ, Nov 11).** Philip had moved it from Mon Nov 9 to Mon Nov 16 (Nov 8). From Nov 16 his LinkedIn Mondays are his own posts, and Day60's LinkedIn posts go on Tue and Thu. Text, image, tag and first comment are unchanged; it's one of week 47's two Day60 LinkedIn posts. LinkedIn this week: LI2 and LI3-new.
 Preview: https://claude.ai/artifact/9xwtoKVTbS9TzY3vWEBq2k
 
-**Angle:** show plainly what Day60 is (a 60-day sprint that gets you to the 4 people closest to the hire, with a note in your voice that you send) and what it isn't (an auto-apply bot, a LinkedIn hack, mass messaging). We contrast with the category ("auto-apply bots", "mass-apply tools", "spray and pray") and never name a competitor. Fair line: "Keep your tracker and your résumé tool. Day60 is the part after you find the job."
+**Angle:** show plainly what Day60 is (a 60-day sprint that gets you to the 4 people closest to the hire, with a note in your voice that you send) and what it isn't (an auto-apply bot, a LinkedIn hack, mass messaging). We contrast with the category ("auto-apply bots", "mass-apply tools", "spray and pray") and never name a competitor. Fair line: "Keep your tracker and your resume tool. Day60 is the part after you find the job."
 
 - Cadence (Philip, Nov 5): **LinkedIn 3, Instagram 5, Facebook 2 = 10 posts a week.** This week: Instagram 4 carousels + 1 Reel; Facebook 2 (the extension carousel and the 404 image). From the week of Nov 15, Facebook's 2 posts reuse that week's 2 strongest Instagram images (no Facebook-only art). TikTok is on hold.
 - **Nov 5 changes:** FB1, FB2, FB4 and FB5 are cut (Facebook is down to 2). Their text is kept under "Not scheduled" at the end of the drafts. IG3 is dropped too, because adding IG6 made 6 Instagram posts: it repeated IG1's is/isn't point three days later and reused LI1's hook. IG5 is now the approved extension carousel, so the Saturday screen-recording Reel has no slot this week.
@@ -61,7 +61,7 @@ An auto-apply bot. It never applies and never sends.
 A LinkedIn hack. It never logs in to LinkedIn, scrapes it or automates it.
 A blast tool. No mass messages, no keyword stuffing.
 
-Keep your tracker and your résumé tool. Day60 is the part after you find the job.
+Keep your tracker and your resume tool. Day60 is the part after you find the job.
 
 Try it on one job. Link in the first comment.
 
@@ -128,7 +128,7 @@ What would you want to know before installing an extension?
 
 ### IG1 · Sun Nov 8 · 11:00 AM · APPROVED (Philip, Nov 6) · PIN TO GRID · POSTED Nov 8, 11:03 AM (Buffer)
 - Carousel: `p01_is_isnt_1.png` … `p01_is_isnt_7.png`
-- Alt text (per slide): 1 "What Day60 is. And what it isn't." · 2 It is a 60-day job-search sprint, up to 3 new jobs a day · 3 It is the 4 people closest to the hire, verified work emails where available · 4 It is a short note in your voice, checked by Tick, 3 touches max · 5 It isn't an auto-apply bot · 6 It isn't a LinkedIn hack · 7 Keep your tracker and your résumé tool. Day60 is the part after you find the job. Free, no card.
+- Alt text (per slide): 1 "What Day60 is. And what it isn't." · 2 It is a 60-day job-search sprint, up to 3 new jobs a day · 3 It is the 4 people closest to the hire, verified work emails where available · 4 It is a short note in your voice, checked by Tick, 3 touches max · 5 It isn't an auto-apply bot · 6 It isn't a LinkedIn hack · 7 Keep your tracker and your resume tool. Day60 is the part after you find the job. Free, no card.
 
 ```
 What Day60 is, and what it isn't. Save this one.
@@ -137,7 +137,7 @@ It is a 60-day job-search sprint. For every job you pick, it finds the 4 people 
 
 It isn't an auto-apply bot. It never applies, never sends, never touches your LinkedIn. You hit send.
 
-Keep your tracker and your résumé tool. Day60 is the part after you find the job.
+Keep your tracker and your resume tool. Day60 is the part after you find the job.
 
 Day60 Sprint. Free. No card. Nothing to cancel. Try one job at the link in bio.
 
@@ -387,11 +387,11 @@ Share it with a friend who's applying this week.
 
 ### FB5 (cut) · was Sat Nov 14 · 11:00 AM · NOT SCHEDULED
 - Image: `p04_where_it_fits.png`
-- Alt text: Where Day60 fits. 1 Find the job: your job board. 2 Tailor your résumé: your résumé tool. 3 Track it: your tracker. 4 Reach the people who decide: Day60.
+- Alt text: Where Day60 fits. 1 Find the job: your job board. 2 Tailor your resume: your resume tool. 3 Track it: your tracker. 4 Reach the people who decide: Day60.
 - Link: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w46&utm_content=where-it-fits
 
 ```
-Already using a job tracker or a résumé tool? Keep them.
+Already using a job tracker or a resume tool? Keep them.
 
 Day60 isn't here to replace the tools that help you find and apply. It's the part after you find the job: reaching the people who decide. For each job, it finds the four people closest to the hire and drafts a short note to each. You send it.
 

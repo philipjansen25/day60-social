@@ -63,7 +63,7 @@ out('p01_is_isnt_6', is_slide(6, False, 'A LinkedIn hack.',
 out('p01_is_isnt_7', page(
     spark(900, 110, 60, LIME) +
     f'<div class="bg" style="position:absolute;left:72px;top:150px;width:930px;font-size:86px;line-height:1.02;color:{CREAM}">'
-    f'Keep your tracker and your résumé tool.</div>'
+    f'Keep your tracker and your resume tool.</div>'
     f'<div class="bg" style="position:absolute;left:72px;top:440px;width:930px;font-size:86px;line-height:1.02;color:{LIME}">'
     f'Day60 is the part after you find the job.</div>'
     f'<div class="box" style="position:absolute;left:72px;top:800px;padding:28px 36px;background:{CREAM};box-shadow:10px 10px 0 {LIME}">'
@@ -110,7 +110,7 @@ out('p03_two_ways', page(
     + foot()))
 
 # ---------- P04 FB flow: where Day60 fits ----------
-steps = [('Find the job', 'your job board', False), ('Tailor your résumé', 'your résumé tool', False),
+steps = [('Find the job', 'your job board', False), ('Tailor your resume', 'your resume tool', False),
          ('Track it', 'your tracker', False), ('Reach the people who decide', 'Day60', True)]
 flow = ''
 for k, (a, b, me) in enumerate(steps):
@@ -257,7 +257,7 @@ scene('r2_s6', spark(800, 1150, 110, LIME) + spark(950, 1300, 56, PINK) +
 
 # R3: things Day60 will never do (FB Mon, IG Sat)
 nevers = ['Apply for you', 'Send a message without you', 'Log in to your LinkedIn',
-          'Mass-message strangers', 'Stuff your résumé with keywords', 'Ask for your card']
+          'Mass-message strangers', 'Stuff your resume with keywords', 'Ask for your card']
 
 
 def never_scene(k):

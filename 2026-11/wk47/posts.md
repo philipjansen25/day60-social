@@ -94,25 +94,25 @@ Share this with someone who's looking.
 ```
 
 
-## Résumé builder (HQ, Nov 11)
+## Resume builder (HQ, Nov 11)
 
 Philip, Nov 11 (via HQ): "I just used the resume builder tool with my own resume and a job posting. It worked very well, and I want to make sure to promote that free tool." These two take week 47's next open Instagram slot (Sun 11:00 AM) and the week's remaining default Facebook slot (Fri 6:00 PM; Tuesday's went to FB-four, on Wednesday). LinkedIn gets LI-resume on Tue Nov 24 (`2026-11/wk48/posts.md`).
 
-**Facts:** only what HQ's brief and the live page (getday60.com/resume-builder, read Nov 11) say: free, no account; a job link (not LinkedIn) or the posting itself; a résumé as a PDF, a Word file or text, plus optional notes; it rewrites the résumé for that one job, using only what the résumé and the notes show, and never adds a skill, number or title the résumé doesn't have; "What this job wants" (keywords and the 3 problems the role solves), "Keywords you can't claim yet" and "Make it stronger" questions; read every line, then a Word file; Day60 keeps none of it.
+**Facts:** only what HQ's brief and the live page (getday60.com/resume-builder, read Nov 11) say: free, no account; a job link (not LinkedIn) or the posting itself; a resume as a PDF, a Word file or text, plus optional notes; it rewrites the resume for that one job, using only what the resume and the notes show, and never adds a skill, number or title the resume doesn't have; "What this job wants" (keywords and the 3 problems the role solves), "Keywords you can't claim yet" and "Make it stronger" questions; read every line, then a Word file; Day60 keeps none of it.
 
-### IG-resume · Sun Nov 15 · 11:00 AM · DRAFT · RÉSUMÉ BUILDER (HQ, Nov 11)
+### IG-resume · Sun Nov 15 · 11:00 AM · DRAFT · RESUME BUILDER (HQ, Nov 11)
 - **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w47-IG-resume-r2`** (Thu Jan 7, `2027-01/wk01/posts.md`; HQ, Nov 22). This copy stays as history only: don't repost or reuse it.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk47/p02_resume_builder_1_lime.png` on lime replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk47/p02_resume_builder_6_v2.png` replaces slide 6. The old file stays in the repo.
 - Status: draft, for Philip to approve in the Post Library.
-- Carousel (6): `2026-11/wk47/p02_resume_builder_1.png` to `p02_resume_builder_6.png` (source: `2026-11/wk47/build_resume.py`). Slide 2 is a real crop of getday60.com/resume-builder (`2026-11/wk47/site/resume_builder_form.png`, shot Nov 11 by `site/cap_resume_builder.js` with an invented job link typed in; nothing submitted). Slides 3 to 5 are rebuilt from tokens: the results screen needs a real submission, so they use the labels HQ gave on an invented résumé and job (Northpine, Customer Success Manager), each labeled "Illustrative example".
-- Link: bio link stays /try (its Free tools menu has the résumé builder). The caption names the page as plain text. For reference: https://getday60.com/resume-builder?utm_source=instagram&utm_medium=social&utm_campaign=2026-w47&utm_content=resume-builder
-- Alt text (per slide): 1 One résumé, tailored to one job: how the free résumé builder works. · 2 Step 1: Add the job (a link to the posting, not LinkedIn, or the posting itself), then your résumé. · 3 Step 2: See what the job wants: its keywords and the 3 problems the role solves. · 4 Step 3: Tailored, with only what's true. Your lines are reworded for the job, with no new skill, number or title. · 5 Step 4: Know the gap before they do. Keywords you can't claim yet stay off your résumé. · 6 Read every line, then get a Word file. Free, no account, nothing you add is kept: getday60.com/resume-builder
+- Carousel (6): `2026-11/wk47/p02_resume_builder_1.png` to `p02_resume_builder_6.png` (source: `2026-11/wk47/build_resume.py`). Slide 2 is a real crop of getday60.com/resume-builder (`2026-11/wk47/site/resume_builder_form.png`, shot Nov 11 by `site/cap_resume_builder.js` with an invented job link typed in; nothing submitted). Slides 3 to 5 are rebuilt from tokens: the results screen needs a real submission, so they use the labels HQ gave on an invented resume and job (Northpine, Customer Success Manager), each labeled "Illustrative example".
+- Link: bio link stays /try (its Free tools menu has the resume builder). The caption names the page as plain text. For reference: https://getday60.com/resume-builder?utm_source=instagram&utm_medium=social&utm_campaign=2026-w47&utm_content=resume-builder
+- Alt text (per slide): 1 One resume, tailored to one job: how the free resume builder works. · 2 Step 1: Add the job (a link to the posting, not LinkedIn, or the posting itself), then your resume. · 3 Step 2: See what the job wants: its keywords and the 3 problems the role solves. · 4 Step 3: Tailored, with only what's true. Your lines are reworded for the job, with no new skill, number or title. · 5 Step 4: Know the gap before they do. Keywords you can't claim yet stay off your resume. · 6 Read every line, then get a Word file. Free, no account, nothing you add is kept: getday60.com/resume-builder
 
 ```
-Your résumé, tailored to one job.
+Your resume, tailored to one job.
 
-Swipe to see Day60's free résumé builder at work on an invented résumé and job. Add the job and your résumé (a PDF, a Word file or the text), and it rewrites the résumé for that one job, using only what your résumé and your notes show. Keywords you can't claim yet get their own list.
+Swipe to see Day60's free resume builder at work on an invented resume and job. Add the job and your resume (a PDF, a Word file or the text), and it rewrites the resume for that one job, using only what your resume and your notes show. Keywords you can't claim yet get their own list.
 
 Read every line, then download a Word file. No account needed, and nothing you add is kept.
 
@@ -123,25 +123,25 @@ Save this for your next application.
 #day60 #jobhunting #jobsearch #newjob #careeradvice
 ```
 
-### FB-resume · Fri Nov 20 · 6:00 PM · DRAFT · RÉSUMÉ BUILDER (HQ, Nov 11)
+### FB-resume · Fri Nov 20 · 6:00 PM · DRAFT · RESUME BUILDER (HQ, Nov 11)
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk47/p02_resume_builder_1_lime.png` on lime replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk47/p02_resume_builder_6_fb_v2.png` replaces slide 6. The old file stays in the repo.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): all 6 slides as new files, `2026-11/wk47/p02_resume_builder_1_lime_safe.png`, `p02_resume_builder_2_safe.png` to `p02_resume_builder_5_safe.png`, `p02_resume_builder_6_fb_v2_safe.png`. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.
 - Status: draft, for Philip to approve in the Post Library.
 - Carousel (6): IG-resume's slides 1 to 5 (`2026-11/wk47/p02_resume_builder_1.png` to `p02_resume_builder_5.png`), then `2026-11/wk47/p02_resume_builder_6_fb.png` as slide 6: the same slide without the "Link in bio" sticker (HQ, Nov 12). Facebook reuses the week's Instagram art, on a different day from the Instagram post.
-- Alt text (per slide): 1 One résumé, tailored to one job: how the free résumé builder works. · 2 Step 1: Add the job (a link to the posting, not LinkedIn, or the posting itself), then your résumé. · 3 Step 2: See what the job wants: its keywords and the 3 problems the role solves. · 4 Step 3: Tailored, with only what's true. Your lines are reworded for the job, with no new skill, number or title. · 5 Step 4: Know the gap before they do. Keywords you can't claim yet stay off your résumé. · 6 Read every line, then get a Word file. Free, no account, nothing you add is kept: getday60.com/resume-builder
+- Alt text (per slide): 1 One resume, tailored to one job: how the free resume builder works. · 2 Step 1: Add the job (a link to the posting, not LinkedIn, or the posting itself), then your resume. · 3 Step 2: See what the job wants: its keywords and the 3 problems the role solves. · 4 Step 3: Tailored, with only what's true. Your lines are reworded for the job, with no new skill, number or title. · 5 Step 4: Know the gap before they do. Keywords you can't claim yet stay off your resume. · 6 Read every line, then get a Word file. Free, no account, nothing you add is kept: getday60.com/resume-builder
 - Link: https://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w47&utm_content=resume-builder
 
 ```
-For anyone sending the same résumé to every job: Day60 has a free résumé builder that tailors it to one job at a time.
+For anyone sending the same resume to every job: Day60 has a free resume builder that tailors it to one job at a time.
 
-Add the job (a link or the posting itself) and your résumé (a PDF, a Word file or the text). It shows what the job wants, including the three problems the role solves. Then it rewrites the résumé for that job, using only what the résumé and your notes show. It never adds a skill, a number or a title that isn't there, and the keywords you can't claim yet get their own list.
+Add the job (a link or the posting itself) and your resume (a PDF, a Word file or the text). It shows what the job wants, including the three problems the role solves. Then it rewrites the resume for that job, using only what the resume and your notes show. It never adds a skill, a number or a title that isn't there, and the keywords you can't claim yet get their own list.
 
 You read every line, then download a Word file. No account needed, and nothing you add is kept.
 
-Phil tried it on his own résumé before we shared it. Try it on one job: https://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w47&utm_content=resume-builder
+Phil tried it on his own resume before we shared it. Try it on one job: https://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w47&utm_content=resume-builder
 
-(The résumé and job in the pictures are invented.)
+(The resume and job in the pictures are invented.)
 
 Share this with someone who's applying this week.
 

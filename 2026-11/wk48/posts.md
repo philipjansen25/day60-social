@@ -14,32 +14,32 @@
 
 ## LinkedIn (Phil's profile)
 
-### LI-resume · Tue Nov 24 · 12:43 PM · APPROVED (HQ, Nov 23) · RÉSUMÉ BUILDER, PHIL'S OWN TRY (HQ, Nov 11)
+### LI-resume · Tue Nov 24 · 12:43 PM · APPROVED (HQ, Nov 23) · RESUME BUILDER, PHIL'S OWN TRY (HQ, Nov 11)
 - **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 3:07 PM to 12:43 PM CT (HQ moved the Buffer post the same day).
 - **Back through Buffer (HQ, Nov 23):** Philip deleted the copy he scheduled natively on Nov 16, so it goes out through Buffer the same day at 3:07 PM (pick_time.py). The first-comment line is replaced by the try link as the body's last line (HQ, Nov 22; Buffer can't post a first comment).
 - Status: approved (HQ, Nov 23; Philip had scheduled it himself). It takes LI-story's slot; LI-story moved to Tue Dec 1 (`2026-11/wk49/posts.md`).
 - Format: text only (field note).
-- Source: Philip, Nov 11 (via HQ): he used the free résumé builder on his own résumé and a real job posting, and it worked very well. No detail of his résumé or that job, and no numbers. Facts as in week 47's "Résumé builder" section.
+- Source: Philip, Nov 11 (via HQ): he used the free resume builder on his own resume and a real job posting, and it worked very well. No detail of his resume or that job, and no numbers. Facts as in week 47's "Resume builder" section.
 - Tags: Day60 page (auto)
-- First comment: none (Buffer can't post one). Was: the résumé builder link.
+- First comment: none (Buffer can't post one). Was: the resume builder link.
 - In Buffer: scheduled Nov 23 by Social (Buffer post `6b04dc07f0d7b1e0de9b78d8`), Tue Nov 24, 3:07 PM CT, as a text post. Nothing for Philip to do.
-- HQ fix Nov 23: #967 email step. Since Nov 21 the free builders ask for an email before the Word file and Day60 keeps it, so "keeps none of what you add" became "doesn't store your résumé. Give your email and you get a Word file." Buffer post edited the same day.
+- HQ fix Nov 23: #967 email step. Since Nov 21 the free builders ask for an email before the Word file and Day60 keeps it, so "keeps none of what you add" became "doesn't store your resume. Give your email and you get a Word file." Buffer post edited the same day.
 - Link: `https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48-LI-resume`, the body's last line.
 
 ```
-I ran my own résumé through our résumé builder.
+I ran my own resume through our resume builder.
 
-One real job posting. One résumé. That was the whole input.
+One real job posting. One resume. That was the whole input.
 
 In sales you don't send the same pitch to every account. You read what that buyer needs and lead with the part of your story that answers it.
 
-A résumé works the same way. It's tempting to send one version everywhere and hope the right lines get noticed.
+A resume works the same way. It's tempting to send one version everywhere and hope the right lines get noticed.
 
-The builder reads the posting first and shows what the job wants: the keywords, and the three problems the role solves. Then it tailors your résumé to that one job, using only what your résumé and your notes show. It never adds a skill, a number or a title you don't have. Keywords you can't claim yet get their own list, so you see the gap instead of papering over it.
+The builder reads the posting first and shows what the job wants: the keywords, and the three problems the role solves. Then it tailors your resume to that one job, using only what your resume and your notes show. It never adds a skill, a number or a title you don't have. Keywords you can't claim yet get their own list, so you see the gap instead of papering over it.
 
-It worked well on mine. It's free on the Day60 site, needs no account and doesn't store your résumé. Give your email and you get a Word file.
+It worked well on mine. It's free on the Day60 site, needs no account and doesn't store your resume. Give your email and you get a Word file.
 
-What's the one line on your résumé you'd rewrite for every job?
+What's the one line on your resume you'd rewrite for every job?
 
 https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48-LI-resume
 
@@ -64,7 +64,7 @@ Thank you for reading and commenting on my Day60 posts this fall.
 
 Here's one thing for today, and it isn't an application.
 
-Think of one person who helped your search this year. Someone who answered a cold note, made an introduction, gave you ten minutes on a call, or read your résumé and told you the truth.
+Think of one person who helped your search this year. Someone who answered a cold note, made an introduction, gave you ten minutes on a call, or read your resume and told you the truth.
 
 Send them two lines today: what they did, and what came of it. No ask.
 
@@ -77,7 +77,7 @@ Checks: hook is 19 characters. "Day60" appears once, as a thank-you, not a pitch
 
 ## Instagram and Facebook: the first action, Thanksgiving week (HQ brief, Thu Nov 12)
 
-HQ's brief: make the next step concrete (pick one job, paste its link, see the 4 people, send one message), with the free résumé builder (no account) as the easy first step. Thanksgiving week gets a gentle version: a thank-you note is the easiest first message there is. Instagram runs Sun to Wed while people are around, skips Thanksgiving, and ends on Saturday. Facebook reuses two of the week's Instagram images (IG-which, IG-thanks), never on the same day as the Instagram post. No price, no "free sprint", no founding-sprint copy, no Product Hunt. Built from design tokens (`2026-11/wk48/build.py`); Northpine and its people are invented and labeled "Illustrative example". Images Facebook reuses carry no "Link in bio".
+HQ's brief: make the next step concrete (pick one job, paste its link, see the 4 people, send one message), with the free resume builder (no account) as the easy first step. Thanksgiving week gets a gentle version: a thank-you note is the easiest first message there is. Instagram runs Sun to Wed while people are around, skips Thanksgiving, and ends on Saturday. Facebook reuses two of the week's Instagram images (IG-which, IG-thanks), never on the same day as the Instagram post. No price, no "free sprint", no founding-sprint copy, no Product Hunt. Built from design tokens (`2026-11/wk48/build.py`); Northpine and its people are invented and labeled "Illustrative example". Images Facebook reuses carry no "Link in bio".
 
 IG-story and FB-story (proposed adaptations of LI-story) moved to week 49 with LI-story; they stay proposals until it's written.
 
@@ -129,19 +129,19 @@ Day60 drafts a short note to each of the 4 people closest to the hire. You send 
 #day60 #jobsearch #careeradvice #networkingtips #coverletter
 ```
 
-### IG-rb-reel · Tue Nov 24 · 12:00 PM · DRAFT · THE FREE RÉSUMÉ BUILDER, AS A REEL (HQ brief, Nov 12)
+### IG-rb-reel · Tue Nov 24 · 12:00 PM · DRAFT · THE FREE RESUME BUILDER, AS A REEL (HQ brief, Nov 12)
 - **Cropped to a square when scheduled in the Instagram app; recycled as `2026-w48-IG-rb-reel-r2`** (Tue Nov 24, at the end of this file; HQ, Nov 22). It was still ahead in the Instagram app: HQ asked Philip to delete it there, and the library marks it replaced. It goes out this week through Buffer instead. History only.
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk48/p03_resume_cover_cobalt.png` on cobalt, uploaded as the Reel's cover (1080x1920; the grid shows the middle). Source: `2026-11/build_covers.py`.
 - Ink scene fix (HQ, Nov 13: on ink, Tick, cards and stickers get a cream keyline): the video is now `2026-11/wk48/p03_resume_reel_v2.mp4`, the same scenes and timing with keylines on the ink end scene. The old video stays in the repo.
 - Status: draft, for Philip to approve in the Post Library. Same morning as LI-resume on LinkedIn.
 - Reel: `2026-11/wk48/p03_resume_reel.mp4` (20 s, silent, text on screen; source: `2026-11/wk48/build.py`). The cover is the first frame. Scene 2 is the real crop of getday60.com/resume-builder from week 47; scenes 3 to 5 are rebuilt and labeled "Illustrative example".
-- Alt text: Tailor your résumé to one job, with no account: the free résumé builder in 4 steps. getday60.com/resume-builder
-- Link: bio link stays /try (its menu's Free tools links to the résumé builder). The caption names getday60.com/resume-builder as plain text.
+- Alt text: Tailor your resume to one job, with no account: the free resume builder in 4 steps. getday60.com/resume-builder
+- Link: bio link stays /try (its menu's Free tools links to the resume builder). The caption names getday60.com/resume-builder as plain text.
 
 ```
-Before you message anyone about a job, make your résumé read like it was written for that job.
+Before you message anyone about a job, make your resume read like it was written for that job.
 
-The free résumé builder rewrites your résumé for one job using only what's already true. No new skills, numbers or titles. It shows what the job wants, the keywords you can't claim yet, and questions that can make it stronger. You read every line, then download a Word file.
+The free resume builder rewrites your resume for one job using only what's already true. No new skills, numbers or titles. It shows what the job wants, the keywords you can't claim yet, and questions that can make it stronger. You read every line, then download a Word file.
 
 No account, and nothing you add is kept. It's at getday60.com/resume-builder, or tap the link in bio and choose Free tools.
 
@@ -276,22 +276,22 @@ Day60 drafts a short note to each of the 4 people closest to the hire. You send 
 #day60 #jobsearch #careeradvice #networkingtips #coverletter
 ```
 
-### IG-rb-reel-r2 · Tue Nov 24 · 3:31 PM · APPROVED (recycled, HQ Nov 22) · THE RÉSUMÉ BUILDER, AS A REEL
+### IG-rb-reel-r2 · Tue Nov 24 · 3:31 PM · APPROVED (recycled, HQ Nov 22) · THE RESUME BUILDER, AS A REEL
 - **Recycled (HQ, Nov 22):** a new copy of `2026-w48-IG-rb-reel` (above), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w48-IG-rb-reel-r2`. It goes out this week with its original caption, word for word (HQ, Nov 22, 17:52Z: it was approved and never went out).
 - Status: approved. The recycled copy keeps the original's approval (HQ, Nov 22).
 - In Buffer: scheduled Nov 22 as an Instagram Reel, shared to the feed (Buffer post `6b03a412846b0ee907d772a9`), Tue Nov 24, 3:31 PM CT. The video goes in through jsDelivr at a fixed commit, and `thumbnailOffset` 500 picks the cover from the first second. Nothing for Philip to do.
-- HQ fix Nov 23 (night): #967 email step. Caption replaced: the builder now asks for an email before the Word file, and it doesn't store your résumé. Buffer post edited the same night. The video's end scene still says "Nothing you add is kept" (reported to HQ; no re-render without HQ).
-- Reel: `2026-11/wk48/p03_resume_reel_v4_cover.mp4` (1080x1920: the cover held for 1 second, then the approved video, its end scene fixed for the #967 email step, HQ fix Nov 23 (night): "Read every line. Add your email, get a Word file." and "Free. No account. Your résumé isn't stored."; source `2026-11/wk48/build_cover_first.py`) · Cover: `2027-01/wk04/p03_resume_cover_cobalt_grid.png` (1080x1920, key content inside the center 1080x1440; source `2027-01/build_reel_covers_grid.py`)
-- Alt text (cover): Tailor your résumé to one job, with no account: the free résumé builder in 4 steps. getday60.com/resume-builder
+- HQ fix Nov 23 (night): #967 email step. Caption replaced: the builder now asks for an email before the Word file, and it doesn't store your resume. Buffer post edited the same night. The video's end scene still says "Nothing you add is kept" (reported to HQ; no re-render without HQ).
+- Reel: `2026-11/wk48/p03_resume_reel_v4_cover.mp4` (1080x1920: the cover held for 1 second, then the approved video, its end scene fixed for the #967 email step, HQ fix Nov 23 (night): "Read every line. Add your email, get a Word file." and "Free. No account. Your resume isn't stored."; source `2026-11/wk48/build_cover_first.py`) · Cover: `2027-01/wk04/p03_resume_cover_cobalt_grid.png` (1080x1920, key content inside the center 1080x1440; source `2027-01/build_reel_covers_grid.py`)
+- Alt text (cover): Tailor your resume to one job, with no account: the free resume builder in 4 steps. getday60.com/resume-builder
 - Ground: cobalt. This week's Instagram grounds, Mon to Sun: ink, cobalt, mint, cream, ink, coral, cobalt (after lime on Nov 21 and pink on Nov 22), so any 4 in a row differ and cream is 1 in 7.
 - Link: the bio link stays /try. No link in the caption.
 
 ```
-Before you message anyone about a job, make your résumé read like it was written for that job.
+Before you message anyone about a job, make your resume read like it was written for that job.
 
-The free résumé builder rewrites your résumé for one job using only what's already true. No new skills, numbers or titles. It shows what the job wants, the keywords you can't claim yet, and questions that can make it stronger. You read every line, then give your email and get a Word file.
+The free resume builder rewrites your resume for one job using only what's already true. No new skills, numbers or titles. It shows what the job wants, the keywords you can't claim yet, and questions that can make it stronger. You read every line, then give your email and get a Word file.
 
-No account needed, and it doesn't store your résumé. It's at getday60.com/resume-builder, or tap the link in bio and choose Free tools.
+No account needed, and it doesn't store your resume. It's at getday60.com/resume-builder, or tap the link in bio and choose Free tools.
 
 #day60 #jobhunting #jobsearch #newjob #careeradvice
 ```

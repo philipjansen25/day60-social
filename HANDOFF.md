@@ -57,7 +57,7 @@ The fix follows HQ's Nov 14 precedent (see `p01_four_people_6_fb_v2` in `2026-11
 The same "Link in bio" end scene is in the other Reels. Any Facebook use of them needs a Facebook cut first:
 - One Job: `oj_end()` in `2026-11/wk47/build_first.py`, sticker at y 1130
 - Red Pen: `rp_end()`, same file
-- résumé builder: the `rb` end scene in `2026-11/wk48/build.py`, white sticker at y 1110
+- resume builder: the `rb` end scene in `2026-11/wk48/build.py`, white sticker at y 1110
 
 ### 1c. The batch HQ needs before Wed Nov 25's 4:17 PM run (not drafted yet)
 

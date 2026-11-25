@@ -96,8 +96,8 @@ g = "lime"
 out("p02_resume_builder_1", "wk47", g,
     dial(860, 1010, 380, g, opacity=0.10)
     + stk("Save this", WHITE, 72, 72)
-    + head("One résumé. Tailored to one job.", 200, 118)
-    + sub("How the free résumé builder works, on an invented résumé and job.", 690, 44, 560, 1.2)
+    + head("One resume. Tailored to one job.", 200, 118)
+    + sub("How the free resume builder works, on an invented resume and job.", 690, 44, 560, 1.2)
     + at(60, 660, tick("thinking", 320), right=True)
     + spark(870, 110, 70, WHITE) + spark(140, 1080, 44, PINK)
     + foot_g(g, right="getday60.com/resume-builder"))
@@ -187,8 +187,8 @@ out("p02_which", "wk48", g,
 g = "cobalt"
 out("p03_resume_cover", "wk48", g,
     dial(880, 1480, 420, g)
-    + stk("Free résumé builder", WHITE, 72, 290)
-    + head("Tailor your résumé to one job.", 410, 150)
+    + stk("Free resume builder", WHITE, 72, 290)
+    + head("Tailor your resume to one job.", 410, 150)
     + head('<span class="fill">No account.</span>', 1010, 120)
     + at(80, 1200, tick("thinking", 320), right=True)
     + spark(900, 330, 70, PINK) + spark(140, 1330, 44, MINT)

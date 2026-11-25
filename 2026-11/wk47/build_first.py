@@ -75,7 +75,7 @@ LINES = [("Hi Maya,", None),
          ("I hope this finds you well.", False),
          ("I'm very passionate about this opportunity, and I'm a fast learner.", False),
          ("Your posting says new customers take too long to get started.", "What you noticed"),
-         ("I've attached my résumé for your consideration.", False),
+         ("I've attached my resume for your consideration.", False),
          ("At my last job, I onboarded new accounts and trained their teams.", "One line of proof"),
          ("Please let me know if there are any opportunities to connect.", False),
          ("Where do new customers get stuck most: setup or training?", "One clear question")]

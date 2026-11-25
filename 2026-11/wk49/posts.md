@@ -331,7 +331,7 @@ A short glossary of job posting language.
 "Fast-paced": you'll start yesterday.
 "Wears many hats": several jobs, one salary.
 "Competitive salary": they'll tell you in round four.
-"We'll keep your résumé on file": the file is very large.
+"We'll keep your resume on file": the file is very large.
 
 Job postings read a lot like bad cold emails. Written for everyone, so they land with no one.
 
@@ -411,7 +411,7 @@ Light humor, HQ's three facts only, no named source, no percentage. The card: `2
 ```
 The robot didn't reject you.
 
-If you or someone you know is applying and hearing nothing, it's easy to picture software reading the résumé and throwing it out.
+If you or someone you know is applying and hearing nothing, it's easy to picture software reading the resume and throwing it out.
 
 Most applicant tracking systems don't do that. They store applications, and recruiters search them by keyword when they're ready. What can screen someone out early is the form: questions about work authorization, location or years of experience.
 
@@ -435,7 +435,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 ```
 The robot didn't reject you.
 
-Most applicant tracking systems don't read your résumé and say no on their own. They store applications, and recruiters search them by keyword when they're ready to look.
+Most applicant tracking systems don't read your resume and say no on their own. They store applications, and recruiters search them by keyword when they're ready to look.
 
 What can screen you out early is the form: questions about work authorization, location or years of experience. Not your font.
 

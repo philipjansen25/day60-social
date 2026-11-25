@@ -117,15 +117,15 @@ Today: open one job you saved on LinkedIn and press the button.
 
 #day60 #jobsearch #jobsearchtips #careertips #networking"""),
  dict(orig="2026-w47-IG-resume", pid="IG-resume-r2", week="2027-w01", dir="2027-01/wk01", date="2027-01-07", time="09:32", day="Thu Jan 7", t="9:32 AM",
-      title="One résumé, tailored to one job", ground="lime", status="approved", cap="""One résumé, tailored to one job.
+      title="One resume, tailored to one job", ground="lime", status="approved", cap="""One resume, tailored to one job.
 
-Swipe to see Day60's free résumé builder at work on an invented résumé and job. Add the job and your résumé (a PDF, a Word file or the text), and it rewrites the résumé for that one job, using only what your résumé and your notes show. Keywords you can't claim yet get their own list.
+Swipe to see Day60's free resume builder at work on an invented resume and job. Add the job and your resume (a PDF, a Word file or the text), and it rewrites the resume for that one job, using only what your resume and your notes show. Keywords you can't claim yet get their own list.
 
-Read every line, then give your email and get a Word file. No account needed, and it doesn't store your résumé.
+Read every line, then give your email and get a Word file. No account needed, and it doesn't store your resume.
 
 It's at getday60.com/resume-builder, or tap the link in bio and choose Free tools.
 
-Today: pick the one job you want most and tailor your résumé to it.
+Today: pick the one job you want most and tailor your resume to it.
 
 #day60 #jobhunting #jobsearch #newjob #careeradvice"""),
  dict(orig="2026-w48-IG-onelink", pid="IG-onelink-r2", week="2027-w03", dir="2027-01/wk03", date="2027-01-18", time="12:00", day="Mon Jan 18", t="12:00 PM",
@@ -164,13 +164,13 @@ Today: cut your next message to three lines and send it. One message today beats
 
 #day60 #jobsearch #careeradvice #networkingtips #coverletter"""),
  dict(orig="2026-w48-IG-rb-reel", pid="IG-rb-reel-r2", week="2027-w04", dir="2027-01/wk04", date="2027-01-28", time="19:00", day="Thu Jan 28", t="7:00 PM",
-      title="The résumé builder, as a Reel", ground="cobalt", status="approved", reel=True, cap="""Make your résumé read like it was written for the job, before you message anyone about it.
+      title="The resume builder, as a Reel", ground="cobalt", status="approved", reel=True, cap="""Make your resume read like it was written for the job, before you message anyone about it.
 
-The free résumé builder rewrites your résumé for one job using only what's already true. No new skills, numbers or titles. It shows what the job wants, the keywords you can't claim yet, and questions that can make it stronger. You read every line, then download a Word file.
+The free resume builder rewrites your resume for one job using only what's already true. No new skills, numbers or titles. It shows what the job wants, the keywords you can't claim yet, and questions that can make it stronger. You read every line, then download a Word file.
 
 No account, and nothing you add is kept. It's at getday60.com/resume-builder, or tap the link in bio and choose Free tools.
 
-Today: pick one job and tailor your résumé to it.
+Today: pick one job and tailor your resume to it.
 
 #day60 #jobhunting #jobsearch #newjob #careeradvice"""),
 ]
@@ -188,7 +188,7 @@ SWAP.update({"2026-11/wk47/p02_resume_builder_%d.png" % k: "2026-11/wk47/p02_res
 THANKS = {
  # HQ fix Nov 23 (night), #967 email step: IG-resume-r2's last slide (not a thanks slide; same path swap)
  "2026-11/wk47/p02_resume_builder_6_v2_safe.png": ("2026-11/wk47/p02_resume_builder_6_v3.png",
-     "Read every line, add your email, get a Word file. Free, no account, résumé not stored: getday60.com/resume-builder"),
+     "Read every line, add your email, get a Word file. Free, no account, resume not stored: getday60.com/resume-builder"),
  "2026-11/wk48/p01_thanks_1_pink_safe.png": ("2026-12/wk52/p01_thanks_1_pink_holiday.png",
      "Holiday week: send one thank-you. 3 people in your job search worth thanking, and what to say."),
  "2026-11/wk48/p01_thanks_5_safe.png": ("2026-12/wk52/p01_thanks_5_holiday.png",
@@ -209,7 +209,7 @@ SWAP.update({
 # captions ("they were approved and never went out"), filed in 2026-11/wk48. The Reels use the cover-first videos.
 THIS_WEEK = {
  "2026-w48-IG-which": dict(date="2026-11-23", time="20:37", day="Mon Nov 23", t="8:37 PM", buffer="6b032f49846b0ee907a87d0d", cap="Which would you answer, A or B? Tell us in the comments.\n\nBoth are the last line of a first message to a hiring manager.\n\nA asks a stranger for 30 minutes of their week. B asks something they can answer in one line, and it shows you already understand the job.\n\nEnd your first message with a question that's easy to answer.\n\nDay60 drafts a short note to each of the 4 people closest to the hire. You send every message. Link in bio.\n\n#day60 #jobsearch #careeradvice #networkingtips #coverletter"),
- "2026-w48-IG-rb-reel": dict(date="2026-11-24", time="15:31", day="Tue Nov 24", t="3:31 PM", buffer="6b03a412846b0ee907d772a9", cap="Before you message anyone about a job, make your résumé read like it was written for that job.\n\nThe free résumé builder rewrites your résumé for one job using only what's already true. No new skills, numbers or titles. It shows what the job wants, the keywords you can't claim yet, and questions that can make it stronger. You read every line, then give your email and get a Word file.\n\nNo account needed, and it doesn't store your résumé. It's at getday60.com/resume-builder, or tap the link in bio and choose Free tools.\n\n#day60 #jobhunting #jobsearch #newjob #careeradvice"),
+ "2026-w48-IG-rb-reel": dict(date="2026-11-24", time="15:31", day="Tue Nov 24", t="3:31 PM", buffer="6b03a412846b0ee907d772a9", cap="Before you message anyone about a job, make your resume read like it was written for that job.\n\nThe free resume builder rewrites your resume for one job using only what's already true. No new skills, numbers or titles. It shows what the job wants, the keywords you can't claim yet, and questions that can make it stronger. You read every line, then give your email and get a Word file.\n\nNo account needed, and it doesn't store your resume. It's at getday60.com/resume-builder, or tap the link in bio and choose Free tools.\n\n#day60 #jobhunting #jobsearch #newjob #careeradvice"),
  "2026-w48-IG-onelink": dict(date="2026-11-25", time="12:54", day="Wed Nov 25", t="12:54 PM", buffer="6b03a42f846b0ee907d77d70", cap='One job link. Four people. One message.\n\nPaste a job link, and Day60 finds the 4 people closest to the hire: the hiring manager, their boss, someone on the team who knows the work, and the recruiter. Each comes with a verified work email and a short note in your voice, and Tick checks every draft.\n\nThen you send it. Day60 never logs in to LinkedIn and never sends anything for you.\n\nPaste a job link. Get your 4 people. Link in bio.\n\n#day60 #jobsearch #jobsearchtips #careertips #networking'),
  "2026-w48-IG-shortlist": dict(date="2026-11-28", time="21:24", day="Sat Nov 28", t="9:24 PM", buffer="6b03c361c72676f5e986eb98", cap="Long weekend. Short list.\n\n1. Pick one job you'd say yes to.\n2. Paste its link and see your 4 people.\n3. Send the hiring manager one short note.\n\nThen back to the leftovers.\n\nPaste a job link. Get your 4 people. Link in bio.\n\n#day60 #jobhunting #jobsearch #newjob #careeradvice"),
 }

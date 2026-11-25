@@ -70,7 +70,7 @@ Standing brief for HQ and every agent: **Head of Growth, Conversion & Monetizati
 | Laid off, mid-career | Shame, silence, "I've never been out this long" | Calm, practical next step; dignity; no hype |
 | First job / new grad | "Everyone wants 3 years' experience" | Permission to message people; scripts they can copy |
 | Senior / leadership | Applying feels beneath them; network is thin in a new field | Peer tone, the boss's-boss angle, credible stats |
-| Career changers | No one in the new field knows them | The internal champion; a sharp question beats a résumé |
+| Career changers | No one in the new field knows them | The internal champion; a sharp question beats a resume |
 | Friends and family (FB) | Want to help someone they love who's looking | Share/tag asks: "send this to someone looking" |
 
 Working hypotheses to test (not facts yet):
@@ -336,8 +336,8 @@ Philip published the guides on Nov 3. Besides /try, LinkedIn and Facebook posts 
 ## 10b. Competitors (Philip's decision, Nov 2)
 - **Never name competitor tools in social posts or Reddit replies.** That includes Teal, Huntr, Jobscan and Careerflow. No logos, screenshots or tags either. Named, factual comparisons live only on the draft guide pages (issue #62), which Philip approves one by one.
 - Contrast only with the general habit: "applying to hundreds of jobs", "spray and pray", "auto-apply bots", "mass-apply tools". Keep it calm and never mock anyone.
-- Fair line to reuse: "Keep your tracker. Day60 is the part after you find the job." **Never "and your résumé tool" in new copy (HQ, Nov 11):** Day60 has its own free résumé builder (getday60.com/resume-builder) and promotes it. Posts already scheduled with the old line stay as they are (LI1).
-- **Free résumé builder (HQ, Nov 11):** the public labels are "What this job wants", "Keywords you can't claim yet", "Make it stronger" and "Rebuild with my answers". It rewrites a résumé for one job using only what the résumé and the user's notes show, never adding a skill, number or title. Job links can't be LinkedIn links. The user reads every line, then downloads a Word file or copies the text. "Day60 keeps none of it." Claim nothing beyond that. Rebuilt result screens are labeled "Illustrative example".
+- Fair line to reuse: "Keep your tracker. Day60 is the part after you find the job." **Never "and your resume tool" in new copy (HQ, Nov 11):** Day60 has its own free resume builder (getday60.com/resume-builder) and promotes it. Posts already scheduled with the old line stay as they are (LI1).
+- **Free resume builder (HQ, Nov 11):** the public labels are "What this job wants", "Keywords you can't claim yet", "Make it stronger" and "Rebuild with my answers". It rewrites a resume for one job using only what the resume and the user's notes show, never adding a skill, number or title. Job links can't be LinkedIn links. The user reads every line, then downloads a Word file or copies the text. "Day60 keeps none of it." Claim nothing beyond that. Rebuilt result screens are labeled "Illustrative example".
 - Philip's goal: people should know exactly what Day60 is, what it isn't, and the value it gives (replies from people who can hire you, instead of more applications into a pile). "It doesn't have to be an outright assault on the competition."
 
 ## 10c. Alt text (Philip, Sun Nov 15, via HQ: a standing rule)
@@ -367,11 +367,14 @@ Cut on sight in final copy (fine only inside a quoted "bad message" example bein
 
 **Claims we can't back up (HQ, Nov 5):** "every other tool", "the only tool", "no one else", "all job tools" and any other sweeping comparison or superlative without a cited source. Use a claim we can prove, e.g. "Most job tools make applying faster."
 
-**Job-seeker clichés we mock, never use straight:** I hope this finds you well, I'm passionate about, I'd love to pick your brain, just following up, to whom it may concern, please find my résumé attached, I'm a great fit.
+**Spelling (Philip, Wed Nov 25, 2026, 8:05 AM CT, via HQ):** never write "résumé" (or "Résumé", "resumé"); always "resume". In his words: never write "résumé"; always "resume". This covers every post, caption, alt text, image text, Reddit reply and hashtag.
+
+**Job-seeker clichés we mock, never use straight:** I hope this finds you well, I'm passionate about, I'd love to pick your brain, just following up, to whom it may concern, please find my resume attached, I'm a great fit.
 
 ## 12. Hard rules (checklist before every hand-off)
 
 - [ ] Hashtags on every post.
+- [ ] "resume", never "résumé", in text, alt text and image text (Philip, Nov 25).
 - [ ] He's "Phil" in all new public copy and alt text; never "Philip", never the surname.
 - [ ] Alt text follows §10c: what each slide is for, 125 characters or less, no Tick and no description of the picture.
 - [ ] No Philip personal results on LinkedIn.

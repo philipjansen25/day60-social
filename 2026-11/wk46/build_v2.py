@@ -87,7 +87,7 @@ out("p01_is_isnt_5", is_slide(5, False, "An auto-apply bot.",
 out("p01_is_isnt_6", is_slide(6, False, "A LinkedIn hack.",
     "It never logs in to LinkedIn, scrapes it or automates it. No mass messages. No keyword stuffing.", "waiting"))
 out("p01_is_isnt_7", end_dark(7, N,
-    'Keep your tracker and your résumé tool.<br><br><span class="fill" style="color:#16133A">Day60 is the part after you find the job.</span>',
+    'Keep your tracker and your resume tool.<br><br><span class="fill" style="color:#16133A">Day60 is the part after you find the job.</span>',
     "Day60 Sprint. Free.", "No card. Nothing to cancel.", "Link in bio →"))
 
 # ---------- P02 is / isn't card ----------
@@ -112,7 +112,7 @@ out("p02_is_isnt_card", page(
     + foot()))
 
 # ---------- P04 where Day60 fits ----------
-steps = [("Find the job", "your job board"), ("Tailor your résumé", "your résumé tool"),
+steps = [("Find the job", "your job board"), ("Tailor your resume", "your resume tool"),
          ("Track it", "your tracker"), ("Reach the people who decide", "Day60")]
 flow = ""
 for k, (a, b) in enumerate(steps):

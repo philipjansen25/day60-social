@@ -123,13 +123,13 @@ Stop applying. Start prospecting.
 
 ### IG-27of39 · Mon Nov 2 · 12:00 PM · POSTED Nov 2, 12:06 PM (Buffer)
 - Image: `p01_27of39.png`
-- Alt text: Day60 card: 39 applications, 27 interviews. Same résumé, I just stopped letting it travel alone. Founder's results, Aug–Oct 2026. Yours will vary. Tick the stopwatch mascot celebrating.
+- Alt text: Day60 card: 39 applications, 27 interviews. Same resume, I just stopped letting it travel alone. Founder's results, Aug–Oct 2026. Yours will vary. Tick the stopwatch mascot celebrating.
 - Retired claim: the 39/27 figures are retired (Nov 4). History only.
 
 ```
 39 applications. 27 interviews.
 
-Same résumé. The only change: I stopped sending it alone.
+Same resume. The only change: I stopped sending it alone.
 
 For every job, I found the four people closest to the hire and sent each one a short, specific note.
 
@@ -148,7 +148,7 @@ Founder's results, Aug–Oct 2026. Yours will vary.
 ```
 This fall I ran my own job search the way I used to run sales teams. 39 applications. 27 interviews.
 
-My résumé didn't change. What changed: for every job, I found the people closest to the hire and wrote each of them a short note about their problem.
+My resume didn't change. What changed: for every job, I found the people closest to the hire and wrote each of them a short note about their problem.
 
 I built Day60 so anyone can run the same play. It helps you identify the people, finds their verified work emails and drafts each note. Free: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=wk1_27of39
 
