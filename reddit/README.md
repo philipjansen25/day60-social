@@ -42,12 +42,13 @@ Philip, Nov 20, verbatim: "I want to comment on all alerts going forward." and "
 9. HQ expects 30 to 40 posts a day at the current keywords (Nov 20). If the real count is far off either way after three days, tell HQ the real number (Nov 20 had 15 posts in 4 alerts).
 
 ### F5Bot alerts (Philip signs up; HQ's Thu list, task 7, Nov 19)
-Free email alerts when a keyword appears on Reddit. Keywords match post titles and links (and comments, which we turn off). Matching ignores case and finds the letters inside longer words. Five keywords, each with the same flag string typed in F5Bot's flags field: `no-comments only-subreddit=jobs,jobsearchhacks,careerguidance,resumes,recruitinghell,GetEmployed,EngineeringResumes,cscareerquestions` (133 characters; Philip said yes to adding EngineeringResumes and cscareerquestions on Tue Nov 24, 1:20 PM CT, and changes the flags by hand. F5Bot's free plan caps the box at 150, so sales, salesdevelopment and csMajors stay out). Before Nov 24: the six subs without those two (96 characters, Nov 19). Philip may fall back to `no-comments` alone, so the run never assumes F5Bot filtered by sub.
-- `hiring manager`
+Free email alerts when a keyword appears on Reddit. Keywords match post titles and links (and comments, which we turn off). Matching ignores case and finds the letters inside longer words. Four keywords from Nov 25 (five before), each with the same flag string typed in F5Bot's flags field: `no-comments only-subreddit=jobs,jobsearchhacks,careerguidance,resumes,recruitinghell,GetEmployed,EngineeringResumes,cscareerquestions` (133 characters; Philip said yes to adding EngineeringResumes and cscareerquestions on Tue Nov 24, 1:20 PM CT, and changes the flags by hand. F5Bot's free plan caps the box at 150, so sales, salesdevelopment and csMajors stay out). Before Nov 24: the six subs without those two (96 characters, Nov 19). Philip may fall back to `no-comments` alone, so the run never assumes F5Bot filtered by sub.
+- ~~`hiring manager`~~ dropped Wed Nov 25 (HQ took Social's pick after F5Bot paused all keywords at the free plan's 20-alerts-a-day limit on Tue Nov 24; Philip deletes it in F5Bot and turns the other four back on). Hiring-manager questions still come in through the other keywords.
 - `cold email`
 - `no interviews`
 - `ghosted`
 - `no callbacks` (or `follow up` if F5Bot refuses it). `referral` is out: F5Bot's free plan refuses it as too common (Nov 19). Referral questions can still come in through `hiring manager` and `cold email`.
+- If the 20-a-day limit is hit again with four keywords and 8 subs, tell HQ the busiest keyword and its alert count that day (HQ, Nov 25). Until Philip re-enables the keywords, run on whatever alerts arrive.
 - Caveat: F5Bot relies on its own Reddit access, which may end by March 2027.
 
 ## History (retired)
