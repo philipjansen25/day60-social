@@ -17,6 +17,11 @@ Fixed ids you'll need:
 
 ## 0. New since the handoff (Social, Tue Nov 24)
 
+- **Formats from HQ's weekly brief (Thu Nov 26, from the Nov 19 to 26 Buffer numbers).**
+  - Make more of: LinkedIn first-person Phil "I tried it" posts (936 reach, the best), short message-craft lessons on LinkedIn (315 reach, 6 reactions), and resume-tool posts on Instagram (49 reach against 7 to 17).
+  - Cut: the A/B "which would you answer" quiz on Instagram and Facebook (0 to 8 reach, 0 comments).
+  - Rebuild: a news hook about another company's launch stays only when Phil's own point carries the post.
+  - Facebook keeps 7 a week but gets no Facebook-only creative. It reuses that week's Instagram images and captions.
 - **LinkedIn window (Philip, Tue Nov 24, 2026, 12:15 PM CT, via HQ), his words: "All LinkedIn posts should go out between 8am-1pm".** Every LinkedIn post, Day60 and H alike, goes out between 8:00 AM and 12:59 PM CT, at a random minute that isn't a multiple of 5. Cadence unchanged (6 a week, Sun to Fri); Instagram and Facebook keep their windows. `scripts/pick_time.py` and playbook §5 have it. HQ moved the six LinkedIn posts in Buffer on Nov 24; their repo times match. The table below shows the old times.
 
 ## 1. Open work, exact state
