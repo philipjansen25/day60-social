@@ -1,9 +1,9 @@
-"""Career-fair print kit (HQ, Nov 19): handout, QR card and table sign for one event.
+"""Career-fair print kit (HQ, Nov 19; words and campaign updated Nov 27): handout, table card and QR card for one event.
 
-Usage:  python3 print/fairs/build.py <slug>        e.g. austin-test
-Writes: print/fairs/<slug>/handout.pdf, qr-card.pdf, table-sign.pdf, and a PNG preview of each.
+Usage:  python3 print/fairs/build.py <slug>        e.g. example
+Writes: print/fairs/fair-<slug>/handout.pdf, table-card.pdf, qr-card.pdf, and a PNG preview of each.
 
-Every QR code opens https://getday60.com/try?utm_source=career_fair&utm_medium=qr&utm_campaign=<slug>.
+Every QR code opens https://getday60.com/try?utm_source=career_fair&utm_medium=qr&utm_campaign=fair-<slug>.
 Before anything is written, the script renders each PDF page back to pixels, decodes every QR code it finds
 and fails unless each piece has its codes where expected and each decodes to that exact link. render_pdf.js
 also fails a piece with lime text, more or fewer than one lime element, or anything inside the print margin.
@@ -28,19 +28,28 @@ import segno  # noqa: E402
 import zxingcpp  # noqa: E402
 from PIL import Image, ImageDraw  # noqa: E402
 
-BASE = "https://getday60.com/try?utm_source=career_fair&utm_medium=qr&utm_campaign="
+BASE = "https://getday60.com/try?utm_source=career_fair&utm_medium=qr&utm_campaign=fair-"
 
-# The words (HQ, Nov 19). HQ shows Philip these before anything prints. Nothing else that promises anything:
-# no result numbers, no prices, no "free forever", no "verified work emails". The handout carries no founder facts.
-HEAD_1 = "You met the recruiter."
-HEAD_2 = "Now reach the people closest to the hire."
-SITE_LINE = ("Day60 helps you identify the four people closest to the hire: the hiring manager, "
-             "their boss, an internal champion and the recruiter.")
-ROLES = ("Hiring manager", "Their boss", "Internal champion", "Recruiter")
-STEP = "Paste a job link. See the 4 people."
-ACTION = "Try it free on one job"
+# The words (HQ, Nov 27): only from the live guide "What to do after a career fair"
+# (https://getday60.com/guides/what-to-do-after-a-career-fair) and the homepage (https://getday60.com/), read Nov 27.
+# Quoted lines are verbatim; the step lines under each guide heading paraphrase what that section says.
+# No result numbers, no prices, no capacity numbers, no "verified work emails". No founder facts.
+GUIDE_TITLE = "What to do after a career fair"                                         # guide H1
+EYEBROW = "Stop applying. Start prospecting."                                          # homepage eyebrow
+HEADLINE = "Skip the pile. Message the person who decides."                            # homepage H1
+GUIDE_SUB = ("Apply the same day, write to the recruiter you met while they still remember you, "
+             "then write to the hiring manager.")                                      # guide subhead, first sentence
+STEPS = [  # (guide heading verbatim, paraphrase of that section)
+    ("The same day: write it down and apply", "Apply to the posting the same day."),
+    ("Write to the recruiter you met", "Within a day: where you met, the exact role and one easy question."),
+    ("Find the hiring manager for that role", "The four people closest to the hire: the hiring manager, their boss, "
+                                              "an internal champion and the recruiter."),
+    ("If nobody answers", "Try the second channel after two days. One follow-up after seven days. Then stop."),
+]
+OFFER = "Paste a job link. Day60 finds the four people closest to the hire and writes your first message."  # homepage subhead
+FREE = "Day60 is free. No card needed."                                                # homepage offer
+ACTION = "Show me the 4 people"                                                        # homepage and guide CTA
 ADDRESS = "getday60.com"
-STEP_2L = STEP.replace(". ", ".<br>", 1)  # one sentence a line
 
 IN = 96  # CSS px per inch
 
@@ -100,37 +109,37 @@ def page(w_in, h_in, bg, safe_px, body):
 def handout(url):
     M = 56  # 0.58 in margin; the check allows 0.5 in
     badge = [(COBALT, WHITE), (PINK, INK), (MINT, INK), (CREAM, INK)]
-    cards = []
-    for i, (role, (bg, fg)) in enumerate(zip(ROLES, badge)):
-        met = (f'<div style="position:absolute;right:-14px;top:-14px">{ds.check(40)}</div>' if role == "Recruiter" else "")
-        cards.append(
-            f'<div class="card" data-shadow="5" style="position:relative;flex:1;border-width:3px;border-radius:18px;'
-            f'box-shadow:5px 5px 0 {INK};padding:20px 16px 24px">{met}'
-            f'<div class="d" style="width:50px;height:50px;border-radius:50%;background:{bg};color:{fg};border:3px solid {INK};'
-            f'display:flex;align-items:center;justify-content:center;font-size:27px;letter-spacing:0">{i + 1}</div>'
-            f'<div class="d" style="margin-top:16px;font-size:25px;line-height:1.05;letter-spacing:-.02em">{role}</div></div>')
+    rows = []
+    for i, ((head, line), (bg, fg)) in enumerate(zip(STEPS, badge)):
+        rows.append(
+            f'<div class="card" data-shadow="4" style="display:flex;gap:16px;align-items:flex-start;border-width:3px;'
+            f'border-radius:16px;box-shadow:4px 4px 0 {INK};padding:11px 16px 12px 12px">'
+            f'<div class="d" style="flex:none;width:42px;height:42px;border-radius:50%;background:{bg};color:{fg};'
+            f'border:3px solid {INK};display:flex;align-items:center;justify-content:center;font-size:22px;letter-spacing:0">{i + 1}</div>'
+            f'<div><div class="d" style="font-size:21px;line-height:1.1;letter-spacing:-.02em">{head}</div>'
+            f'<div style="margin-top:4px;font-size:15.5px;line-height:1.32">{line}</div></div></div>')
     body = f"""
 <div style="position:absolute;left:{M}px;right:{M}px;top:{M}px;bottom:{M}px;display:flex;flex-direction:column">
-  {logo(40, 32)}
-  <div class="d" style="margin-top:48px;font-size:60px;line-height:1.02">{HEAD_1}<br>{HEAD_2.replace(" closest", "<br>closest")}</div>
-  <div style="margin-top:26px;font-size:21px;line-height:1.42;max-width:660px">{SITE_LINE}</div>
-  <div style="margin-top:36px;display:flex;gap:18px;padding-right:5px">{"".join(cards)}</div>
-  <div class="card" data-shadow="8" style="margin-top:auto;margin-bottom:8px;margin-right:8px;background:{CREAM};border-width:4px;border-radius:26px;
-       box-shadow:8px 8px 0 {INK};padding:30px 28px 30px 34px;display:flex;align-items:center;gap:18px">
+  <div style="display:flex;align-items:center;justify-content:space-between;padding-right:56px">{logo(38, 30)}
+    <div style="font-size:16px;font-weight:700;letter-spacing:.06em;text-transform:uppercase">{GUIDE_TITLE}</div></div>
+  <div class="d" style="margin-top:26px;font-size:48px;line-height:1.02">{HEADLINE.replace(". ", ".<br>", 1)}</div>
+  <div style="margin-top:12px;font-size:17px;line-height:1.38;max-width:640px">{GUIDE_SUB}</div>
+  <div style="margin-top:18px;display:flex;flex-direction:column;gap:10px;padding-right:4px">{"".join(rows)}</div>
+  <div class="card" data-shadow="8" style="margin-top:auto;margin-bottom:8px;margin-right:8px;background:{CREAM};border-width:4px;border-radius:24px;
+       box-shadow:8px 8px 0 {INK};padding:20px 22px 20px 26px;display:flex;align-items:center;gap:16px">
     <div style="flex:1">
-      <div class="d" style="font-size:38px;line-height:1.05">{STEP_2L}</div>
-      <div style="margin-top:26px;display:flex;align-items:center;gap:14px">
-        <div class="btn" data-shadow="5" style="font-size:23px;padding:14px 20px;border-width:3px;border-radius:16px;box-shadow:5px 5px 0 {INK}">{ACTION}</div>
-      </div>
+      <div class="d" style="font-size:24px;line-height:1.12;letter-spacing:-.02em">{OFFER}</div>
+      <div style="margin-top:14px"><div class="btn" data-shadow="5" style="font-size:20px;padding:13px 20px;border-width:3px;border-radius:16px;box-shadow:5px 5px 0 {INK}">{ACTION}</div></div>
+      <div style="margin-top:14px;font-size:17px;font-weight:700">{FREE}</div>
     </div>
-    <div style="display:flex;align-items:flex-end;gap:6px">
-      <div style="margin-bottom:36px">{ds.tick("pointing", 72)}</div>
-      <div class="qrbox"><div class="card" style="border-width:3px;border-radius:14px;padding:4px;line-height:0">{qr_svg(url, 184)}</div>
-        <div class="addr" style="margin-top:10px;font-size:22px">{ADDRESS}</div></div>
+    <div style="display:flex;align-items:flex-end;gap:4px">
+      <div style="margin-bottom:34px">{ds.tick("pointing", 64)}</div>
+      <div class="qrbox"><div class="card" style="border-width:3px;border-radius:14px;padding:4px;line-height:0">{qr_svg(url, 160)}</div>
+        <div class="addr" style="margin-top:9px;font-size:21px">{ADDRESS}</div></div>
     </div>
   </div>
 </div>
-{spark(736, 64, 34)}{spark(700, 40, 18, MINT)}"""
+{spark(744, 60, 30)}{spark(712, 92, 16, MINT)}"""
     return doc(8.5, 11, [page(8.5, 11, WHITE, 48, body)])
 
 
@@ -140,7 +149,7 @@ def qr_card(url):
     S = 26  # 24 px = 0.125 in bleed + 0.125 in safe; 2 px spare
     front = f"""
 <div style="position:absolute;left:{S}px;top:{S}px">{logo(24, 19)}</div>
-<div class="d" style="position:absolute;left:{S}px;bottom:{S}px;width:226px;font-size:19.5px;line-height:1.04">{HEAD_1} {HEAD_2}</div>
+<div class="d" style="position:absolute;left:{S}px;bottom:{S}px;width:220px;font-size:21px;line-height:1.04">{HEADLINE}</div>
 <div style="position:absolute;right:{S + 2}px;bottom:{S}px">{ds.tick("running", 62)}</div>
 {spark(300, 30, 20)}{spark(282, 58, 11, MINT)}"""
     back = f"""
@@ -149,27 +158,28 @@ def qr_card(url):
   <div class="addr" style="margin-top:3px;font-size:12px">{ADDRESS}</div>
 </div>
 <div style="position:absolute;left:{S + 126}px;right:{S}px;top:{S}px;bottom:{S}px;display:flex;flex-direction:column;justify-content:center">
-  <div class="d" style="font-size:18px;line-height:1.06">{STEP_2L}</div>
-  <div style="margin-top:12px"><div class="btn" data-shadow="3" style="font-size:12px;padding:7px 10px;border-width:2px;border-radius:9px;box-shadow:3px 3px 0 {INK}">{ACTION}</div></div>
+  <div class="d" style="font-size:14.5px;line-height:1.12;letter-spacing:-.015em">Paste a job link. Day60 finds the four people closest to the hire.</div>
+  <div style="margin-top:10px"><div class="btn" data-shadow="3" style="font-size:12px;padding:7px 10px;border-width:2px;border-radius:9px;box-shadow:3px 3px 0 {INK}">{ACTION}</div></div>
+  <div style="margin-top:8px;font-size:9.5px;font-weight:700">{FREE}</div>
 </div>"""
     return doc(3.75, 2.25, [page(3.75, 2.25, CREAM, 24, front), page(3.75, 2.25, WHITE, 24, back)])
 
 
-# ---------- 3. Table sign: US Letter portrait, read from 6 ft ----------
-def table_sign(url):
+# ---------- 3. Table card: US Letter portrait, read from 6 ft ----------
+def table_card(url):
     M = 52
     body = f"""
 <div style="position:absolute;left:{M}px;right:{M}px;top:{M}px;bottom:{M}px;display:flex;flex-direction:column">
   {logo(50, 40)}
-  <div class="d" style="margin-top:26px;font-size:62px;letter-spacing:-.03em">{HEAD_1}</div>
-  <div class="d" style="margin-top:12px;font-size:96px;line-height:.96">{HEAD_2}</div>
-  <div class="d" style="margin-top:30px;font-size:52px;line-height:1.02;letter-spacing:-.025em">{STEP_2L}</div>
+  <div class="d" style="margin-top:24px;font-size:44px;letter-spacing:-.03em">{EYEBROW}</div>
+  <div class="d" style="margin-top:16px;font-size:102px;line-height:.94">{HEADLINE}</div>
   <div style="margin-top:auto;display:flex;align-items:flex-end;gap:22px">
-    <div style="flex:1;display:flex;flex-direction:column;align-items:flex-start;padding-bottom:62px;padding-right:8px">
-      <div style="align-self:flex-end;margin-right:4px;margin-bottom:8px">{ds.tick("pointing", 112)}</div>
-      <div class="btn" data-shadow="7" style="font-size:46px;padding:20px 28px;border-width:4px;border-radius:22px;box-shadow:7px 7px 0 {INK};line-height:1.05">{ACTION.replace(" on ", "<br>on ", 1)}</div>
+    <div style="flex:1;display:flex;flex-direction:column;align-items:flex-start;padding-bottom:10px;padding-right:8px">
+      <div style="align-self:flex-end;margin-right:4px;margin-bottom:8px">{ds.tick("pointing", 100)}</div>
+      <div class="btn" data-shadow="7" style="font-size:44px;padding:20px 26px;border-width:4px;border-radius:22px;box-shadow:7px 7px 0 {INK};line-height:1.05">{ACTION.replace(" the ", "<br>the ", 1)}</div>
+      <div style="margin-top:22px;font-size:30px;font-weight:700">{FREE.replace(". ", ".<br>", 1)}</div>
     </div>
-    <div class="qrbox"><div class="card" style="border-width:4px;border-radius:18px;padding:5px;line-height:0">{qr_svg(url, 262)}</div>
+    <div class="qrbox"><div class="card" style="border-width:4px;border-radius:18px;padding:5px;line-height:0">{qr_svg(url, 248)}</div>
       <div class="addr" style="margin-top:12px;font-size:46px;letter-spacing:-.01em">{ADDRESS}</div></div>
   </div>
 </div>
@@ -179,8 +189,8 @@ def table_sign(url):
 
 PIECES = [  # name, builder, page size (in), QR codes expected on each page
     ("handout", handout, (8.5, 11), [1]),
+    ("table-card", table_card, (8.5, 11), [1]),
     ("qr-card", qr_card, (3.75, 2.25), [0, 1]),
-    ("table-sign", table_sign, (8.5, 11), [1]),
 ]
 
 
@@ -233,10 +243,10 @@ def previews(name, pdf, out_png, tmp):
 
 def main():
     if len(sys.argv) != 2 or not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", sys.argv[1]) or len(sys.argv[1]) > 40:
-        sys.exit("usage: python3 print/fairs/build.py <slug>   (lowercase letters, digits and hyphens, e.g. austin-test)")
+        sys.exit("usage: python3 print/fairs/build.py <slug>   (lowercase letters, digits and hyphens, e.g. example)")
     slug = sys.argv[1]
-    url = BASE + slug
-    out_dir = os.path.join(HERE, slug)
+    url = BASE + slug  # BASE ends in "fair-"
+    out_dir = os.path.join(HERE, "fair-" + slug)
     tmp = tempfile.mkdtemp(prefix="fairs-")
     try:
         jobs = []
