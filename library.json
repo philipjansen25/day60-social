@@ -2084,6 +2084,90 @@
     "postedVia": ""
   },
   {
+    "id": "2026-w50-FB-resume",
+    "week": "2026-w50",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-12-07",
+    "time": "19:46",
+    "status": "draft",
+    "title": "Free resume builder for one job",
+    "format": "carousel",
+    "text": "If someone you know is tailoring their resume for one job, here's a free tool that helps.\n\nAdd the job and the resume. The free resume builder shows what the job wants, tailors the resume using only what's true, and lists the keywords they can't claim yet, so those stay off.\n\nRead every line, add an email, and get a Word file. Free, no account, and the resume isn't stored.\n\nShare this with someone who's looking.\n\nThe resume builder: https://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50&utm_content=resume-builder\n\nToday: pick one job and tailor your resume to it.\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-resume\n\n#jobsearch #day60 #resumetips",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-resume",
+    "files": [
+      {
+        "path": "2026-11/wk47/p02_resume_builder_1_lime_safe.png",
+        "alt": "One resume, tailored to one job: how the free resume builder works."
+      },
+      {
+        "path": "2026-11/wk47/p02_resume_builder_2_safe.png",
+        "alt": "Step 1: Add the job (a link to the posting, not LinkedIn, or the posting itself), then your resume."
+      },
+      {
+        "path": "2026-11/wk47/p02_resume_builder_3_safe.png",
+        "alt": "Step 2: See what the job wants: its keywords and the 3 problems the role solves."
+      },
+      {
+        "path": "2026-11/wk47/p02_resume_builder_4_safe.png",
+        "alt": "Step 3: Tailored, with only what's true. Your lines are reworded for the job, with no new skill, number or title."
+      },
+      {
+        "path": "2026-11/wk47/p02_resume_builder_5_safe.png",
+        "alt": "Step 4: Know the gap before they do. Keywords you can't claim yet stay off your resume."
+      },
+      {
+        "path": "2026-11/wk47/p02_resume_builder_6_fb_v3.png",
+        "alt": "Read every line, add your email, get a Word file. Free, no account, resume not stored: getday60.com/resume-builder"
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nImages go up in the listed order, each with its alt text.\nThe links stay in the text, as written.\nFacebook reuses Instagram art (HQ, Nov 26).\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-FB-extsteps",
+    "week": "2026-w50",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-12-08",
+    "time": "07:26",
+    "status": "draft",
+    "title": "The extension in three steps",
+    "format": "carousel",
+    "text": "If you or someone you know finds jobs on company careers pages, this saves a step.\n\nOpen a job on the company's own careers page, click the Day60 icon, and press \"Find the 4 people with Day60\". The job opens in Day60 with its link filled in, ready to find the 4 people closest to the hire.\n\nIt runs only when you click it. It never reads LinkedIn pages, fills in forms, applies or sends messages.\n\nShare this with someone who's looking.\n\nFree in the Chrome Web Store: https://getday60.com/chrome-extension?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50&utm_content=extension-steps\n\nToday: open one job on a company's careers page and give it one click.\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-extsteps\n\n#jobsearch #day60 #jobsearchtips",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-extsteps",
+    "files": [
+      {
+        "path": "2026-11/wk46/p14_ext_steps_1_mint_safe.png",
+        "alt": "From a careers page to your sprint in one click: how the free Day60 Chrome extension works, in 3 steps."
+      },
+      {
+        "path": "2026-11/wk46/p14_ext_steps_2_safe.png",
+        "alt": "Step 1: Open a job on the company's careers page."
+      },
+      {
+        "path": "2026-11/wk46/p14_ext_steps_3_safe.png",
+        "alt": "Step 2: Click the Day60 icon and press \"Find the 4 people with Day60\". It runs only when you click it."
+      },
+      {
+        "path": "2026-11/wk46/p14_ext_steps_4_safe.png",
+        "alt": "Step 3: The job opens in Day60 with its link filled in, ready to find the 4 people closest to the hire."
+      },
+      {
+        "path": "2026-11/wk46/p14_ext_steps_5_safe.png",
+        "alt": "What it never does: read your LinkedIn pages, fill in forms, apply or send messages. It runs only when you click it."
+      },
+      {
+        "path": "2026-11/wk46/p14_ext_steps_6_v2_safe.png",
+        "alt": "Free in the Chrome Web Store: getday60.com/chrome-extension"
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nImages go up in the listed order, each with its alt text.\nThe links stay in the text, as written.\nFacebook reuses Instagram art (HQ, Nov 26).\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
     "id": "2026-w48-LI-story",
     "week": "2026-w50",
     "channel": "linkedin",
@@ -2093,11 +2177,94 @@
     "status": "draft",
     "title": "Phil's own job search story",
     "format": "text",
-    "text": "",
+    "text": "ClickUp had an opening for a Sales Development Manager.\n\nI sent them a 13-page plan for building their sales development team, with a 90-day action plan inside.\n\nThey hired me as employee #169 to build that team.\n\nThe plan wasn't magic. It did one thing an application can't: it showed the people who decide what my first 90 days would look like.\n\nThat's the idea I built Day60 around. Before you write, learn what the team is trying to do. Then write to the person who feels the empty seat, about their problem, not your history.\n\nYou don't need 13 pages. Three lines about their team will do.\n\nToday, pick one job you want and write down one problem that team is probably trying to solve.\n\nWhat's the most useful thing you've ever sent with an application?\n\nhttps://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48-LI-story\n\n#jobsearch #careeradvice #hiring",
     "firstComment": "",
-    "link": "",
+    "link": "https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w48-LI-story",
     "files": [],
-    "notes": "Reserved, not drafted: Social writes it after HQ forwards Phil's Nov 9 post, then sends HQ the copy.\nMoved to Tue Dec 8: LI-email took Tue Dec 1 (HQ, Nov 18).\nPublishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: it ends on one next step a job seeker can take today, then a question (HQ approved this brief change on Nov 19).",
+    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nTag Day60: annotation on the first \"Day60\" (page 144030699, linkedin-company-ids.md; Philip, Nov 26).\nPhil's founder story from founder.ts lines only; no year, no result numbers.\n[VERIFY] Philip reads the story before approval: it's his own history.\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-IG-tailor",
+    "week": "2026-w50",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-12-08",
+    "time": "16:09",
+    "status": "draft",
+    "title": "Tailor it, don't fake it",
+    "format": "image",
+    "text": "Tailor it. Don't fake it.\n\nThe free resume builder tailors your resume to one job, using only what's true. Skills the job wants that you can't claim yet stay off the page, and it tells you which ones they are.\n\nRead every line, add your email, and you get a Word file. Free, no account, and your resume isn't stored: getday60.com/resume-builder\n\nToday: pick one job you want and tailor your resume to it.\n\nThen find the 4 people closest to the hire. Link in bio.\n\n#day60 #jobsearch #resumetips #careertips #jobsearchtips",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-12/wk50/p01_tailor_pink.png",
+        "alt": "Tailor it. Don't fake it. Skills the job wants that you can't claim yet stay off. Read every line, add only what's true."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nThe image goes up with its alt text.\nNo link in the caption; the bio link stays as it is.\nResume-tool post (HQ verdict, Nov 26).\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-LI-checker",
+    "week": "2026-w50",
+    "channel": "linkedin",
+    "topic": "day60",
+    "date": "2026-12-09",
+    "time": "08:01",
+    "status": "draft",
+    "title": "I ran my email through Tick",
+    "format": "text",
+    "text": "I ran a cold email through our own message checker.\n\nNot a good one. An illustrative first draft, the kind most of us write: it opened with \"I\", ran long, and ended without a question.\n\nHere's how it works. You pick what you're sending: a cold email, a LinkedIn connection note, or the message after they accept. You paste the draft. Tick checks it against 13 rules and tells you what to fix and why.\n\nTwo fixes came back first. Don't open with \"I\". End on one clear question.\n\nOne thing it doesn't do: check facts. That part stays with you.\n\nI built Day60 so the message you send is short, true and yours.\n\nToday, paste one message you're about to send into the checker and fix what Tick flags.\n\nWhat's the line you always end up cutting?\n\nhttps://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50-LI-checker\n\n#jobsearch #networking #careeradvice",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50-LI-checker",
+    "files": [],
+    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nTag Day60: annotation on the first \"Day60\" (page 144030699, linkedin-company-ids.md; Philip, Nov 26).\n\"I tried it\" post (HQ verdict, Nov 26).\n[VERIFY] Phil confirms he did this before approval.\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-FB-tailor",
+    "week": "2026-w50",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-12-09",
+    "time": "08:23",
+    "status": "draft",
+    "title": "Tailor it, don't fake it",
+    "format": "image",
+    "text": "Tailor it. Don't fake it.\n\nIf you're helping someone with their resume this month, here's the rule worth passing on: tailor it to one job, using only what's true.\n\nThe free resume builder works that way. Skills the job wants that they can't claim yet stay off the page, and it says which ones they are. Read every line, add an email, get a Word file. Free, no account, and the resume isn't stored.\n\nShare this with someone who's looking.\n\nThe resume builder: https://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50&utm_content=tailor-it\n\nToday: pick one job and tailor the resume to it.\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-tailor\n\n#jobsearch #day60 #resumetips",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-tailor",
+    "files": [
+      {
+        "path": "2026-12/wk50/p01_tailor_pink.png",
+        "alt": "Tailor it. Don't fake it. Skills the job wants that you can't claim yet stay off. Read every line, add only what's true."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe links stay in the text, as written.\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-IG-rounds",
+    "week": "2026-w50",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-12-09",
+    "time": "13:03",
+    "status": "draft",
+    "title": "Final round, round 7 of 9",
+    "format": "image",
+    "text": "Final round. (Round 7 of 9.)\n\nLong interview loops happen. You can still plan around them.\n\nIn the first call, ask two things: how many rounds there are, and who makes the final call. Then make sure that person knows who you are, instead of meeting you for the first time in round 7.\n\nToday: for one job you're interviewing for, ask the recruiter what the rounds look like.\n\nDay60 finds the 4 people closest to the hire, so you know who decides from day one. Link in bio.\n\n#day60 #jobsearch #interviewtips #careertips #jobsearchtips",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-12/wk50/p02_rounds_cobalt.png",
+        "alt": "Final round (round 7 of 9). Ask in the first call how many rounds there are and who makes the final call."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nThe image goes up with its alt text.\nNo link in the caption; the bio link stays as it is.\nhumor\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
     "postedVia": ""
   },
   {
@@ -2140,6 +2307,212 @@
       }
     ],
     "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nSlides go up in the listed order, each with its alt text.\nNo link in the caption; the bio link stays as it is.\nRecycled from 2026-w46-IG5 (HQ, Nov 22): the original was cropped to a square when it was scheduled in the Instagram app. Same images at Instagram's size; the caption is lightly refreshed.\nApproved: it keeps the original's approval (HQ, Nov 22).",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-LI-findhm",
+    "week": "2026-w50",
+    "channel": "linkedin",
+    "topic": "day60",
+    "date": "2026-12-10",
+    "time": "09:44",
+    "status": "draft",
+    "title": "How to find the hiring manager",
+    "format": "text",
+    "text": "Most people know they should write to the hiring manager.\n\nThe hard part is finding out who that is.\n\nThe posting holds more clues than people use. Read it twice: once for the job, once for the people. Look for the team name, a \"reports to\" line, any names, and the level of the role.\n\nThen check the company's own pages: the team page, announcements, the blog. Search LinkedIn yourself with a short title keyword. Before you write, confirm the person still works there and that their title fits the team.\n\nNot sure which of two people leads the team? Ask the recruiter or someone on the team first. A short question costs less than a message to the wrong person.\n\nRather skip the digging? Day60 finds the 4 people closest to the hire for you.\n\nToday, pick one job and find its hiring manager's name.\n\nWho's the hardest person to find for the roles you want?\n\nThe full guide, with an example start to finish:\nhttps://getday60.com/guides/how-to-find-the-hiring-manager?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50&utm_content=find-hiring-manager\n\n#jobsearch #hiring #careeradvice",
+    "firstComment": "",
+    "link": "https://getday60.com/guides/how-to-find-the-hiring-manager?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50&utm_content=find-hiring-manager",
+    "files": [],
+    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nTag Day60: annotation on the first \"Day60\" (page 144030699, linkedin-company-ids.md; Philip, Nov 26).\nGuide of the week (LinkedIn): how-to-find-the-hiring-manager.\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": "",
+    "guide": "how-to-find-the-hiring-manager"
+  },
+  {
+    "id": "2026-w50-FB-rounds",
+    "week": "2026-w50",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-12-10",
+    "time": "10:31",
+    "status": "draft",
+    "title": "Final round, round 7 of 9",
+    "format": "image",
+    "text": "Final round. (Round 7 of 9.)\n\nLong interview loops are real, and they're tiring. If you or someone you know is in one, two questions help in the very first call: how many rounds are there, and who makes the final call?\n\nThen make sure that person knows who you are before round 7.\n\nShare this with someone who's looking.\n\nToday: ask the recruiter what the rounds look like for one job.\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-rounds\n\n#jobsearch #day60 #interviewtips",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-rounds",
+    "files": [
+      {
+        "path": "2026-12/wk50/p02_rounds_cobalt.png",
+        "alt": "Final round (round 7 of 9). Ask in the first call how many rounds there are and who makes the final call."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe links stay in the text, as written.\nhumor\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-FB-firstline",
+    "week": "2026-w50",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-12-11",
+    "time": "08:08",
+    "status": "draft",
+    "title": "Your first line is about them",
+    "format": "image",
+    "text": "Your first line is about them.\n\nWhen you write to a hiring manager, skip the life story. Start with one thing their team is working on that you noticed.\n\nIllustrative: \"Saw your team is opening a second support office this spring.\"\n\nThen one line of proof you can help, and one easy question. Short enough to read on a phone.\n\nShare this with someone who's looking.\n\nToday: rewrite the first line of your next message so it's about their team.\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-firstline\n\n#jobsearch #day60 #networking",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-firstline",
+    "files": [
+      {
+        "path": "2026-12/wk50/p04_first_line_lime.png",
+        "alt": "Your first line is about them: one thing their team is working on. An illustrative example of a first line."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe links stay in the text, as written.\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-LI-asks",
+    "week": "2026-w50",
+    "channel": "linkedin",
+    "topic": "day60",
+    "date": "2026-12-11",
+    "time": "10:06",
+    "status": "draft",
+    "title": "Things that are not a question",
+    "format": "text",
+    "text": "Things that are not a question:\n\n\"Let me know your thoughts.\"\n\"Looking forward to hearing from you.\"\n\"Happy to chat whenever works.\"\n\"Just wanted to put this on your radar.\"\n\nThey read as polite. To a busy hiring manager they read as homework: work out what you want, then decide whether to give it.\n\nI've spent my career building teams that reach the people who decide. The rule I'd give any of them: end on a question someone can answer in ten seconds, from their phone.\n\n\"Is the team still hiring for this role?\"\n\"Are you the right person to ask about it?\"\n\nThat's why every first note Day60 drafts ends on one easy question.\n\nToday, open the last message you sent and rewrite its final line as a real question.\n\nWhat's your favorite non-question?\n\nhttps://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50-LI-asks\n\n#jobsearch #networking #careeradvice",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50-LI-asks",
+    "files": [],
+    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nTag Day60: annotation on the first \"Day60\" (page 144030699, linkedin-company-ids.md; Philip, Nov 26).\nhumor (deadpan)\nMessage-craft lesson (HQ verdict, Nov 26).\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-IG-keywords",
+    "week": "2026-w50",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-12-11",
+    "time": "21:07",
+    "status": "draft",
+    "title": "Keywords you can't claim yet",
+    "format": "image",
+    "text": "Some keywords belong off your resume.\n\nIf a posting asks for a skill you don't have yet, adding it anyway can lead straight to a hard interview question.\n\nThe free resume builder lists those as keywords you can't claim yet, and keeps them off. Learn the skill first, then add it.\n\nToday: find one skill a job you want asks for, and write down how you'll show it, or how you'll learn it.\n\nFree, no account: getday60.com/resume-builder\n\nDay60 finds the 4 people closest to the hire for one job. Link in bio.\n\n#day60 #jobsearch #resumetips #careertips #jobsearchtips",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-12/wk50/p03_keywords_coral.png",
+        "alt": "Some keywords belong off your resume. The free resume builder lists the ones you can't claim yet. Learn it, then add it."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nThe image goes up with its alt text.\nNo link in the caption; the bio link stays as it is.\nResume-tool post (HQ verdict, Nov 26).\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-IG-firstline",
+    "week": "2026-w50",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-12-12",
+    "time": "20:28",
+    "status": "draft",
+    "title": "Your first line is about them",
+    "format": "image",
+    "text": "Your first line is about them.\n\nNot your degree, not your life story. One thing their team is working on, that you noticed.\n\nIllustrative: \"Saw your team is opening a second support office this spring.\"\n\nThen one line of proof you can help, and one easy question.\n\nToday: rewrite the first line of the next message you send so it's about their team.\n\nDay60 drafts a first note to each of the 4 people closest to the hire. You make it yours and send it. Link in bio.\n\n#day60 #jobsearch #networkingtips #careertips #coverletter",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-12/wk50/p04_first_line_lime.png",
+        "alt": "Your first line is about them: one thing their team is working on. An illustrative example of a first line."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nThe image goes up with its alt text.\nNo link in the caption; the bio link stays as it is.\nMessage-craft lesson (HQ verdict, Nov 26).\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-FB-sticky",
+    "week": "2026-w50",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-12-12",
+    "time": "22:58",
+    "status": "draft",
+    "title": "Plan fits on a sticky note",
+    "format": "image",
+    "text": "Next week's whole plan fits on a sticky note.\n\n1. Pick one job.\n2. Find the hiring manager.\n3. Send three lines.\n\nBad handwriting still counts.\n\nIf someone you love is looking for work, this is a kind thing to send them this weekend.\n\nShare this with someone who's looking.\n\nToday: write the note and stick it somewhere you'll see Monday morning.\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-sticky\n\n#jobsearch #day60 #jobhunting",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-sticky",
+    "files": [
+      {
+        "path": "2026-12/wk50/p05_sticky_pink.png",
+        "alt": "Monday's whole plan on a sticky note: pick one job, find the hiring manager, send three lines."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe links stay in the text, as written.\nhumor (light)\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-FB-keywords",
+    "week": "2026-w50",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-12-13",
+    "time": "08:47",
+    "status": "draft",
+    "title": "Keywords you can't claim yet",
+    "format": "image",
+    "text": "Some keywords belong off a resume.\n\nIf a posting asks for a skill someone doesn't have yet, adding it anyway can lead straight to a hard interview question.\n\nThe free resume builder lists those as keywords you can't claim yet, and keeps them off. Learn the skill first, then add it.\n\nShare this with someone who's looking.\n\nThe resume builder: https://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50&utm_content=keywords\n\nToday: find one skill a job you want asks for, and plan how to show it or learn it.\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-keywords\n\n#jobsearch #day60 #resumetips",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w50-FB-keywords",
+    "files": [
+      {
+        "path": "2026-12/wk50/p03_keywords_coral.png",
+        "alt": "Some keywords belong off your resume. The free resume builder lists the ones you can't claim yet. Learn it, then add it."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe links stay in the text, as written.\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-LI-week",
+    "week": "2026-w50",
+    "channel": "linkedin",
+    "topic": "day60",
+    "date": "2026-12-13",
+    "time": "10:59",
+    "status": "draft",
+    "title": "Three jobs, not thirty",
+    "format": "text",
+    "text": "This week: three jobs. Not thirty.\n\nMonday: pick three jobs you'd say yes to.\nTuesday: find the hiring manager for the first one.\nWednesday: write them three lines. One problem their team has, one line of proof, one easy question.\nThursday and Friday: do the same for the other two.\n\nThat's the week. Every message goes to a person who can say yes.\n\nIt's how a Day60 sprint starts: three target jobs a week.\n\nTonight, write down your three jobs.\n\nWhich one is first on your list?\n\nhttps://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50-LI-week\n\n#jobsearch #careeradvice #networking",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50-LI-week",
+    "files": [],
+    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nTag Day60: annotation on the first \"Day60\" (page 144030699, linkedin-company-ids.md; Philip, Nov 26).\nSunday plan-your-week lane.\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w50-IG-sticky",
+    "week": "2026-w50",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-12-13",
+    "time": "21:16",
+    "status": "draft",
+    "title": "Plan fits on a sticky note",
+    "format": "image",
+    "text": "Monday's whole plan fits on a sticky note.\n\n1. Pick one job.\n2. Find the hiring manager.\n3. Send three lines.\n\nBad handwriting still counts.\n\nToday: write the note tonight and stick it where you'll see it at 9 AM.\n\nDay60 finds the 4 people for one job and drafts a short note to each. Link in bio.\n\n#day60 #jobsearch #jobsearchtips #careertips #networking",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-12/wk50/p05_sticky_pink.png",
+        "alt": "Monday's whole plan on a sticky note: pick one job, find the hiring manager, send three lines."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nThe image goes up with its alt text.\nNo link in the caption; the bio link stays as it is.\nhumor (light)\nDraft for HQ (Social, Nov 27): week 50 batch, HQ approves in one pass. Nothing in Buffer yet.",
     "postedVia": ""
   },
   {
