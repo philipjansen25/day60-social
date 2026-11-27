@@ -592,6 +592,17 @@ assert not _missing, _missing
 for e in SPECS:
     e["notes"] = "\n".join(NOTES[e["id"]])
 
+# HQ, Nov 27: the Dec 7 to Jan 3 batch is approved in one pass, except three "I tried it" posts held
+# until Philip says he did them (HQ puts them to him on Monday's list).
+_HELD_NOV27 = {"2026-w50-LI-checker", "2026-w51-LI-fourpeople", "2026-w53-LI-extension"}
+for e in SPECS:
+    if e["status"] == "draft" and (e["id"].startswith(("2026-w50-", "2026-w51-", "2026-w52-", "2026-w53-")) or e["id"] == "2026-w48-LI-story"):
+        if e["id"] in _HELD_NOV27:
+            e["notes"] += "\nHELD by HQ (Nov 27): stays a draft until Philip confirms he did this; HQ asks him on Monday's list."
+        else:
+            e["status"] = "approved"
+            e["notes"] += "\nApproved by HQ (Nov 27), one-pass approval of the Dec 7 to Jan 3 batch."
+
 if __name__ == "__main__":
     out = os.path.join(ROOT, "library.json")
     old = json.load(open(out)) if os.path.exists(out) else []

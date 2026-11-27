@@ -10,7 +10,7 @@
 
 ## LinkedIn (Philip's profile)
 
-### LI-fourpeople · Mon Dec 14 · 9:12 AM · DRAFT · I PASTED ONE JOB LINK AND MET THE 4 PEOPLE (founder lane)
+### LI-fourpeople · Mon Dec 14 · 9:12 AM · DRAFT (HELD by HQ Nov 27 until Philip confirms) · I PASTED ONE JOB LINK AND MET THE 4 PEOPLE (founder lane)
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
@@ -41,7 +41,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #networking #careeradvice
 ```
 
-### LI-firstline · Tue Dec 15 · 8:37 AM · DRAFT · THE FIRST LINE DOES MOST OF THE WORK (method, message craft)
+### LI-firstline · Tue Dec 15 · 8:37 AM · APPROVED (HQ, Nov 27) · THE FIRST LINE DOES MOST OF THE WORK (method, message craft)
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
 - Format: short message-craft lesson (HQ's verdict, Nov 26: the best first line is about their quarter). Both quoted lines are illustrative.
@@ -78,7 +78,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #coldemail #careeradvice
 ```
 
-### LI-person · Wed Dec 16 · 9:48 AM · DRAFT · NOBODY CALLS A COMPANY (founder lane)
+### LI-person · Wed Dec 16 · 9:48 AM · APPROVED (HQ, Nov 27) · NOBODY CALLS A COMPANY (founder lane)
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
 - Format: Phil's view from his sales development work, given as advice, not as events (playbook §4). One founder fact, as written in founder.ts: he founded ClickUp's sales development team.
@@ -108,7 +108,7 @@ Who do you write to first: the company, or the person?
 #jobsearch #sales #careeradvice
 ```
 
-### LI-resume · Thu Dec 17 · 12:02 PM · DRAFT · TAILOR YOUR RESUME WITHOUT INVENTING ONE (product)
+### LI-resume · Thu Dec 17 · 12:02 PM · APPROVED (HQ, Nov 27) · TAILOR YOUR RESUME WITHOUT INVENTING ONE (product)
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
 - Format: product walkthrough of the free resume builder; only facts already approved in the resume posts (weeks 47 and 48): the steps, "No new skill, number or title", keywords you can't claim yet, read every line, add your email, Word file, free, no account, resume not stored.
@@ -140,7 +140,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #resume #careeradvice
 ```
 
-### LI-stages · Fri Dec 18 · 9:39 AM · DRAFT · THE FIVE STAGES OF WAITING FOR A REPLY (founder lane, humor)
+### LI-stages · Fri Dec 18 · 9:39 AM · APPROVED (HQ, Nov 27) · THE FIVE STAGES OF WAITING FOR A REPLY (founder lane, humor)
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
 - Format: deadpan text post (humor, playbook §4: the joke is on the process). Follow-up wording as approved in §1.
@@ -172,7 +172,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #sales #networking
 ```
 
-### LI-shortweek · Sun Dec 20 · 11:46 AM · DRAFT · PLAN THE SHORT WEEK (Sunday lane)
+### LI-shortweek · Sun Dec 20 · 11:46 AM · APPROVED (HQ, Nov 27) · PLAN THE SHORT WEEK (Sunday lane)
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
 - Format: plan-your-week (Sunday lane, playbook §4). Holiday season from Dec 21 (HQ, Nov 27): lighter and kind.
@@ -246,7 +246,7 @@ Today: pick the job you'd start with and paste its link.
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### IG-bullet · Tue Dec 15 · 6:37 PM · DRAFT · ONE BULLET, ONE RESULT (resume tool)
+### IG-bullet · Tue Dec 15 · 6:37 PM · APPROVED (HQ, Nov 27) · ONE BULLET, ONE RESULT (resume tool)
 - Status: draft for HQ (Social, Nov 27). Through Buffer at 1080x1350.
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Image: `2026-12/wk51/p01_one_bullet_coral.png`. Ground: coral. Source: `2026-12/wk51/build.py`. Both bullets are the illustrative pair already approved on the week 47 resume builder slide 4. Facebook reuses it Wed Dec 16 (FB-bullet).
@@ -264,7 +264,7 @@ Today: rewrite your top bullet as a result. Link in bio, or getday60.com/resume-
 #day60 #jobsearch #resume #resumetips #careertips
 ```
 
-### IG-wordfile · Wed Dec 16 · 12:14 PM · DRAFT · ADD YOUR EMAIL, GET A WORD FILE (resume tool)
+### IG-wordfile · Wed Dec 16 · 12:14 PM · APPROVED (HQ, Nov 27) · ADD YOUR EMAIL, GET A WORD FILE (resume tool)
 - Status: draft for HQ (Social, Nov 27). Through Buffer at 1080x1350.
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Image: `2026-12/wk51/p02_word_file_cobalt.png`. Ground: cobalt. Source: `2026-12/wk51/build.py`. Facts as approved in the resume posts (HQ fix Nov 23, #967): add your email, get a Word file, free, no account, resume not stored. Facebook reuses it Thu Dec 17 (FB-wordfile).
@@ -280,7 +280,7 @@ Today: pick one job you want and make its version of your resume. Link in bio.
 #day60 #jobsearch #resume #resumetips #careertips
 ```
 
-### IG-dearteam · Fri Dec 18 · 10:34 PM · DRAFT · DEAR HIRING TEAM (humor)
+### IG-dearteam · Fri Dec 18 · 10:34 PM · APPROVED (HQ, Nov 27) · DEAR HIRING TEAM (humor)
 - Status: draft for HQ (Social, Nov 27). Through Buffer at 1080x1350.
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Image: `2026-12/wk51/p03_dear_team_ink.png`. Ground: ink (moved off pink for the grid rule, Nov 27). Source: `2026-12/wk51/build.py`. Facebook reuses it Sat Dec 19 (FB-dearteam).
@@ -300,7 +300,7 @@ Day60 finds the 4 people closest to the hire, names included. Link in bio.
 #day60 #jobsearch #careeradvice #networkingtips #coverletter
 ```
 
-### IG-phonetest · Sat Dec 19 · 8:24 PM · DRAFT · THE PHONE-SCREEN TEST (message craft)
+### IG-phonetest · Sat Dec 19 · 8:24 PM · APPROVED (HQ, Nov 27) · THE PHONE-SCREEN TEST (message craft)
 - Status: draft for HQ (Social, Nov 27). Through Buffer at 1080x1350.
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Image: `2026-12/wk51/p04_phone_screen_mint.png`. Ground: mint. Source: `2026-12/wk51/build.py`. Facebook reuses it Sun Dec 20 (FB-phonetest).
@@ -320,7 +320,7 @@ Day60 drafts short first notes to the 4 people closest to the hire. You make the
 #day60 #jobsearch #careeradvice #networkingtips #coverletter
 ```
 
-### IG-wishlist · Sun Dec 20 · 8:18 PM · DRAFT · TICK'S HOLIDAY WISH LIST (humor, seasonal)
+### IG-wishlist · Sun Dec 20 · 8:18 PM · APPROVED (HQ, Nov 27) · TICK'S HOLIDAY WISH LIST (humor, seasonal)
 - Status: draft for HQ (Social, Nov 27). Through Buffer at 1080x1350.
 - Image: `2026-12/wk51/p05_wishlist_coral.png`. Ground: coral (moved off ink for the grid rule, Nov 27). Source: `2026-12/wk51/build.py`. Facebook reuses it Fri Dec 18 (FB-wishlist).
 - Alt text: Tick's holiday wish list: short notes, one easy question, and never just following up.
@@ -343,7 +343,7 @@ Happy holidays from Day60. Link in bio.
 
 ## Facebook (Day60 Page)
 
-### FB-firstjob · Mon Dec 14 · 7:02 PM · DRAFT · YOUR FIRST JOB, STEP BY STEP (reuses IG-firstjob-r2)
+### FB-firstjob · Mon Dec 14 · 7:02 PM · APPROVED (HQ, Nov 27) · YOUR FIRST JOB, STEP BY STEP (reuses IG-firstjob-r2)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
 - Carousel (6): the same slides as IG-firstjob-r2 (Thu Dec 17): `2026-11/wk47/p05_first_job_1_lime_safe.png` to `p05_first_job_5_safe.png`, then `p05_first_job_6_v2_safe.png`. No slide says "Link in bio". Facebook hasn't run this piece.
 - Alt text (per slide): 1 "One job. Four people. One message. Your first job in Day60, step by step." · 2 "Step 1: Paste one job link, from the company's own site." · 3 "Step 2: Meet your 4 people, each with a verified work email: hiring manager, their boss, internal champion, recruiter." · 4 "Step 3: Start with the hiring manager, who feels the empty seat. Day60 drafts a short note to them in your voice." · 5 "Step 4: Make it yours, then send it. Every draft is checked, and Day60 never sends anything." · 6 "That's day 0. Day60 drafts the day-2 and day-7 follow-ups when they're due; you send every one. getday60.com"
@@ -367,7 +367,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #jobsearchtips
 ```
 
-### FB-touches · Tue Dec 15 · 8:12 AM · DRAFT · THREE TOUCHES, THEN STOP (reuses IG4-r2)
+### FB-touches · Tue Dec 15 · 8:12 AM · APPROVED (HQ, Nov 27) · THREE TOUCHES, THEN STOP (reuses IG4-r2)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
 - Carousel (6): the same slides as IG4-r2 (Mon Dec 14): `2026-11/wk46/p06_three_touches_1_safe.png` to `p06_three_touches_6_safe.png`. No slide says "Link in bio". Facebook hasn't run this piece.
 - Alt text (per slide): 1 "3 touches. Then stop. The follow-up rhythm that's persistent, not pushy." · 2 "Day 0, the first note: their problem, one line of proof, one easy ask." · 3 Day 2, the nudge: two lines that add something new. Never "just following up." · 4 "Day 7, the last word: close the loop kindly and leave the door open." · 5 "Then stop. Three touches is persistence; ten is spam. Day60 keeps it to 3 per person." · 6 "Four people, three touches, you send every one. Try one job free at getday60.com/try"
@@ -391,7 +391,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #careeradvice
 ```
 
-### FB-bullet · Wed Dec 16 · 8:34 AM · DRAFT · ONE BULLET, ONE RESULT (reuses IG-bullet)
+### FB-bullet · Wed Dec 16 · 8:34 AM · APPROVED (HQ, Nov 27) · ONE BULLET, ONE RESULT (reuses IG-bullet)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Image: `2026-12/wk51/p01_one_bullet_coral.png` (Instagram runs it Tue Dec 15).
@@ -413,7 +413,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #resume
 ```
 
-### FB-wordfile · Thu Dec 17 · 8:32 AM · DRAFT · ADD YOUR EMAIL, GET A WORD FILE (reuses IG-wordfile)
+### FB-wordfile · Thu Dec 17 · 8:32 AM · APPROVED (HQ, Nov 27) · ADD YOUR EMAIL, GET A WORD FILE (reuses IG-wordfile)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Image: `2026-12/wk51/p02_word_file_cobalt.png` (Instagram runs it Wed Dec 16).
@@ -433,7 +433,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #resume
 ```
 
-### FB-wishlist · Fri Dec 18 · 6:36 AM · DRAFT · TICK'S HOLIDAY WISH LIST (reuses IG-wishlist, humor)
+### FB-wishlist · Fri Dec 18 · 6:36 AM · APPROVED (HQ, Nov 27) · TICK'S HOLIDAY WISH LIST (reuses IG-wishlist, humor)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
 - Image: `2026-12/wk51/p05_wishlist_coral.png` (Instagram runs it Sun Dec 20).
 - Alt text: Tick's holiday wish list: short notes, one easy question, and never just following up.
@@ -457,7 +457,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #careeradvice
 ```
 
-### FB-dearteam · Sat Dec 19 · 9:26 PM · DRAFT · DEAR HIRING TEAM (reuses IG-dearteam, humor)
+### FB-dearteam · Sat Dec 19 · 9:26 PM · APPROVED (HQ, Nov 27) · DEAR HIRING TEAM (reuses IG-dearteam, humor)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Image: `2026-12/wk51/p03_dear_team_ink.png` (Instagram runs it Fri Dec 18).
@@ -479,7 +479,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #careeradvice
 ```
 
-### FB-phonetest · Sun Dec 20 · 9:38 AM · DRAFT · THE PHONE-SCREEN TEST (reuses IG-phonetest)
+### FB-phonetest · Sun Dec 20 · 9:38 AM · APPROVED (HQ, Nov 27) · THE PHONE-SCREEN TEST (reuses IG-phonetest)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Image: `2026-12/wk51/p04_phone_screen_mint.png` (Instagram runs it Sat Dec 19).

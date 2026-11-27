@@ -43,7 +43,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 
 Checks: hook is 35 characters. "Day60" appears once. The link is the body's last line. No em-dashes, no banned phrases, no percentage, no named source.
 
-### LI-story · Tue Dec 8 · 12:07 PM · DRAFT (Social, Nov 27) · PHIL'S OWN JOB SEARCH STORY
+### LI-story · Tue Dec 8 · 12:07 PM · APPROVED (HQ, Nov 27) · PHIL'S OWN JOB SEARCH STORY
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Drafted Nov 27 (Social, HQ's batch brief): Phil's own job search story, from the founder.ts lines only (playbook §1): the 13-page plan with a 90-day action plan he sent ClickUp for its Sales Development Manager opening, and being hired as employee #169 to build that team. No year, no job-search result numbers.
 - Replaces the wait for HQ to forward Phil's Nov 9 post (Philip, Nov 8). If HQ has that post, HQ can swap this for a version built on it.
@@ -126,7 +126,7 @@ Today: open one job on a company's own careers page and give it one click.
 
 HQ's brief (Nov 27): drafts for Mon Dec 7 to Sun Dec 13, approved in one pass. LinkedIn 6 (Sun to Fri, 8 AM to 12:59 PM CT), Instagram 7, Facebook 7 reusing the week's Instagram art. Humor: LI-asks; IG-rounds, IG-sticky; FB-rounds, FB-sticky.
 
-### LI-checker · Wed Dec 9 · 8:01 AM · DRAFT (Social, Nov 27) · I RAN MY EMAIL THROUGH TICK
+### LI-checker · Wed Dec 9 · 8:01 AM · DRAFT (Social, Nov 27; HELD by HQ Nov 27 until Philip confirms) · I RAN MY EMAIL THROUGH TICK
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Lane: Phil's founder lane (Wed). A Phil "I tried it" post (HQ's verdict, Nov 26). The example email is illustrative; the checker's behavior is from the live page and IG6 (13 rules, three message types, it checks rules, not facts).
 - [VERIFY] Phil confirms he ran a draft through the checker before approval. Nothing in the post claims a result beyond the checker's own rules.
@@ -155,7 +155,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #networking #careeradvice
 ```
 
-### LI-findhm · Thu Dec 10 · 9:44 AM · DRAFT (Social, Nov 27) · HOW TO FIND THE HIRING MANAGER
+### LI-findhm · Thu Dec 10 · 9:44 AM · APPROVED (HQ, Nov 27) · HOW TO FIND THE HIRING MANAGER
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Lane: the Day60 method (Thu). LinkedIn's guide of the week 1, how-to-find-the-hiring-manager (HQ, Nov 19; playbook §5 and §7b): the guide's steps, as Instagram and Facebook ran them in week 49, the guide link in the body and the try link as the last line before the hashtags (playbook §5: a guide post keeps its guide link in the body and still ends with the try link).
 - Tag: Day60 (the first "Day60" in the text, page 144030699; the annotation is in linkedin-company-ids.md). Other company names stay plain text, with no "@".
@@ -186,7 +186,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #hiring #careeradvice
 ```
 
-### LI-asks · Fri Dec 11 · 10:06 AM · DRAFT (Social, Nov 27) · THINGS THAT ARE NOT A QUESTION
+### LI-asks · Fri Dec 11 · 10:06 AM · APPROVED (HQ, Nov 27) · THINGS THAT ARE NOT A QUESTION
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Humor: yes (about 1 post in 4, playbook §4).
 - Lane: Phil's founder lane (Fri), as his view from his sales development work (founder.ts line: "I've spent my career building teams that reach the people who decide."). A short message-craft lesson (HQ's verdict, Nov 26), deadpan.
@@ -220,7 +220,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #networking #careeradvice
 ```
 
-### LI-week · Sun Dec 13 · 10:59 AM · DRAFT (Social, Nov 27) · THREE JOBS, NOT THIRTY
+### LI-week · Sun Dec 13 · 10:59 AM · APPROVED (HQ, Nov 27) · THREE JOBS, NOT THIRTY
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Lane: the Sunday plan-your-week lane (playbook §4). One method step per day; "Start with three target jobs a week" is the homepage's own line.
 - Tag: Day60 (the first "Day60" in the text, page 144030699; the annotation is in linkedin-company-ids.md). Other company names stay plain text, with no "@".
@@ -247,7 +247,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #careeradvice #networking
 ```
 
-### IG-tailor · Tue Dec 8 · 4:09 PM · DRAFT (Social, Nov 27) · TAILOR IT, DON'T FAKE IT
+### IG-tailor · Tue Dec 8 · 4:09 PM · APPROVED (HQ, Nov 27) · TAILOR IT, DON'T FAKE IT
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Resume-tool post (HQ's verdict, Nov 26). Facts only from the resume builder posts (wk47, wk48) and its #967 email step.
 - Ground: pink. Week 50's Instagram grounds in order: ink, pink, cobalt, mint, coral, lime, pink (any 4 in a row differ). The lime element: the highlight.
@@ -269,7 +269,7 @@ Then find the 4 people closest to the hire. Link in bio.
 #day60 #jobsearch #resumetips #careertips #jobsearchtips
 ```
 
-### IG-rounds · Wed Dec 9 · 1:03 PM · DRAFT (Social, Nov 27) · FINAL ROUND, ROUND 7 OF 9
+### IG-rounds · Wed Dec 9 · 1:03 PM · APPROVED (HQ, Nov 27) · FINAL ROUND, ROUND 7 OF 9
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Humor: yes (about 1 post in 4, playbook §4).
 - Humor: the joke is on long interview loops (a fair target, playbook §4), and the card ends on a real tip.
@@ -292,7 +292,7 @@ Day60 finds the 4 people closest to the hire, so you know who decides from day o
 #day60 #jobsearch #interviewtips #careertips #jobsearchtips
 ```
 
-### IG-keywords · Fri Dec 11 · 9:07 PM · DRAFT (Social, Nov 27) · KEYWORDS YOU CAN'T CLAIM YET
+### IG-keywords · Fri Dec 11 · 9:07 PM · APPROVED (HQ, Nov 27) · KEYWORDS YOU CAN'T CLAIM YET
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Resume-tool post (HQ's verdict, Nov 26). "Keywords you can't claim yet" is the builder's own label.
 - Ground: coral, ink text only; the lime element is the highlight.
@@ -316,7 +316,7 @@ Day60 finds the 4 people closest to the hire for one job. Link in bio.
 #day60 #jobsearch #resumetips #careertips #jobsearchtips
 ```
 
-### IG-firstline · Sat Dec 12 · 8:28 PM · DRAFT (Social, Nov 27) · YOUR FIRST LINE IS ABOUT THEM
+### IG-firstline · Sat Dec 12 · 8:28 PM · APPROVED (HQ, Nov 27) · YOUR FIRST LINE IS ABOUT THEM
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Message-craft lesson (HQ's verdict, Nov 26). The example first line is illustrative and labeled on the card.
 - Ground: lime (the whole ground is the lime element; the card is white).
@@ -340,7 +340,7 @@ Day60 drafts a first note to each of the 4 people closest to the hire. You make 
 #day60 #jobsearch #networkingtips #careertips #coverletter
 ```
 
-### IG-sticky · Sun Dec 13 · 9:16 PM · DRAFT (Social, Nov 27) · PLAN FITS ON A STICKY NOTE
+### IG-sticky · Sun Dec 13 · 9:16 PM · APPROVED (HQ, Nov 27) · PLAN FITS ON A STICKY NOTE
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Humor: yes (about 1 post in 4, playbook §4).
 - Light humor (a one-line card). Sunday evening, for Monday morning.
@@ -365,7 +365,7 @@ Day60 finds the 4 people for one job and drafts a short note to each. Link in bi
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### FB-resume · Mon Dec 7 · 7:46 PM · DRAFT (Social, Nov 27) · FREE RESUME BUILDER FOR ONE JOB
+### FB-resume · Mon Dec 7 · 7:46 PM · APPROVED (HQ, Nov 27) · FREE RESUME BUILDER FOR ONE JOB
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Reuses Instagram's resume builder carousel (IG-resume-r2, Thu Jan 7): wk47 slides 1 to 5 (_safe) and a new slide 6 without "Link in bio" (p02_resume_builder_6_fb_v3, the #967 email step). No slide says "Nothing you add is kept".
 - Supersedes the old week 47 FB-resume draft, which never went out.
@@ -390,7 +390,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #resumetips
 ```
 
-### FB-extsteps · Tue Dec 8 · 7:26 AM · DRAFT (Social, Nov 27) · THE EXTENSION IN THREE STEPS
+### FB-extsteps · Tue Dec 8 · 7:26 AM · APPROVED (HQ, Nov 27) · THE EXTENSION IN THREE STEPS
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Reuses Instagram's extension carousel (IG5-r2, Thu Dec 10), 6 slides; Facebook hasn't run these slides (FB3 was the extension FAQ). Slide 6 has no "Link in bio".
 - Alt text (per slide): 1 "From a careers page to your sprint in one click: how the free Day60 Chrome extension works, in 3 steps." · 2 "Step 1: Open a job on the company's careers page." · 3 "Step 2: Click the Day60 icon and press "Find the 4 people with Day60". It runs only when you click it." · 4 "Step 3: The job opens in Day60 with its link filled in, ready to find the 4 people closest to the hire." · 5 "What it never does: read your LinkedIn pages, fill in forms, apply or send messages. It runs only when you click it." · 6 "Free in the Chrome Web Store: getday60.com/chrome-extension"
@@ -414,7 +414,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #jobsearchtips
 ```
 
-### FB-tailor · Wed Dec 9 · 8:23 AM · DRAFT (Social, Nov 27) · TAILOR IT, DON'T FAKE IT
+### FB-tailor · Wed Dec 9 · 8:23 AM · APPROVED (HQ, Nov 27) · TAILOR IT, DON'T FAKE IT
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Same card as IG-tailor (Instagram Tue Dec 8).
 - Image: `2026-12/wk50/p01_tailor_pink.png`
@@ -438,7 +438,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #resumetips
 ```
 
-### FB-rounds · Thu Dec 10 · 10:31 AM · DRAFT (Social, Nov 27) · FINAL ROUND, ROUND 7 OF 9
+### FB-rounds · Thu Dec 10 · 10:31 AM · APPROVED (HQ, Nov 27) · FINAL ROUND, ROUND 7 OF 9
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Humor: yes (about 1 post in 4, playbook §4).
 - Same card as IG-rounds (Instagram Wed Dec 9).
@@ -461,7 +461,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #interviewtips
 ```
 
-### FB-firstline · Fri Dec 11 · 8:08 AM · DRAFT (Social, Nov 27) · YOUR FIRST LINE IS ABOUT THEM
+### FB-firstline · Fri Dec 11 · 8:08 AM · APPROVED (HQ, Nov 27) · YOUR FIRST LINE IS ABOUT THEM
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Same card as IG-firstline (Instagram Sat Dec 12).
 - Image: `2026-12/wk50/p04_first_line_lime.png`
@@ -485,7 +485,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #networking
 ```
 
-### FB-sticky · Sat Dec 12 · 10:58 PM · DRAFT (Social, Nov 27) · PLAN FITS ON A STICKY NOTE
+### FB-sticky · Sat Dec 12 · 10:58 PM · APPROVED (HQ, Nov 27) · PLAN FITS ON A STICKY NOTE
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Humor: yes (about 1 post in 4, playbook §4).
 - Same card as IG-sticky (Instagram Sun Dec 13).
@@ -512,7 +512,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #jobhunting
 ```
 
-### FB-keywords · Sun Dec 13 · 8:47 AM · DRAFT (Social, Nov 27) · KEYWORDS YOU CAN'T CLAIM YET
+### FB-keywords · Sun Dec 13 · 8:47 AM · APPROVED (HQ, Nov 27) · KEYWORDS YOU CAN'T CLAIM YET
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Same card as IG-keywords (Instagram Fri Dec 11).
 - Image: `2026-12/wk50/p03_keywords_coral.png`

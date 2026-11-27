@@ -4,7 +4,7 @@ HQ, Nov 22: Meta Business Suite cropped the natively scheduled IG-thanks, so it 
 Same design and slides; three slides lose their Thanksgiving words (needs HQ's yes, since the words change):
   cover    sticker "Thanksgiving week"   -> "Holiday week"
   slide 5  "Send it before Thursday."    -> "Send it before the holidays."
-  slide 6  "Happy Thanksgiving."         -> "Happy holidays."
+  slide 6  "Happy Thanksgiving."         -> "Happy holidays."; one lime element (HQ, Nov 27)
 Slides 2 to 4 are the week 48 files, unchanged. The HTML comes from the scripts that made the originals
 (2026-11/build_covers.py for the pink cover, 2026-11/wk48/build.py for slides 5 and 6), with only those words swapped.
 
@@ -46,7 +46,15 @@ cover = next(j for j in covers.jobs if os.path.basename(j["png"]) == "p01_thanks
 job("p01_thanks_1_pink_holiday", swap(open(cover["html"]).read(), [("Thanksgiving week", "Holiday week")], "cover"))
 slides = dict(wk48.thanks())
 job("p01_thanks_5_holiday", swap(slides["p01_thanks_5"], [("Send it before Thursday.", "Send it before the holidays.")], "slide 5"))
-job("p01_thanks_6_holiday", swap(slides["p01_thanks_6_v2"], [("Happy Thanksgiving.", "Happy holidays.")], "slide 6"))
+job("p01_thanks_6_holiday", swap(slides["p01_thanks_6_v2"], [
+    ("Happy Thanksgiving.", "Happy holidays."),
+    # HQ, Nov 27: one lime element per screen. The "Get your 4 people." highlight stays lime;
+    # the getday60.com sticker goes white and the top sparkle goes pink (Tick's own colors don't count).
+    ('<span class="sticker" style="background:#D9FF3F;font-size:30px">getday60.com</span>',
+     '<span class="sticker" style="background:#FFFFFF;font-size:30px">getday60.com</span>'),
+    ('<path d="M12 1l2.6 7.4L22 11l-7.4 2.6L12 21l-2.6-7.4L2 11l7.4-2.6z" fill="#D9FF3F"',
+     '<path d="M12 1l2.6 7.4L22 11l-7.4 2.6L12 21l-2.6-7.4L2 11l7.4-2.6z" fill="#FF9BDB"'),
+], "slide 6"))
 
 jf = os.path.join(TMP, "jobs.json")
 json.dump(jobs, open(jf, "w"))

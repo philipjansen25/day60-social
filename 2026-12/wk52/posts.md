@@ -40,7 +40,7 @@ Today: pick one of the three and send your thank-you before the holidays.
 
 Holiday week (HQ, Nov 27: Dec 21 to Jan 1 is lighter and kind, never about being laid off). LinkedIn 6, Instagram 7 (6 new plus IG-thanks-r2), Facebook 7, all drafts. Humor: LI-party, IG-recipe, IG-returns, FB-recipe, FB-returns. Times from `scripts/pick_time.py`. Art: `2026-12/wk52/build_holiday.py`.
 
-### LI-plainnote · Mon Dec 21 · 11:49 AM · DRAFT · WRITE IT LIKE YOU'D SAY IT (founder lane, message craft)
+### LI-plainnote · Mon Dec 21 · 11:49 AM · APPROVED (HQ, Nov 27) · WRITE IT LIKE YOU'D SAY IT (founder lane, message craft)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.
 - Lane: Mon, Phil's founder lane: a short message-craft lesson in his voice, from his sales development view, given as advice (no events). Replaces LI-checker (coordinator, Nov 27: weeks 50, 51 and 53 already have "I tried it" posts).
@@ -69,7 +69,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #networking #careeradvice
 ```
 
-### LI-holidaynote · Tue Dec 22 · 9:17 AM · DRAFT · A NOTE SENT THIS WEEK GETS READ IN JANUARY (method: message craft)
+### LI-holidaynote · Tue Dec 22 · 9:17 AM · APPROVED (HQ, Nov 27) · A NOTE SENT THIS WEEK GETS READ IN JANUARY (method: message craft)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.
 - Lane: Tue, the Day60 method. A short message-craft lesson (HQ's Nov 26 verdict: make more). The example is invented and labeled.
@@ -98,7 +98,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #careeradvice #networking
 ```
 
-### LI-party · Wed Dec 23 · 8:44 AM · DRAFT · SALES DEVELOPMENT HABITS FOR HOLIDAY PARTIES (founder lane, humor)
+### LI-party · Wed Dec 23 · 8:44 AM · APPROVED (HQ, Nov 27) · SALES DEVELOPMENT HABITS FOR HOLIDAY PARTIES (founder lane, humor)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.
 - Lane: Wed, Phil's founder lane. Humor (playbook §4): deadpan, on sales-floor habits and small talk, never on the person looking. Advice from his sales development work, no events.
@@ -122,7 +122,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #sales #networking #jobsearch
 ```
 
-### LI-lastline · Thu Dec 24 · 8:28 AM · DRAFT · CHRISTMAS EVE: READ YOUR LAST LINE (method: message craft)
+### LI-lastline · Thu Dec 24 · 8:28 AM · APPROVED (HQ, Nov 27) · CHRISTMAS EVE: READ YOUR LAST LINE (method: message craft)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.
 - Lane: Thu, the Day60 method. Christmas Eve, so it's short: one message-craft lesson.
@@ -145,7 +145,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #careeradvice #writing
 ```
 
-### LI-christmas · Fri Dec 25 · 8:01 AM · DRAFT · MERRY CHRISTMAS (personal, linkless)
+### LI-christmas · Fri Dec 25 · 8:01 AM · APPROVED (HQ, Nov 27) · MERRY CHRISTMAS (personal, linkless)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.
 - Lane: Fri, Christmas Day. Phil's personal one-line greeting: no link, no pitch (HQ's brief: a Christmas Day post per channel; Phil's personal posts stay linkless).
@@ -162,7 +162,7 @@ Phil
 #christmas #gratitude #jobsearch
 ```
 
-### LI-onename · Sun Dec 27 · 8:34 AM · DRAFT · BEFORE JANUARY, FIND ONE NAME PER JOB (Sunday lane)
+### LI-onename · Sun Dec 27 · 8:34 AM · APPROVED (HQ, Nov 27) · BEFORE JANUARY, FIND ONE NAME PER JOB (Sunday lane)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.
 - Lane: Sun, plan your week (playbook §4): one method step, a question, the try link. Steps from the find-the-hiring-manager guide already in posts.md. Replaces LI-january (coordinator, Nov 27: week 50's Sunday was "Three jobs, not thirty").
@@ -189,7 +189,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #careeradvice #newyear
 ```
 
-### IG-postingwords · Tue Dec 22 · 7:37 PM · DRAFT · USE THE POSTING'S OWN WORDS (resume tool)
+### IG-postingwords · Tue Dec 22 · 7:37 PM · APPROVED (HQ, Nov 27) · USE THE POSTING'S OWN WORDS (resume tool)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p02_posting_words_lime.png` (1080x1350, ground lime; the ground is its one lime element).
 - Alt text: Resume tip: use the posting's own words where they're true for you. The free resume builder flags keywords you can't claim.
@@ -210,7 +210,7 @@ The resume builder is at getday60.com/resume-builder. Link in bio.
 #day60 #jobsearch #resumetips #careertips #jobsearchtips
 ```
 
-### IG-recipe · Wed Dec 23 · 4:12 PM · DRAFT · A REPLY, FROM SCRATCH (humor)
+### IG-recipe · Wed Dec 23 · 4:12 PM · APPROVED (HQ, Nov 27) · A REPLY, FROM SCRATCH (humor)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p03_reply_recipe_mint.png` (1080x1350, ground mint).
 - Alt text: Holiday recipe for a reply: 3 short lines, 1 problem their team has, 1 line of proof, 1 easy question, 0 attachments.
@@ -236,7 +236,7 @@ Day60 drafts a short first note to each of the 4 people closest to the hire. You
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### IG-table · Thu Dec 24 · 7:16 AM · DRAFT · FOR THE HOLIDAY TABLE: SKIP "ANY LUCK YET?" (for people helping someone look)
+### IG-table · Thu Dec 24 · 7:16 AM · APPROVED (HQ, Nov 27) · FOR THE HOLIDAY TABLE: SKIP "ANY LUCK YET?" (for people helping someone look)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p04_holiday_table_coral.png` (1080x1350, ground coral).
 - Alt text: For the holiday table: skip "Any luck yet?" Ask which job they'd most like, then think of one person to introduce them to.
@@ -259,22 +259,22 @@ Send this to someone who's helping a friend look. Link in bio.
 #day60 #jobsearch #careertips #networking #holidays
 ```
 
-### IG-christmas · Fri Dec 25 · 9:24 PM · DRAFT · MERRY CHRISTMAS: TODAY'S ONLY TASK IS REST (seasonal)
+### IG-christmas · Fri Dec 25 · 9:24 PM · APPROVED (HQ, Nov 27) · MERRY CHRISTMAS: TODAY'S ONLY TASK IS REST (seasonal)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p05_merry_christmas_ink.png` (1080x1350, ground ink).
 - Alt text: Merry Christmas from Tick and Phil at Day60. Today's only task: rest.
-- Christmas Day: a one-line seasonal card (HQ's brief). No next step and no "Link in bio" on purpose: it's a greeting.
+- Christmas Day: a one-line seasonal card (HQ's brief). HQ, Nov 27: no exceptions, so the caption ends with "Link in bio".
 - Facebook posts its own Christmas greeting (FB-christmas, text only), so this card isn't reused.
 
 ```
 Merry Christmas from Tick and Phil at Day60.
 
-Today's only task: rest. The notes can wait until next week.
+Today's only task: rest. The notes can wait until next week. When you're ready: Link in bio.
 
 #day60 #merrychristmas #jobsearch #careertips #networking
 ```
 
-### IG-returns · Sat Dec 26 · 9:23 PM · DRAFT · RETURNS DESK: 40 APPLICATIONS, UNOPENED (humor)
+### IG-returns · Sat Dec 26 · 9:23 PM · APPROVED (HQ, Nov 27) · RETURNS DESK: 40 APPLICATIONS, UNOPENED (humor)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p06_returns_desk_lime.png` (1080x1350, ground lime).
 - Alt text: Returns desk: return 40 unopened applications, exchange them for one short note to the person who decides.
@@ -296,7 +296,7 @@ Paste a job link. Get your 4 people. Link in bio.
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### IG-threejobs · Sun Dec 27 · 9:26 PM · DRAFT · THREE JOBS, NOT THIRTY (plan for January)
+### IG-threejobs · Sun Dec 27 · 9:26 PM · APPROVED (HQ, Nov 27) · THREE JOBS, NOT THIRTY (plan for January)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p07_three_jobs_pink.png` (1080x1350, ground pink).
 - Alt text: Plan for January: three jobs, not thirty. Pick three, find each hiring manager's name, write one note for Monday.
@@ -319,7 +319,7 @@ Paste a job link. Get your 4 people. Link in bio.
 #day60 #jobsearch #jobsearchtips #careertips #newyear
 ```
 
-### FB-postingwords · Mon Dec 21 · 8:51 PM · DRAFT · USE THE POSTING'S OWN WORDS (resume tool)
+### FB-postingwords · Mon Dec 21 · 8:51 PM · APPROVED (HQ, Nov 27) · USE THE POSTING'S OWN WORDS (resume tool)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p02_posting_words_lime.png` (1080x1350).
 - Alt text: Resume tip: use the posting's own words where they're true for you. The free resume builder flags keywords you can't claim.
@@ -343,7 +343,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #resumetips
 ```
 
-### FB-thanks-holiday · Tue Dec 22 · 8:27 AM · DRAFT · HOLIDAY WEEK: SEND ONE THANK-YOU (holiday version)
+### FB-thanks-holiday · Tue Dec 22 · 8:27 AM · APPROVED (HQ, Nov 27) · HOLIDAY WEEK: SEND ONE THANK-YOU (holiday version)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Reuses IG-thanks-r2's six slides (Instagram Mon Dec 21): the holiday cover and slides 5 and 6, plus the week 48 slides 2 to 4. FB-thanks ran Nov 26 with the Thanksgiving slides, so this is the holiday version, not a repeat. No Facebook-only creative.
 - Carousel (6): `2026-12/wk52/p01_thanks_1_pink_holiday.png`, `2026-11/wk48/p01_thanks_2_safe.png`, `2026-11/wk48/p01_thanks_3_safe.png`, `2026-11/wk48/p01_thanks_4_safe.png`, `2026-12/wk52/p01_thanks_5_holiday.png`, `2026-12/wk52/p01_thanks_6_holiday.png`. No slide says "Link in bio".
@@ -367,7 +367,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #holidays
 ```
 
-### FB-table · Wed Dec 23 · 9:11 AM · DRAFT · FOR THE HOLIDAY TABLE: SKIP "ANY LUCK YET?"
+### FB-table · Wed Dec 23 · 9:11 AM · APPROVED (HQ, Nov 27) · FOR THE HOLIDAY TABLE: SKIP "ANY LUCK YET?"
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p04_holiday_table_coral.png` (1080x1350).
 - Alt text: For the holiday table: skip "Any luck yet?" Ask which job they'd most like, then think of one person to introduce them to.
@@ -391,7 +391,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #holidays
 ```
 
-### FB-recipe · Thu Dec 24 · 10:11 AM · DRAFT · A REPLY, FROM SCRATCH (humor)
+### FB-recipe · Thu Dec 24 · 10:11 AM · APPROVED (HQ, Nov 27) · A REPLY, FROM SCRATCH (humor)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p03_reply_recipe_mint.png` (1080x1350).
 - Alt text: Holiday recipe for a reply: 3 short lines, 1 problem their team has, 1 line of proof, 1 easy question, 0 attachments.
@@ -418,20 +418,23 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #holidays
 ```
 
-### FB-christmas · Fri Dec 25 · 6:59 AM · DRAFT · MERRY CHRISTMAS (text, greeting)
+### FB-christmas · Fri Dec 25 · 6:59 AM · APPROVED (HQ, Nov 27) · MERRY CHRISTMAS (text, greeting)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
-- Christmas Day greeting (HQ's brief: one per channel). Text only, so it adds no Facebook-only creative and doesn't repeat Instagram's card the same day. A greeting, so no try link (like Phil's linkless personal posts); HQ decides.
-- Link: none.
+- Christmas Day greeting (HQ's brief: one per channel). Text only, so it adds no Facebook-only creative and doesn't repeat Instagram's card the same day. HQ, Nov 27: no exceptions to Philip's Nov 22 link rule, so it ends with the try link under a soft line.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-christmas`
 
 ```
 Merry Christmas from Tick and Phil at Day60.
 
 Whatever this year looked like for you and your family, we hope today is a good one. Today's only task: rest.
 
+When you're ready in January:
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-christmas
+
 #jobsearch #day60 #merrychristmas
 ```
 
-### FB-threejobs · Sat Dec 26 · 10:24 PM · DRAFT · THREE JOBS, NOT THIRTY (plan for January)
+### FB-threejobs · Sat Dec 26 · 10:24 PM · APPROVED (HQ, Nov 27) · THREE JOBS, NOT THIRTY (plan for January)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p07_three_jobs_pink.png` (1080x1350).
 - Alt text: Plan for January: three jobs, not thirty. Pick three, find each hiring manager's name, write one note for Monday.
@@ -456,7 +459,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #newyear
 ```
 
-### FB-returns · Sun Dec 27 · 9:51 AM · DRAFT · RETURNS DESK: 40 APPLICATIONS, UNOPENED (humor)
+### FB-returns · Sun Dec 27 · 9:51 AM · APPROVED (HQ, Nov 27) · RETURNS DESK: 40 APPLICATIONS, UNOPENED (humor)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p06_returns_desk_lime.png` (1080x1350).
 - Alt text: Returns desk: return 40 unopened applications, exchange them for one short note to the person who decides.

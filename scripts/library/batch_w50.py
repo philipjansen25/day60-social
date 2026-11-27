@@ -453,7 +453,8 @@ def _clock(t):
 
 
 def section_md(p):
-    head = f"### {p['pid']} · {p['day']} · {_clock(p['time'])} · DRAFT (Social, Nov 27) · {p['title'].upper()}"
+    state = "DRAFT (Social, Nov 27; HELD by HQ Nov 27 until Philip confirms)" if p['pid'] == "LI-checker" else "APPROVED (HQ, Nov 27)"
+    head = f"### {p['pid']} · {p['day']} · {_clock(p['time'])} · {state} · {p['title'].upper()}"
     lines = [head, "- Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet."]
     if p["humor"]:
         lines.append("- Humor: yes (about 1 post in 4, playbook §4).")
