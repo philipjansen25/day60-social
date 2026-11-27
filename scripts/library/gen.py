@@ -582,6 +582,7 @@ for _e in SPECS:
     if _e["id"] in _BUF_NOV25:
         _e.update(postedVia="buffer")
 
+from batch_w53 import specs as _b53; SPECS += _b53(entry, _one)  # noqa: E402,E702
 from notes import NOTES  # noqa: E402
 _missing = [e["id"] for e in SPECS if e["id"] not in NOTES]
 assert not _missing, _missing
