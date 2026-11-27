@@ -20,7 +20,8 @@ Philip, Nov 20, verbatim: "I want to comment on all alerts going forward." and "
    - (a) a company's or a seller's ad or AMA;
    - (b) a post that isn't about looking for work or working life at all (a keyword false match);
    - (c) a second copy of a post already on the card;
-   - (d) a post a day or more old.
+   - (d) a post a day or more old;
+   - (e) a thread that is removed, locked or archived, so it can't take a comment (Nov 27, now that the run opens threads).
    Venting and screenshot posts get a reply too. Comments never come in: F5Bot's flags turn them off.
 5. **One reply per post, made for that post:**
    - Answer what the person asked, with one concrete next step they can take today.
