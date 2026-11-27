@@ -70,7 +70,7 @@ NOTES = {
                             "Replaced by week 48's LI-story (Philip, Nov 8).",
                             "It never had a final date, so it shows on week 47's Tuesday."],
     "2026-w47-IG-resume": IG + ["The caption names getday60.com/resume-builder as plain text; it isn't a link."],
-    "2026-w47-FB-resume": FB_CAR + ["Slides 1 to 5 are IG-resume's. Slide 6 is p02_resume_builder_6_fb.png, the same slide without the \"Link in bio\" sticker, and its alt text leaves that out too."],
+    "2026-w47-FB-resume": FB_CAR + ["Slides 1 to 5 are IG-resume's. Slide 6 is p02_resume_builder_6_fb.png, the same slide without the \"Link in bio\" sticker, and its alt text leaves that out too.", "Replaced by 2026-w50-FB-resume (Nov 27)."],
     "2026-w48-LI-resume": LI + ["Text only, no image."],
     "2026-w48-LI-story": ["Reserved, not drafted: Social writes it after HQ forwards Phil's Nov 9 post.",
                           "Moved to Tue Dec 8: LI-email took Tue Dec 1 (HQ, Nov 18)."] + LI,

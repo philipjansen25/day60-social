@@ -123,7 +123,7 @@ Save this for your next application.
 #day60 #jobhunting #jobsearch #newjob #careeradvice
 ```
 
-### FB-resume · Fri Nov 20 · 6:00 PM · DRAFT · RESUME BUILDER (HQ, Nov 11)
+### FB-resume · Fri Nov 20 · 6:00 PM · NOT SCHEDULED · REPLACED BY 2026-w50-FB-resume (Nov 27) · RESUME BUILDER (HQ, Nov 11)
 - New cover (Philip, Nov 13: no cream covers): `2026-11/wk47/p02_resume_builder_1_lime.png` on lime replaces slide 1; the other slides and the words stay the same. The old file stays in the repo. Source: `2026-11/build_covers.py`.
 - Ink slide fix (HQ, Nov 13: lime is never text; on ink, Tick, cards and stickers get a cream keyline): `2026-11/wk47/p02_resume_builder_6_fb_v2.png` replaces slide 6. The old file stays in the repo.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): all 6 slides as new files, `2026-11/wk47/p02_resume_builder_1_lime_safe.png`, `p02_resume_builder_2_safe.png` to `p02_resume_builder_5_safe.png`, `p02_resume_builder_6_fb_v2_safe.png`. Same words, grounds and alt text. The old files stay in the repo; Philip decides whether to swap them into the post he already scheduled.

@@ -273,7 +273,7 @@ BACKFILL = [
           title="One resume, tailored to one job", format="carousel",
           link="https://getday60.com/resume-builder?utm_source=instagram&utm_medium=social&utm_campaign=2026-w47&utm_content=resume-builder",
           files=files(F47, "p02_resume_builder", 6, alts(bullet(s47("IG-resume"), "Alt text (per slide):")))),
-    entry(W47, "FB-resume", channel="facebook", date="2026-11-20", time="18:00", status="draft",
+    entry(W47, "FB-resume", channel="facebook", date="2026-11-20", time="18:00", status="replaced",
           title="Free resume builder for one job", format="carousel",
           files=[dict(f, path=f["path"].replace("_6.png", "_6_fb.png")) for f in files(F47, "p02_resume_builder", 6, alts(bullet(s47("FB-resume"), "Alt text (per slide):")))]),
     entry(W48, "LI-resume", channel="linkedin", date="2026-11-24", time="08:30", status="draft", postedVia="native",
