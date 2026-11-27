@@ -490,6 +490,36 @@
    "checked": "2026-11-24",
    "grid": true
   },
+  "2026-12/wk51/p01_tailor_coral.png": {
+   "sha256": "7f07b09ddbd21fe29a965bd4650b50774f06ad9b16726b019e816df48af31560",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk51/p02_keyword_gap_cobalt.png": {
+   "sha256": "40a9ff262597acb71afe6121c2427bc3123a0fda65c252959954421b113e3579",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk51/p03_seven_rounds_pink.png": {
+   "sha256": "9ddae1dc171bbaf63b985b48cbc64d004d1d15814dabc1fcaa5082efad54ad98",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk51/p04_first_line_mint.png": {
+   "sha256": "75eb1b645ff2f88cb55739ac2676556bd870aa0075ab49397079f0514b9502b2",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk51/p05_wishlist_ink.png": {
+   "sha256": "87eb623c2c2542feafad796fffa4e203204d93e309cfe8de23aa8bc10acb6204",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
   "2026-12/wk52/p01_thanks_1_pink_holiday.png": {
    "sha256": "d00706ab37e65f344ca0432d5dd44732f877a5b29ef709ba880543e8840ccb82",
    "scale": 0.862,
