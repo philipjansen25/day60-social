@@ -12,7 +12,7 @@ W = "2026-w49"
 LI_N = ["Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.",
         "No first comment: Buffer's plan doesn't allow one (HQ, Nov 19).",
         "Inside 8 AM to 12:59 PM CT (Philip, Nov 24)."]
-DRAFT = "Draft for HQ (Social, Nov 27), for Philip's weekday rule."
+DRAFT = "Approved by HQ (Nov 27), for Philip's weekday rule; HQ moved the H posts' hashtags above the link so the link ends the post."
 H_N = ["H day. Entirely professional, H's own words and facts only, from H's newsroom. The article link is the body's last line.",
        "No tags: no verified LinkedIn ID for H Company (its page returned 403 on Nov 27)."]
 P_N = ["Pipeline best practices day. No link and no Day60 (playbook §4)."]
@@ -36,7 +36,7 @@ def specs(entry, one):
         ("LI-H-aws", "2026-12-03", "11:19", "H on AWS European Sovereign Cloud", "h"),
         ("LI-nextstep", "2026-12-06", "11:31", "Write the next step first", "pipeline"),
     ]:
-        e = entry(W, pid, channel="linkedin", date=date, time=time, title=title, format="text", status="draft")
+        e = entry(W, pid, channel="linkedin", date=date, time=time, title=title, format="text", status="approved")
         e["topic"] = topic
         out.append(e)
     return out

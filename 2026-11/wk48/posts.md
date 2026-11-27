@@ -353,7 +353,7 @@ Paste a job link. Get your 4 people. Link in bio.
 ```
 One job link. Four people. One message.
 
-Paste a job link, and Day60 finds the 4 people closest to the hire: the hiring manager, their boss, someone on the team who knows the work, and the recruiter. Each comes with a verified work email and a short note in your voice, and Tick checks every draft.
+Paste a job link, and Day60 finds the 4 people closest to the hire: the hiring manager, their boss, someone on the team who knows the work, and the recruiter. Each comes with a short note in your voice, and a verified work email when Day60 finds one. Tick checks every draft.
 
 Then you send it. Day60 never logs in to LinkedIn and never sends anything for you.
 

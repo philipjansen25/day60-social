@@ -28,7 +28,7 @@ What came back wasn't a form. It was four people:
 3. An internal champion on the team, who knows what the job really needs.
 4. The recruiter, who runs the process.
 
-Each came with a verified work email and a short draft note in my voice. The one to the hiring manager named one problem their team has, gave one line of proof and asked one easy question.
+Each came with a short draft note in my voice, and a verified work email where Day60 found one. The one to the hiring manager named one problem their team has, gave one line of proof and asked one easy question.
 
 Then I read each draft and changed what didn't sound like me. That part stays yours. It drafts, and you send.
 
@@ -232,7 +232,7 @@ Today: find one message that got no reply and send the two-line nudge. Save this
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.
 - Carousel (6): `2026-11/wk47/p05_first_job_1_lime_safe.png`, `2026-11/wk47/p05_first_job_2_safe.png`, `2026-11/wk47/p05_first_job_3_safe.png`, `2026-11/wk47/p05_first_job_4_safe.png`, `2026-11/wk47/p05_first_job_5_safe.png`, `2026-11/wk47/p05_first_job_6_v2_safe.png`. Each 1080x1350 (4:5), every word inside the 3:4 grid (x 34 to 1046, y 150 to 1200).
-- Alt text (per slide): 1 "One job. Four people. One message. Your first job in Day60, step by step." · 2 "Step 1: Paste one job link, from the company's own site." · 3 "Step 2: Meet your 4 people, each with a verified work email: hiring manager, their boss, internal champion, recruiter." · 4 "Step 3: Start with the hiring manager, who feels the empty seat. Day60 drafts a short note to them in your voice." · 5 "Step 4: Make it yours, then send it. Every draft is checked, and Day60 never sends anything." · 6 "That's day 0. Day60 drafts the day-2 and day-7 follow-ups when they're due; you send every one. getday60.com"
+- Alt text (per slide): 1 "One job. Four people. One message. Your first job in Day60, step by step." · 2 "Step 1: Paste one job link, from the company's own site." · 3 "Step 2: Meet your 4 people: hiring manager, boss, internal champion, recruiter. A verified work email when Day60 finds one." · 4 "Step 3: Start with the hiring manager, who feels the empty seat. Day60 drafts a short note to them in your voice." · 5 "Step 4: Make it yours, then send it. Every draft is checked, and Day60 never sends anything." · 6 "That's day 0. Day60 drafts the day-2 and day-7 follow-ups when they're due; you send every one. getday60.com"
 - Ground: lime. The week's other Instagram slots are still to plan; with them, any 4 in a row stay different and cream stays at most one in five.
 - Link: the bio link stays /try. No link in the caption.
 
@@ -352,7 +352,7 @@ Happy holidays from Day60. Link in bio.
 ### FB-firstjob · Mon Dec 14 · 7:02 PM · APPROVED (HQ, Nov 27) · YOUR FIRST JOB, STEP BY STEP (reuses IG-firstjob-r2)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
 - Carousel (6): the same slides as IG-firstjob-r2 (Thu Dec 17): `2026-11/wk47/p05_first_job_1_lime_safe.png` to `p05_first_job_5_safe.png`, then `p05_first_job_6_v2_safe.png`. No slide says "Link in bio". Facebook hasn't run this piece.
-- Alt text (per slide): 1 "One job. Four people. One message. Your first job in Day60, step by step." · 2 "Step 1: Paste one job link, from the company's own site." · 3 "Step 2: Meet your 4 people, each with a verified work email: hiring manager, their boss, internal champion, recruiter." · 4 "Step 3: Start with the hiring manager, who feels the empty seat. Day60 drafts a short note to them in your voice." · 5 "Step 4: Make it yours, then send it. Every draft is checked, and Day60 never sends anything." · 6 "That's day 0. Day60 drafts the day-2 and day-7 follow-ups when they're due; you send every one. getday60.com"
+- Alt text (per slide): 1 "One job. Four people. One message. Your first job in Day60, step by step." · 2 "Step 1: Paste one job link, from the company's own site." · 3 "Step 2: Meet your 4 people: hiring manager, boss, internal champion, recruiter. A verified work email when Day60 finds one." · 4 "Step 3: Start with the hiring manager, who feels the empty seat. Day60 drafts a short note to them in your voice." · 5 "Step 4: Make it yours, then send it. Every draft is checked, and Day60 never sends anything." · 6 "That's day 0. Day60 drafts the day-2 and day-7 follow-ups when they're due; you send every one. getday60.com"
 - Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-firstjob`
 
 ```

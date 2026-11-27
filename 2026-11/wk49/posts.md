@@ -651,7 +651,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 
 Philip's words: "make sure that LinkedIn posts are about H on Monday and Thursday, Day60 on Tuesday and Friday, and genreating pipeline best practices on Wednesday and Sunday." And: "there should only be one post a day on each platform." These five drafts fill the H and pipeline days through Sun Dec 6. LI-glossary moved to Fri Dec 4; LI-monday, LI-3touch, LI-hiringside and LI-week left those days (see playbook §4). Times from `scripts/pick_time.py`.
 
-### LI-firsthour · Sun Nov 29 · 8:44 AM · DRAFT · PROTECT MONDAY'S FIRST HOUR (pipeline)
+### LI-firsthour · Sun Nov 29 · 8:44 AM · APPROVED (HQ, Nov 27) · PROTECT MONDAY'S FIRST HOUR (pipeline)
 - Status: draft for HQ (Social, Nov 27). Pipeline best practices (Sunday). Text only, through Buffer.
 - No link and no Day60 (pipeline posts carry none, playbook §4). No career numbers.
 
@@ -673,7 +673,7 @@ What's the first thing you do on a Monday?
 #prospecting #salesdevelopment #pipeline
 ```
 
-### LI-H-hackathon · Mon Nov 30 · 11:14 AM · DRAFT · H X 42AI HACKATHON WINNERS (H)
+### LI-H-hackathon · Mon Nov 30 · 11:14 AM · APPROVED (HQ, Nov 27) · H X 42AI HACKATHON WINNERS (H)
 - Status: draft for HQ (Social, Nov 27). H day (Monday). Entirely professional, H's own words and facts only.
 - Source: H's newsroom, "Meet the winners of the H x 42AI hackathon in Paris" (Nov 25), read Nov 27. Newest newsroom article not yet posted. The award post Philip deleted had no newsroom article (H's newsroom has none on the award).
 - Facts used, word for word from the article: "More than 80 builders spent two days in Paris building agents that use a computer the way a person does." "By Sunday afternoon the jury had 34 projects to review." "every team built with H's computer-use agents and Holo models." 1st H Companion, 2nd Rio, 3rd Player Two; Player Two "also took home the Cognition prize".
@@ -695,12 +695,12 @@ H Company's write-up covers how each team built its project, with a few ideas if
 
 If you could hand one repetitive task on your screen to an agent, which would it be?
 
-The winners and how they built: https://hcompany.ai/newsroom/h-x-42ai-hackathon-paris-winners
-
 #AIagents #computeruse #hackathon
+
+The winners and how they built: https://hcompany.ai/newsroom/h-x-42ai-hackathon-paris-winners
 ```
 
-### LI-threads · Wed Dec 2 · 11:59 AM · DRAFT · THREAD THE ACCOUNT BEFORE YOU NEED TO (pipeline)
+### LI-threads · Wed Dec 2 · 11:59 AM · APPROVED (HQ, Nov 27) · THREAD THE ACCOUNT BEFORE YOU NEED TO (pipeline)
 - Status: draft for HQ (Social, Nov 27). Pipeline best practices (Wednesday). No link, no Day60.
 
 ```
@@ -721,7 +721,7 @@ How many people do you know at your biggest open deal?
 #salesdevelopment #pipeline #B2Bsales
 ```
 
-### LI-H-aws · Thu Dec 3 · 11:19 AM · DRAFT · H ON THE AWS EUROPEAN SOVEREIGN CLOUD (H)
+### LI-H-aws · Thu Dec 3 · 11:19 AM · APPROVED (HQ, Nov 27) · H ON THE AWS EUROPEAN SOVEREIGN CLOUD (H)
 - Status: draft for HQ (Social, Nov 27). H day (Thursday). Entirely professional, H's own words and facts only.
 - Source: H's newsroom, "H Company launches its NVIDIA-powered agentic AI on the AWS European Sovereign Cloud" (Nov 16), read Nov 27. Next newest article not yet posted.
 - Facts used, from the release: the CEO quote is word for word; "H Company runs its EU customer inference on NVIDIA-powered instances within the AWS European Sovereign Cloud"; "A highly regulated European company in financial services will be the first to use H Company's AI agents"; "The latest model version, Holo4, leads computer use benchmarks, with much lower costs than general-purpose models."
@@ -740,12 +740,12 @@ From the release:
 
 If you run operations in a regulated industry, which workflow would you hand to an agent first?
 
-The full release: https://hcompany.ai/newsroom/h-company-aws-european-sovereign-cloud-press-release
-
 #AIagents #computeruse #sovereignAI
+
+The full release: https://hcompany.ai/newsroom/h-company-aws-european-sovereign-cloud-press-release
 ```
 
-### LI-nextstep · Sun Dec 6 · 11:31 AM · DRAFT · WRITE THE NEXT STEP BEFORE YOU HANG UP (pipeline)
+### LI-nextstep · Sun Dec 6 · 11:31 AM · APPROVED (HQ, Nov 27) · WRITE THE NEXT STEP BEFORE YOU HANG UP (pipeline)
 - Status: draft for HQ (Social, Nov 27). Pipeline best practices (Sunday). No link, no Day60.
 
 ```
