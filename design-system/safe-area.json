@@ -682,6 +682,30 @@
    "scale": 0.862,
    "checked": "2026-11-27",
    "grid": true
+  },
+  "2026-12/wk51/p01_one_bullet_coral.png": {
+   "sha256": "29da110cdd88f9edd3eddc751d5c3871757223876308904fef335490eaec9d7f",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk51/p02_word_file_cobalt.png": {
+   "sha256": "a1de8b3610695c1cdd07e257bd58a3e81ceec176794ad6d4509b19020e267acc",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk51/p03_dear_team_pink.png": {
+   "sha256": "cd402f5cf058b679480e327e85dc37bd7aa0a7bd044093021c4c6325e3b0d5b9",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk51/p04_phone_screen_mint.png": {
+   "sha256": "1b62c55e60c3c800d1379df141faf1c6f5f7a1a6dca446bd3bff09387fd8bf3e",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
   }
  },
  "waived": {},

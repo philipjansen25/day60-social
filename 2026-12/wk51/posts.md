@@ -4,38 +4,39 @@
 
 | Platform | Weekly cap | Week 51 |
 | --- | --- | --- |
-| LinkedIn | 6 (Sun to Fri, 8:00 AM to 12:59 PM CT) | LI-checker (Mon), LI-firstline (Tue), LI-person (Wed, linkless), LI-resume (Thu), LI-stages (Fri, humor), LI-shortweek (Sun). 5 of 6 carry the try link |
-| Instagram | 7 | IG4-r2 (Mon, cream), IG-tailor (Tue, coral), IG-gap (Wed, cobalt), IG-firstjob-r2 (Thu, lime), IG-rounds (Fri, pink, humor), IG-firstline (Sat, mint), IG-wishlist (Sun, ink, humor) |
-| Facebook | 7 | FB-firstjob (Mon), FB-touches (Tue), FB-tailor (Wed), FB-gap (Thu), FB-wishlist (Fri, humor), FB-rounds (Sat, humor), FB-firstline (Sun). Never the same day as the Instagram post it reuses |
+| LinkedIn | 6 (Sun to Fri, 8:00 AM to 12:59 PM CT) | LI-fourpeople (Mon), LI-firstline (Tue), LI-person (Wed, linkless), LI-resume (Thu), LI-stages (Fri, humor), LI-shortweek (Sun). 5 of 6 carry the try link |
+| Instagram | 7 | IG4-r2 (Mon, cream), IG-bullet (Tue, coral), IG-wordfile (Wed, cobalt), IG-firstjob-r2 (Thu, lime), IG-dearteam (Fri, pink, humor), IG-phonetest (Sat, mint), IG-wishlist (Sun, ink, humor) |
+| Facebook | 7 | FB-firstjob (Mon), FB-touches (Tue), FB-bullet (Wed), FB-wordfile (Thu), FB-wishlist (Fri, humor), FB-dearteam (Sat, humor), FB-phonetest (Sun). Never the same day as the Instagram post it reuses |
 
 ## LinkedIn (Philip's profile)
 
-### LI-checker · Mon Dec 14 · 9:12 AM · DRAFT · I RAN MY OWN DRAFT THROUGH THE MESSAGE CHECKER (founder lane)
+### LI-fourpeople · Mon Dec 14 · 9:12 AM · DRAFT · I PASTED ONE JOB LINK AND MET THE 4 PEOPLE (founder lane)
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
+- Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
-- Format: Phil "I tried it" (HQ's verdict, Nov 26). Only real checker behavior (playbook §1, IG6's approved words). [VERIFY] Phil confirms he did this before approval.
-- Link: `https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w51-LI-checker` (last line before the hashtags)
+- Format: Phil "I tried it" (HQ's verdict, Nov 26). Only real product behavior (playbook §1): the 4 people, verified work emails, a short draft in your voice, you send. The job is invented. [VERIFY] Phil confirms he did this before approval.
+- Link: `https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w51-LI-fourpeople` (last line before the hashtags)
 
 ```
-I ran my own first draft through our message checker.
+I pasted one job link into Day60. Here's what came back.
 
-It was a cold email I'd written fast, the way most first drafts get written. I pasted it in, picked "cold email", and let Tick read it.
+The job I used here is invented, to keep it illustrative: a customer success manager role at a mid-size software company.
 
-Tick checks the things a busy reader feels before they can name them:
-- Does it open with "I"?
-- Is the subject line short?
-- Is there one clear question?
-- Any em dashes, or lines like "I wanted to reach out"?
+What came back wasn't a form. It was four people:
+1. The hiring manager, who feels the empty seat.
+2. Their boss, who approved the role.
+3. An internal champion on the team, who knows what the job really needs.
+4. The recruiter, who runs the process.
 
-Every fix comes with the reason. What it doesn't check is whether your details are true. That part stays yours.
+Each came with a verified work email and a short draft note in my voice. The one to the hiring manager named one problem their team has, gave one line of proof and asked one easy question.
 
-I built Day60 so a first note to a hiring manager gets the care a good sales rep gives a first call: short, about them, one easy ask. The checker is free.
+Then I read each draft and changed what didn't sound like me. That part stays yours. It drafts, and you send.
 
-Today, paste the next message you're about to send and fix one thing before it goes.
+Today, pick one job you'd say yes to and write down those four names before you apply.
 
-Which rule do you break most often?
+Which of the four is hardest to find?
 
-https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w51-LI-checker
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w51-LI-fourpeople
 
 #jobsearch #networking #careeradvice
 ```
@@ -245,75 +246,76 @@ Today: pick the job you'd start with and paste its link.
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### IG-tailor · Tue Dec 15 · 6:37 PM · DRAFT · TAILOR IT. DON'T INVENT IT. (resume tool)
+### IG-bullet · Tue Dec 15 · 6:37 PM · DRAFT · ONE BULLET, ONE RESULT (resume tool)
 - Status: draft for HQ (Social, Nov 27). Through Buffer at 1080x1350.
-- Image: `2026-12/wk51/p01_tailor_coral.png`. Ground: coral. Source: `2026-12/wk51/build.py`. Facebook reuses it Wed Dec 16 (FB-tailor).
-- Alt text: Tailor your resume, don't invent it: the free resume builder uses only what your resume and your notes show.
+- Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
+- Image: `2026-12/wk51/p01_one_bullet_coral.png`. Ground: coral. Source: `2026-12/wk51/build.py`. Both bullets are the illustrative pair already approved on the week 47 resume builder slide 4. Facebook reuses it Wed Dec 16 (FB-bullet).
+- Alt text: One bullet, one result: a resume line rewritten for one job, using only what's true. Illustrative example.
 
 ```
-Tailor your resume. Don't invent it.
+One bullet, one result.
 
-Our free resume builder rewrites your bullets for one job, using only what your resume and your notes show. No new skill, number or title. If it isn't true, it isn't there.
+Pick the top bullet on your resume and ask: what changed because of my work? Rewrite it to say that, in words a hiring manager can picture.
 
-You read every line, add your email and get a Word file. It's free, there's no account, and your resume isn't stored.
+Our free resume builder rewrites your bullets for one job, using only what your resume and your notes show. No new skill, number or title. If it isn't true, it isn't there. (The example on the card is illustrative.)
 
-Today: pick one job you want and run your resume through it. Link in bio, or getday60.com/resume-builder.
+Today: rewrite your top bullet as a result. Link in bio, or getday60.com/resume-builder.
 
 #day60 #jobsearch #resume #resumetips #careertips
 ```
 
-### IG-gap · Wed Dec 16 · 12:14 PM · DRAFT · THE KEYWORD GAP IS A TO-DO LIST (resume tool)
+### IG-wordfile · Wed Dec 16 · 12:14 PM · DRAFT · ADD YOUR EMAIL, GET A WORD FILE (resume tool)
 - Status: draft for HQ (Social, Nov 27). Through Buffer at 1080x1350.
-- Image: `2026-12/wk51/p02_keyword_gap_cobalt.png`. Ground: cobalt. Source: `2026-12/wk51/build.py`. Facebook reuses it Thu Dec 17 (FB-gap).
-- Alt text: Keywords the posting asks for that your resume can't back up stay off it. Treat that list as homework.
+- Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
+- Image: `2026-12/wk51/p02_word_file_cobalt.png`. Ground: cobalt. Source: `2026-12/wk51/build.py`. Facts as approved in the resume posts (HQ fix Nov 23, #967): add your email, get a Word file, free, no account, resume not stored. Facebook reuses it Thu Dec 17 (FB-wordfile).
+- Alt text: Free resume builder: add your email, get a Word file. Free, no account, and your resume isn't stored.
 
 ```
-The keyword gap is a to-do list.
+Add your email. Get a Word file.
 
-Paste a job into our free resume builder and it lists the keywords you can't claim yet: words the posting asks for that your resume can't back up. They stay off your resume.
+That's the last step in our free resume builder: your resume, tailored to one job, as a Word file you can edit and send. It's free, there's no account, and your resume isn't stored.
 
-That list is useful. Maybe it's a skill to build. Maybe it's a sign this job isn't the one. Maybe it's one honest line in your note to the hiring manager.
-
-Today: run one job through it and pick one gap to work on this month. Link in bio.
+Today: pick one job you want and make its version of your resume. Link in bio.
 
 #day60 #jobsearch #resume #resumetips #careertips
 ```
 
-### IG-rounds · Fri Dec 18 · 10:34 PM · DRAFT · ROUND 7: A QUICK CHAT WITH THE TEAM (humor)
+### IG-dearteam · Fri Dec 18 · 10:34 PM · DRAFT · DEAR HIRING TEAM (humor)
 - Status: draft for HQ (Social, Nov 27). Through Buffer at 1080x1350.
-- Image: `2026-12/wk51/p03_seven_rounds_pink.png`. Ground: pink. Source: `2026-12/wk51/build.py`. Facebook reuses it Sat Dec 19 (FB-rounds).
-- Alt text: Round 7 of interviews, a quick chat with the team. Before round one, ask how many rounds and who decides.
+- Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
+- Image: `2026-12/wk51/p03_dear_team_pink.png`. Ground: pink. Source: `2026-12/wk51/build.py`. Facebook reuses it Sat Dec 19 (FB-dearteam).
+- Alt text: Dear Hiring Team: people who think it's for them, zero. Write to one person, by name.
 
 ```
-Round 7: "a quick chat with the team."
+"Dear Hiring Team,"
 
-Nobody plans seven rounds. They just happen, one "quick chat" at a time.
+People on the Hiring Team who think it's for them: zero.
 
-You can't always stop it, but you can see it coming. Before round one, ask the recruiter two things: how many rounds there are, and who makes the decision. Then you know who to write to and when to follow up.
+A message to everyone lands with no one. Find the hiring manager's name and write to that one person: a short note and one easy question.
 
-Today: add those two questions to your notes for your next first call.
+Today: take one message that starts "Dear Hiring Team" and put a name on it.
 
-Day60 finds the 4 people closest to the hire, including the one who decides. Link in bio.
+Day60 finds the 4 people closest to the hire, names included. Link in bio.
 
-#day60 #jobsearch #interviewtips #careertips #networking
+#day60 #jobsearch #careeradvice #networkingtips #coverletter
 ```
 
-### IG-firstline · Sat Dec 19 · 8:24 PM · DRAFT · YOUR FIRST LINE IS ABOUT THEM (message craft)
+### IG-phonetest · Sat Dec 19 · 8:24 PM · DRAFT · THE PHONE-SCREEN TEST (message craft)
 - Status: draft for HQ (Social, Nov 27). Through Buffer at 1080x1350.
-- Image: `2026-12/wk51/p04_first_line_mint.png`. Ground: mint. Source: `2026-12/wk51/build.py`. Facebook reuses it Sun Dec 20 (FB-firstline). Both quoted lines are illustrative, and the card says so.
-- Alt text: Your first line is about them: a line about you, then a line about their team's hiring. Illustrative example.
+- Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
+- Image: `2026-12/wk51/p04_phone_screen_mint.png`. Ground: mint. Source: `2026-12/wk51/build.py`. Facebook reuses it Sun Dec 20 (FB-phonetest).
+- Alt text: The phone-screen test: read your message on your phone. If you have to scroll, cut it.
 
 ```
-Your first line is about them.
+The phone-screen test.
 
-Not this: "I'm reaching out to express my strong interest in the role."
-This: "Saw your support team is hiring two leads after the launch."
+Before you send a first message, read it on your phone. If you have to scroll, cut it.
 
-The first line decides whether they read the second. Make it about their team, their goal or their problem, and short enough to read on a phone. (Both lines are illustrative.)
+The person you're writing to may well read it between meetings, on that same small screen. A note that fits gets read to the end.
 
-Today: rewrite the first line of one message you haven't sent.
+Today: open your next draft on your phone and cut until it fits on one screen.
 
-Day60 drafts a first note to each of the 4 people closest to the hire. You make it yours. Link in bio.
+Day60 drafts short first notes to the 4 people closest to the hire. You make them yours. Link in bio.
 
 #day60 #jobsearch #careeradvice #networkingtips #coverletter
 ```
@@ -389,42 +391,44 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #careeradvice
 ```
 
-### FB-tailor · Wed Dec 16 · 8:34 AM · DRAFT · TAILOR IT. DON'T INVENT IT. (reuses IG-tailor)
+### FB-bullet · Wed Dec 16 · 8:34 AM · DRAFT · ONE BULLET, ONE RESULT (reuses IG-bullet)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
-- Image: `2026-12/wk51/p01_tailor_coral.png` (Instagram runs it Tue Dec 15).
-- Alt text: Tailor your resume, don't invent it: the free resume builder uses only what your resume and your notes show.
-- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-tailor`
+- Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
+- Image: `2026-12/wk51/p01_one_bullet_coral.png` (Instagram runs it Tue Dec 15).
+- Alt text: One bullet, one result: a resume line rewritten for one job, using only what's true. Illustrative example.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-bullet`
 
 ```
-Tailor your resume. Don't invent it.
+One bullet, one result.
 
-If you're helping someone with a resume this season, here's a free tool worth passing on. Day60's resume builder rewrites the bullets for one job, using only what the resume and the notes show. No new skill, number or title.
+If you're helping someone with a resume this season, start with the top bullet. Ask what changed because of their work, and rewrite the line to say that.
 
-You read every line, add your email and get a Word file. It's free, there's no account, and the resume isn't stored. It's at getday60.com/resume-builder.
+Day60's free resume builder rewrites bullets for one job, using only what the resume and the notes show. No new skill, number or title. It's at getday60.com/resume-builder. (The example on the card is illustrative.)
 
 Share this with someone who's looking.
 
-Today: run your resume through it for one job you want. Then find the 4 people closest to that hire:
-https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-tailor
+Today: rewrite your top bullet as a result. Then find the 4 people closest to the hire for the job you want:
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-bullet
 
 #jobsearch #day60 #resume
 ```
 
-### FB-gap · Thu Dec 17 · 8:32 AM · DRAFT · THE KEYWORD GAP IS A TO-DO LIST (reuses IG-gap)
+### FB-wordfile · Thu Dec 17 · 8:32 AM · DRAFT · ADD YOUR EMAIL, GET A WORD FILE (reuses IG-wordfile)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
-- Image: `2026-12/wk51/p02_keyword_gap_cobalt.png` (Instagram runs it Wed Dec 16).
-- Alt text: Keywords the posting asks for that your resume can't back up stay off it. Treat that list as homework.
-- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-gap`
+- Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
+- Image: `2026-12/wk51/p02_word_file_cobalt.png` (Instagram runs it Wed Dec 16).
+- Alt text: Free resume builder: add your email, get a Word file. Free, no account, and your resume isn't stored.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-wordfile`
 
 ```
-The keyword gap is a to-do list, not words to paste in.
+Add your email. Get a Word file.
 
-Day60's free resume builder lists the keywords a job asks for that a resume can't back up yet. They stay off the resume. That list shows what to build next, whether this job is the right one, or what to mention honestly in a note.
+That's the last step in Day60's free resume builder: a resume tailored to one job, as a Word file you can edit and send. It's free, there's no account, and the resume isn't stored. It's at getday60.com/resume-builder.
 
 Share this with someone who's looking.
 
-Today: run one job through getday60.com/resume-builder and pick one gap to work on. Then find the 4 people for that job:
-https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-gap
+Today: make the version of your resume for one job you want. Then find the 4 people closest to that hire:
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-wordfile
 
 #jobsearch #day60 #resume
 ```
@@ -453,45 +457,44 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #careeradvice
 ```
 
-### FB-rounds · Sat Dec 19 · 9:26 PM · DRAFT · ROUND 7: A QUICK CHAT WITH THE TEAM (reuses IG-rounds, humor)
+### FB-dearteam · Sat Dec 19 · 9:26 PM · DRAFT · DEAR HIRING TEAM (reuses IG-dearteam, humor)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
-- Image: `2026-12/wk51/p03_seven_rounds_pink.png` (Instagram runs it Fri Dec 18).
-- Alt text: Round 7 of interviews, a quick chat with the team. Before round one, ask how many rounds and who decides.
-- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-rounds`
+- Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
+- Image: `2026-12/wk51/p03_dear_team_pink.png` (Instagram runs it Fri Dec 18).
+- Alt text: Dear Hiring Team: people who think it's for them, zero. Write to one person, by name.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-dearteam`
 
 ```
-Round 7: "a quick chat with the team."
+"Dear Hiring Team,"
 
-Nobody plans seven interview rounds. They just happen, one "quick chat" at a time.
+People on the Hiring Team who think it's for them: zero.
 
-If you're interviewing, or cheering on someone who is, two questions help before round one: how many rounds are there, and who makes the decision? Then you know who to write to and when to follow up.
+If you or someone you know is writing to employers, a message to everyone lands with no one. Find the hiring manager's name and write to that one person, with a short note and one easy question.
 
 Share this with someone who's looking.
 
-Today: add those two questions to your notes for your next first call.
-https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-rounds
+Today: take one message that starts "Dear Hiring Team" and put a name on it.
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-dearteam
 
-#jobsearch #day60 #interviewtips
+#jobsearch #day60 #careeradvice
 ```
 
-### FB-firstline · Sun Dec 20 · 9:38 AM · DRAFT · YOUR FIRST LINE IS ABOUT THEM (reuses IG-firstline)
+### FB-phonetest · Sun Dec 20 · 9:38 AM · DRAFT · THE PHONE-SCREEN TEST (reuses IG-phonetest)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
-- Image: `2026-12/wk51/p04_first_line_mint.png` (Instagram runs it Sat Dec 19).
-- Alt text: Your first line is about them: a line about you, then a line about their team's hiring. Illustrative example.
-- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-firstline`
+- Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
+- Image: `2026-12/wk51/p04_phone_screen_mint.png` (Instagram runs it Sat Dec 19).
+- Alt text: The phone-screen test: read your message on your phone. If you have to scroll, cut it.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-phonetest`
 
 ```
-Your first line is about them.
+The phone-screen test.
 
-Not this: "I'm reaching out to express my strong interest in the role."
-This: "Saw your support team is hiring two leads after the launch."
-
-The first line decides whether anyone reads the second. Make it about their team or their problem, and keep it short enough to read on a phone. (Both lines are illustrative.)
+Before you send a first message to an employer, read it on your phone. If you have to scroll, cut it. A note that fits on one screen gets read to the end.
 
 Share this with someone who's looking.
 
-Today: rewrite the first line of one message you haven't sent yet.
-https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-firstline
+Today: open your next draft on your phone and cut until it fits on one screen.
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-phonetest
 
 #jobsearch #day60 #careeradvice
 ```
