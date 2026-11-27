@@ -266,7 +266,7 @@ Philip published the guides on Nov 3. Besides /try, LinkedIn and Facebook posts 
 - Filenames: `pNN_<slug>_<n>.png`, 1080×1350 for feed images and carousels, 1080×1920 for Reels/TikTok (MP4).
 - Each week's copy lives in `YYYY-MM/wkWW/posts.md`: platform, day, time (Central), copy, image paths, hashtags, link.
 - Never rename or delete a file that a post in `library.json` uses. A fix goes in a new file.
-- `print/fairs/`: the career-fair print kit (HQ, Nov 19): handout, QR card and table sign, one folder per event from `python3 print/fairs/build.py <slug>`. Its README has the words, the checks and how each piece prints. Later, with the January batches and inside the cadence: one Instagram and Facebook carousel on the night after a career fair, no extra posts.
+- `print/fairs/`: the career-fair print kit (HQ, Nov 19; Nov 27 words): handout, table card and QR card, one folder per event (`fair-<slug>/`, campaign `fair-<slug>`) from `python3 print/fairs/build.py <slug>`. Its README has the words, the checks and how each piece prints. Later, with the January batches and inside the cadence: one Instagram and Facebook carousel on the night after a career fair, no extra posts.
 - `templates/`: HTML source for cards (`stat-card.html`) and `render.js` (`node templates/render.js <html> <png>`, 1080×1350 via Playwright).
 
 ## 8b. Media library
