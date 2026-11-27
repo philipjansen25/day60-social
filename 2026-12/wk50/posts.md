@@ -157,9 +157,9 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 
 ### LI-findhm · Thu Dec 10 · 9:44 AM · DRAFT (Social, Nov 27) · HOW TO FIND THE HIRING MANAGER
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
-- Lane: the Day60 method (Thu). LinkedIn's guide of the week 1, how-to-find-the-hiring-manager (HQ, Nov 19; playbook §5 and §7b): the guide's steps, as Instagram and Facebook ran them in week 49, the guide link as the body's last line (playbook §5: a LinkedIn guide post ends on the guide link; check-library.mjs allows one link line on LinkedIn, so this post has no try link).
+- Lane: the Day60 method (Thu). LinkedIn's guide of the week 1, how-to-find-the-hiring-manager (HQ, Nov 19; playbook §5 and §7b): the guide's steps, as Instagram and Facebook ran them in week 49, the guide link in the body and the try link as the last line before the hashtags (playbook §5: a guide post keeps its guide link in the body and still ends with the try link).
 - Tag: Day60 (the first "Day60" in the text, page 144030699; the annotation is in linkedin-company-ids.md). Other company names stay plain text, with no "@".
-- Link: the guide link, the body's last line before the hashtags.
+- Link: the guide link in the body, then `https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50-LI-findhm`, the body's last line before the hashtags.
 
 ```
 Most people know they should write to the hiring manager.
@@ -180,6 +180,8 @@ Who's the hardest person to find for the roles you want?
 
 The full guide, with an example start to finish:
 https://getday60.com/guides/how-to-find-the-hiring-manager?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50&utm_content=find-hiring-manager
+
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w50-LI-findhm
 
 #jobsearch #hiring #careeradvice
 ```

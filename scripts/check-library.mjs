@@ -243,7 +243,9 @@ for (const p of lib) {
     // a link only as the body's last line before the hashtags (HQ, Nov 19)
     const body = p.text.split('\n');
     while (body.length && (/^\s*$/.test(body.at(-1)) || /^(#\w+\s*)+$/.test(body.at(-1).trim()))) body.pop();
-    const at = body.map((l, i) => (LINK.test(l) ? i : -1)).filter((i) => i >= 0);
+    // a guide post keeps its guide link in the body and still ends with the try link (playbook §5)
+    const GUIDE_LINE = 'guide' in p ? new RegExp(`^https://getday60\\.com/guides/${String(p.guide).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\?`) : null;
+    const at = body.map((l, i) => (LINK.test(l) && !(GUIDE_LINE && GUIDE_LINE.test(l.trim())) ? i : -1)).filter((i) => i >= 0);
     if (at.some((i) => i !== body.length - 1)) err(id, 'LinkedIn link is not the body\'s last line (before the hashtags)');
   }
   if (p.channel === 'linkedin' && live && p.date > NATIVE_UNTIL) {

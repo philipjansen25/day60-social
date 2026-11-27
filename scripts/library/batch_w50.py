@@ -150,9 +150,11 @@ Who's the hardest person to find for the roles you want?
 The full guide, with an example start to finish:
 {utm("guides/how-to-find-the-hiring-manager", "linkedin", "find-hiring-manager")}
 
+{try_link("linkedin", "2026-w50-LI-findhm")}
+
 #jobsearch #hiring #careeradvice
 """, bullets=[
-    "Lane: the Day60 method (Thu). LinkedIn's guide of the week 1, how-to-find-the-hiring-manager (HQ, Nov 19; playbook §5 and §7b): the guide's steps, as Instagram and Facebook ran them in week 49, the guide link as the body's last line (playbook §5: a LinkedIn guide post ends on the guide link; check-library.mjs allows one link line on LinkedIn, so this post has no try link).",
+    "Lane: the Day60 method (Thu). LinkedIn's guide of the week 1, how-to-find-the-hiring-manager (HQ, Nov 19; playbook §5 and §7b): the guide's steps, as Instagram and Facebook ran them in week 49, the guide link in the body and the try link as the last line before the hashtags (playbook §5: a guide post keeps its guide link in the body and still ends with the try link).",
     TAG,
 ], notes=BUF_LI + ["Guide of the week (LinkedIn): how-to-find-the-hiring-manager.", DRAFT]),
 
@@ -464,7 +466,7 @@ def section_md(p):
     if p["ch"] == "instagram":
         lines.append("- Link: the bio link stays /try. No link in the caption.")
     elif p["guide"]:
-        lines.append("- Link: the guide link, the body's last line before the hashtags.")
+        lines.append(f"- Link: the guide link in the body, then `{try_link(p['ch'], p['id'])}`, the body's last line before the hashtags.")
     else:
         lines.append(f"- Link: `{try_link(p['ch'], p['id'])}`, the body's last line before the hashtags.")
     lines += ["", "```", p["text"], "```", ""]
@@ -527,7 +529,7 @@ def lint():
                 bad.append((p["id"], f"Day60 x{t.count('Day60')}"))
             if len(t.split("\n")[0]) >= 60:
                 bad.append((p["id"], "hook >= 60"))
-            if not p["guide"] and t.split("\n\n")[-2].strip() != try_link("linkedin", p["id"]):
+            if t.split("\n\n")[-2].strip() != try_link("linkedin", p["id"]):
                 bad.append((p["id"], "LI try link not last"))
         if p["ch"] == "facebook" and try_link("facebook", p["id"]) not in t.split("\n\n")[-2]:
             bad.append((p["id"], "FB try link not last"))
