@@ -508,6 +508,48 @@
    "checked": "2026-11-22",
    "grid": true
   },
+  "2026-12/wk53/p01_out_of_office_cobalt.png": {
+   "sha256": "3181b31c2d5a434bf7df4ca0f6954bb589c577c11baea4f015735c2b8b6fc93d",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk53/p02_keywords_mint.png": {
+   "sha256": "1b33494dc5a4a7af49ced50d30598bde5018d014568baac9b67a6216a3f77be4",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk53/p03_year_list_coral.png": {
+   "sha256": "43269b0d6ede6f3d43ecba630377b206bdd2bf5987191f5179805d74ba3e1b71",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk53/p04_last_call_ink.png": {
+   "sha256": "f38910a0540c5b2fe073c9eda1426d63c8ea731e931df85ac3986f662647c1b2",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk53/p05_new_year_pink.png": {
+   "sha256": "5df03f1c06b0aabc5abbfeba1e26de78280d6333d1ef1b024d8d650080a38412",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk53/p06_one_job_lime.png": {
+   "sha256": "69532ca4012efdbffa90233ae35c22bc50a6d5f80c53b70dbaba07114a9f5c92",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk53/p07_read_every_line_mint.png": {
+   "sha256": "41452448fb8a8a8f43e49f904e1692f6dd2c2a53c51ac1c7a112e243490544de",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
   "product-hunt/ig_launch_day_safe.png": {
    "sha256": "312dfd267f97ccc7f60fe36a9d02d63d28bddde4351fab8e97df8b1e9348cbe6",
    "scale": 0.88,

@@ -382,3 +382,35 @@ NOTES["2026-w50-LI-ats"] = BUF_LI2 + _ATS + ["Inside 8 AM to 12:59 PM CT (Philip
 NOTES["2026-w49-FB-ats"] = BUF_FB_ONE + _ATS
 NOTES["2026-w49-IG-ats"] = BUF_IG_ONE + _ATS
 
+
+# ---- w53 block: December batch, Mon Dec 28, 2026 to Sun Jan 3, 2027 (Social, Nov 27; drafts for HQ) ----
+_W53_LI = ["Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.",
+           "No first comment: Buffer's plan doesn't allow one (HQ, Nov 19).",
+           "Tag the first \"Day60\" with the page annotation in linkedin-company-ids.md (page 144030699; Philip, Nov 26).",
+           "Inside 8 AM to 12:59 PM CT (Philip, Nov 24).", "Draft for HQ (Nov 27 batch)."]
+_W53_TRY = "Ends with the try link on its own last line before the hashtags (HQ, Nov 22)."
+NOTES["2026-w53-LI-checker"] = _W53_LI + [_W53_TRY, "\"I tried it\" post: the note is illustrative; the flags are the checker's real rules.",
+                                         "[VERIFY] Phil confirms he did this before approval."]
+NOTES["2026-w53-LI-nudge"] = _W53_LI + [_W53_TRY, "Message-craft lesson. Day60's follow-up line is the approved wording (HQ, Nov 5)."]
+NOTES["2026-w53-LI-ooo"] = _W53_LI + [_W53_TRY, "humor (deadpan list; the joke is on holiday auto-replies)."]
+NOTES["2026-w53-LI-subject"] = _W53_LI + [_W53_TRY, "Message-craft lesson. The example subject lines are invented."]
+NOTES["2026-w53-LI-newyear"] = _W53_LI + ["Personal New Year's Day post: no link (HQ, Nov 26)."]
+NOTES["2026-w53-LI-plan"] = _W53_LI + [_W53_TRY, "Sunday lane: plan-your-week for the first full week of January."]
+_W53_IG = BUF_IG_ONE + ["Draft for HQ (Nov 27 batch)."]
+NOTES["2026-w53-IG-ooo"] = _W53_IG + ["humor (one-line seasonal card)."]
+NOTES["2026-w53-IG-keywords"] = _W53_IG + ["Resume-tool post; the caption names getday60.com/resume-builder as plain text."]
+NOTES["2026-w53-IG-yearlist"] = _W53_IG
+NOTES["2026-w53-IG-lastcall"] = _W53_IG + ["humor (New Year's Eve card)."]
+NOTES["2026-w53-IG-newyear"] = _W53_IG + ["New Year's Day."]
+NOTES["2026-w53-IG-five"] = _W53_IG + ["Gentle new-year restart, no resolutions."]
+NOTES["2026-w53-IG-readline"] = _W53_IG + ["Resume-tool post; the caption names getday60.com/resume-builder as plain text."]
+_W53_FB = BUF_FB_ONE + ["Reuses an Instagram card from this week, never on the same day (HQ, Nov 26: no Facebook-only creative).",
+                        _W53_TRY.replace("(HQ, Nov 22)", "(HQ, Nov 22; utm_source=facebook)"), "Draft for HQ (Nov 27 batch)."]
+NOTES["2026-w53-FB-yearlist"] = _W53_FB + ["Card: IG-yearlist (Wed Dec 30)."]
+NOTES["2026-w53-FB-ooo"] = _W53_FB + ["Card: IG-ooo (Mon Dec 28).", "humor."]
+NOTES["2026-w53-FB-lastcall"] = _W53_FB + ["Card: IG-lastcall (Thu Dec 31).", "humor."]
+NOTES["2026-w53-FB-newyear"] = _W53_FB + ["Card: IG-newyear (Fri Jan 1)."]
+NOTES["2026-w53-FB-five"] = _W53_FB + ["Card: IG-five (Sat Jan 2)."]
+NOTES["2026-w53-FB-readline"] = _W53_FB + ["Card: IG-readline (Sun Jan 3). Also links the resume builder with UTMs."]
+NOTES["2026-w53-FB-keywords"] = _W53_FB + ["Card: IG-keywords (Tue Dec 29). Also links the resume builder with UTMs."]
+# ---- end w53 block ----
