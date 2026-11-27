@@ -17,6 +17,7 @@ They keep the library ids they had in week 49 (`2026-w49-LI-PH`, `2026-w49-IG-PH
 **When the launch link comes:** HQ asks Social to replace `<Product Hunt launch link>` in LI-PH's last line and FB-PH's text. Product Hunt gives the link once the launch is scheduled. Nothing with the placeholder goes into Buffer.
 
 ### LI-PH · Tue Jan 12 · 8:21 AM · DRAFT (rewritten Nov 19; approved Nov 11 before that) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
+- Paid launch (HQ, Nov 27): the experienced-reader paragraph approved; still a draft until the launch link exists.
 - Status: draft. Approved by Philip on Nov 11; rewritten Nov 19 for HQ's LinkedIn rules, and HQ approved the structure that day. The same day, it got a new opening from Phil's own founder.ts line ("Your resume goes into a pile..."; HQ: keep it), the Day60 line followed, and the hashtags now start with #jobsearch. It stays a draft until the launch link exists; then Social sends HQ the final line.
 - **Text only from Nov 19 (HQ: no more LinkedIn images).** It used `product-hunt/01_hero.png`, which stays in the repo.
 - Tags: none. Day60 stays untagged until Buffer has the page's LinkedIn details.
@@ -28,9 +29,9 @@ The person who decides never sees it.
 
 So I stopped waiting in the pile and went to the people who decide.
 
-Job seekers mostly get told to apply to more. Most job tools make applying faster.
+If you're a few years into your career and applying online to silence, you've seen that pile from the inside. Experience isn't the problem.
 
-I've spent my career building teams that do exactly that. At ClickUp I founded the sales development team, which grew from 0 to 32 reps. At Deel I wrote the Enterprise SDR Target Account Playbook. At Google I designed the Partner Lead Development Program.
+I've spent my career building teams that reach the people who decide. At ClickUp I founded the sales development team, which grew from 0 to 32 reps. At Deel I wrote the Enterprise SDR Target Account Playbook. At Google I designed the Partner Lead Development Program.
 
 Day60 is that playbook, rebuilt for your job search. Paste a job link, and it finds the four people closest to the hire and drafts a short note to each in your voice. You send every message.
 
@@ -46,6 +47,7 @@ The launch: <Product Hunt launch link>
 Checks: hook is 29 characters. "Day60" appears once. One link, the launch, in the last line. Founder facts are Phil's two founder.ts lines (the first word for word, the second plainly paraphrased) and the ClickUp, Deel and Google roles, with no numbers but the team size; no personal results. Asks for feedback, not upvotes. No em-dashes, no banned phrases, no competitor names.
 
 ### IG-PH · Tue Jan 12 · 7:53 AM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
+- Paid launch (HQ, Nov 27): rewritten for paid mode and the experienced reader, approved: $79, one job free to try, "a verified work email for each when it can find one".
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `product-hunt/ig_launch_day_safe.png` replaces the image, a new file. FB-PH uses it too. Same words and alt text. The old file stays in the repo.
 - Status: approved in the Post Library (Philip, Nov 11). Not scheduled. Social puts it into Buffer once the Product Hunt launch link exists (HQ, Nov 18). Philip deletes the Dec 1 version he had scheduled.
 - Image: `product-hunt/ig_launch_day_safe.png` (1080×1350, the portrait version of gallery image 1; replaced `product-hunt/ig_launch_day.png` on Nov 16)
@@ -55,35 +57,39 @@ Checks: hook is 29 characters. "Day60" appears once. One link, the launch, in th
 ```
 We're on Product Hunt today.
 
-Day60 is the part after you find the job. Paste a job link and it finds the four people closest to the hire: the hiring manager, their boss, an internal champion and the recruiter, with verified work emails. It drafts a short note to each in your voice, and Tick checks every draft. You send every message.
+Applying online and hearing nothing? Day60 is the part after you find the job. Paste a job link and it finds the four people closest to the hire: the hiring manager, their boss, an internal champion and the recruiter, and a verified work email for each when it can find one. It drafts a short note to each in your voice, and Tick checks every draft. You send every message.
 
-We want the honest version. Try it on one real job, then tell us where it picked the wrong people or where the note didn't sound like you. Search Day60 on Product Hunt, or tell us in the comments here.
-
-Try one job free, no account needed. Link in bio.
+A 60-day sprint is $79, and one job is free to try. We want the honest version: try it on one real job, then tell us where it picked the wrong people or where the note didn't sound like you. Search Day60 on Product Hunt, or tell us in the comments here.
 
 (The names on the cards are invented.)
+
+Link in bio.
 
 #day60 #producthunt #jobsearch #jobsearchtips #careertips
 ```
 
 ### FB-PH · Tue Jan 12 · 7:28 AM · APPROVED (Philip, Nov 11, Post Library) · PRODUCT HUNT LAUNCH · MOVED FROM TUE DEC 1 (Philip, Nov 11)
+- Paid launch (HQ, Nov 27): rewritten and approved: $79, the launch link in the body, the try link last under "Try it free on one job:" (campaign = post id).
 - Cut Nov 19 and restored the same day (Philip: Facebook 3 a week). It goes into Buffer once the Product Hunt launch link exists.
 - Safe-area fix (Philip via HQ, Nov 16: Instagram may show a feed post as its middle square; every word, sticker, button, Tick, wordmark and slide marker now sits inside y 150 to 1200): `product-hunt/ig_launch_day_safe.png` replaces the image, a new file. Same words and alt text. The old file stays in the repo.
 - Status: approved in the Post Library (Philip, Nov 11). Not scheduled. Social puts it into Buffer once the Product Hunt launch link exists (HQ, Nov 18). Philip deletes the Dec 1 version he had scheduled.
 - Image: `product-hunt/ig_launch_day_safe.png` (same as IG-PH; Facebook reuses the week's Instagram images)
 - Alt text: same as IG-PH.
-- Links: the Product Hunt link, plus https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2027-w02&utm_content=product-hunt
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-PH`, the last line before the hashtags; the Product Hunt link sits in the body (placeholder until it exists).
 
 ```
 Day60 launched on Product Hunt today, and we'd like your honest take.
 
-Paste a job link, and it finds the four people closest to the hire, with verified work emails, and drafts a short note to each in your voice. Tick checks every draft. You send every message. It never applies for you and never logs in to your LinkedIn.
+If you or someone you know is a few years into a career and applying online to silence, this is for you. Paste a job link, and Day60 finds the four people closest to the hire, and a verified work email for each when it can find one. It drafts a short note to each in your voice. Tick checks every draft. You send every message. It never applies for you and never logs in to your LinkedIn.
 
-Try it on one real job, then tell us where it got the people or the note wrong. You can comment on the launch here: <Product Hunt launch link>
-
-Or try one job first, free and with no account: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2027-w02&utm_content=product-hunt
+A 60-day sprint is $79. Try it on one real job, then tell us where it got the people or the note wrong. You can comment on the launch here: <Product Hunt launch link>
 
 (The names on the image are invented.)
+
+Share this with someone who's looking.
+
+Try it free on one job:
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-PH
 
 #jobsearch #day60 #producthunt
 ```

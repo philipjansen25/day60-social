@@ -17,6 +17,10 @@ Fixed ids you'll need:
 
 ## 0. New since the handoff (Social, Tue Nov 24)
 
+- **Paid launch (Philip, Nov 27; HQ approved Social's drafts the same day).** Paid mode starts Tue Jan 5 ($79 sprint, $39 re-sprint), and the launch reader is experienced professionals (playbook §1).
+  - The Product Hunt kit and posts are updated.
+  - "Free sprints end January 5. Start yours now." is in 15 posts from Dec 15 to Jan 3.
+  - **Due Sun Dec 13, 8 PM CT:** the 11 LinkedIn posts for Jan 4 to 15, plus the fallbacks for the story posts (plan in `product-hunt/paid-launch-drafts.md` part b).
 - **Company tags on LinkedIn (Philip, Thu Nov 26, 3:40 PM CT, via HQ): "I want all company names tagged in my LinkedIn posts."** Tag the first "Day60" in every LinkedIn post. Other companies are tagged only from `linkedin-company-ids.md`. HQ tagged Day60 on the four LinkedIn posts in Buffer (Nov 29, Nov 30, Dec 1, Dec 3). Playbook §5 has the details.
 - **Formats from HQ's weekly brief (Thu Nov 26, from the Nov 19 to 26 Buffer numbers).**
   - Make more of: LinkedIn first-person Phil "I tried it" posts (936 reach, the best), short message-craft lessons on LinkedIn (315 reach, 6 reactions), and resume-tool posts on Instagram (49 reach against 7 to 17).

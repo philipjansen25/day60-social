@@ -85,6 +85,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 ```
 
 ### LI-nudge · Tue Dec 29 · 10:28 AM · APPROVED (HQ, Nov 27) · YOUR FOLLOW-UP NEEDS ONE NEW THING (message craft)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ.
 - Lane: Day60 method (Tue). A short message-craft lesson.
 - Format: text only.
@@ -111,6 +112,7 @@ Today, pick one message that hasn't had a reply and write its two-line nudge. Sa
 
 What's the best follow-up line you've ever received?
 
+Free sprints end January 5. Start yours now.
 https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w53-LI-nudge
 
 #jobsearch #networking #careeradvice
@@ -198,6 +200,7 @@ What's one thing you're glad you did this year?
 ```
 
 ### LI-plan · Sun Jan 3 · 8:14 AM · APPROVED (HQ, Nov 27) · FIRST FULL WEEK OF JANUARY: START SMALL (Sunday lane)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ.
 - Lane: plan-your-week (Sun), for the first full week of January. No resolutions, no pressure.
 - Format: text only.
@@ -221,6 +224,7 @@ Day60 finds the 4 people closest to the hire for one job and drafts a first note
 
 Which job will you start with tomorrow?
 
+Free sprints end January 5. Start yours now.
 https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w53-LI-plan
 
 #jobsearch #careeradvice #networking
@@ -254,6 +258,7 @@ Day60 tells you when each follow-up is due. You send it. Link in bio.
 ```
 
 ### IG-question · Tue Dec 29 · 5:58 PM · APPROVED (HQ, Nov 27) · BRING ONE QUESTION YOU REALLY WANT ANSWERED (interview tip)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ. Replaces IG-keywords (week 50 has the keywords card). Interview prep for January; the example questions are general advice, no claims.
 - Image: `2026-12/wk53/p02_question_mint.png`. Ground: mint.
 - Alt text: Bring one question you really want answered. Something about the work, like what would make the first 90 days a success.
@@ -273,7 +278,7 @@ Write the answer down. It's the best material you'll have for your thank-you not
 
 Today: write one question for your next interview, or the next one you hope to get.
 
-Day60 finds the 4 people closest to the hire for one job. Link in bio.
+Day60 finds the 4 people closest to the hire for one job. Free sprints end January 5. Start yours now. Link in bio.
 
 #day60 #jobsearch #interviewtips #careertips #jobsearchtips
 ```
@@ -344,6 +349,7 @@ From Tick and everyone at Day60. Link in bio.
 ```
 
 ### IG-five · Sat Jan 2 · 8:32 PM · APPROVED (HQ, Nov 27) · NEW YEAR, ONE JOB AT A TIME
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ. The gentle restart theme from Sat Jan 2: no resolutions, no pressure.
 - Image: `2026-12/wk53/p06_one_job_lime.png`. Ground: lime (the ground is the one lime element).
 - Alt text: New year, one job at a time. Start with a short list of 5 jobs you'd actually take, then one note to the person who decides.
@@ -363,7 +369,7 @@ Five good jobs beat fifty applications you don't remember sending.
 
 Today: write the list. Just the list.
 
-Paste one job link and Day60 shows you the 4 people closest to the hire. Link in bio.
+Paste one job link and Day60 shows you the 4 people closest to the hire. Free sprints end January 5. Start yours now. Link in bio.
 
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
@@ -393,6 +399,7 @@ Free, no account, at getday60.com/resume-builder. Or start a free sprint: link i
 Each post reuses one of this week's Instagram cards (HQ, Nov 26: no Facebook-only creative), never on the same day as its Instagram post.
 
 ### FB-yearlist · Mon Dec 28 · 7:07 PM · APPROVED (HQ, Nov 27) · WRITE DOWN 3 THINGS YOU DID THIS YEAR (Facebook)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ. Reuses IG-yearlist's card (Instagram posts it Wed Dec 30).
 - Image: `2026-12/wk53/p03_year_list_coral.png`.
 - Alt text: Before the year ends, write down 3 things you did this year: the problem, what you did, what changed.
@@ -408,6 +415,7 @@ Those three notes become the strongest resume bullets and the best interview sto
 Share this with someone who's looking.
 
 Today: write the first one.
+Free sprints end January 5. Start yours now.
 https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w53-FB-yearlist
 
 #jobsearch #day60 #resumetips
@@ -526,6 +534,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 ```
 
 ### FB-question · Sun Jan 3 · 10:07 AM · APPROVED (HQ, Nov 27) · BRING ONE QUESTION YOU REALLY WANT ANSWERED (Facebook)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ. Replaces FB-keywords. Reuses IG-question's card (Instagram posts it Tue Dec 29).
 - Image: `2026-12/wk53/p02_question_mint.png`.
 - Alt text: Bring one question you really want answered. Something about the work, like what would make the first 90 days a success.
@@ -546,6 +555,7 @@ Write the answer down. It's the best material for the thank-you note and the nex
 Share this with someone who's looking.
 
 Today: write one question for the next interview.
+Free sprints end January 5. Start yours now.
 https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w53-FB-question
 
 #jobsearch #day60 #interviewtips

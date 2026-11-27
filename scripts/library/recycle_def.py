@@ -42,7 +42,7 @@ Today: find one message that got no reply and send the two-line nudge. Save this
 3. Start with the hiring manager.
 4. Read the draft, make it sound like you, and send it.
 
-That's day 0. Day60 drafts the day-2 connection note and the day-7 follow-up when they're due, and you send every one. Link in bio.
+That's day 0. Day60 drafts the day-2 connection note and the day-7 follow-up when they're due, and you send every one. Free sprints end January 5. Start yours now. Link in bio.
 
 Today: pick the job you'd start with and paste its link.
 

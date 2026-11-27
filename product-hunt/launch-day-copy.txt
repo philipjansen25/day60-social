@@ -1,5 +1,6 @@
-DAY60 ON PRODUCT HUNT: COPY FOR PHILIP (launch Tue Jan 12, 2027, 12:01 AM Pacific; moved from Nov 17 to Dec 1, then to Jan 12, on Nov 11)
+DAY60 ON PRODUCT HUNT: COPY FOR PHIL (launch Tue Jan 12, 2027, 12:01 AM Pacific; moved from Nov 17 to Dec 1, then to Jan 12, on Nov 11)
 Words exactly as approved in the kit doc on Nov 7; the description's resume builder paragraph and "Keep your tracker." approved Nov 11 (kit doc rev 20). Copy each block between the lines.
+Paid launch revision (Philip's rulings Nov 27; HQ approved Nov 27): description, maker comment and replies 2 and 4 rewritten for paid mode ($79 sprint, $39 re-sprint, one job free to try) and the experienced reader. Tagline unchanged. The maker comment goes to Phil to read with the kit (week of Dec 14) before it is final.
 Never ask for upvotes. Adapt each reply to the person; don't paste the same one twice in a row.
 
 
@@ -18,25 +19,27 @@ Topics: Productivity, Career, Chrome Extensions
 
 Description:
 ------------------------------------------------------------
-You found a job you want. You applied. Then nothing.
+You've done the job for years. You apply online, and you hear nothing.
 
-Day60 is the part after you find the job: reaching the people who decide.
+Experience isn't the problem. The pile is.
 
-Paste a job link. Day60 finds the four people closest to the hire: the hiring manager, their boss, an internal champion and the recruiter, with verified work emails. It drafts a short note to each, in your voice. Tick checks every draft against plain writing rules. You send it.
+Day60 is the part after you find the job: reaching the people who decide. Paste a job link. Day60 finds the four people closest to the hire: the hiring manager, their boss, an internal champion and the recruiter, and a verified work email for each when it can find one. It drafts a short note to each, in your voice. Tick checks every draft against plain writing rules. You send it.
 
 Day60 drafts the first message, the hiring manager's day-2 connection note, and the day-7 follow-up when it's due. You send every one. Never more than three touches per person.
 
 What it isn't: an auto-apply bot. It never applies, never sends anything for you, and never logs in to your LinkedIn.
 
-It runs as a 60-day sprint, up to 3 new jobs a day, so you work a short list properly instead of feeding a pile.
+It runs as a 60-day sprint. Start with three target jobs a week, and add up to 3 a day when you find more good ones. You work a short list properly instead of feeding a pile.
 
-There's a free Chrome extension too. On a job page that isn't LinkedIn, one press reads the job's title, company, location and description and sends them to Day60. It never reads LinkedIn pages.
+The sprint is $79 for 60 days. A re-sprint is $39. Try one job free first, with no account and no card.
 
-There's also a free resume builder, no account needed. Add a job and your resume, and it tailors the resume to that one posting, using only what your resume and your notes show. Day60 keeps none of it.
+There's a free Chrome extension too. On a company's careers page, one press reads the job's title, company, location and description and sends them to Day60. It never reads LinkedIn pages.
+
+There's also a free resume builder. Add a job and your resume, and it tailors the resume to that one posting, using only what your resume and your notes show. Add your email to get a Word file. Your resume isn't stored.
 
 Keep your tracker.
 
-Day60 Sprint. Free. No card. Nothing to cancel. Try one job, no account needed.
+Nobody can promise you a job. We promise the reps.
 ------------------------------------------------------------
 
 Gallery, in this order (files in product-hunt/): 01_hero.png, 02_is_isnt.png, 03_one_click.png, 04_checker.png, 05_linkedin_job.png, 06_linkedin_profile.png
@@ -46,21 +49,21 @@ Thumbnail: thumbnail.png
 === YOUR FIRST COMMENT AS MAKER ===
 (Set it in the launch form if Product Hunt allows; otherwise post it at your 8:35 AM check-in.)
 ------------------------------------------------------------
-Hi, I'm Philip, the maker of Day60.
+Hi, I'm Phil, the maker of Day60.
 
 Day60 runs the playbook I used to land jobs at ClickUp, Deel and Google: find the few people who decide on a hire, and write each of them something worth reading.
 
 I founded ClickUp's sales development team, which grew from 0 to 32 reps. At Deel I wrote the Enterprise SDR Target Account Playbook, and at Google I designed the Partner Lead Development Program.
 
-Job seekers get told the opposite: apply to more. Most job tools make applying faster, and the pile just gets bigger.
+I built Day60 for people a few years into their careers, in tech, sales, marketing, operations or corporate roles, who apply online and hear nothing. Experience isn't the problem. The pile is.
 
-So Day60 does it one job at a time. Paste a job link and it finds the four people closest to the hire, drafts a short note to each in your voice, and Tick checks every draft. You send every message. It never applies and never logs in to your LinkedIn.
+So Day60 works one job at a time. Paste a job link and it finds the four people closest to the hire, drafts a short note to each in your voice, and Tick checks every draft. You send every message. It never applies and never logs in to your LinkedIn.
 
-It's a 60-day sprint, up to 3 new jobs a day. Starting is free, with no card.
+A 60-day sprint is $79, and a re-sprint is $39. One job is free to try. Nobody can promise you a job, and I won't. What you get is the reps.
 
 What would help most today: try it on one real job, then tell me where it picked the wrong people or where the note didn't sound like you. I'll be checking in through the day.
 
-Philip
+Phil
 ------------------------------------------------------------
 
 
@@ -68,14 +71,13 @@ Philip
 
 1. They ask: How does it find people?
 ------------------------------------------------------------
-It works from the posting itself (company, team and title) to find the four people closest to that hire, with verified work emails. You see every person and every note, and nothing goes out unless you send it.
+It works from the posting itself (company, team and title) to find the four people closest to that hire, and a verified work email for each when it can find one. You see every person and every note, and nothing goes out unless you send it.
 ------------------------------------------------------------
 
-2. They ask: Is it really free?
+2. They ask: What does it cost?
 ------------------------------------------------------------
-Yes. The Day60 Sprint is free to start: no card, nothing to cancel. You can try one job at getday60.com/try without an account. Places are limited; the site shows what's open.
+$79 for a 60-day sprint, and $39 if you run another one after that. You can try one job free first at getday60.com/try, no account needed. You see every person and every note before anything goes out, and nothing is sent unless you send it.
 ------------------------------------------------------------
-[Note, don't paste:] (Once places run out: your founding-sprint line, which you approve separately.)
 
 3. They ask: LinkedIn and privacy?
 ------------------------------------------------------------
@@ -84,7 +86,7 @@ Day60 never logs in to LinkedIn and never sends anything. The Chrome extension n
 
 4. They ask: Who is it for?
 ------------------------------------------------------------
-Anyone looking for work, from a first job to a senior role, in any field. It helps most if you're applying and hearing nothing back, or moving into a field where nobody knows you yet.
+It's built for people a few years into their careers who apply online and hear nothing back, in tech, sales, marketing, operations or corporate roles. It works for anyone looking for work. This launch is for people with real experience whose applications sit in a pile.
 ------------------------------------------------------------
 
 5. They ask: What does Tick check?
@@ -95,9 +97,9 @@ His rules include: Doesn't start with "I". Short subject line. Asks one clear qu
 
 === YOUR DAY, TUE JAN 12 (Central time) ===
 2:01 AM   The launch goes live (12:01 AM Pacific).
-8:30 AM   Social's LinkedIn post goes out (no link in it).
-8:35 AM   You, 5 min: post the Product Hunt link as the first comment on that LinkedIn post; post your maker comment if the form didn't; answer overnight comments.
-12:00 PM  Social's Instagram post.
+7:28 AM   Social's Facebook post (the launch link in the body, the try link last), through Buffer.
+7:53 AM   Social's Instagram post, through Buffer.
+8:21 AM   Social's LinkedIn post, through Buffer, with the launch link as its last line (no first comment: Buffer can't post one).
+8:35 AM   You, 5 min: post your maker comment if the launch form didn't; answer overnight comments.
 12:30 PM  You, 5 min: answer new comments.
-6:00 PM   Social's Facebook post (Product Hunt link in it).
 6:30 PM   You, 5 min: last answers and a thank-you.

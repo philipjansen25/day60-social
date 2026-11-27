@@ -1,6 +1,10 @@
 # Paid launch drafts (Social, Fri Nov 27, for HQ by Sun Nov 29, 8 PM CT)
 
-**Status: DRAFT for HQ. Nothing here is scheduled, and no approved post has changed.**
+**Status (HQ, Nov 27): all three parts approved with changes.**
+- Part a is now in `launch-day-copy.txt` and `2027-01/wk02/posts.md`. Those files are the live text; the part a text below is the draft as sent. HQ kept the approved tagline. The maker comment goes to Phil to read in the week of Dec 14.
+- Part b: write all 11 LinkedIn posts and the fallbacks for the story posts by Sun Dec 13, 8 PM CT. Jan 4 waits for Phil's own sentences; its fallback holds the slot. Jan 13 is written on the evening of Jan 12.
+- Part c: applied to the 15 posts on Nov 27. The new Jan 4 post carries the line too.
+- HQ answered all three [VERIFY] facts: yes, yes, yes. The answers are in playbook §1.
 
 Philip's rulings (Fri Nov 27, via HQ; in playbook §1):
 - Paid mode starts Tue Jan 5, 2027: $79 for the 60-day sprint, $39 for a re-sprint.

@@ -163,6 +163,7 @@ Phil
 ```
 
 ### LI-onename · Sun Dec 27 · 8:34 AM · APPROVED (HQ, Nov 27) · BEFORE JANUARY, FIND ONE NAME PER JOB (Sunday lane)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.
 - Lane: Sun, plan your week (playbook §4): one method step, a question, the try link. Steps from the find-the-hiring-manager guide already in posts.md. Replaces LI-january (coordinator, Nov 27: week 50's Sunday was "Three jobs, not thirty").
@@ -184,6 +185,7 @@ Finding the people who decide is what I built Day60 to make easy.
 
 How many names are on your list so far?
 
+Free sprints end January 5. Start yours now.
 https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w52-LI-onename
 
 #jobsearch #careeradvice #newyear
@@ -297,6 +299,7 @@ Paste a job link. Get your 4 people. Link in bio.
 ```
 
 ### IG-threejobs · Sun Dec 27 · 9:26 PM · APPROVED (HQ, Nov 27) · THREE JOBS, NOT THIRTY (plan for January)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p07_three_jobs_pink.png` (1080x1350, ground pink).
 - Alt text: Plan for January: three jobs, not thirty. Pick three, find each hiring manager's name, write one note for Monday.
@@ -314,7 +317,7 @@ Three notes to the people who decide is a strong first week.
 
 Today: write down your three jobs.
 
-Paste a job link. Get your 4 people. Link in bio.
+Paste a job link. Get your 4 people. Free sprints end January 5. Start yours now. Link in bio.
 
 #day60 #jobsearch #jobsearchtips #careertips #newyear
 ```
@@ -435,6 +438,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 ```
 
 ### FB-threejobs · Sat Dec 26 · 10:24 PM · APPROVED (HQ, Nov 27) · THREE JOBS, NOT THIRTY (plan for January)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Image: `2026-12/wk52/p07_three_jobs_pink.png` (1080x1350).
 - Alt text: Plan for January: three jobs, not thirty. Pick three, find each hiring manager's name, write one note for Monday.
@@ -453,6 +457,7 @@ Three notes to the people who decide is a strong first week.
 
 Share this with someone who's looking.
 
+Free sprints end January 5. Start yours now.
 Find the 4 people for one job:
 https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-threejobs
 

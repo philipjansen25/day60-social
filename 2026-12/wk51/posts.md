@@ -42,6 +42,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 ```
 
 ### LI-firstline · Tue Dec 15 · 8:37 AM · APPROVED (HQ, Nov 27) · THE FIRST LINE DOES MOST OF THE WORK (method, message craft)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
 - Format: short message-craft lesson (HQ's verdict, Nov 26: the best first line is about their quarter). Both quoted lines are illustrative.
@@ -73,6 +74,7 @@ Today, rewrite the first line of one message you haven't sent yet.
 
 What's the best first line anyone ever sent you?
 
+Free sprints end January 5. Start yours now.
 https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w51-LI-firstline
 
 #jobsearch #coldemail #careeradvice
@@ -173,6 +175,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 ```
 
 ### LI-shortweek · Sun Dec 20 · 11:46 AM · APPROVED (HQ, Nov 27) · PLAN THE SHORT WEEK (Sunday lane)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
 - Format: plan-your-week (Sunday lane, playbook §4). Holiday season from Dec 21 (HQ, Nov 27): lighter and kind.
@@ -194,6 +197,7 @@ Day60 does steps 1 to 3 with you for one job, free.
 
 Which job are you starting with?
 
+Free sprints end January 5. Start yours now.
 https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w51-LI-shortweek
 
 #jobsearch #careeradvice #networking
@@ -223,6 +227,7 @@ Today: find one message that got no reply and send the two-line nudge. Save this
 ```
 
 ### IG-firstjob-r2 · Thu Dec 17 · 7:23 AM · APPROVED (recycled, HQ Nov 22) · YOUR FIRST JOB, STEP BY STEP
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - **Recycled (HQ, Nov 22):** a new copy of `2026-w47-IG-firstjob` (Your first job, step by step, 2026-11/wk47), which was cropped to a square when it was scheduled in the Instagram app. Library id: `2026-w47-IG-firstjob-r2`. The caption is lightly refreshed so it isn't a word-for-word repeat.
 - Status: approved. The recycled copy keeps the original's approval: the words and images were approved before (HQ, Nov 22).
 - Publishes through Buffer only, at the sizes in playbook §9b. Nothing for Philip to do.
@@ -239,7 +244,7 @@ Just started a sprint? Here's the whole first step, in four moves.
 3. Start with the hiring manager.
 4. Read the draft, make it sound like you, and send it.
 
-That's day 0. Day60 drafts the day-2 connection note and the day-7 follow-up when they're due, and you send every one. Link in bio.
+That's day 0. Day60 drafts the day-2 connection note and the day-7 follow-up when they're due, and you send every one. Free sprints end January 5. Start yours now. Link in bio.
 
 Today: pick the job you'd start with and paste its link.
 
@@ -301,6 +306,7 @@ Day60 finds the 4 people closest to the hire, names included. Link in bio.
 ```
 
 ### IG-phonetest · Sat Dec 19 · 8:24 PM · APPROVED (HQ, Nov 27) · THE PHONE-SCREEN TEST (message craft)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ (Social, Nov 27). Through Buffer at 1080x1350.
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Image: `2026-12/wk51/p04_phone_screen_mint.png`. Ground: mint. Source: `2026-12/wk51/build.py`. Facebook reuses it Sun Dec 20 (FB-phonetest).
@@ -315,7 +321,7 @@ The person you're writing to may well read it between meetings, on that same sma
 
 Today: open your next draft on your phone and cut until it fits on one screen.
 
-Day60 drafts short first notes to the 4 people closest to the hire. You make them yours. Link in bio.
+Day60 drafts short first notes to the 4 people closest to the hire. You make them yours. Free sprints end January 5. Start yours now. Link in bio.
 
 #day60 #jobsearch #careeradvice #networkingtips #coverletter
 ```
@@ -368,6 +374,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 ```
 
 ### FB-touches · Tue Dec 15 · 8:12 AM · APPROVED (HQ, Nov 27) · THREE TOUCHES, THEN STOP (reuses IG4-r2)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
 - Carousel (6): the same slides as IG4-r2 (Mon Dec 14): `2026-11/wk46/p06_three_touches_1_safe.png` to `p06_three_touches_6_safe.png`. No slide says "Link in bio". Facebook hasn't run this piece.
 - Alt text (per slide): 1 "3 touches. Then stop. The follow-up rhythm that's persistent, not pushy." · 2 "Day 0, the first note: their problem, one line of proof, one easy ask." · 3 Day 2, the nudge: two lines that add something new. Never "just following up." · 4 "Day 7, the last word: close the loop kindly and leave the door open." · 5 "Then stop. Three touches is persistence; ten is spam. Day60 keeps it to 3 per person." · 6 "Four people, three touches, you send every one. Try one job free at getday60.com/try"
@@ -386,6 +393,7 @@ Three touches is persistence. Ten is spam. Day60 caps it at 3 per person and tel
 Share this with someone who's looking.
 
 Today: find one message that got no reply and send the two-line nudge.
+Free sprints end January 5. Start yours now.
 https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-touches
 
 #jobsearch #day60 #careeradvice
@@ -480,6 +488,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 ```
 
 ### FB-phonetest · Sun Dec 20 · 9:38 AM · APPROVED (HQ, Nov 27) · THE PHONE-SCREEN TEST (reuses IG-phonetest)
+- Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Image: `2026-12/wk51/p04_phone_screen_mint.png` (Instagram runs it Sat Dec 19).
@@ -494,6 +503,7 @@ Before you send a first message to an employer, read it on your phone. If you ha
 Share this with someone who's looking.
 
 Today: open your next draft on your phone and cut until it fits on one screen.
+Free sprints end January 5. Start yours now.
 https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-phonetest
 
 #jobsearch #day60 #careeradvice
