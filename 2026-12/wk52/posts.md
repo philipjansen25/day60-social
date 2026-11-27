@@ -38,30 +38,33 @@ Today: pick one of the three and send your thank-you before the holidays.
 
 ## December batch, week 52 (Mon Dec 21 to Sun Dec 27): drafts for HQ (Social, Nov 27)
 
-Holiday week (HQ, Nov 27: Dec 21 to Jan 1 is lighter and kind, never about being laid off). LinkedIn 6, Instagram 7 (6 new plus IG-thanks-r2), Facebook 7, all drafts. Humor: LI-party, IG-wishlist, IG-returns, FB-wishlist, FB-returns. Times from `scripts/pick_time.py`. Art: `2026-12/wk52/build_holiday.py`.
+Holiday week (HQ, Nov 27: Dec 21 to Jan 1 is lighter and kind, never about being laid off). LinkedIn 6, Instagram 7 (6 new plus IG-thanks-r2), Facebook 7, all drafts. Humor: LI-party, IG-recipe, IG-returns, FB-recipe, FB-returns. Times from `scripts/pick_time.py`. Art: `2026-12/wk52/build_holiday.py`.
 
-### LI-checker · Mon Dec 21 · 11:49 AM · DRAFT · I RAN MY OWN NOTE THROUGH THE MESSAGE CHECKER (founder lane, "I tried it")
+### LI-plainnote · Mon Dec 21 · 11:49 AM · DRAFT · WRITE IT LIKE YOU'D SAY IT (founder lane, message craft)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.
-- Lane: Mon, Phil's founder lane. "I tried it" (HQ's Nov 26 verdict: make more). Only product behavior from playbook §1 and the checker's own rules already in posts.md (opening with "I", no clear question).
-- [VERIFY] Phil confirms he did this before approval.
+- Lane: Mon, Phil's founder lane: a short message-craft lesson in his voice, from his sales development view, given as advice (no events). Replaces LI-checker (coordinator, Nov 27: weeks 50, 51 and 53 already have "I tried it" posts).
 
 ```
-I ran one of my own notes through our message checker this week.
+If you asked me over coffee how to write to a hiring manager, here's what I'd say.
 
-It was a LinkedIn connection note to someone I'd like to meet in January. Short, friendly and, I thought, ready to send.
+Write it like you'd say it.
 
-Tick didn't agree. It opened with "I", and it didn't end with a clear question. Two easy fixes, and Tick said why for each.
+Short words. One idea. No "I hope this finds you well." No paragraph about yourself.
 
-That's the part I like most. It doesn't rewrite your note. It tells you what to fix, and you fix it in your own words.
+Say what you noticed about their team. Say one thing you've done that fits. Ask one question they can answer from their phone.
 
-If you're writing a few notes over the quiet weeks, check one first: pick the message type, paste your draft, read what Tick flags.
+That's it. Three lines.
 
-I built Day60 so the first message is the easy part.
+Sales development taught me that busy people answer plain notes. A note that sounds like a person gets read like one.
 
-Which note have you been putting off?
+It's the note Day60 helps you write, for each of the 4 people closest to the hire.
 
-https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w52-LI-checker
+Today, read your last note out loud. If you wouldn't say it that way, rewrite it.
+
+What's one phrase you'd ban from every first note?
+
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w52-LI-plainnote
 
 #jobsearch #networking #careeradvice
 ```
@@ -159,71 +162,74 @@ Phil
 #christmas #gratitude #jobsearch
 ```
 
-### LI-january · Sun Dec 27 · 8:34 AM · DRAFT · PLAN THE QUIET WEEK: THREE JOBS FOR JANUARY (Sunday lane)
+### LI-onename · Sun Dec 27 · 8:34 AM · DRAFT · BEFORE JANUARY, FIND ONE NAME PER JOB (Sunday lane)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.
-- Lane: Sun, plan your week (playbook §4): one method step for Monday morning, a question, the try link.
+- Lane: Sun, plan your week (playbook §4): one method step, a question, the try link. Steps from the find-the-hiring-manager guide already in posts.md. Replaces LI-january (coordinator, Nov 27: week 50's Sunday was "Three jobs, not thirty").
 
 ```
-The week between the holidays is quiet for most hiring teams. That makes it a good week to plan.
+Before January starts, do one small thing for each job on your list: find one name.
+
+Not a whole org chart. One person: the hiring manager.
 
 Your plan for this week:
 
-1. Pick three jobs you'd say yes to in January.
-2. Find the hiring manager for each one.
-3. Draft one short note per job and schedule it for Monday, January 4.
+1. Open each posting and look for the team and a "reports to" line.
+2. Check the company's own pages for that team's leader.
+3. Write the name next to the job.
 
-Three notes ready before the rush starts.
+On Monday, January 4, you'll have a person to write to instead of a form to fill in.
 
-Getting those notes to the people who decide is what I built Day60 to make easy.
+Finding the people who decide is what I built Day60 to make easy.
 
-Which three jobs are on your list?
+How many names are on your list so far?
 
-https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w52-LI-january
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w52-LI-onename
 
 #jobsearch #careeradvice #newyear
 ```
 
-### IG-quietresume · Tue Dec 22 · 7:37 PM · DRAFT · QUIET WEEK PROJECT: TAILOR YOUR RESUME TO ONE JOB (resume tool)
+### IG-postingwords · Tue Dec 22 · 7:37 PM · DRAFT · USE THE POSTING'S OWN WORDS (resume tool)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
-- Image: `2026-12/wk52/p02_quiet_resume_mint.png` (1080x1350, ground mint).
-- Alt text: Quiet week project: tailor your resume to one job. The free resume builder shows what it wants and how to make it stronger.
-- Resume tool (HQ's Nov 26 verdict: Instagram's best reach). Only facts already in posts.md: the three results labels, "No new skill, number or title", "Read every line, add your email, get a Word file. Free, no account, resume not stored".
-- Facebook: FB-quietresume uses the same card on Mon Dec 21.
+- Image: `2026-12/wk52/p02_posting_words_lime.png` (1080x1350, ground lime; the ground is its one lime element).
+- Alt text: Resume tip: use the posting's own words where they're true for you. The free resume builder flags keywords you can't claim.
+- Resume tool (HQ's Nov 26 verdict). Only facts already in posts.md: "the posting's own words, where they're true for you" (IG-ats), "What this job wants", "Keywords you can't claim yet" ("In the posting, not in the resume, so they stay off it"), "No new skill, number or title", "Free, no account, resume not stored". Recruiters search applications by keyword (IG-ats). Replaces IG-quietresume (coordinator, Nov 27: "tailor your resume to one job" repeats week 50).
+- Facebook: FB-postingwords uses the same card on Mon Dec 21.
 
 ```
-Quiet week? Tailor your resume to the one job you want most.
+Use the posting's own words, where they're true for you.
 
-The free resume builder reads the job and your resume and shows you three things:
-1. What this job wants
-2. Keywords you can't claim yet
-3. How to make it stronger
+If the job says "customer onboarding" and you did it, write "customer onboarding", not "helped new clients get started". Recruiters search applications by keyword, and the person reading looks for their own words too.
 
-No new skill, number or title: only what your resume and your notes show. Read every line, add your email, get a Word file. Free, no account, resume not stored.
+The free resume builder shows what this job wants and flags the keywords you can't claim yet, so they stay off. It adds no new skill, number or title. Free, no account, resume not stored.
 
-Today: pick the one job you'd most like to start in January and run your resume against it.
+Today: pick one job and underline three phrases in the posting that are true for you.
 
 The resume builder is at getday60.com/resume-builder. Link in bio.
 
 #day60 #jobsearch #resumetips #careertips #jobsearchtips
 ```
 
-### IG-wishlist · Wed Dec 23 · 4:12 PM · DRAFT · HOLIDAY WISH LIST: A REPLY (humor)
+### IG-recipe · Wed Dec 23 · 4:12 PM · DRAFT · A REPLY, FROM SCRATCH (humor)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
-- Image: `2026-12/wk52/p03_wish_list_ink.png` (1080x1350, ground ink).
-- Alt text: Holiday wish list: a reply, any reply, even a no. Three lines to the person who decides, ending with an easy question.
-- Humor (playbook §4): the joke is on ghosting, never on the person looking. Ends on a real tip.
-- Facebook: FB-wishlist uses the same card on Thu Dec 24.
+- Image: `2026-12/wk52/p03_reply_recipe_mint.png` (1080x1350, ground mint).
+- Alt text: Holiday recipe for a reply: 3 short lines, 1 problem their team has, 1 line of proof, 1 easy question, 0 attachments.
+- Humor (playbook §4): a holiday recipe; the joke is on the process, never on the person looking. Ends on a real tip. Replaces IG-wishlist (coordinator, Nov 27: week 51 has "Tick's holiday wish list").
+- Facebook: FB-recipe uses the same card on Thu Dec 24.
 
 ```
-Holiday wish list for anyone job hunting:
-1. A reply.
-2. Any reply.
-3. Even a no.
+A holiday recipe that doesn't need an oven.
 
-A good way to get one: three lines to the person who decides. One problem their team has, one line of proof, one easy question at the end.
+A reply, from scratch:
+3 short lines
+1 problem their team has
+1 line of proof
+1 easy question
+0 attachments
 
-Today: pick one note you've already sent and write its two-line follow-up for January.
+Send to the person who decides and let it rest over the holidays. Serves one hiring manager.
+
+Today: write the three lines for one job you want in January.
 
 Day60 drafts a short first note to each of the 4 people closest to the hire. You send it. Link in bio.
 
@@ -255,7 +261,7 @@ Send this to someone who's helping a friend look. Link in bio.
 
 ### IG-christmas · Fri Dec 25 · 9:24 PM · DRAFT · MERRY CHRISTMAS: TODAY'S ONLY TASK IS REST (seasonal)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
-- Image: `2026-12/wk52/p05_merry_christmas_cobalt.png` (1080x1350, ground cobalt).
+- Image: `2026-12/wk52/p05_merry_christmas_ink.png` (1080x1350, ground ink).
 - Alt text: Merry Christmas from Tick and Phil at Day60. Today's only task: rest.
 - Christmas Day: a one-line seasonal card (HQ's brief). No next step and no "Link in bio" on purpose: it's a greeting.
 - Facebook posts its own Christmas greeting (FB-christmas, text only), so this card isn't reused.
@@ -313,26 +319,26 @@ Paste a job link. Get your 4 people. Link in bio.
 #day60 #jobsearch #jobsearchtips #careertips #newyear
 ```
 
-### FB-quietresume · Mon Dec 21 · 8:51 PM · DRAFT · QUIET WEEK: TAILOR YOUR RESUME TO ONE JOB (resume tool)
+### FB-postingwords · Mon Dec 21 · 8:51 PM · DRAFT · USE THE POSTING'S OWN WORDS (resume tool)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
-- Image: `2026-12/wk52/p02_quiet_resume_mint.png` (1080x1350).
-- Alt text: Quiet week project: tailor your resume to one job. The free resume builder shows what it wants and how to make it stronger.
-- Reuses IG-quietresume's card (Instagram Tue Dec 22). No Facebook-only creative (HQ, Nov 26).
-- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-quietresume`
+- Image: `2026-12/wk52/p02_posting_words_lime.png` (1080x1350).
+- Alt text: Resume tip: use the posting's own words where they're true for you. The free resume builder flags keywords you can't claim.
+- Reuses IG-postingwords's card (Instagram Tue Dec 22). No Facebook-only creative (HQ, Nov 26). Replaces FB-quietresume.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-postingwords`
 
 ```
-Quiet week ahead? Here's one small, useful thing to do.
+Here's a small resume fix worth making this week.
 
-If you or someone you love is looking for work, pick the one job you'd most like to start in January and tailor the resume to it.
+If you or someone you love is looking for work, use the posting's own words, where they're true. If the job says "customer onboarding" and you did it, write "customer onboarding". Recruiters search applications by keyword, and the person reading looks for their own words too.
 
-The free resume builder shows what the job wants, the keywords you can't claim yet, and how to make it stronger. It adds no new skill, number or title: only what your resume and your notes show. Free, no account, resume not stored.
+The free resume builder shows what the job wants and flags the keywords you can't claim yet, so they stay off. It adds no new skill, number or title. Free, no account, resume not stored.
 
-The resume builder: https://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-quietresume
+The resume builder: https://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-postingwords
 
 Share this with someone who's looking.
 
-Today: pick that one job.
-https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-quietresume
+Today: underline three phrases in one posting that are true for you.
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-postingwords
 
 #jobsearch #day60 #resumetips
 ```
@@ -385,25 +391,29 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #holidays
 ```
 
-### FB-wishlist · Thu Dec 24 · 10:11 AM · DRAFT · HOLIDAY WISH LIST: A REPLY (humor)
+### FB-recipe · Thu Dec 24 · 10:11 AM · DRAFT · A REPLY, FROM SCRATCH (humor)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
-- Image: `2026-12/wk52/p03_wish_list_ink.png` (1080x1350).
-- Alt text: Holiday wish list: a reply, any reply, even a no. Three lines to the person who decides, ending with an easy question.
-- Reuses IG-wishlist's card (Instagram Wed Dec 23). Humor (playbook §4).
-- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-wishlist`
+- Image: `2026-12/wk52/p03_reply_recipe_mint.png` (1080x1350).
+- Alt text: Holiday recipe for a reply: 3 short lines, 1 problem their team has, 1 line of proof, 1 easy question, 0 attachments.
+- Reuses IG-recipe's card (Instagram Wed Dec 23). Humor (playbook §4). Replaces FB-wishlist.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-recipe`
 
 ```
-Holiday wish list for anyone job hunting:
-1. A reply.
-2. Any reply.
-3. Even a no.
+A holiday recipe that doesn't need an oven.
 
-If you're looking, or helping someone who is, here's a good way to get one: three lines to the person who decides. One problem their team has, one line of proof, one easy question at the end.
+A reply, from scratch:
+3 short lines
+1 problem their team has
+1 line of proof
+1 easy question
+0 attachments
+
+If you're looking, or helping someone who is, send it to the person who decides and let it rest over the holidays. Serves one hiring manager.
 
 Share this with someone who's looking.
 
-Today: write a two-line follow-up for one note you've already sent.
-https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-wishlist
+Today: write the three lines for one job you want in January.
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w52-FB-recipe
 
 #jobsearch #day60 #holidays
 ```

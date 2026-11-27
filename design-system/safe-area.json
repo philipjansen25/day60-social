@@ -664,6 +664,24 @@
    "checked": "2026-11-17",
    "grid": true,
    "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
+  },
+  "2026-12/wk52/p02_posting_words_lime.png": {
+   "sha256": "d5c361f2f71d2db4e435eba14851004fb5b94e80e89c4a3a85705cd9bf7e95dc",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk52/p03_reply_recipe_mint.png": {
+   "sha256": "fecff93068b8ddb5ba154c9d49656fe95ac4df8ab70df501d6631d353b1543f9",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk52/p05_merry_christmas_ink.png": {
+   "sha256": "e1f4656db6360e1df84e747062d81db4b7387c0d7e8513b77dcc6960182acdfd",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
   }
  },
  "waived": {},

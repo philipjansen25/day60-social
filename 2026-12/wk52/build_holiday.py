@@ -1,14 +1,15 @@
 """Week 52 holiday cards (Social, Nov 27; drafts for HQ). Six Instagram cards, each reused once on Facebook.
 
-2026-12/wk52/p02_quiet_resume_mint.png    IG-quietresume Tue Dec 22  (FB-quietresume Mon Dec 21)   resume tool
-2026-12/wk52/p03_wish_list_ink.png        IG-wishlist    Wed Dec 23  (FB-wishlist Thu Dec 24)      humor
+2026-12/wk52/p02_posting_words_lime.png   IG-postingwords Tue Dec 22 (FB-postingwords Mon Dec 21)  resume tool
+2026-12/wk52/p03_reply_recipe_mint.png    IG-recipe      Wed Dec 23  (FB-recipe Thu Dec 24)        humor
 2026-12/wk52/p04_holiday_table_coral.png  IG-table       Thu Dec 24  (FB-table Wed Dec 23)         for people helping someone look
-2026-12/wk52/p05_merry_christmas_cobalt.png IG-christmas Fri Dec 25                                seasonal
+2026-12/wk52/p05_merry_christmas_ink.png  IG-christmas   Fri Dec 25                                seasonal
 2026-12/wk52/p06_returns_desk_lime.png    IG-returns     Sat Dec 26  (FB-returns Sun Dec 27)       humor
 2026-12/wk52/p07_three_jobs_pink.png      IG-threejobs   Sun Dec 27  (FB-threejobs Sat Dec 26)
 
 No card says "Link in bio", so Facebook reuses each file as it is (no _fb variants).
-Grounds, Instagram Mon to Sun: pink (IG-thanks-r2), mint, ink, coral, cobalt, lime, pink: any 4 in a row differ, no cream.
+Grounds, Instagram Mon to Sun: pink (IG-thanks-r2), lime, mint, coral, ink, lime, pink. They fit week 51's mint and ink
+(Dec 19, 20) and week 53's cobalt (Dec 28): any 4 in a row differ, no cream.
 One lime element per card (the highlight, or the lime ground itself); lime is never text.
 
 Run from the repo root: python3 2026-12/wk52/build_holiday.py [names to render, default all]
@@ -51,26 +52,29 @@ def card(html, top, width=640, size=40):
             f'font-size:{size}px;font-weight:700;line-height:1.28">{html}</div>')
 
 
-# IG-quietresume · mint. The free resume builder, in the words its slides already use.
-g = "mint"
-out("p02_quiet_resume_mint", cover_page(
-    stk("Quiet week project", WHITE)
-    + head('Tailor your resume to <span class="fill">one job.</span>', 200, 118)
-    + card('<div style="font-size:30px;font-weight:600;margin-bottom:14px">The free resume builder shows you:</div>'
-           '1. What this job wants<br>2. Keywords you can\'t claim yet<br>3. How to make it stronger', 520, 660, 40)
-    + at(56, 820, tick("pointing", 270), right=True)
+# IG-postingwords · lime. Resume tool: the posting's own words, where they're true for you (facts already in posts.md).
+# The lime ground is the card's one lime element, so no highlight.
+g = "lime"
+out("p02_posting_words_lime", cover_page(
+    stk("Resume tip", WHITE)
+    + head("Use the posting’s own words.", 200, 120)
+    + sub("Where they’re true for you.", 520, 48, 640)
+    + card('The free resume builder lists what this job wants, and flags the keywords you can’t claim yet, '
+           'so they stay off.', 680, 650, 38)
+    + at(56, 900, tick("pointing", 230), right=True)
     + spark(900, 120, 60, WHITE) + spark(990, 240, 34, INK)
     + foot_g(g, right="getday60.com/resume-builder"), g))
 
-# IG-wishlist · ink. Humor: the joke is on ghosting, never on the person looking.
-g = "ink"
-out("p03_wish_list_ink", cover_page(
-    stk("Holiday wish list", PINK)
-    + head("1. A reply.<br>2. Any reply.<br>3. Even a no.", 190, 116)
-    + card('Best way to get one: three lines to the person who decides, ending with '
-           '<span class="fill" style="white-space:nowrap">an easy question.</span>', 760, 640, 40)
-    + at(60, 700, tick("celebrating", 280), right=True)
-    + spark(900, 110, 60, PINK) + spark(990, 230, 34, CREAM)
+# IG-recipe · mint. Humor: a holiday recipe for a reply; the joke is on the process, never the person looking.
+g = "mint"
+out("p03_reply_recipe_mint", cover_page(
+    stk("Holiday recipe", WHITE)
+    + head("A reply, from scratch.", 190, 120)
+    + card('3 short lines<br>1 problem their team has<br>1 line of proof<br>'
+           '<span class="fill" style="white-space:nowrap">1 easy question</span><br>0 attachments', 520, 600, 42)
+    + sub("Send to the person who decides. Let it rest over the holidays.", 960, 36, 620, 600)
+    + at(60, 620, tick("celebrating", 270), right=True)
+    + spark(900, 110, 60, WHITE) + spark(990, 230, 34, INK)
     + foot_g(g), g))
 
 # IG-table · coral. For the friend or parent of someone who's looking.
@@ -85,14 +89,14 @@ out("p04_holiday_table_coral", cover_page(
     + spark(900, 110, 60, WHITE) + spark(990, 230, 34, INK)
     + foot_g(g), g))
 
-# IG-christmas · cobalt. A one-line seasonal card.
-g = "cobalt"
-out("p05_merry_christmas_cobalt", cover_page(
+# IG-christmas · ink. A one-line seasonal card.
+g = "ink"
+out("p05_merry_christmas_ink", cover_page(
     stk("Merry Christmas", WHITE)
     + head('Today’s only task: <span class="fill">rest.</span>', 220, 136)
     + sub("From Tick and Phil at Day60.", 640, 46, 600)
     + at(70, 700, tick("celebrating", 320), right=True)
-    + spark(900, 110, 64, WHITE) + spark(990, 240, 36, PINK) + spark(150, 1040, 40, WHITE)
+    + spark(900, 110, 64, PINK) + spark(990, 240, 36, CREAM) + spark(150, 1040, 40, PINK)
     + foot_g(g), g))
 
 # IG-returns · lime. Humor. The lime ground is the card's one lime element, so no highlight.
