@@ -2675,20 +2675,20 @@
     "postedVia": ""
   },
   {
-    "id": "2026-w53-LI-checker",
+    "id": "2026-w53-LI-extension",
     "week": "2026-w53",
     "channel": "linkedin",
     "topic": "day60",
     "date": "2026-12-28",
     "time": "10:29",
     "status": "draft",
-    "title": "I ran our message checker",
+    "title": "I tried our Chrome extension",
     "format": "text",
-    "text": "I ran a sample connection note through our message checker.\n\nIt's the free tool on the Day60 site. You pick what you're sending (a cold email, a LinkedIn connection note, or the message after they accept), paste your draft, and Tick tells you what to fix and why.\n\nThe note was a quick holiday message to someone worth reconnecting with. I wrote it the way most of us do in December. (It's illustrative, written to show what gets flagged.)\n\nIt opened with \"I\".\nIt said \"I wanted to reach out\".\nIt ended without a question, so there was nothing easy to answer.\n\nThe fixes were small. Open with them, not me. Cut the throat-clearing. End on one question they can answer in a line.\n\nTick checks the rules, not the facts. Every detail still has to be true, and that part stays my job.\n\nToday, read one message you're about to send out loud. Does it end on a question?\n\nhttps://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w53-LI-checker\n\n#jobsearch #networking #careeradvice",
+    "text": "I tried our Chrome extension like a job seeker.\n\nIt's the free Day60 extension in the Chrome Web Store, and I wanted to see it the way someone looking for work would.\n\nMost searches start on LinkedIn. That's where the job shows up. The hard part comes after: the posting is one of hundreds, and the people who decide aren't in it.\n\nSo the extension does two small things, and only when you press its buttons.\n\nOn a LinkedIn job, one button looks for the same job on the company's own careers page. If the company doesn't post it there, you paste the description.\n\nOn a LinkedIn profile, the other button adds that person to one of your jobs: as the hiring manager, their boss, an internal champion or the recruiter.\n\nIt uses only the tab's address and title. It never reads LinkedIn pages, never fills in forms, never applies and never sends anything. You send every message.\n\nToday, open one job you saved on LinkedIn and find it on the company's own careers page.\n\nWhich job are you starting with this week?\n\nhttps://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w53-LI-extension\n\n#jobsearch #networking #careeradvice",
     "firstComment": "",
     "link": "",
     "files": [],
-    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nTag the first \"Day60\" with the page annotation in linkedin-company-ids.md (page 144030699; Philip, Nov 26).\nInside 8 AM to 12:59 PM CT (Philip, Nov 24).\nDraft for HQ (Nov 27 batch).\nEnds with the try link on its own last line before the hashtags (HQ, Nov 22).\n\"I tried it\" post: the note is illustrative; the flags are the checker's real rules.\n[VERIFY] Phil confirms he did this before approval.",
+    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nTag the first \"Day60\" with the page annotation in linkedin-company-ids.md (page 144030699; Philip, Nov 26).\nInside 8 AM to 12:59 PM CT (Philip, Nov 24).\nDraft for HQ (Nov 27 batch).\nEnds with the try link on its own last line before the hashtags (HQ, Nov 22).\n\"I tried it\" post: every claim is the extension's approved 1.1.0 behavior (playbook §1).\n[VERIFY] Phil confirms he did this before approval.",
     "postedVia": ""
   },
   {

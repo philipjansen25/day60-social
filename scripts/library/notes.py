@@ -389,7 +389,7 @@ _W53_LI = ["Publishes through Buffer, automatically, on Philip's LinkedIn profil
            "Tag the first \"Day60\" with the page annotation in linkedin-company-ids.md (page 144030699; Philip, Nov 26).",
            "Inside 8 AM to 12:59 PM CT (Philip, Nov 24).", "Draft for HQ (Nov 27 batch)."]
 _W53_TRY = "Ends with the try link on its own last line before the hashtags (HQ, Nov 22)."
-NOTES["2026-w53-LI-checker"] = _W53_LI + [_W53_TRY, "\"I tried it\" post: the note is illustrative; the flags are the checker's real rules.",
+NOTES["2026-w53-LI-extension"] = _W53_LI + [_W53_TRY, "\"I tried it\" post: every claim is the extension's approved 1.1.0 behavior (playbook §1).",
                                          "[VERIFY] Phil confirms he did this before approval."]
 NOTES["2026-w53-LI-nudge"] = _W53_LI + [_W53_TRY, "Message-craft lesson. Day60's follow-up line is the approved wording (HQ, Nov 5)."]
 NOTES["2026-w53-LI-ooo"] = _W53_LI + [_W53_TRY, "humor (deadpan list; the joke is on holiday auto-replies)."]

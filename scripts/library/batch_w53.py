@@ -12,7 +12,7 @@ def specs(entry, one):
     img = lambda ch, pid, date, time, title, f: entry(W, pid, channel=ch, date=date, time=time, status="draft",
                                                       title=title, format="image", files=one(W, pid, f"{D}/{f}"))
     return [
-        li("LI-checker", "2026-12-28", "10:29", "I ran our message checker"),
+        li("LI-extension", "2026-12-28", "10:29", "I tried our Chrome extension"),
         li("LI-nudge", "2026-12-29", "10:28", "Your follow-up needs one new thing"),
         li("LI-ooo", "2026-12-30", "10:42", "Holiday out-of-office replies, decoded"),
         li("LI-subject", "2026-12-31", "10:13", "Short subject lines get opened"),
