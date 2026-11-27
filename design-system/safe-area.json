@@ -250,6 +250,12 @@
    "scale": 0.921,
    "checked": "2026-11-17"
   },
+  "2026-11/wk47/p02_resume_builder_6_fb_v3.png": {
+   "sha256": "b366bffc9fe472833b10f8f5604755a7bcdf4075706ddd492d271953ed480ef1",
+   "scale": 0.923,
+   "checked": "2026-11-27",
+   "grid": true
+  },
   "2026-11/wk47/p02_resume_builder_6_v2_safe.png": {
    "sha256": "92ce41a5cf0c4173cf288f69e8da88eb7f3ca20c18760a8efe387d33fd6baa92",
    "scale": 0.921,
@@ -490,6 +496,36 @@
    "checked": "2026-11-24",
    "grid": true
   },
+  "2026-12/wk50/p01_tailor_pink.png": {
+   "sha256": "a2075f8afa2c88ff27ad3bbef890d7634d806294ab64c8203393efcf6e4b2855",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk50/p02_rounds_cobalt.png": {
+   "sha256": "19fce378074d36b721beff8e1837c288000942089dd9763aceb916fe6c2c86b6",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk50/p03_keywords_coral.png": {
+   "sha256": "3889fbb36eae58c682d2f93044f1c59fea255a00942771bf48a12a674c0f4ed0",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk50/p04_first_line_lime.png": {
+   "sha256": "b03dc5491682c0da18544938f620d6dab46b60f40b0f55d082fde4202a14a276",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk50/p05_sticky_pink.png": {
+   "sha256": "7be75d02df28c57698f2b84154982499ef3c3e63c9b0a7fefe4ff013fcc9c6b4",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
   "2026-12/wk51/p01_tailor_coral.png": {
    "sha256": "7f07b09ddbd21fe29a965bd4650b50774f06ad9b16726b019e816df48af31560",
    "scale": 0.862,
@@ -538,6 +574,42 @@
    "checked": "2026-11-22",
    "grid": true
   },
+  "2026-12/wk52/p02_quiet_resume_mint.png": {
+   "sha256": "a1a82e5add46d59be3c0f075beec24b9d12c1a92380d6254ca7a429968dfff4e",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk52/p03_wish_list_ink.png": {
+   "sha256": "8dfd4932d518bf0575713c765b5dfa3b55c5e1d459543348f1b1331b48f95873",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk52/p04_holiday_table_coral.png": {
+   "sha256": "a09531a0d7f2a29c47eda11a2cd2b775eba94354caae5516eb476690f5524ccc",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk52/p05_merry_christmas_cobalt.png": {
+   "sha256": "3e34f73d58e8d45154cc90bc1bc3a021fd4e70e22ede479b92bb131546779a67",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk52/p06_returns_desk_lime.png": {
+   "sha256": "a559e5ccce9a7b2b617b5513ec45a7feacbd7d995e2b610779343d3e25833585",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk52/p07_three_jobs_pink.png": {
+   "sha256": "b81c49a8f5a31a128ae6770bf72fb3a77e6d7b7505dd534cb54ba20c1622ff79",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
   "2026-12/wk53/p01_out_of_office_cobalt.png": {
    "sha256": "3181b31c2d5a434bf7df4ca0f6954bb589c577c11baea4f015735c2b8b6fc93d",
    "scale": 0.862,
@@ -546,6 +618,12 @@
   },
   "2026-12/wk53/p02_keywords_mint.png": {
    "sha256": "1b33494dc5a4a7af49ced50d30598bde5018d014568baac9b67a6216a3f77be4",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk53/p02_question_mint.png": {
+   "sha256": "7cbe14caf85230192f3a7abb45ee85a30849fe5abeb02bd12db4eecad7f47d11",
    "scale": 0.862,
    "checked": "2026-11-27",
    "grid": true
@@ -586,78 +664,6 @@
    "checked": "2026-11-17",
    "grid": true,
    "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
-  },
-  "2026-11/wk47/p02_resume_builder_6_fb_v3.png": {
-   "sha256": "b366bffc9fe472833b10f8f5604755a7bcdf4075706ddd492d271953ed480ef1",
-   "scale": 0.923,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk50/p01_tailor_pink.png": {
-   "sha256": "a2075f8afa2c88ff27ad3bbef890d7634d806294ab64c8203393efcf6e4b2855",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk50/p02_rounds_cobalt.png": {
-   "sha256": "19fce378074d36b721beff8e1837c288000942089dd9763aceb916fe6c2c86b6",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk50/p03_keywords_coral.png": {
-   "sha256": "3889fbb36eae58c682d2f93044f1c59fea255a00942771bf48a12a674c0f4ed0",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk50/p04_first_line_lime.png": {
-   "sha256": "b03dc5491682c0da18544938f620d6dab46b60f40b0f55d082fde4202a14a276",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk50/p05_sticky_pink.png": {
-   "sha256": "7be75d02df28c57698f2b84154982499ef3c3e63c9b0a7fefe4ff013fcc9c6b4",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk52/p02_quiet_resume_mint.png": {
-   "sha256": "a1a82e5add46d59be3c0f075beec24b9d12c1a92380d6254ca7a429968dfff4e",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk52/p03_wish_list_ink.png": {
-   "sha256": "8dfd4932d518bf0575713c765b5dfa3b55c5e1d459543348f1b1331b48f95873",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk52/p04_holiday_table_coral.png": {
-   "sha256": "a09531a0d7f2a29c47eda11a2cd2b775eba94354caae5516eb476690f5524ccc",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk52/p05_merry_christmas_cobalt.png": {
-   "sha256": "3e34f73d58e8d45154cc90bc1bc3a021fd4e70e22ede479b92bb131546779a67",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk52/p06_returns_desk_lime.png": {
-   "sha256": "a559e5ccce9a7b2b617b5513ec45a7feacbd7d995e2b610779343d3e25833585",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk52/p07_three_jobs_pink.png": {
-   "sha256": "b81c49a8f5a31a128ae6770bf72fb3a77e6d7b7505dd534cb54ba20c1622ff79",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
   }
  },
  "waived": {},

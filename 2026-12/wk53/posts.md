@@ -253,24 +253,29 @@ Day60 tells you when each follow-up is due. You send it. Link in bio.
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
 
-### IG-keywords · Tue Dec 29 · 5:58 PM · DRAFT (Social, Nov 27) · NOT EVERY KEYWORD BELONGS ON YOUR RESUME (resume tool)
-- Status: draft for HQ. Resume-tool post (HQ's Thursday verdict: Instagram's best reach). The builder's facts are the ones already approved in IG-resume-r2 and LI-resume.
-- Image: `2026-12/wk53/p02_keywords_mint.png`. Ground: mint.
-- Alt text: Not every keyword belongs on your resume. If the posting asks for it and you haven't done it, leave it off.
-- Link: the bio link stays /try. The caption names getday60.com/resume-builder as plain text.
+### IG-question · Tue Dec 29 · 5:58 PM · DRAFT (Social, Nov 27) · BRING ONE QUESTION YOU REALLY WANT ANSWERED (interview tip)
+- Status: draft for HQ. Replaces IG-keywords (week 50 has the keywords card). Interview prep for January; the example questions are general advice, no claims.
+- Image: `2026-12/wk53/p02_question_mint.png`. Ground: mint.
+- Alt text: Bring one question you really want answered. Something about the work, like what would make the first 90 days a success.
+- Link: the bio link stays /try. No link in the caption.
 
 ```
-Not every keyword belongs on your resume.
+Bring one question you really want answered.
 
-Tailoring a resume to one job doesn't mean copying the posting. If it asks for a skill you haven't used, adding it only gets you a question you can't answer in the interview.
+At the end of an interview, "Do you have any questions for us?" is a real chance, not a formality. "What's the culture like?" gets a polished answer. A question about the work gets a real one.
 
-Our free resume builder splits it out for you: what this job wants, the keywords you can't claim yet, and questions that help make the true parts stronger. It adds no new skill, number or title. Only what your resume and notes show.
+A few that work:
+1. What would make the first 90 days a success?
+2. What's the team stuck on right now?
+3. What did the last person in this role do really well?
 
-Today: open one posting you like and list the keywords that are true for you. Those are the ones to use.
+Write the answer down. It's the best material you'll have for your thank-you note and the next round.
 
-Free, no account, at getday60.com/resume-builder. Or start a free sprint: link in bio.
+Today: write one question for your next interview, or the next one you hope to get.
 
-#day60 #jobsearch #resumetips #careertips #jobsearchtips
+Day60 finds the 4 people closest to the hire for one job. Link in bio.
+
+#day60 #jobsearch #interviewtips #careertips #jobsearchtips
 ```
 
 ### IG-yearlist · Wed Dec 30 · 1:54 PM · DRAFT (Social, Nov 27) · WRITE DOWN 3 THINGS YOU DID THIS YEAR
@@ -520,23 +525,28 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #resumetips
 ```
 
-### FB-keywords · Sun Jan 3 · 10:07 AM · DRAFT (Social, Nov 27) · NOT EVERY KEYWORD BELONGS ON A RESUME (Facebook, resume tool)
-- Status: draft for HQ. Reuses IG-keywords's card (Instagram posts it Tue Dec 29).
-- Image: `2026-12/wk53/p02_keywords_mint.png`.
-- Alt text: Not every keyword belongs on your resume. If the posting asks for it and you haven't done it, leave it off.
-- Link: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w53-FB-keywords
+### FB-question · Sun Jan 3 · 10:07 AM · DRAFT (Social, Nov 27) · BRING ONE QUESTION YOU REALLY WANT ANSWERED (Facebook)
+- Status: draft for HQ. Replaces FB-keywords. Reuses IG-question's card (Instagram posts it Tue Dec 29).
+- Image: `2026-12/wk53/p02_question_mint.png`.
+- Alt text: Bring one question you really want answered. Something about the work, like what would make the first 90 days a success.
+- Link: https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w53-FB-question
 
 ```
-Not every keyword belongs on a resume.
+Bring one question you really want answered.
 
-Tailoring a resume to one job doesn't mean copying the posting. If it asks for a skill you haven't used, adding it only leads to a question you can't answer in the interview.
+If you or someone you know has an interview coming up in January, here's one small thing to prepare: a real question for the end.
 
-Our free resume builder splits it out: what the job wants, the keywords you can't claim yet, and questions that make the true parts stronger. It adds no new skill, number or title. Free, no account: https://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w53-FB-keywords&utm_content=resume-builder
+"What's the culture like?" gets a polished answer. A question about the work gets a real one:
+What would make the first 90 days a success?
+What's the team stuck on right now?
+What did the last person in this role do really well?
+
+Write the answer down. It's the best material for the thank-you note and the next round.
 
 Share this with someone who's looking.
 
-Today: list the keywords in one posting that are true for you.
-https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w53-FB-keywords
+Today: write one question for the next interview.
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w53-FB-question
 
-#jobsearch #day60 #resumetips
+#jobsearch #day60 #interviewtips
 ```

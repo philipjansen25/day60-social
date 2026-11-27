@@ -19,7 +19,7 @@ def specs(entry, one):
         li("LI-newyear", "2027-01-01", "12:09", "Happy New Year"),
         li("LI-plan", "2027-01-03", "08:14", "January: start small"),
         img("instagram", "IG-ooo", "2026-12-28", "20:03", "Out of office until Jan 4", "p01_out_of_office_cobalt.png"),
-        img("instagram", "IG-keywords", "2026-12-29", "17:58", "Keywords you can claim", "p02_keywords_mint.png"),
+        img("instagram", "IG-question", "2026-12-29", "17:58", "Bring one real question", "p02_question_mint.png"),
         img("instagram", "IG-yearlist", "2026-12-30", "13:54", "Three things you did this year", "p03_year_list_coral.png"),
         img("instagram", "IG-lastcall", "2026-12-31", "07:04", "Last call for the year", "p04_last_call_ink.png"),
         img("instagram", "IG-newyear", "2027-01-01", "21:42", "Happy New Year. Rest today.", "p05_new_year_pink.png"),
@@ -31,5 +31,5 @@ def specs(entry, one):
         img("facebook", "FB-newyear", "2026-12-31", "10:42", "Happy New Year. Rest.", "p05_new_year_pink.png"),
         img("facebook", "FB-five", "2027-01-01", "07:52", "One job at a time", "p06_one_job_lime.png"),
         img("facebook", "FB-readline", "2027-01-02", "22:57", "Read every line", "p07_read_every_line_mint.png"),
-        img("facebook", "FB-keywords", "2027-01-03", "10:07", "Keywords you can claim", "p02_keywords_mint.png"),
+        img("facebook", "FB-question", "2027-01-03", "10:07", "Bring one real question", "p02_question_mint.png"),
     ]
