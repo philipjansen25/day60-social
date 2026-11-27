@@ -52,32 +52,34 @@ Times: `scripts/pick_time.py`, all Central Time. LinkedIn falls inside 8:00 AM t
 
 ## LinkedIn (Philip's profile, through Buffer)
 
-### LI-checker · Mon Dec 28 · 10:29 AM · DRAFT (Social, Nov 27) · I RAN A SAMPLE NOTE THROUGH OUR MESSAGE CHECKER (founder lane, "I tried it")
-- Status: draft for HQ.
-- Lane: Phil's founder lane (Mon), first person, a Day60 tool he uses. The note is illustrative, and the flags are the checker's real rules (the same ones IG6 shows).
+### LI-extension · Mon Dec 28 · 10:29 AM · DRAFT (Social, Nov 27) · I TRIED OUR CHROME EXTENSION LIKE A JOB SEEKER (founder lane, "I tried it")
+- Status: draft for HQ. Replaces LI-checker (week 51 already has a message-checker post on Mon Dec 14).
+- Lane: Phil's founder lane (Mon), first person, a Day60 tool he uses. Every claim is the extension's approved behavior (playbook §1: 1.1.0 LinkedIn steps, live Nov 6). The buttons are described, not named, so "Day60" appears once.
 - [VERIFY] Phil confirms he did this before approval.
 - Format: text only.
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md)
 - Link: the try link, the body's last line before the hashtags.
 
 ```
-I ran a sample connection note through our message checker.
+I tried our Chrome extension like a job seeker.
 
-It's the free tool on the Day60 site. You pick what you're sending (a cold email, a LinkedIn connection note, or the message after they accept), paste your draft, and Tick tells you what to fix and why.
+It's the free Day60 extension in the Chrome Web Store, and I wanted to see it the way someone looking for work would.
 
-The note was a quick holiday message to someone worth reconnecting with. I wrote it the way most of us do in December. (It's illustrative, written to show what gets flagged.)
+Most searches start on LinkedIn. That's where the job shows up. The hard part comes after: the posting is one of hundreds, and the people who decide aren't in it.
 
-It opened with "I".
-It said "I wanted to reach out".
-It ended without a question, so there was nothing easy to answer.
+So the extension does two small things, and only when you press its buttons.
 
-The fixes were small. Open with them, not me. Cut the throat-clearing. End on one question they can answer in a line.
+On a LinkedIn job, one button looks for the same job on the company's own careers page. If the company doesn't post it there, you paste the description.
 
-Tick checks the rules, not the facts. Every detail still has to be true, and that part stays my job.
+On a LinkedIn profile, the other button adds that person to one of your jobs: as the hiring manager, their boss, an internal champion or the recruiter.
 
-Today, read one message you're about to send out loud. Does it end on a question?
+It uses only the tab's address and title. It never reads LinkedIn pages, never fills in forms, never applies and never sends anything. You send every message.
 
-https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w53-LI-checker
+Today, open one job you saved on LinkedIn and find it on the company's own careers page.
+
+Which job are you starting with this week?
+
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w53-LI-extension
 
 #jobsearch #networking #careeradvice
 ```
