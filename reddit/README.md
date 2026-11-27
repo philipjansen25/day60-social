@@ -11,6 +11,13 @@
 Until Philip's account has about 50 comment karma (weeks 1–2): **comments only, no Day60 mention or link, no posts.** After that: at most one value post a week. Status lives in `subreddits.md`. The daily run's replies never mention Day60 or link, in any phase (HQ, Nov 19).
 
 ## Daily run (every day, 6:15 AM and 1:15 PM CT; a reply for every alert from Nov 20, Philip via HQ)
+
+**Ban limits (HQ, Fri Nov 27, 2026, 4:18 PM CT), until HQ says otherwise.** Philip's Reddit account was banned at 9:40 AM CT Nov 27 by BotBouncer, an automated bot classifier, in r/GetEmployed, r/recruitinghell and r/resumes ("bots and bot-like accounts"). Philip is appealing.
+- Write no replies for alerts from r/GetEmployed, r/recruitinghell or r/resumes. List them under `skipped` ("account banned in r/<sub>").
+- At most 3 replies a day in all (CT day, both runs together), for the best 3 alerts: the clearest questions, where a specific answer helps most. Once a day has 3, later alerts that day go under `skipped` ("daily limit of 3"). Keep a reply already on the card.
+- Each reply is specific to its thread: no link, no "Day60" and no product mention unless the person asks what he uses.
+- Never suggest posting from another account. Reddit treats that as ban evasion.
+
 Philip, Nov 20, verbatim: "I want to comment on all alerts going forward." and "Automation allows me to do more, not less". So every post in an F5Bot alert gets a ready reply; the old limit of 2 a day is gone. Source: the posts in F5Bot alert emails, and from Nov 27 each one's public thread (Philip: "Anything public is fair game"). Mirrors, caches and archives stay off limits.
 
 1. `git pull`, then read this file.
