@@ -6,7 +6,7 @@ import notes
 
 W = "2026-w49"
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-DRAFT = "Draft for HQ (Social, Nov 27): fills an empty slot in the week of Nov 30."
+DRAFT = "Approved by HQ (Nov 27); fills an empty slot in the week of Nov 30. Load at Sunday Nov 29 top-up."
 HUMOR = "humor"
 LI_N = ["Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.",
         "No first comment: Buffer's plan doesn't allow one (HQ, Nov 19).",
@@ -44,7 +44,7 @@ def _checker_files():
 
 def specs(entry, one):
     notes.NOTES.update(NOTES_W49F)
-    d = dict(status="draft")
+    d = dict(status="approved")
     wk = "2026-11/wk49/"
     img = lambda ch, pid, date, time, title, path: entry(W, pid, channel=ch, date=date, time=time, title=title, format="image",
                                                          files=one(W, pid, path), **d)
