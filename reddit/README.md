@@ -10,21 +10,21 @@
 ## Account phase
 Until Philip's account has about 50 comment karma (weeks 1–2): **comments only, no Day60 mention or link, no posts.** After that: at most one value post a week. Status lives in `subreddits.md`. The daily run's replies never mention Day60 or link, in any phase (HQ, Nov 19).
 
-## Daily run (every day, 6:15 AM and 1:15 PM CT; a reply for every alert from Nov 20, Philip via HQ)
+## Daily run (every day, 6:15 AM and 1:15 PM CT; at most 3 replies a day from Nov 27, Philip via HQ)
 
-**Ban limits (HQ, Fri Nov 27, 2026, 4:18 PM CT), until HQ says otherwise.** Philip's Reddit account was banned at 9:40 AM CT Nov 27 by BotBouncer, an automated bot classifier, in r/GetEmployed, r/recruitinghell and r/resumes ("bots and bot-like accounts"). Philip is appealing.
+**Reddit limits (Philip, Nov 27: "Yes", via HQ; permanent).** At most 3 replies a day, for the best 3 alerts, replaces his Nov 19 and 20 "comment on all alerts" ruling. Philip's Reddit account was banned at 9:40 AM CT Nov 27 by BotBouncer, an automated bot classifier, in r/GetEmployed, r/recruitinghell and r/resumes ("bots and bot-like accounts"). Philip is appealing the ban.
 - Write no replies for alerts from r/GetEmployed, r/recruitinghell or r/resumes. List them under `skipped` ("account banned in r/<sub>").
 - At most 3 replies a day in all (CT day, both runs together), for the best 3 alerts: the clearest questions, where a specific answer helps most. Once a day has 3, later alerts that day go under `skipped` ("daily limit of 3"). Keep a reply already on the card.
 - Each reply is specific to its thread: no link, no "Day60" and no product mention unless the person asks what he uses.
 - Never suggest posting from another account. Reddit treats that as ban evasion.
 
-Philip, Nov 20, verbatim: "I want to comment on all alerts going forward." and "Automation allows me to do more, not less". So every post in an F5Bot alert gets a ready reply; the old limit of 2 a day is gone. Source: the posts in F5Bot alert emails, and from Nov 27 each one's public thread (Philip: "Anything public is fair game"). Mirrors, caches and archives stay off limits.
+(Replaced Nov 27 by the 3-a-day limit above.) Philip, Nov 20, verbatim: "I want to comment on all alerts going forward." and "Automation allows me to do more, not less". So every post in an F5Bot alert got a ready reply; the old limit of 2 a day is gone. Source: the posts in F5Bot alert emails, and from Nov 27 each one's public thread (Philip: "Anything public is fair game"). Mirrors, caches and archives stay off limits.
 
 1. `git pull`, then read this file.
 2. **Alerts.** In Gmail, run exactly one search, the one in the routine's prompt (F5Bot's alert sender, `newer_than:1d`), and read only the alert emails it returns. Open no other mail. From each post in each alert take its sub, title and excerpt (the HTML body holds the excerpt) and the alert's time, which stands in for the post's. Turn each F5Bot redirect link into the plain reddit.com thread link by decoding its `u=` value, and request that plain link, not the F5Bot redirect. **Then open each thread once (Philip, Nov 27: "Anything public is fair game"; playbook §1b)** with the honest fetcher, no login and no changed headers, and read the post and its top comments, so the reply answers what the thread actually says and doesn't repeat advice already given there. A thread that refuses us, sits behind a sign-in wall, or is deleted: write from the excerpt and put "excerpt only" in the why line; no other client, mirror, cache or archive. Read only: never vote, comment or post through automation. Reply only to posts in the alerts; don't search for more.
    - **Nov 27, first run with threads (1:15 PM):** the fetch tool refused www.reddit.com outright ("unable to fetch from www.reddit.com"), for the thread and its `.json` alike, so all 7 threads were excerpt only. Try once per run in case that changes; when it refuses, write from the excerpt and mark "excerpt only". Never use curl, another client or a mirror to get round it.
 3. **No alerts in the last 24 hours: leave the card as it is and stop.** No file, no commit, no message.
-4. **Every post gets a reply, except these five**, each listed under `skipped` with a short reason, so Philip sees nothing was dropped silently:
+4. **The day's best 3 alerts get a reply (Philip, Nov 27); every other alert is listed under `skipped` with a short reason,** including the daily limit and the banned subreddits, and these five, so Philip sees nothing was dropped silently:
    - (a) a company's or a seller's ad or AMA;
    - (b) a post that isn't about looking for work or working life at all (a keyword false match);
    - (c) a second copy of a post already on the card;
