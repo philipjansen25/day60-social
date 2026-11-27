@@ -86,5 +86,18 @@ def apply(SPECS):
     for i, why in RETIRE.items():
         by[i]["status"] = "replaced"
         by[i]["notes"] += f"\n{RULE} RETIRED (Nov 27): {why}"
+    # Scheduled in Buffer by HQ at 20:02Z Nov 27 (Social's Buffer writes are paused, HQ Nov 27).
+    for i, bid in {"2026-w49-LI-firsthour": "6b09e1de71e8cc12a6c76f18", "2026-w49-LI-H-hackathon": "6b09e1f32ea34800c28e4cc1",
+                   "2026-w49-LI-threads": "6b09e1f62ea34800c28e4ef4", "2026-w49-LI-H-aws": "6b09e1fa277f27038a350874",
+                   "2026-w49-LI-nextstep": "6b09e1fd585cafb820d9d733"}.items():
+        if i in by:
+            by[i]["postedVia"] = "buffer"
+            by[i]["notes"] += f"\nIn Buffer: scheduled by HQ Nov 27, 20:02Z, post {bid}."
+    if "2026-w48-FB-onelink" in by:
+        by["2026-w48-FB-onelink"]["notes"] += ("\nEmail promise fixed (HQ, Nov 27): \"Each comes with a short note in your voice, and a verified "
+                                               "work email when Day60 finds one. Tick checks every draft.\" HQ saved it to Buffer post 6b0430c3433e6368c8a53c50.")
+    for i in ("2026-w49-LI-3touch", "2026-w49-LI-monday"):
+        if i in by:
+            by[i]["postedVia"] = ""  # pulled from Buffer to a Buffer draft Nov 27; not in the queue
     if "2026-w49-LI-3touch" in by:
         by["2026-w49-LI-3touch"]["notes"] += "\nPulled from Buffer Nov 27 (kept there as a draft, 6b075f60b8e2338b8569eaf3)."
