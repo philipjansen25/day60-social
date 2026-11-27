@@ -419,19 +419,18 @@ _D52 = "Draft for HQ (Social, Nov 27): HQ approves the December batch in one pas
 _HOL = "Holiday season (Dec 21 to Jan 1): lighter and kind, never about being laid off."
 _TAG52 = 'Tag the first "Day60" (page 144030699) with the annotation in linkedin-company-ids.md.'
 _LI52 = ["Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.", "No first comment.", _TAG52]
-for _p in ("LI-checker", "LI-holidaynote", "LI-party", "LI-lastline", "LI-christmas", "LI-january"):
+for _p in ("LI-plainnote", "LI-holidaynote", "LI-party", "LI-lastline", "LI-christmas", "LI-onename"):
     NOTES["2026-w52-" + _p] = [_D52, _HOL] + _LI52
-NOTES["2026-w52-LI-checker"] += ["[VERIFY] Phil confirms he did this before approval (\"I tried it\" post)."]
 NOTES["2026-w52-LI-party"] = ["humor"] + NOTES["2026-w52-LI-party"]
 NOTES["2026-w52-LI-christmas"] += ["Personal greeting: no link, on purpose."]
-for _p in ("IG-quietresume", "IG-wishlist", "IG-table", "IG-christmas", "IG-returns", "IG-threejobs"):
+for _p in ("IG-postingwords", "IG-recipe", "IG-table", "IG-christmas", "IG-returns", "IG-threejobs"):
     NOTES["2026-w52-" + _p] = [_D52, _HOL] + BUF_IG_ONE
-for _p in ("IG-wishlist", "IG-returns"):
+for _p in ("IG-recipe", "IG-returns"):
     NOTES["2026-w52-" + _p] = ["humor"] + NOTES["2026-w52-" + _p]
 NOTES["2026-w52-IG-christmas"] += ["A greeting: no next step and no \"Link in bio\", on purpose."]
-for _p in ("FB-quietresume", "FB-table", "FB-wishlist", "FB-threejobs", "FB-returns"):
+for _p in ("FB-postingwords", "FB-table", "FB-recipe", "FB-threejobs", "FB-returns"):
     NOTES["2026-w52-" + _p] = [_D52, _HOL] + BUF_FB_ONE + ["Reuses the Instagram card of the same name (no Facebook-only creative)."]
-for _p in ("FB-wishlist", "FB-returns"):
+for _p in ("FB-recipe", "FB-returns"):
     NOTES["2026-w52-" + _p] = ["humor"] + NOTES["2026-w52-" + _p]
 NOTES["2026-w52-FB-thanks-holiday"] = [_D52, _HOL] + BUF_FB + ["Reuses IG-thanks-r2's six holiday slides; FB-thanks (Nov 26) had the Thanksgiving ones."]
 NOTES["2026-w52-FB-christmas"] = [_D52, _HOL, "Publishes through Buffer, automatically, as the Day60 Facebook Page, as a text post.",
