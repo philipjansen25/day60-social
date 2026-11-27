@@ -5,7 +5,7 @@
 | Platform | Weekly cap | Week 51 |
 | --- | --- | --- |
 | LinkedIn | 6 (Sun to Fri, 8:00 AM to 12:59 PM CT) | LI-fourpeople (Mon), LI-firstline (Tue), LI-person (Wed, linkless), LI-resume (Thu), LI-stages (Fri, humor), LI-shortweek (Sun). 5 of 6 carry the try link |
-| Instagram | 7 | IG4-r2 (Mon, cream), IG-bullet (Tue, coral), IG-wordfile (Wed, cobalt), IG-firstjob-r2 (Thu, lime), IG-dearteam (Fri, pink, humor), IG-phonetest (Sat, mint), IG-wishlist (Sun, ink, humor) |
+| Instagram | 7 | IG4-r2 (Mon, cream), IG-bullet (Tue, coral), IG-wordfile (Wed, cobalt), IG-firstjob-r2 (Thu, lime), IG-dearteam (Fri, ink, humor), IG-phonetest (Sat, mint), IG-wishlist (Sun, coral, humor) |
 | Facebook | 7 | FB-firstjob (Mon), FB-touches (Tue), FB-bullet (Wed), FB-wordfile (Thu), FB-wishlist (Fri, humor), FB-dearteam (Sat, humor), FB-phonetest (Sun). Never the same day as the Instagram post it reuses |
 
 ## LinkedIn (Philip's profile)
@@ -283,7 +283,7 @@ Today: pick one job you want and make its version of your resume. Link in bio.
 ### IG-dearteam · Fri Dec 18 · 10:34 PM · DRAFT · DEAR HIRING TEAM (humor)
 - Status: draft for HQ (Social, Nov 27). Through Buffer at 1080x1350.
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
-- Image: `2026-12/wk51/p03_dear_team_pink.png`. Ground: pink. Source: `2026-12/wk51/build.py`. Facebook reuses it Sat Dec 19 (FB-dearteam).
+- Image: `2026-12/wk51/p03_dear_team_ink.png`. Ground: ink (moved off pink for the grid rule, Nov 27). Source: `2026-12/wk51/build.py`. Facebook reuses it Sat Dec 19 (FB-dearteam).
 - Alt text: Dear Hiring Team: people who think it's for them, zero. Write to one person, by name.
 
 ```
@@ -322,7 +322,7 @@ Day60 drafts short first notes to the 4 people closest to the hire. You make the
 
 ### IG-wishlist · Sun Dec 20 · 8:18 PM · DRAFT · TICK'S HOLIDAY WISH LIST (humor, seasonal)
 - Status: draft for HQ (Social, Nov 27). Through Buffer at 1080x1350.
-- Image: `2026-12/wk51/p05_wishlist_ink.png`. Ground: ink. Source: `2026-12/wk51/build.py`. Facebook reuses it Fri Dec 18 (FB-wishlist).
+- Image: `2026-12/wk51/p05_wishlist_coral.png`. Ground: coral (moved off ink for the grid rule, Nov 27). Source: `2026-12/wk51/build.py`. Facebook reuses it Fri Dec 18 (FB-wishlist).
 - Alt text: Tick's holiday wish list: short notes, one easy question, and never just following up.
 
 ```
@@ -435,7 +435,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 
 ### FB-wishlist · Fri Dec 18 · 6:36 AM · DRAFT · TICK'S HOLIDAY WISH LIST (reuses IG-wishlist, humor)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
-- Image: `2026-12/wk51/p05_wishlist_ink.png` (Instagram runs it Sun Dec 20).
+- Image: `2026-12/wk51/p05_wishlist_coral.png` (Instagram runs it Sun Dec 20).
 - Alt text: Tick's holiday wish list: short notes, one easy question, and never just following up.
 - Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-wishlist`
 
@@ -460,7 +460,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 ### FB-dearteam · Sat Dec 19 · 9:26 PM · DRAFT · DEAR HIRING TEAM (reuses IG-dearteam, humor)
 - Status: draft for HQ (Social, Nov 27). Through Buffer. No Facebook-only creative: the art is Instagram's (HQ, Nov 26).
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
-- Image: `2026-12/wk51/p03_dear_team_pink.png` (Instagram runs it Fri Dec 18).
+- Image: `2026-12/wk51/p03_dear_team_ink.png` (Instagram runs it Fri Dec 18).
 - Alt text: Dear Hiring Team: people who think it's for them, zero. Write to one person, by name.
 - Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w51-FB-dearteam`
 

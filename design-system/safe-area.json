@@ -526,6 +526,12 @@
    "checked": "2026-11-27",
    "grid": true
   },
+  "2026-12/wk51/p01_one_bullet_coral.png": {
+   "sha256": "29da110cdd88f9edd3eddc751d5c3871757223876308904fef335490eaec9d7f",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
   "2026-12/wk51/p01_tailor_coral.png": {
    "sha256": "7f07b09ddbd21fe29a965bd4650b50774f06ad9b16726b019e816df48af31560",
    "scale": 0.862,
@@ -538,6 +544,24 @@
    "checked": "2026-11-27",
    "grid": true
   },
+  "2026-12/wk51/p02_word_file_cobalt.png": {
+   "sha256": "a1de8b3610695c1cdd07e257bd58a3e81ceec176794ad6d4509b19020e267acc",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk51/p03_dear_team_ink.png": {
+   "sha256": "758bdd00d8a41f0abb1f2c63bc0a944745b6093dbb8f5b35017e728859bf1670",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk51/p03_dear_team_pink.png": {
+   "sha256": "cd402f5cf058b679480e327e85dc37bd7aa0a7bd044093021c4c6325e3b0d5b9",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
   "2026-12/wk51/p03_seven_rounds_pink.png": {
    "sha256": "9ddae1dc171bbaf63b985b48cbc64d004d1d15814dabc1fcaa5082efad54ad98",
    "scale": 0.862,
@@ -546,6 +570,18 @@
   },
   "2026-12/wk51/p04_first_line_mint.png": {
    "sha256": "75eb1b645ff2f88cb55739ac2676556bd870aa0075ab49397079f0514b9502b2",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk51/p04_phone_screen_mint.png": {
+   "sha256": "1b62c55e60c3c800d1379df141faf1c6f5f7a1a6dca446bd3bff09387fd8bf3e",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk51/p05_wishlist_coral.png": {
+   "sha256": "2d347b15c9675be229c1b1152da61c379e6923a7720096b170226a875c45c6be",
    "scale": 0.862,
    "checked": "2026-11-27",
    "grid": true
@@ -574,8 +610,20 @@
    "checked": "2026-11-22",
    "grid": true
   },
+  "2026-12/wk52/p02_posting_words_lime.png": {
+   "sha256": "d5c361f2f71d2db4e435eba14851004fb5b94e80e89c4a3a85705cd9bf7e95dc",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
   "2026-12/wk52/p02_quiet_resume_mint.png": {
    "sha256": "a1a82e5add46d59be3c0f075beec24b9d12c1a92380d6254ca7a429968dfff4e",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk52/p03_reply_recipe_mint.png": {
+   "sha256": "fecff93068b8ddb5ba154c9d49656fe95ac4df8ab70df501d6631d353b1543f9",
    "scale": 0.862,
    "checked": "2026-11-27",
    "grid": true
@@ -594,6 +642,12 @@
   },
   "2026-12/wk52/p05_merry_christmas_cobalt.png": {
    "sha256": "3e34f73d58e8d45154cc90bc1bc3a021fd4e70e22ede479b92bb131546779a67",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk52/p05_merry_christmas_ink.png": {
+   "sha256": "e1f4656db6360e1df84e747062d81db4b7387c0d7e8513b77dcc6960182acdfd",
    "scale": 0.862,
    "checked": "2026-11-27",
    "grid": true
@@ -664,48 +718,6 @@
    "checked": "2026-11-17",
    "grid": true,
    "gridCheck": "2026-11-22, by eye: only sparkles and background art cross x 34 to 1046 or y 150 to 1200; every word, button, Tick, wordmark and slide marker is inside"
-  },
-  "2026-12/wk52/p02_posting_words_lime.png": {
-   "sha256": "d5c361f2f71d2db4e435eba14851004fb5b94e80e89c4a3a85705cd9bf7e95dc",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk52/p03_reply_recipe_mint.png": {
-   "sha256": "fecff93068b8ddb5ba154c9d49656fe95ac4df8ab70df501d6631d353b1543f9",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk52/p05_merry_christmas_ink.png": {
-   "sha256": "e1f4656db6360e1df84e747062d81db4b7387c0d7e8513b77dcc6960182acdfd",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk51/p01_one_bullet_coral.png": {
-   "sha256": "29da110cdd88f9edd3eddc751d5c3871757223876308904fef335490eaec9d7f",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk51/p02_word_file_cobalt.png": {
-   "sha256": "a1de8b3610695c1cdd07e257bd58a3e81ceec176794ad6d4509b19020e267acc",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk51/p03_dear_team_pink.png": {
-   "sha256": "cd402f5cf058b679480e327e85dc37bd7aa0a7bd044093021c4c6325e3b0d5b9",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
-  },
-  "2026-12/wk51/p04_phone_screen_mint.png": {
-   "sha256": "1b62c55e60c3c800d1379df141faf1c6f5f7a1a6dca446bd3bff09387fd8bf3e",
-   "scale": 0.862,
-   "checked": "2026-11-27",
-   "grid": true
   }
  },
  "waived": {},

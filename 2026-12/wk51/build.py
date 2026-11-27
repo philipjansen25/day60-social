@@ -3,9 +3,9 @@ message craft, about 1 in 4 humor). None says "Link in bio", so Facebook reuses 
 
 2026-12/wk51/p01_one_bullet_coral.png     IG-bullet    Tue Dec 15  resume builder: one bullet, one result
 2026-12/wk51/p02_word_file_cobalt.png     IG-wordfile  Wed Dec 16  resume builder: add your email, get a Word file
-2026-12/wk51/p03_dear_team_pink.png       IG-dearteam  Fri Dec 18  humor: "Dear Hiring Team" reaches no one
+2026-12/wk51/p03_dear_team_ink.png       IG-dearteam  Fri Dec 18  humor: "Dear Hiring Team" reaches no one
 2026-12/wk51/p04_phone_screen_mint.png    IG-phonetest Sat Dec 19  message craft: the phone-screen test
-2026-12/wk51/p05_wishlist_ink.png         IG-wishlist  Sun Dec 20  humor, seasonal: Tick's holiday wish list
+2026-12/wk51/p05_wishlist_coral.png         IG-wishlist  Sun Dec 20  humor, seasonal: Tick's holiday wish list
 
 Replaced Nov 27 (main thread) so week 51 doesn't repeat week 50's angles.
 Grid: Mon cream (IG4-r2), Tue coral, Wed cobalt, Thu lime (IG-firstjob-r2), Fri pink, Sat mint, Sun ink:
@@ -69,18 +69,18 @@ out("p02_word_file_cobalt", cover_page(
     + spark(900, 110, 60, WHITE) + spark(990, 220, 34, PINK)
     + foot_g(g, right=RB), g))
 
-# IG-dearteam · pink, humor. The lime highlight is the one lime element.
-g = "pink"
-out("p03_dear_team_pink", cover_page(
+# IG-dearteam · ink (moved off pink: Mon Dec 21 is pink, grid rule), humor. The lime highlight is the one lime element.
+g = "ink"
+out("p03_dear_team_ink", cover_page(
     stk("Mailbag", WHITE, 72, 72)
-    + f'<div class="d" style="position:absolute;left:72px;right:72px;top:200px;font-size:130px">“Dear Hiring Team,”</div>'
-    + f'<div style="position:absolute;left:74px;top:520px;width:600px;font-size:44px;font-weight:700;line-height:1.24">'
+    + f'<div class="d c" style="position:absolute;left:72px;right:72px;top:200px;font-size:130px">“Dear Hiring Team,”</div>'
+    + f'<div class="c" style="position:absolute;left:74px;top:520px;width:600px;font-size:44px;font-weight:700;line-height:1.24">'
       f'People on the Hiring Team who think it\'s for them: zero.</div>'
     + f'<div class="card" style="position:absolute;left:72px;top:820px;width:620px;padding:32px 38px;'
       f'font-size:42px;font-weight:700;line-height:1.4">Write to one person,<br>'
       f'<span class="fill" style="color:{INK}">by name.</span></div>'
     + at(56, 600, tick("pointing", 290), right=True)
-    + spark(900, 110, 64, WHITE) + spark(990, 230, 36, INK)
+    + spark(900, 110, 64, PINK) + spark(990, 230, 36, MINT)
     + foot_g(g), g))
 
 # IG-phonetest · mint. The lime highlight is the one lime element.
@@ -97,10 +97,10 @@ out("p04_phone_screen_mint", cover_page(
     + spark(900, 110, 60, WHITE) + spark(990, 220, 34, INK)
     + foot_g(g), g))
 
-# IG-wishlist · ink, humor, seasonal. The lime highlight is the one lime element.
-g = "ink"
-out("p05_wishlist_ink", cover_page(
-    stk("Holiday edition", PINK, 72, 72)
+# IG-wishlist · coral (moved off ink: Fri Dec 18 is ink, grid rule), humor, seasonal. The lime highlight is the one lime element.
+g = "coral"
+out("p05_wishlist_coral", cover_page(
+    stk("Holiday edition", WHITE, 72, 72)
     + f'<div class="d c" style="position:absolute;left:72px;right:72px;top:200px;font-size:122px">Tick\'s holiday<br>wish list</div>'
     + f'<div class="card" style="position:absolute;left:72px;top:560px;width:640px;padding:36px 42px;'
       f'font-size:44px;font-weight:700;line-height:1.5">1. Short notes.<br>'
@@ -109,7 +109,7 @@ out("p05_wishlist_ink", cover_page(
     + f'<div class="c" style="position:absolute;left:74px;top:960px;width:600px;font-size:38px;font-weight:600;line-height:1.3">'
       f'Your next message can tick all three.</div>'
     + at(60, 620, tick("celebrating", 290), right=True)
-    + spark(900, 110, 64, PINK) + spark(990, 230, 36, MINT)
+    + spark(900, 110, 64, WHITE) + spark(990, 230, 36, INK)
     + foot_g(g), g))
 
 if __name__ == "__main__":
