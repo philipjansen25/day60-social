@@ -51,11 +51,11 @@ card("p01_out_of_office_cobalt", "cobalt", "Out of office", WHITE,
      "Back on Jan 4.", 128, "(Probably the 6th.)", 420,
      f"Note the date. {F('Follow up the day after.')}", 700, "running", 560,
      spark(900, 110, 60, WHITE) + spark(990, 220, 34, PINK))
-# Tue Dec 29 · IG-keywords · mint · resume tool
-card("p02_keywords_mint", "mint", "Resume tip", WHITE,
-     "Not every keyword belongs on your resume.", 104, "If the posting asks for it and you haven't done it, leave it off.", 650,
-     f"Tailor with {F('what&rsquo;s true.')}", 930, "pointing", 760,
-     spark(900, 110, 60, WHITE) + spark(990, 220, 34, INK))
+# Tue Dec 29 · IG-question · mint · interview tip (replaced IG-keywords: week 50 has the keywords card)
+card("p02_question_mint", "mint", "Interview tip", WHITE,
+     "Bring one question you really want answered.", 100, "Not &ldquo;what&rsquo;s the culture like?&rdquo; Something about the work.", 520,
+     f"What would make the {F('first 90 days')} a success?", 760, "pointing", 640,
+     spark(860, 90, 56, WHITE) + spark(960, 150, 30, INK))
 # Wed Dec 30 · IG-yearlist · coral
 card("p03_year_list_coral", "coral", "Before the year ends", WHITE,
      "Write down 3 things you did this year.", 108, "Each one: the problem, what you did, what changed.", 640,

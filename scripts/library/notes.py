@@ -398,7 +398,7 @@ NOTES["2026-w53-LI-newyear"] = _W53_LI + ["Personal New Year's Day post: no link
 NOTES["2026-w53-LI-plan"] = _W53_LI + [_W53_TRY, "Sunday lane: plan-your-week for the first full week of January."]
 _W53_IG = BUF_IG_ONE + ["Draft for HQ (Nov 27 batch)."]
 NOTES["2026-w53-IG-ooo"] = _W53_IG + ["humor (one-line seasonal card)."]
-NOTES["2026-w53-IG-keywords"] = _W53_IG + ["Resume-tool post; the caption names getday60.com/resume-builder as plain text."]
+NOTES["2026-w53-IG-question"] = _W53_IG + ["Interview tip. Replaces IG-keywords (week 50 has the keywords card)."]
 NOTES["2026-w53-IG-yearlist"] = _W53_IG
 NOTES["2026-w53-IG-lastcall"] = _W53_IG + ["humor (New Year's Eve card)."]
 NOTES["2026-w53-IG-newyear"] = _W53_IG + ["New Year's Day."]
@@ -412,7 +412,7 @@ NOTES["2026-w53-FB-lastcall"] = _W53_FB + ["Card: IG-lastcall (Thu Dec 31).", "h
 NOTES["2026-w53-FB-newyear"] = _W53_FB + ["Card: IG-newyear (Fri Jan 1)."]
 NOTES["2026-w53-FB-five"] = _W53_FB + ["Card: IG-five (Sat Jan 2)."]
 NOTES["2026-w53-FB-readline"] = _W53_FB + ["Card: IG-readline (Sun Jan 3). Also links the resume builder with UTMs."]
-NOTES["2026-w53-FB-keywords"] = _W53_FB + ["Card: IG-keywords (Tue Dec 29). Also links the resume builder with UTMs."]
+NOTES["2026-w53-FB-question"] = _W53_FB + ["Card: IG-question (Tue Dec 29). Replaces FB-keywords."]
 # ---- end w53 block ----
 # ---- w52: December batch, week 52 (Mon Dec 21 to Sun Dec 27), drafts for HQ (Social, Nov 27) ----
 _D52 = "Draft for HQ (Social, Nov 27): HQ approves the December batch in one pass."
