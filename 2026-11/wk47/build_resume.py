@@ -164,6 +164,8 @@ cta("p02_resume_builder_6_v2", True)
 cta("p02_resume_builder_6_fb_v2", False)
 # v3 (HQ fix Nov 23 (night), #967 email step): the builder asks for an email before the Word file and doesn't store the resume.
 cta("p02_resume_builder_6_v3", True, email_fix=True)
+# FB v3 (Social, Nov 27, for week 50's FB-resume): the v3 slide without "Link in bio".
+cta("p02_resume_builder_6_fb_v3", False, email_fix=True)
 
 if __name__ == "__main__":
     # optional: slide names to render, e.g. p02_resume_builder_6_fb (default: all)

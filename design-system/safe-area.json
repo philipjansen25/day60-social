@@ -250,6 +250,12 @@
    "scale": 0.921,
    "checked": "2026-11-17"
   },
+  "2026-11/wk47/p02_resume_builder_6_fb_v3.png": {
+   "sha256": "b366bffc9fe472833b10f8f5604755a7bcdf4075706ddd492d271953ed480ef1",
+   "scale": 0.923,
+   "checked": "2026-11-27",
+   "grid": true
+  },
   "2026-11/wk47/p02_resume_builder_6_v2_safe.png": {
    "sha256": "92ce41a5cf0c4173cf288f69e8da88eb7f3ca20c18760a8efe387d33fd6baa92",
    "scale": 0.921,
@@ -488,6 +494,36 @@
    "sha256": "7e60e525a870219db1bbae0681940edf5873d4e3d52f32c96c4804555f38bc72",
    "scale": 0.862,
    "checked": "2026-11-24",
+   "grid": true
+  },
+  "2026-12/wk50/p01_tailor_pink.png": {
+   "sha256": "a2075f8afa2c88ff27ad3bbef890d7634d806294ab64c8203393efcf6e4b2855",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk50/p02_rounds_cobalt.png": {
+   "sha256": "19fce378074d36b721beff8e1837c288000942089dd9763aceb916fe6c2c86b6",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk50/p03_keywords_coral.png": {
+   "sha256": "3889fbb36eae58c682d2f93044f1c59fea255a00942771bf48a12a674c0f4ed0",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk50/p04_first_line_lime.png": {
+   "sha256": "b03dc5491682c0da18544938f620d6dab46b60f40b0f55d082fde4202a14a276",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-12/wk50/p05_sticky_pink.png": {
+   "sha256": "7be75d02df28c57698f2b84154982499ef3c3e63c9b0a7fefe4ff013fcc9c6b4",
+   "scale": 0.862,
+   "checked": "2026-11-27",
    "grid": true
   },
   "2026-12/wk52/p01_thanks_1_pink_holiday.png": {
