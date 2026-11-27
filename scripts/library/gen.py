@@ -586,6 +586,7 @@ from batch_w53 import specs as _b53; SPECS += _b53(entry, _one)  # noqa: E402,E7
 from batch_w51 import specs as _b51; SPECS += _b51(entry, _one)  # noqa: E402  week 51 drafts (Social, Nov 27)
 from batch_w50 import specs as _b50; _w50 = _b50(entry, _one); SPECS = [e for e in SPECS if e["id"] not in {x["id"] for x in _w50}] + _w50  # noqa: E402,E702  week 50 drafts (Social, Nov 27)
 from batch_w52 import specs as _b52; SPECS += _b52(entry, _one)  # noqa: E402  (December batch, week 52)
+from batch_w49fill import specs as _b49f; SPECS += _b49f(entry, _one)  # noqa: E402  week 49 fill-ins (Social, Nov 27)
 from notes import NOTES  # noqa: E402
 _missing = [e["id"] for e in SPECS if e["id"] not in NOTES]
 assert not _missing, _missing

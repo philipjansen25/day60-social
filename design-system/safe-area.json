@@ -496,6 +496,31 @@
    "checked": "2026-11-24",
    "grid": true
   },
+  "2026-11/wk49/p04_under_review_pink.png": {
+   "sha256": "b0224260f9c6a7eefa66e43d5c6564ee194a54e80b5f37e56db5a5cd2d1706ec",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-11/wk49/p05_no_attachments_mint.png": {
+   "sha256": "1e34567314b24fbc864455635738357a85c13719c0f57050a0523f1b7bb8c555",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-11/wk49/p06_make_stronger_cobalt.png": {
+   "sha256": "c3668e284f9031ef9a9060172722019508c0fa5207bc495fcd96040c13241e76",
+   "scale": 0.862,
+   "checked": "2026-11-27",
+   "grid": true
+  },
+  "2026-11/wk49/p15_checker_7_fb.png": {
+   "sha256": "e30885ae276b66a514b2f060e62b98ac77e81d2e5796d610da70f726be38de20",
+   "scale": 0.918,
+   "checked": "2026-11-27",
+   "grid": true,
+   "gridCheck": "2026-11-27: p15_checker_7_safe.png with one line painted out in its own ground; nothing added, so its record holds"
+  },
   "2026-12/wk50/p01_tailor_pink.png": {
    "sha256": "a2075f8afa2c88ff27ad3bbef890d7634d806294ab64c8203393efcf6e4b2855",
    "scale": 0.862,

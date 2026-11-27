@@ -460,3 +460,189 @@ Day60 finds the 4 people closest to the hire and drafts a short note to each. Yo
 
 #day60 #jobsearch #jobsearchtips #careertips #networking
 ```
+
+## Drafts for HQ, Fri Nov 27 (Social): fill-ins for Wed Dec 2 to Sun Dec 6
+
+Eight drafts for the empty slots I found Nov 27: FB Wed Dec 2, IG and FB Fri Dec 4, IG and FB Sat Dec 5, LI, IG and FB Sun Dec 6. LI Fri Dec 4 stays held for Philip's priority post (HQ, Nov 27), and Facebook Fri Dec 4 can move to it if it fits. Three new Instagram cards (source `2026-11/wk49/build_fill.py`); Facebook reuses them, never on the Instagram day. Times from `scripts/pick_time.py`. No "free sprints end" line: that starts with the Dec 7 posts.
+
+### LI-week · Sun Dec 6 · 8:17 AM · DRAFT · MONDAY PLAN: FOLLOW-UPS FIRST (Sunday lane)
+- Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
+- Lane: the Sunday lane, "plan your week" (Philip, Nov 22; playbook §4). LI-monday (Nov 29) was "one new note"; this one is the follow-ups that come due a week later.
+- Product claim: the approved follow-up wording only (playbook §1, HQ Nov 5): 3 touches per person, day 0, 2 and 7. Day60 drafts; you send.
+- Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md).
+- Link: `https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49-LI-week` (last line before the hashtags)
+
+```
+Monday plan: follow-ups first, new notes second.
+
+Most replies don't come from the first message. They come from the second or the third. So before you write anything new tomorrow, check what's due.
+
+1. Sent a first note on Saturday? Send the hiring manager a short LinkedIn connection note. One line, no pitch.
+2. Sent one a week ago and heard nothing? Send the last follow-up: one useful line and one easy question. Then stop.
+3. Then write one new note, to one new person.
+
+Three touches per person, then you move on. That keeps it polite, and it keeps your list moving.
+
+Day60 drafts the first message, the hiring manager's day-2 connection note, and the day-7 follow-up when it's due. You send every one.
+
+Which follow-up have you been putting off?
+
+https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49-LI-week
+
+#jobsearch #careeradvice #networking
+```
+
+Checks: hook is 51 characters. "Day60" appears once. The link is the body's last line. No em-dashes, no banned phrases.
+
+### IG-review · Fri Dec 4 · 9:22 PM · DRAFT · STATUS: UNDER REVIEW (humor)
+- Status: draft for HQ (Social, Nov 27). Humor (playbook §4): the joke is on application portals, never the person looking.
+- Image: `2026-11/wk49/p04_under_review_pink.png` (1080x1350, pink). Safe area passes. No "Link in bio" on the image, so FB-review reuses it.
+- Ground: pink. Grid: Tue cream, Wed lime, Thu coral, Fri pink, Sat mint, Sun cobalt, Mon Dec 7 ink: any 4 in a row differ.
+- Alt text: Application status: under review. Last updated about six weeks ago. Don't wait on the portal. Write to the hiring manager.
+- Link: the bio link stays /try. No link in the caption.
+
+```
+Application status: Under review.
+
+Last updated: about six weeks ago.
+
+The portal isn't ignoring you. Nobody is looking at it. The decision sits with one person, and that person is the hiring manager.
+
+So don't wait on the status. Find the hiring manager and send three lines: one problem their team has, one line of proof, one easy question.
+
+Today: pick one application that's been "under review" for weeks, and write to the person behind it.
+
+Day60 finds the 4 people closest to the hire and drafts a short first note to each. You send it. Link in bio.
+
+#day60 #jobsearch #careeradvice #jobhunting #networkingtips
+```
+
+### IG-attach · Sat Dec 5 · 8:44 PM · DRAFT · NO ATTACHMENTS ON A FIRST NOTE (message craft)
+- Status: draft for HQ (Social, Nov 27). Message craft (HQ's verdict, Nov 26: short message-craft lessons).
+- Image: `2026-11/wk49/p05_no_attachments_mint.png` (1080x1350, mint). Safe area passes. No "Link in bio", so FB-attach reuses it.
+- Alt text: No attachments on a first note. A stranger's attachment is a file nobody opens. Three lines in the body. Send the resume when asked.
+- Link: the bio link stays /try. No link in the caption.
+
+```
+No attachments on a first note.
+
+To a stranger, an attachment is work: a file to open, from someone they don't know yet. Most people skip it.
+
+Put the reason to talk in the body instead. One problem their team has. One line of proof. One easy question.
+
+If they want your resume, they'll ask. That's a good sign, and a good time to send it.
+
+Today: take the attachment off your next first message and add one line of proof to the body.
+
+Day60 drafts a short first note to each of the 4 people closest to the hire. You send it. Link in bio.
+
+#day60 #jobsearch #careeradvice #networkingtips #coldemail
+```
+
+### IG-stronger · Sun Dec 6 · 9:04 PM · DRAFT · YOUR BEST RESULTS ARE IN YOUR HEAD (resume builder)
+- Status: draft for HQ (Social, Nov 27). Instagram resume-tool post (HQ's verdict, Nov 26).
+- Product claim: the resume builder's "Make it stronger" step asks about the work, and "Rebuild with my answers" uses only what you tell it (playbook §1, HQ Nov 11). Never a new skill, number or title. Free; the user downloads a Word file or copies the text; "Day60 keeps none of it."
+- Image: `2026-11/wk49/p06_make_stronger_cobalt.png` (1080x1350, cobalt). The question on the card is illustrative and labeled "Example question". No "Link in bio", so FB-stronger reuses it.
+- Alt text: Your best results are in your head. Example question: have you tracked which accounts might not renew? Answer its questions. Only what's true goes in.
+- Link: the bio link stays /try. The caption names getday60.com/resume-builder as plain text, like IG6-r2 names the checker.
+
+```
+Your best results are in your head, not on your resume.
+
+You did the work. You just never wrote it down in a way the next hiring manager can see.
+
+Day60's free resume builder reads the job, then asks you about your work. Answer what's true, skip what isn't, and tap "Rebuild with my answers". It never adds a skill, number or title you didn't give it.
+
+You read every line, then download a Word file or copy the text. Day60 keeps none of it.
+
+Today: paste one job you want and answer three of its questions. Free: getday60.com/resume-builder
+
+#day60 #jobsearch #resume #resumetips #careeradvice
+```
+
+### FB-checker · Wed Dec 2 · 8:58 AM · DRAFT · WOULD TICK LET YOU SEND IT? (Facebook carousel)
+- Status: draft for HQ (Social, Nov 27). IG6-r2's 7 checker slides, the day after Instagram posts them (Tue Dec 1).
+- Images: `2026-11/wk46/p15_checker_1_safe.png` to `_6_safe.png`, then `2026-11/wk49/p15_checker_7_fb.png`: slide 7 with "Free sprint: link in bio" painted out, since bio links don't work on Facebook. Same alt text as IG6-r2.
+- Link: the message checker, `https://getday60.com/message-checker?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-checker`. This post is about the free tool, so the tool is the link.
+
+```
+Would Tick let you send it?
+
+One cold email, run through Day60's free message checker. The first draft had 7 things to fix: it opened with "I", the subject line ran 12 words, and it never asked a clear question.
+
+The rewrite: one line about their team, one line of proof, one clear question. All 13 rules pass.
+
+Paste what you're about to send, and Tick tells you what to fix and why. Tick checks the rules, not the facts, so make sure every detail is true.
+
+(The sender, recipient and company are invented.)
+
+Share this with someone who's looking.
+
+Check your next message, free:
+https://getday60.com/message-checker?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-checker
+
+#jobsearch #day60 #careeradvice
+```
+
+### FB-attach · Fri Dec 4 · 6:47 AM · DRAFT · NO ATTACHMENTS ON A FIRST NOTE (Facebook)
+- Status: draft for HQ (Social, Nov 27). IG-attach's card, the day before Instagram posts it. If Philip's priority post fits Facebook, it takes this slot and FB-attach moves to the next open day.
+- Image: `2026-11/wk49/p05_no_attachments_mint.png` (1080x1350).
+- Alt text: No attachments on a first note. A stranger's attachment is a file nobody opens. Three lines in the body. Send the resume when asked.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-attach`
+
+```
+No attachments on a first note.
+
+If you're writing to someone who doesn't know you yet, a file is extra work for them. Most people never open it.
+
+Put the reason to talk in the message itself: one problem their team has, one line of proof, one easy question. If they want your resume, they'll ask, and that's the best time to send it.
+
+Share this with someone who's looking.
+
+Find the 4 people for one job:
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-attach
+
+#jobsearch #day60 #careeradvice
+```
+
+### FB-stronger · Sat Dec 5 · 9:21 PM · DRAFT · YOUR BEST RESULTS ARE IN YOUR HEAD (Facebook)
+- Status: draft for HQ (Social, Nov 27). IG-stronger's card, the day before Instagram posts it.
+- Image: `2026-11/wk49/p06_make_stronger_cobalt.png` (1080x1350).
+- Alt text: Your best results are in your head. Example question: have you tracked which accounts might not renew? Answer its questions. Only what's true goes in.
+- Link: the resume builder, `https://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-stronger`. The post is about the free tool, so the tool is the link.
+
+```
+Your best results are in your head, not on your resume.
+
+Day60's free resume builder reads the job you want, then asks about your work. Answer what's true and skip what isn't. It never adds a skill, number or title you didn't give it.
+
+You read every line, then download a Word file. Day60 keeps none of it.
+
+Share this with someone who's looking.
+
+Try it on one job, free:
+https://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-stronger
+
+#jobsearch #day60 #resume
+```
+
+### FB-review · Sun Dec 6 · 8:51 AM · DRAFT · STATUS: UNDER REVIEW (humor, Facebook)
+- Status: draft for HQ (Social, Nov 27). Humor. IG-review's card, two days after Instagram posts it.
+- Image: `2026-11/wk49/p04_under_review_pink.png` (1080x1350).
+- Alt text: Application status: under review. Last updated about six weeks ago. Don't wait on the portal. Write to the hiring manager.
+- Link: `https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-review`
+
+```
+Application status: Under review. Last updated: about six weeks ago.
+
+Sound familiar? The portal won't tell you much. The hiring manager might.
+
+Find the person who feels the empty seat and send three lines: one problem their team has, one line of proof, one easy question.
+
+Share this with someone who's looking.
+
+Find the 4 people for one job:
+https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-review
+
+#jobsearch #day60 #careeradvice
+```

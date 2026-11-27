@@ -1858,6 +1858,52 @@
     "postedVia": "buffer"
   },
   {
+    "id": "2026-w49-FB-checker",
+    "week": "2026-w49",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-12-02",
+    "time": "08:58",
+    "status": "draft",
+    "title": "Would Tick let you send it?",
+    "format": "carousel",
+    "text": "Would Tick let you send it?\n\nOne cold email, run through Day60's free message checker. The first draft had 7 things to fix: it opened with \"I\", the subject line ran 12 words, and it never asked a clear question.\n\nThe rewrite: one line about their team, one line of proof, one clear question. All 13 rules pass.\n\nPaste what you're about to send, and Tick tells you what to fix and why. Tick checks the rules, not the facts, so make sure every detail is true.\n\n(The sender, recipient and company are invented.)\n\nShare this with someone who's looking.\n\nCheck your next message, free:\nhttps://getday60.com/message-checker?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-checker\n\n#jobsearch #day60 #careeradvice",
+    "firstComment": "",
+    "link": "the message checker, `https://getday60.com/message-checker?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-checker`. This post is about the free tool, so the tool is the link.",
+    "files": [
+      {
+        "path": "2026-11/wk46/p15_checker_1_safe.png",
+        "alt": "One cold email through Day60's free message checker, before and after."
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_2_safe.png",
+        "alt": "Step 1: Pick what you're sending: a cold email, a LinkedIn connection note or a message after they accept."
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_3_safe.png",
+        "alt": "Step 2: Paste your draft. The example is a long first email that opens \"I hope this email finds you well!\""
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_4_safe.png",
+        "alt": "The verdict: 7 to fix, 6 passed. Each fix says why, like a short subject line and not starting with \"I\"."
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_5_safe.png",
+        "alt": "Step 3: Fix it. Check again. The example rewrite is shorter and ends with one clear question."
+      },
+      {
+        "path": "2026-11/wk46/p15_checker_6_safe.png",
+        "alt": "All 13 rules pass. Same ask, easier to answer."
+      },
+      {
+        "path": "2026-11/wk49/p15_checker_7_fb.png",
+        "alt": "Check it before you send it. Free at getday60.com/message-checker"
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nImages go up in the listed order, each with its alt text.\nThe link stays in the text, as written.\nSlide 7 is IG6-r2's with \"Free sprint: link in bio\" painted out (2026-11/wk49/build_fill.py).\nDraft for HQ (Social, Nov 27): fills an empty slot in the week of Nov 30.\nSame slides and alt text as IG6-r2 (Tue Dec 1).",
+    "postedVia": ""
+  },
+  {
     "id": "2026-w49-LI-hiringside",
     "week": "2026-w49",
     "channel": "linkedin",
@@ -2008,6 +2054,28 @@
     "postedVia": "buffer"
   },
   {
+    "id": "2026-w49-FB-attach",
+    "week": "2026-w49",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-12-04",
+    "time": "06:47",
+    "status": "draft",
+    "title": "No attachments on a first note",
+    "format": "image",
+    "text": "No attachments on a first note.\n\nIf you're writing to someone who doesn't know you yet, a file is extra work for them. Most people never open it.\n\nPut the reason to talk in the message itself: one problem their team has, one line of proof, one easy question. If they want your resume, they'll ask, and that's the best time to send it.\n\nShare this with someone who's looking.\n\nFind the 4 people for one job:\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-attach\n\n#jobsearch #day60 #careeradvice",
+    "firstComment": "",
+    "link": "`https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-attach`",
+    "files": [
+      {
+        "path": "2026-11/wk49/p05_no_attachments_mint.png",
+        "alt": "No attachments on a first note. A stranger's attachment is a file nobody opens. Three lines in the body. Send the resume when asked."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe link stays in the text, as written.\nNo Facebook-only creative: the art is Instagram's (HQ, Nov 26).\nDraft for HQ (Social, Nov 27): fills an empty slot in the week of Nov 30.\nGives way to Philip's priority post if it fits Facebook (HQ, Nov 27).",
+    "postedVia": ""
+  },
+  {
     "id": "2026-w49-LI-target",
     "week": "2026-w49",
     "channel": "linkedin",
@@ -2022,6 +2090,133 @@
     "link": "",
     "files": [],
     "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nDay60 stays untagged until Buffer has the Day60 page's LinkedIn details.\nNo link: the post's point is the method, not a page (HQ, Nov 19).\nFounder lane (Fri). One founder.ts fact (the Target Account Playbook at Deel) and the approved Huntr stat, word for word.\nWaits for HQ's approval.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w49-IG-review",
+    "week": "2026-w49",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-12-04",
+    "time": "21:22",
+    "status": "draft",
+    "title": "Status: under review",
+    "format": "image",
+    "text": "Application status: Under review.\n\nLast updated: about six weeks ago.\n\nThe portal isn't ignoring you. Nobody is looking at it. The decision sits with one person, and that person is the hiring manager.\n\nSo don't wait on the status. Find the hiring manager and send three lines: one problem their team has, one line of proof, one easy question.\n\nToday: pick one application that's been \"under review\" for weeks, and write to the person behind it.\n\nDay60 finds the 4 people closest to the hire and drafts a short first note to each. You send it. Link in bio.\n\n#day60 #jobsearch #careeradvice #jobhunting #networkingtips",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-11/wk49/p04_under_review_pink.png",
+        "alt": "Application status: under review. Last updated about six weeks ago. Don't wait on the portal. Write to the hiring manager."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nThe image goes up with its alt text.\nNo link in the caption; the bio link stays as it is.\nDraft for HQ (Social, Nov 27): fills an empty slot in the week of Nov 30.\nhumor\nFacebook reuses this card Sun Dec 6.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w49-IG-attach",
+    "week": "2026-w49",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-12-05",
+    "time": "20:44",
+    "status": "draft",
+    "title": "No attachments on a first note",
+    "format": "image",
+    "text": "No attachments on a first note.\n\nTo a stranger, an attachment is work: a file to open, from someone they don't know yet. Most people skip it.\n\nPut the reason to talk in the body instead. One problem their team has. One line of proof. One easy question.\n\nIf they want your resume, they'll ask. That's a good sign, and a good time to send it.\n\nToday: take the attachment off your next first message and add one line of proof to the body.\n\nDay60 drafts a short first note to each of the 4 people closest to the hire. You send it. Link in bio.\n\n#day60 #jobsearch #careeradvice #networkingtips #coldemail",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-11/wk49/p05_no_attachments_mint.png",
+        "alt": "No attachments on a first note. A stranger's attachment is a file nobody opens. Three lines in the body. Send the resume when asked."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nThe image goes up with its alt text.\nNo link in the caption; the bio link stays as it is.\nDraft for HQ (Social, Nov 27): fills an empty slot in the week of Nov 30.\nFacebook reuses this card Fri Dec 4.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w49-FB-stronger",
+    "week": "2026-w49",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-12-05",
+    "time": "21:21",
+    "status": "draft",
+    "title": "Your best results, in your head",
+    "format": "image",
+    "text": "Your best results are in your head, not on your resume.\n\nDay60's free resume builder reads the job you want, then asks about your work. Answer what's true and skip what isn't. It never adds a skill, number or title you didn't give it.\n\nYou read every line, then download a Word file. Day60 keeps none of it.\n\nShare this with someone who's looking.\n\nTry it on one job, free:\nhttps://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-stronger\n\n#jobsearch #day60 #resume",
+    "firstComment": "",
+    "link": "the resume builder, `https://getday60.com/resume-builder?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-stronger`. The post is about the free tool, so the tool is the link.",
+    "files": [
+      {
+        "path": "2026-11/wk49/p06_make_stronger_cobalt.png",
+        "alt": "Your best results are in your head. Example question: have you tracked which accounts might not renew? Answer its questions. Only what's true goes in."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe link stays in the text, as written.\nNo Facebook-only creative: the art is Instagram's (HQ, Nov 26).\nDraft for HQ (Social, Nov 27): fills an empty slot in the week of Nov 30.",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w49-LI-week",
+    "week": "2026-w49",
+    "channel": "linkedin",
+    "topic": "day60",
+    "date": "2026-12-06",
+    "time": "08:17",
+    "status": "draft",
+    "title": "Monday plan: follow-ups first",
+    "format": "text",
+    "text": "Monday plan: follow-ups first, new notes second.\n\nMost replies don't come from the first message. They come from the second or the third. So before you write anything new tomorrow, check what's due.\n\n1. Sent a first note on Saturday? Send the hiring manager a short LinkedIn connection note. One line, no pitch.\n2. Sent one a week ago and heard nothing? Send the last follow-up: one useful line and one easy question. Then stop.\n3. Then write one new note, to one new person.\n\nThree touches per person, then you move on. That keeps it polite, and it keeps your list moving.\n\nDay60 drafts the first message, the hiring manager's day-2 connection note, and the day-7 follow-up when it's due. You send every one.\n\nWhich follow-up have you been putting off?\n\nhttps://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026-w49-LI-week\n\n#jobsearch #careeradvice #networking",
+    "firstComment": "",
+    "link": "",
+    "files": [],
+    "notes": "Publishes through Buffer, automatically, on Philip's LinkedIn profile, as a text post.\nNo first comment: Buffer's plan doesn't allow one (HQ, Nov 19).\nTag Day60: the first \"Day60\" in the text, page 144030699 (Philip, Nov 26; linkedin-company-ids.md).\nInside 8 AM to 12:59 PM CT (Philip, Nov 24).\nDraft for HQ (Social, Nov 27): fills an empty slot in the week of Nov 30.\nFollow-up claim uses only the approved wording (playbook §1, HQ Nov 5).",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w49-FB-review",
+    "week": "2026-w49",
+    "channel": "facebook",
+    "topic": "day60",
+    "date": "2026-12-06",
+    "time": "08:51",
+    "status": "draft",
+    "title": "Status: under review",
+    "format": "image",
+    "text": "Application status: Under review. Last updated: about six weeks ago.\n\nSound familiar? The portal won't tell you much. The hiring manager might.\n\nFind the person who feels the empty seat and send three lines: one problem their team has, one line of proof, one easy question.\n\nShare this with someone who's looking.\n\nFind the 4 people for one job:\nhttps://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-review\n\n#jobsearch #day60 #careeradvice",
+    "firstComment": "",
+    "link": "`https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-review`",
+    "files": [
+      {
+        "path": "2026-11/wk49/p04_under_review_pink.png",
+        "alt": "Application status: under review. Last updated about six weeks ago. Don't wait on the portal. Write to the hiring manager."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, as the Day60 Facebook Page.\nThe image goes up with its alt text.\nThe link stays in the text, as written.\nNo Facebook-only creative: the art is Instagram's (HQ, Nov 26).\nDraft for HQ (Social, Nov 27): fills an empty slot in the week of Nov 30.\nhumor",
+    "postedVia": ""
+  },
+  {
+    "id": "2026-w49-IG-stronger",
+    "week": "2026-w49",
+    "channel": "instagram",
+    "topic": "day60",
+    "date": "2026-12-06",
+    "time": "21:04",
+    "status": "draft",
+    "title": "Your best results, in your head",
+    "format": "image",
+    "text": "Your best results are in your head, not on your resume.\n\nYou did the work. You just never wrote it down in a way the next hiring manager can see.\n\nDay60's free resume builder reads the job, then asks you about your work. Answer what's true, skip what isn't, and tap \"Rebuild with my answers\". It never adds a skill, number or title you didn't give it.\n\nYou read every line, then download a Word file or copy the text. Day60 keeps none of it.\n\nToday: paste one job you want and answer three of its questions. Free: getday60.com/resume-builder\n\n#day60 #jobsearch #resume #resumetips #careeradvice",
+    "firstComment": "",
+    "link": "https://getday60.com/try?utm_source=instagram&utm_medium=social&utm_campaign=bio",
+    "files": [
+      {
+        "path": "2026-11/wk49/p06_make_stronger_cobalt.png",
+        "alt": "Your best results are in your head. Example question: have you tracked which accounts might not renew? Answer its questions. Only what's true goes in."
+      }
+    ],
+    "notes": "Publishes through Buffer, automatically, on Instagram at 1080x1350 (no expand step).\nThe image goes up with its alt text.\nNo link in the caption; the bio link stays as it is.\nDraft for HQ (Social, Nov 27): fills an empty slot in the week of Nov 30.\nThe question on the card is illustrative, labeled \"Example question\".\nFacebook reuses this card Sat Dec 5.",
     "postedVia": ""
   },
   {
