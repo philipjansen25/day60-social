@@ -11,7 +11,7 @@
 ## LinkedIn (Philip's profile)
 
 
-### LI-ats · Mon Dec 7 · 11:17 AM · APPROVED (HQ, Nov 24) · THE ATS PROBABLY DIDN'T REJECT YOU (HQ idea, Nov 24)
+### LI-ats · Tue Jan 26 · 11:17 AM · APPROVED (HQ, Nov 24) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · THE ATS PROBABLY DIDN'T REJECT YOU (HQ idea, Nov 24)
 - Status: approved (HQ, Nov 24), as written; goes into Buffer with Wednesday's run. HQ's idea (Nov 24): a myth-busting post for a general audience. Light humor (the "robot rejected me" image).
 - Lane: Phil's founder lane (Mon), as his view. If HQ has an H post for Mon Dec 7, this moves to the next open LinkedIn day.
 - Facts: only HQ's three (Nov 24): most ATS store and organize applications and recruiters search them by keyword; knockout questions on the form can screen someone out, not the resume's layout; "ATS-friendly" and "beat the ATS" are mostly sales language. No outside source named, no percentage.
@@ -126,7 +126,7 @@ Today: open one job on a company's own careers page and give it one click.
 
 HQ's brief (Nov 27): drafts for Mon Dec 7 to Sun Dec 13, approved in one pass. LinkedIn 6 (Sun to Fri, 8 AM to 12:59 PM CT), Instagram 7, Facebook 7 reusing the week's Instagram art. Humor: LI-asks; IG-rounds, IG-sticky; FB-rounds, FB-sticky.
 
-### LI-checker · Wed Dec 9 · 8:01 AM · DRAFT (Social, Nov 27; HELD by HQ Nov 27 until Philip confirms) · I RAN MY EMAIL THROUGH TICK
+### LI-checker · Fri Feb 26 · 8:01 AM · DRAFT (Social, Nov 27; HELD by HQ Nov 27 until Philip confirms) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · I RAN MY EMAIL THROUGH TICK
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Lane: Phil's founder lane (Wed). A Phil "I tried it" post (HQ's verdict, Nov 26). The example email is illustrative; the checker's behavior is from the live page and IG6 (13 rules, three message types, it checks rules, not facts).
 - [VERIFY] Phil confirms he ran a draft through the checker before approval. Nothing in the post claims a result beyond the checker's own rules.
@@ -155,7 +155,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #networking #careeradvice
 ```
 
-### LI-findhm · Thu Dec 10 · 9:44 AM · APPROVED (HQ, Nov 27) · HOW TO FIND THE HIRING MANAGER
+### LI-findhm · Fri Dec 11 · 9:44 AM · APPROVED (HQ, Nov 27) · MOVED Nov 27 (weekday rule) · HOW TO FIND THE HIRING MANAGER
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Lane: the Day60 method (Thu). LinkedIn's guide of the week 1, how-to-find-the-hiring-manager (HQ, Nov 19; playbook §5 and §7b): the guide's steps, as Instagram and Facebook ran them in week 49, the guide link in the body and the try link as the last line before the hashtags (playbook §5: a guide post keeps its guide link in the body and still ends with the try link).
 - Tag: Day60 (the first "Day60" in the text, page 144030699; the annotation is in linkedin-company-ids.md). Other company names stay plain text, with no "@".
@@ -186,7 +186,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #hiring #careeradvice
 ```
 
-### LI-asks · Fri Dec 11 · 10:06 AM · APPROVED (HQ, Nov 27) · THINGS THAT ARE NOT A QUESTION
+### LI-asks · Fri Jan 29 · 10:06 AM · APPROVED (HQ, Nov 27) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · THINGS THAT ARE NOT A QUESTION
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Humor: yes (about 1 post in 4, playbook §4).
 - Lane: Phil's founder lane (Fri), as his view from his sales development work (founder.ts line: "I've spent my career building teams that reach the people who decide."). A short message-craft lesson (HQ's verdict, Nov 26), deadpan.
@@ -220,7 +220,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #networking #careeradvice
 ```
 
-### LI-week · Sun Dec 13 · 10:59 AM · APPROVED (HQ, Nov 27) · THREE JOBS, NOT THIRTY
+### LI-week · Sun Dec 13 · 10:59 AM · NOT SCHEDULED (RETIRED Nov 27: Philip's LinkedIn weekday rule) · THREE JOBS, NOT THIRTY
 - Status: draft for HQ's one-pass approval (HQ brief, Nov 27). Nothing in Buffer yet.
 - Lane: the Sunday plan-your-week lane (playbook §4). One method step per day; "Start with three target jobs a week" is the homepage's own line.
 - Tag: Day60 (the first "Day60" in the text, page 144030699; the annotation is in linkedin-company-ids.md). Other company names stay plain text, with no "@".

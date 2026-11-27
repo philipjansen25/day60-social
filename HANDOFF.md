@@ -1,5 +1,7 @@
 # Handoff: Day60 Social, Mon Nov 23, 2026 (about 12:45Z)
 
+**Two rules from Philip (Fri Nov 27, 1:30 PM CT, via HQ), verbatim:** "there should only be one post a day on each platform." and "make sure that LinkedIn posts are about H on Monday and Thursday, Day60 on Tuesday and Friday, and genreating pipeline best practices on Wednesday and Sunday." Playbook §4 and §5 hold the detail; `check-library.mjs` enforces both; `scripts/library/batch_w49lanes.py` holds the Nov 27 re-plan (moved, benched and retired LinkedIn posts). H posts come from hcompany.ai/newsroom only; if nothing new is there for a Mon or Thu, leave it empty and tell HQ.
+
 This file is from the old Day60 Social session (session_014zSVjD4PaywKbnEV2sfmWj) to the session that replaces it, at HQ's request. `playbook.md` stays the rulebook. This file holds only what the playbook doesn't: open work and its exact state, how the runs work in practice, and mistakes worth not repeating.
 
 Fixed ids you'll need:

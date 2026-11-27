@@ -58,7 +58,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 
 Checks: hook is 30 characters. "Day60" appears once. Ends with the try link (HQ approved, Nov 25, for the Nov 22 link rule). One quoted line from the original (7 words), source not named. No numbers but the method's four people and the approved founder fact. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names. It says plainly that Day60 drafts the note and you rewrite it, since the original's advice is not to let AI write it.
 
-### LI-hiringside · Wed Dec 2 · 11:36 AM · APPROVED (HQ, Nov 22, with Philip's edit) · THREE THINGS FROM THE HIRING SIDE (founder lane, HQ Nov 19)
+### LI-hiringside · Tue Jan 19 · 10:18 AM · APPROVED (HQ, Nov 22, with Philip's edit) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · THREE THINGS FROM THE HIRING SIDE (founder lane, HQ Nov 19)
 - **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 4:09 PM to 11:36 AM CT (pick_time.py).
 - Status: approved by HQ on Nov 22, with Philip's own edit.
 - Source: Philip's change request on the Post Library (Nov 19), "This sounds more like me, yet, feel free to tweak a bit". HQ applied it on Nov 22 with two light tweaks ("Hiring at that pace gives you perspective." and "gets read to the end"). The text below is the Post Library's, byte for byte.
@@ -89,7 +89,7 @@ If you've ever hired at this scale, what made you write back?
 
 Checks: "Day60" appears once. No link. Ends on one next step for today, then a question. Three hashtags, #jobsearch first. No em dashes, no competitor names. The first line is Philip's and runs past 60 characters; HQ approved it as written.
 
-### LI-3touch · Thu Dec 3 · 12:54 PM · APPROVED (HQ, Nov 19) · MOVED FROM WEEK 47 (HQ, Nov 11)
+### LI-3touch · Fri Jan 22 · 11:09 AM · APPROVED (HQ, Nov 19) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · MOVED FROM WEEK 47 (HQ, Nov 11)
 - In Buffer: scheduled Nov 25 by Social (Buffer post `6b075f60b8e2338b8569eaf3`), Thu Dec 3, 12:54 PM CT, as a text post, with the try link HQ approved Nov 25. Nothing for Philip to do.
 - **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 5:44 PM to 12:54 PM CT (pick_time.py).
 - Document: `2026-11/wk46/p06_three_touches_linkedin_v2.pdf` (HQ, Nov 14: slide 6 now has cream keylines on Tick and the card; slides 1 to 5 are unchanged, and the old PDF and IG4's slides stay in the repo. Source: `2026-11/wk46/build_v2.py`). It moved to week 47 when the Chrome extension post took week 46's Thursday slot, then here when Day60's LinkedIn went to two posts a week (Tue and Thu) from Nov 16.
@@ -122,7 +122,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 
 Checks: "Day60" appears once. Ends with the try link (HQ approved, Nov 25, for the Nov 22 link rule). The week 46 wording, minus "Save the carousel" and the link. Ends on one next step for today, then a question. No em-dashes, no banned phrases, no competitor names.
 
-### LI-target · Fri Dec 4 · 9:07 AM · DRAFT · RUN YOUR SEARCH LIKE A TARGET ACCOUNT LIST (founder lane, HQ Nov 19)
+### LI-target · Tue Feb 23 · 9:33 AM · DRAFT · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · RUN YOUR SEARCH LIKE A TARGET ACCOUNT LIST (founder lane, HQ Nov 19)
 - **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 2:26 PM to 9:07 AM CT (pick_time.py).
 - Status: draft, for HQ's approval.
 - Lane: Phil's founder lane (Mon, Wed, Fri; HQ, Nov 19). First person, from his sales development work.
@@ -266,7 +266,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 
 Five drafts for HQ's approval before Wednesday Nov 25's run, three of them humor (playbook §4). Times from `scripts/pick_time.py`.
 
-### LI-monday · Sun Nov 29 · 11:52 AM · APPROVED (HQ, Nov 23) · MONDAY PLAN: ONE JOB, ONE PERSON, ONE NOTE (Sunday lane)
+### LI-monday · Sun Nov 29 · 11:52 AM · NOT SCHEDULED (RETIRED Nov 27: Philip's LinkedIn weekday rule) · MONDAY PLAN: ONE JOB, ONE PERSON, ONE NOTE (Sunday lane)
 - **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 9:06 PM to 11:52 AM CT (HQ moved the Buffer post the same day).
 - Status: approved (HQ, Nov 23).
 - Lane: the Sunday lane, "plan your week" (Philip, Nov 22; playbook §4). The first Sunday LinkedIn post.
@@ -326,7 +326,7 @@ https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026
 #jobsearch #day60 #careeradvice
 ```
 
-### LI-glossary · Mon Nov 30 · 9:13 AM · APPROVED (HQ, Nov 23) · A SHORT GLOSSARY OF JOB POSTING LANGUAGE (humor, founder lane)
+### LI-glossary · Fri Dec 4 · 8:11 AM · APPROVED (HQ, Nov 23) · MOVED Nov 27 (weekday rule) · A SHORT GLOSSARY OF JOB POSTING LANGUAGE (humor, founder lane)
 - **LinkedIn window (Philip, Tue Nov 24, via HQ: "All LinkedIn posts should go out between 8am-1pm"):** moved from 5:26 PM to 9:13 AM CT (HQ moved the Buffer post the same day).
 - Status: approved (HQ, Nov 23). Humor (playbook §4): a deadpan text post. The joke is on job-posting language and long hiring processes, never the person looking.
 - Lane: Phil's founder lane (Mon). His view, given as advice; no events and no founder facts beyond "I built Day60".
@@ -465,7 +465,7 @@ Day60 finds the 4 people closest to the hire and drafts a short note to each. Yo
 
 Eight drafts for the empty slots I found Nov 27: FB Wed Dec 2, IG and FB Fri Dec 4, IG and FB Sat Dec 5, LI, IG and FB Sun Dec 6. LI Fri Dec 4 stays held for Philip's priority post (HQ, Nov 27), and Facebook Fri Dec 4 can move to it if it fits. Three new Instagram cards (source `2026-11/wk49/build_fill.py`); Facebook reuses them, never on the Instagram day. Times from `scripts/pick_time.py`. No "free sprints end" line: that starts with the Dec 7 posts.
 
-### LI-week · Sun Dec 6 · 8:17 AM · APPROVED (HQ, Nov 27) · MONDAY PLAN: FOLLOW-UPS FIRST (Sunday lane)
+### LI-week · Sun Dec 6 · 8:17 AM · NOT SCHEDULED (RETIRED Nov 27: Philip's LinkedIn weekday rule) · MONDAY PLAN: FOLLOW-UPS FIRST (Sunday lane)
 - Status: approved (HQ, Nov 27, with edits to IG-review and LI-week). Drafted by Social Nov 27. Text only, through Buffer.
 - Lane: the Sunday lane, "plan your week" (Philip, Nov 22; playbook §4). LI-monday (Nov 29) was "one new note"; this one is the follow-ups that come due a week later.
 - Product claim: the approved follow-up wording only (playbook §1, HQ Nov 5): 3 touches per person, day 0, 2 and 7. Day60 drafts; you send.
@@ -645,4 +645,123 @@ Find the 4 people for one job:
 https://getday60.com/try?utm_source=facebook&utm_medium=social&utm_campaign=2026-w49-FB-review
 
 #jobsearch #day60 #careeradvice
+```
+
+## LinkedIn by weekday (Philip, Fri Nov 27, 1:30 PM CT, via HQ): new H and pipeline drafts
+
+Philip's words: "make sure that LinkedIn posts are about H on Monday and Thursday, Day60 on Tuesday and Friday, and genreating pipeline best practices on Wednesday and Sunday." And: "there should only be one post a day on each platform." These five drafts fill the H and pipeline days through Sun Dec 6. LI-glossary moved to Fri Dec 4; LI-monday, LI-3touch, LI-hiringside and LI-week left those days (see playbook §4). Times from `scripts/pick_time.py`.
+
+### LI-firsthour · Sun Nov 29 · 8:44 AM · DRAFT · PROTECT MONDAY'S FIRST HOUR (pipeline)
+- Status: draft for HQ (Social, Nov 27). Pipeline best practices (Sunday). Text only, through Buffer.
+- No link and no Day60 (pipeline posts carry none, playbook §4). No career numbers.
+
+```
+Protect Monday's first hour for new pipeline.
+
+Most reps open the week in the inbox. Replies, internal threads, CRM updates. By 10 AM nothing new has started.
+
+A habit worth trying tomorrow:
+
+1. Before you open email, pick five accounts you'll start this week.
+2. For each one, write the reason to reach out now in one line. Something that changed for them, not something you sell.
+3. Send the first touch to the person who feels the problem, before you read a single reply.
+
+The inbox will still be there at 10.
+
+What's the first thing you do on a Monday?
+
+#prospecting #salesdevelopment #pipeline
+```
+
+### LI-H-hackathon · Mon Nov 30 · 11:14 AM · DRAFT · H X 42AI HACKATHON WINNERS (H)
+- Status: draft for HQ (Social, Nov 27). H day (Monday). Entirely professional, H's own words and facts only.
+- Source: H's newsroom, "Meet the winners of the H x 42AI hackathon in Paris" (Nov 25), read Nov 27. Newest newsroom article not yet posted. The award post Philip deleted had no newsroom article (H's newsroom has none on the award).
+- Facts used, word for word from the article: "More than 80 builders spent two days in Paris building agents that use a computer the way a person does." "By Sunday afternoon the jury had 34 projects to review." "every team built with H's computer-use agents and Holo models." 1st H Companion, 2nd Rio, 3rd Player Two; Player Two "also took home the Cognition prize".
+- Tags: none. H Company's LinkedIn page refused us (403), so no ID; plain text, no "@".
+- Link: the article, the body's last line.
+
+```
+More than 80 builders spent two days in Paris building agents that use a computer the way a person does.
+
+That was the H x 42AI hackathon. By Sunday afternoon the jury had 34 projects to review, and every team built with H's computer-use agents and Holo models.
+
+The winners:
+
+- 1st place: H Companion
+- 2nd place: Rio
+- 3rd place: Player Two, which also took home the Cognition prize
+
+H Company's write-up covers how each team built its project, with a few ideas if you want to build your own.
+
+If you could hand one repetitive task on your screen to an agent, which would it be?
+
+The winners and how they built: https://hcompany.ai/newsroom/h-x-42ai-hackathon-paris-winners
+
+#AIagents #computeruse #hackathon
+```
+
+### LI-threads · Wed Dec 2 · 11:59 AM · DRAFT · THREAD THE ACCOUNT BEFORE YOU NEED TO (pipeline)
+- Status: draft for HQ (Social, Nov 27). Pipeline best practices (Wednesday). No link, no Day60.
+
+```
+One contact is not a deal.
+
+When the only person you know at an account goes on leave, changes jobs or gets busy, the deal stalls. Nobody else there knows it exists.
+
+Thread the account before you need to:
+
+1. The person who feels the problem every day.
+2. The person who owns the budget to fix it.
+3. Someone close to the work who can tell you what's really going on.
+
+Three names before the first meeting, not after the deal goes quiet. Each one gets a note about what they care about, not a copy of the same email.
+
+How many people do you know at your biggest open deal?
+
+#salesdevelopment #pipeline #B2Bsales
+```
+
+### LI-H-aws · Thu Dec 3 · 11:19 AM · DRAFT · H ON THE AWS EUROPEAN SOVEREIGN CLOUD (H)
+- Status: draft for HQ (Social, Nov 27). H day (Thursday). Entirely professional, H's own words and facts only.
+- Source: H's newsroom, "H Company launches its NVIDIA-powered agentic AI on the AWS European Sovereign Cloud" (Nov 16), read Nov 27. Next newest article not yet posted.
+- Facts used, from the release: the CEO quote is word for word; "H Company runs its EU customer inference on NVIDIA-powered instances within the AWS European Sovereign Cloud"; "A highly regulated European company in financial services will be the first to use H Company's AI agents"; "The latest model version, Holo4, leads computer use benchmarks, with much lower costs than general-purpose models."
+- Tags: none (no verified IDs for H Company or AWS). Link: the release, the body's last line.
+
+```
+"European enterprises shouldn't have to choose between advanced AI and their resilience requirements."
+
+That's Gautier Cloix, CEO of H Company, on H's launch on the AWS European Sovereign Cloud.
+
+From the release:
+
+- H Company runs its EU customer inference on NVIDIA-powered instances within the AWS European Sovereign Cloud.
+- A highly regulated European company in financial services will be the first to use H Company's AI agents there.
+- Holo4, H's latest model, leads computer use benchmarks, with much lower costs than general-purpose models.
+
+If you run operations in a regulated industry, which workflow would you hand to an agent first?
+
+The full release: https://hcompany.ai/newsroom/h-company-aws-european-sovereign-cloud-press-release
+
+#AIagents #computeruse #sovereignAI
+```
+
+### LI-nextstep · Sun Dec 6 · 11:31 AM · DRAFT · WRITE THE NEXT STEP BEFORE YOU HANG UP (pipeline)
+- Status: draft for HQ (Social, Nov 27). Pipeline best practices (Sunday). No link, no Day60.
+
+```
+Write the next step before you hang up.
+
+A lot of first calls end with "let's stay in touch" or "I'll send something over." Two weeks later, nobody remembers what was agreed.
+
+Before the call ends:
+
+1. Say the next step out loud: what happens, who does it, by when.
+2. Put a time on both calendars while you're still on the line.
+3. Send a three-line recap within the hour: what you heard, what you agreed, the date.
+
+A call without a next step isn't pipeline yet. It's a conversation.
+
+What's the last thing you say before you hang up?
+
+#salesdevelopment #discovery #pipeline
 ```

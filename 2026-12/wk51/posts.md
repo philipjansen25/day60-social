@@ -10,7 +10,7 @@
 
 ## LinkedIn (Philip's profile)
 
-### LI-fourpeople · Mon Dec 14 · 9:12 AM · DRAFT (HELD by HQ Nov 27 until Philip confirms) · I PASTED ONE JOB LINK AND MET THE 4 PEOPLE (founder lane)
+### LI-fourpeople · Tue Mar 2 · 9:28 AM · DRAFT (HELD by HQ Nov 27 until Philip confirms) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · I PASTED ONE JOB LINK AND MET THE 4 PEOPLE (founder lane)
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Replaces an earlier week 51 draft that repeated week 50's angle (main thread, Nov 27).
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
@@ -80,7 +80,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #coldemail #careeradvice
 ```
 
-### LI-person · Wed Dec 16 · 9:48 AM · APPROVED (HQ, Nov 27) · NOBODY CALLS A COMPANY (founder lane)
+### LI-person · Tue Feb 2 · 9:48 AM · APPROVED (HQ, Nov 27) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · NOBODY CALLS A COMPANY (founder lane)
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
 - Format: Phil's view from his sales development work, given as advice, not as events (playbook §4). One founder fact, as written in founder.ts: he founded ClickUp's sales development team.
@@ -110,7 +110,7 @@ Who do you write to first: the company, or the person?
 #jobsearch #sales #careeradvice
 ```
 
-### LI-resume · Thu Dec 17 · 12:02 PM · APPROVED (HQ, Nov 27) · TAILOR YOUR RESUME WITHOUT INVENTING ONE (product)
+### LI-resume · Fri Feb 5 · 12:02 PM · APPROVED (HQ, Nov 27) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · TAILOR YOUR RESUME WITHOUT INVENTING ONE (product)
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
 - Format: product walkthrough of the free resume builder; only facts already approved in the resume posts (weeks 47 and 48): the steps, "No new skill, number or title", keywords you can't claim yet, read every line, add your email, Word file, free, no account, resume not stored.
@@ -142,7 +142,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #resume #careeradvice
 ```
 
-### LI-stages · Fri Dec 18 · 9:39 AM · APPROVED (HQ, Nov 27) · THE FIVE STAGES OF WAITING FOR A REPLY (founder lane, humor)
+### LI-stages · Tue Feb 9 · 9:39 AM · APPROVED (HQ, Nov 27) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · THE FIVE STAGES OF WAITING FOR A REPLY (founder lane, humor)
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".
 - Format: deadpan text post (humor, playbook §4: the joke is on the process). Follow-up wording as approved in §1.
@@ -174,7 +174,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #sales #networking
 ```
 
-### LI-shortweek · Sun Dec 20 · 11:46 AM · APPROVED (HQ, Nov 27) · PLAN THE SHORT WEEK (Sunday lane)
+### LI-shortweek · Sun Dec 20 · 11:46 AM · NOT SCHEDULED (RETIRED Nov 27: Philip's LinkedIn weekday rule) · PLAN THE SHORT WEEK (Sunday lane)
 - Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ (Social, Nov 27). Text only, through Buffer.
 - Tag: Day60 (first "Day60", page 144030699, annotation from linkedin-company-ids.md). Other company names stay plain text, no "@".

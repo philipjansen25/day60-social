@@ -40,7 +40,7 @@ Today: pick one of the three and send your thank-you before the holidays.
 
 Holiday week (HQ, Nov 27: Dec 21 to Jan 1 is lighter and kind, never about being laid off). LinkedIn 6, Instagram 7 (6 new plus IG-thanks-r2), Facebook 7, all drafts. Humor: LI-party, IG-recipe, IG-returns, FB-recipe, FB-returns. Times from `scripts/pick_time.py`. Art: `2026-12/wk52/build_holiday.py`.
 
-### LI-plainnote · Mon Dec 21 · 11:49 AM · APPROVED (HQ, Nov 27) · WRITE IT LIKE YOU'D SAY IT (founder lane, message craft)
+### LI-plainnote · Fri Feb 12 · 9:46 AM · APPROVED (HQ, Nov 27) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · WRITE IT LIKE YOU'D SAY IT (founder lane, message craft)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.
 - Lane: Mon, Phil's founder lane: a short message-craft lesson in his voice, from his sales development view, given as advice (no events). Replaces LI-checker (coordinator, Nov 27: weeks 50, 51 and 53 already have "I tried it" posts).
@@ -98,7 +98,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #careeradvice #networking
 ```
 
-### LI-party · Wed Dec 23 · 8:44 AM · APPROVED (HQ, Nov 27) · SALES DEVELOPMENT HABITS FOR HOLIDAY PARTIES (founder lane, humor)
+### LI-party · Fri Dec 18 · 8:44 AM · APPROVED (HQ, Nov 27) · MOVED Nov 27 (weekday rule) · SALES DEVELOPMENT HABITS FOR HOLIDAY PARTIES (founder lane, humor)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.
 - Lane: Wed, Phil's founder lane. Humor (playbook §4): deadpan, on sales-floor habits and small talk, never on the person looking. Advice from his sales development work, no events.
@@ -122,7 +122,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #sales #networking #jobsearch
 ```
 
-### LI-lastline · Thu Dec 24 · 8:28 AM · APPROVED (HQ, Nov 27) · CHRISTMAS EVE: READ YOUR LAST LINE (method: message craft)
+### LI-lastline · Thu Dec 24 · 8:28 AM · NOT SCHEDULED (RETIRED Nov 27: Philip's LinkedIn weekday rule) · CHRISTMAS EVE: READ YOUR LAST LINE (method: message craft)
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.
 - Lane: Thu, the Day60 method. Christmas Eve, so it's short: one message-craft lesson.
@@ -162,7 +162,7 @@ Phil
 #christmas #gratitude #jobsearch
 ```
 
-### LI-onename · Sun Dec 27 · 8:34 AM · APPROVED (HQ, Nov 27) · BEFORE JANUARY, FIND ONE NAME PER JOB (Sunday lane)
+### LI-onename · Sun Dec 27 · 8:34 AM · NOT SCHEDULED (RETIRED Nov 27: Philip's LinkedIn weekday rule) · BEFORE JANUARY, FIND ONE NAME PER JOB (Sunday lane)
 - Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft, for HQ (Social, Nov 27; HQ's brief of Nov 27). Publishes through Buffer only; nothing for Philip to do.
 - Tag: Day60 (first "Day60", page 144030699, annotation from `linkedin-company-ids.md`). Other company names stay plain text.

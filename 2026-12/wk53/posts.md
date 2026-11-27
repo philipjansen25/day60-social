@@ -52,7 +52,7 @@ Times: `scripts/pick_time.py`, all Central Time. LinkedIn falls inside 8:00 AM t
 
 ## LinkedIn (Philip's profile, through Buffer)
 
-### LI-extension · Mon Dec 28 · 10:29 AM · DRAFT (HELD by HQ Nov 27 until Philip confirms) · I TRIED OUR CHROME EXTENSION LIKE A JOB SEEKER (founder lane, "I tried it")
+### LI-extension · Fri Mar 5 · 10:53 AM · DRAFT (HELD by HQ Nov 27 until Philip confirms) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · I TRIED OUR CHROME EXTENSION LIKE A JOB SEEKER (founder lane, "I tried it")
 - Status: draft for HQ. Replaces LI-checker (week 51 already has a message-checker post on Mon Dec 14).
 - Lane: Phil's founder lane (Mon), first person, a Day60 tool he uses. Every claim is the extension's approved behavior (playbook §1: 1.1.0 LinkedIn steps, live Nov 6). The buttons are described, not named, so "Day60" appears once.
 - [VERIFY] Phil confirms he did this before approval.
@@ -84,7 +84,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #networking #careeradvice
 ```
 
-### LI-nudge · Tue Dec 29 · 10:28 AM · APPROVED (HQ, Nov 27) · YOUR FOLLOW-UP NEEDS ONE NEW THING (message craft)
+### LI-nudge · Tue Feb 16 · 10:28 AM · APPROVED (HQ, Nov 27) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · YOUR FOLLOW-UP NEEDS ONE NEW THING (message craft)
 - Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ.
 - Lane: Day60 method (Tue). A short message-craft lesson.
@@ -118,7 +118,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #networking #careeradvice
 ```
 
-### LI-ooo · Wed Dec 30 · 10:42 AM · APPROVED (HQ, Nov 27) · A SHORT GUIDE TO HOLIDAY OUT-OF-OFFICE REPLIES (humor, founder lane)
+### LI-ooo · Tue Dec 29 · 9:03 AM · APPROVED (HQ, Nov 27) · MOVED Nov 27 (weekday rule) · A SHORT GUIDE TO HOLIDAY OUT-OF-OFFICE REPLIES (humor, founder lane)
 - Status: draft for HQ. Humor (playbook §4): a deadpan text post. The joke is on holiday auto-replies, never the person looking.
 - Lane: Phil's founder lane (Wed). His view, given as advice; no events and no founder facts.
 - Format: text only.
@@ -146,7 +146,7 @@ https://getday60.com/try?utm_source=linkedin&utm_medium=social&utm_campaign=2026
 #jobsearch #careeradvice #hiring
 ```
 
-### LI-subject · Thu Dec 31 · 10:13 AM · APPROVED (HQ, Nov 27) · SHORT SUBJECT LINES GET OPENED (message craft)
+### LI-subject · Fri Feb 19 · 10:13 AM · APPROVED (HQ, Nov 27) · BENCHED Nov 27 (weekday rule; check paid-mode wording before it loads) · SHORT SUBJECT LINES GET OPENED (message craft)
 - Status: draft for HQ.
 - Lane: Day60 method (Thu). A short message-craft lesson. The example subject lines are invented.
 - Format: text only.
@@ -199,7 +199,7 @@ What's one thing you're glad you did this year?
 #newyear #jobsearch #gratitude
 ```
 
-### LI-plan · Sun Jan 3 · 8:14 AM · APPROVED (HQ, Nov 27) · FIRST FULL WEEK OF JANUARY: START SMALL (Sunday lane)
+### LI-plan · Sun Jan 3 · 8:14 AM · NOT SCHEDULED (RETIRED Nov 27: Philip's LinkedIn weekday rule) · FIRST FULL WEEK OF JANUARY: START SMALL (Sunday lane)
 - Free-sprint line (HQ, Nov 27): "Free sprints end January 5. Start yours now." added, as approved in product-hunt/paid-launch-drafts.md part c.
 - Status: draft for HQ.
 - Lane: plan-your-week (Sun), for the first full week of January. No resolutions, no pressure.

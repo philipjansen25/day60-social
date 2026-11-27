@@ -296,6 +296,21 @@ for (const p of toPost) {
 }
 const sizeLine = `sizes: ${toPost.length} post(s) still to post, ${sizeOk} at their channel's sizes`;
 
+// One post a day on each platform (Philip, Nov 27: "there should only be one post a day on each platform"), and
+// LinkedIn by weekday (Philip, Nov 27): H on Mon and Thu, Day60 on Tue and Fri, pipeline on Wed and Sun, none on Sat.
+const LANE = { 0: 'pipeline', 1: 'h', 2: 'day60', 3: 'pipeline', 4: 'h', 5: 'day60', 6: null };
+const perDay = new Map();
+for (const p of toPost) {
+  const k = `${p.channel} ${p.date}`;
+  perDay.set(k, [...(perDay.get(k) ?? []), p.id]);
+  if (p.channel === 'linkedin') {
+    const want = LANE[new Date(`${p.date}T12:00:00Z`).getUTCDay()];
+    if (want === null) err(p.id, `LinkedIn on a Saturday (${p.date}): no LinkedIn post on Saturday (playbook §4)`);
+    else if (p.topic !== want) err(p.id, `LinkedIn ${p.date} is a "${want}" day, but the post's topic is "${p.topic}" (Philip, Nov 27; playbook §4)`);
+  }
+}
+for (const [k, ids] of perDay) if (ids.length > 1) err(ids.join(', '), `two posts on ${k}: one post a day on each platform (Philip, Nov 27)`);
+
 // feed safe area
 const feed = new Map();
 for (const p of lib) {
